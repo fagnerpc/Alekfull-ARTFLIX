@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Game Boy é o segundo portátil da Nintendo, criado após a linha Game & Watch lançada em 1980. Junto ao Game Boy Color, venderam impressionantes 118,69 milhões de unidades.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>O Game Boy é o segundo portátil da Nintendo, criado após a linha Game & Watch lançada em 1980. Junto ao Game Boy Color, venderam impressionantes 118,69 milhões de unidades.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Is an 8-bit handheld game console which was developed and manufactured by Nintendo. It is the first handheld console in the Game Boy line and was created and published by team led by Gunpei Yokoi at the time.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Game Boy (ゲームボーイ) es una serie de videoconsolas portátiles alimentadas con pilas (a excepción del modelo SP y Micro) y comercializadas por Nintendo. Es oficialmente la tercera consola más vendida del mundo.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Elle fut conçue par Gunpei Yokoi et Nintendo Research & Development 1 — la même équipe ayant conçu la série des Game and Watch ainsi que de nombreux jeux à succès sur Nintendo Entertainment System.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Game Boy</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Metroid é uma franquia de jogos de ação e ficção científica criada pela Nintendo. Metroid segue o caçador de recompensas espacial Samus Aran, que protege a galáxia dos Piratas Espaciais e suas tentativas de aproveitar o poder das criaturas parasitas Metroid.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Metroid é uma franquia de jogos de ação e ficção científica criada pela Nintendo. Metroid segue o caçador de recompensas espacial Samus Aran, que protege a galáxia dos Piratas Espaciais e suas tentativas de aproveitar o poder das criaturas parasitas Metroid.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Metroid is a science fiction action game franchise created by Nintendo. Metroid follows space-faring bounty hunter Samus Aran, who protects the galaxy from the Space Pirates and their attempts to harness the power of the parasitic Metroid creatures.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Metroid es una franquicia de juegos de acción y ciencia ficción creada por Nintendo. Metroid sigue al cazarrecompensas que navega por el espacio, Samus Aran, que protege a la galaxia de los piratas espaciales.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Metroid est une franchise de jeux d'action de science-fiction créée par Nintendo. Metroid suit le chasseur de primes spatial Samus Aran, qui protège la galaxie des Space Pirates et leurs tentatives pour exploiter la puissance des créatures parasites Metroid.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Metroid</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Satoru Okada</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+</theme>

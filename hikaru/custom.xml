@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Sega Hikaru é uma sucessora dos sistemas de arcade Sega NAOMI e Sega Model 3 que foram desenvolvidos em 1998 e estreou em 1999. O Hikaru foi usado para vários jogos de gabinete dedicados de luxo, começando com o Brave Fire Fighters, de 1999.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Sega Hikaru é uma sucessora dos sistemas de arcade Sega NAOMI e Sega Model 3 que foram desenvolvidos em 1998 e estreou em 1999. O Hikaru foi usado para vários jogos de gabinete dedicados de luxo, começando com o Brave Fire Fighters, de 1999.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Sega Hikaru is a successor of the Sega NAOMI and Sega Model 3 arcade systems that was developed in 1998 and debuted in 1999. The Hikaru was used for a handful of deluxe dedicated-cabinet games, beginning with 1999's Brave Fire Fighters.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Sega Hikaru es un sucesor de los sistemas de arcade Sega NAOMI y Sega Model 3 que se desarrolló en 1998 y se estrenó en 1999. El Hikaru se utilizó para un puñado de juegos de gabinete de lujo, comenzando con Brave Fire Fighters de 1999.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Sega Hikaru est un successeur des systèmes d'arcade Sega NAOMI et Sega Model 3 qui ont été développés en 1998 et ont fait leurs débuts en 1999. Le Hikaru a été utilisé pour une poignée de jeux d'armoires dédiés de luxe, à commencer par Brave Fire Fighters de 1999.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Hikaru</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA</text>
+		</text>			
+	</view>
+</theme>

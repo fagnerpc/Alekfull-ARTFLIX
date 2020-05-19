@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Neo Geo é uma família da hardware de videogames desenvolvido pela SNK. A marca originou-se com a liberação de um sistema arcade, o Neo Geo MVS e sua contraparte de console doméstico, o Neo Geo AES.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Neo Geo é uma família da hardware de videogames desenvolvido pela SNK. A marca originou-se com a liberação de um sistema arcade, o Neo Geo MVS e sua contraparte de console doméstico, o Neo Geo AES.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Neo Geo is a family of video game hardware developed by SNK. On the market from 1990 to 2004, the brand originated with the release of an arcade system, the MVS and its home console counterpart, the Neo Geo AES.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Neo-Geo es el nombre de un sistema de 16 bits basado en cartuchos para arcades así como videoconsolas para el hogar lanzado en 1990 por la compañía de videojuegos japonesa SNK.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Neo-Geo est un système de jeux vidéo pour borne d'arcade compatible JAMMA destiné aux salles d'arcade et créé par la société japonaise SNK en 1990.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

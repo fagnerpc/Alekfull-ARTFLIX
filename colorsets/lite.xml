@@ -1,0 +1,101 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+      <image name="art" extra="true">
+         <path>./../assets/arts/540/$system.jpg</path>
+      </image>   
+</view>
+
+  <view name="grid">
+      <image name="art4" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540/$system.jpg</path>
+         <zIndex>4</zIndex>
+      </image> 
+	</view>
+	
+   <customView name="Boxes">
+	      <image name="art4" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540/$system.jpg</path>
+         <zIndex>4</zIndex>
+      </image>
+	   </customView>
+	   
+   <customView name="Boxes + details">
+	      <image name="art4" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540/$system.jpg</path>
+         <zIndex>4</zIndex>
+      </image>
+	   </customView>
+	   
+   <customView name="Boxes + Video">
+	      <image name="art4" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540/$system.jpg</path>
+         <zIndex>4</zIndex>
+      </image>
+	   </customView>	   
+
+   <customView name="Carousel">
+	      <image name="art4" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540/$system.jpg</path>
+         <zIndex>4</zIndex>
+      </image>
+	   </customView>
+
+   <customView name="Carousel Default">
+	      <image name="art4" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540/$system.jpg</path>
+         <zIndex>4</zIndex>
+      </image>
+	   </customView>
+	   
+   <customView name="Carousel + Details">
+	      <image name="art4" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540/$system.jpg</path>
+         <zIndex>4</zIndex>
+      </image>
+	   </customView>	   
+	   
+   <customView name="Tiles">
+	      <image name="art4" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540/$system.jpg</path>
+         <zIndex>4</zIndex>
+      </image>
+	   </customView>
+
+   <customView name="Tiles + Video">
+	      <image name="art4" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/arts/540/$system.jpg</path>
+         <zIndex>4</zIndex>
+      </image>
+	   </customView>
+  
+</theme>

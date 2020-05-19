@@ -1,0 +1,36 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Além de tela colorida, ele possui uma memória de 512kbit, que permite a criação de jogos mais complexos. A Bandai conseguiu uma parceria com a Square, que lançou títulos como os remakes de Final Fantasy I, II e IV.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Além de tela colorida, ele possui uma memória de 512kbit, que permite a criação de jogos mais complexos. A Bandai conseguiu uma parceria com a Square, que lançou títulos como os remakes de Final Fantasy I, II e IV.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>WonderSwan Color and SwanCrystal were officially supported until being discontinued by Bandai in 2003. During its lifespan, no variation of the WonderSwan was released outside of Japan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>WonderSwan Color (ワンダースワンカラー Wandāsuwan Karā?) es una videoconsola portátil diseñada por Bandai. Fue lanzada en Japón el 30 de diciembre de 1999, teniendo un éxito moderado.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Elle est une amélioration de la WonderSwan originale. Elle sort le 30/12/2000 au Japon et rencontre un assez grand succès, prenant jusqu'à 8 % du marché japonais, dominé par Nintendo et ses différentes Game Boy.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>WonderSwan Color</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bandai</text>
+		</text>	
+	</view>
+</theme>

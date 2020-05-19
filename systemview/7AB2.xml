@@ -1,0 +1,250 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+
+	<image name="art" extra="true">
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+	</image> 	
+
+	<image name="logo">
+		<path>./../assets/logos/$system.png</path>
+	</image>
+	
+	<image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/overlay1222.png</path>
+         <zIndex>41</zIndex>
+      </image>
+
+
+	<image name="sublogo" extra="true">
+	      <!-- try svg -->
+		<path>./../assets/logos/$system.png</path>
+	      <!-- try png -->
+		<path>./../assets/logos/$system2.png</path>
+		<pos>0.02 0.22</pos>
+		<maxSize>0.34 0.16</maxSize>
+		<zIndex>42</zIndex>
+	</image>
+
+
+	<video name="md_video" extra="true">
+		<path>{random}</path> 
+		<pos>0.025 0.62</pos>
+		<minSize>0.30 0.30</minSize>
+		<origin>0 0</origin>
+		<delay>0.2</delay>
+		<showSnapshotNoVideo>false</showSnapshotNoVideo>
+		<showSnapshotDelay>false</showSnapshotDelay>
+		<zIndex>50</zIndex>
+         </video>
+
+  
+	<text name="info1" extra="true">
+		<fontPath>./../assets/Circular Std Book.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0</size>
+		<pos>0.025 0.4</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>	
+
+	<text name="info2" extra="true">
+		<pos>2 0</pos>
+		<zIndex>0</zIndex>
+      </text>
+  
+
+	<text name="info3" extra="true">
+		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0</size>
+		<pos>0.029 0.378</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+
+	<text name="info4" extra="true">
+		<fontPath>./../assets/Circular Std Book.ttf</fontPath>
+		<color>5c5b5c</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0</size>
+		<pos>0.195 0.378</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+
+	  
+	<carousel name="systemcarousel">
+		<type>vertical</type>
+		<pos>0 0</pos>
+		<size>1 1</size>
+		<origin>0 0</origin>
+		<color>00000000</color>
+		<logoScale>1.3</logoScale>
+		<logoSize>0.2 0.2</logoSize>
+		<logoAlignment>right</logoAlignment>
+		<maxLogoCount>5</maxLogoCount>
+		<defaultTransition>instant</defaultTransition>	
+		<zIndex>50</zIndex>
+	</carousel>
+
+	<text name="systemInfo">
+		<pos>-0.308 0.516</pos>
+         <alignment>center</alignment>
+         <fontPath>./../assets/Circular Std Black.ttf</fontPath>
+	     <fontSize>0.0128</fontSize>
+	     <color>FFFFFF</color>
+    </text>
+
+
+	
+     <helpsystem name="help">
+         <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.017</fontSize>
+         <pos>0.02 0.955</pos>
+         <textColor>FFFFFF</textColor>
+      </helpsystem>
+
+
+		<text name="info5" extra="true">
+			<text>FABRICANTE:</text>
+		</text>
+
+		<text name="info5" extra="true" region="PTBR">
+			<text>FABRICANTE:</text>
+		</text>
+		
+				<text name="info5" extra="true" region="EN">
+			<text>MANUFACTURER:</text>
+		</text>
+		
+				<text name="info5" extra="true" region="ES">
+			<text>FABRICANTE:</text>
+		</text>
+		
+				<text name="info5" extra="true" region="FR">
+			<text>FABRICANT:</text>
+		</text>
+
+	<text name="info5" extra="true">
+		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0</size>
+		<pos>0.078 0.378</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+
+
+		<text name="info6" extra="true">
+			<text>Idioma Selecionado: PT(BR)</text>
+		</text>
+
+		<text name="info6" extra="true" region="PTBR">
+			<text>Friday, July 19</text>
+		</text>
+		
+				<text name="info6" extra="true" region="EN">
+			<text>Selected Language: EN(US)</text>
+		</text>
+		
+				<text name="info6" extra="true" region="ES">
+			<text>Idioma Seleccionado: ES</text>
+		</text>
+		
+				<text name="info6" extra="true" region="FR">
+			<text>Langue Choisie: FR</text>
+		</text>
+
+	<text name="info6" extra="true">
+		<fontPath>./../assets/Circular Std Book.ttf</fontPath>
+		<color>9b9b9b</color>
+		<alignment>left</alignment>
+		<fontSize>0.0147</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0</size>
+		<pos>0.104 0.076</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>0.6</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+
+	<text name="playbutton" extra="true">
+		<text>JOGAR AGORA</text>
+	</text>
+
+	<text name="playbutton" extra="true" region="PTBR">
+		<text>JOGAR AGORA</text>
+	</text>
+		
+	<text name="playbutton" extra="true" region="EN">
+		<text>PLAY NOW</text>
+	</text>
+		
+	<text name="playbutton" extra="true" region="ES">
+		<text>JUGAR AHORA</text>
+	</text>
+		
+	<text name="playbutton" extra="true" region="FR">
+		<text>LISTE DES JEUX</text>
+	</text>
+
+	<text name="playbutton" extra="true">
+		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>center</alignment>
+	     <fontSize>0.0142</fontSize>
+		<size>0.35 0</size>
+		<pos>-0.108 0.5315</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>0.8</glowSize>
+		<zIndex>42</zIndex>
+	</text>
+
+
+    <text name="clock">
+      <color>777777FF</color>
+	  <fontPath>./_assets/DIGITAL.TTF</fontPath>
+      <fontSize>0.016</fontSize>
+      <pos>0.148 0.055</pos>
+      <size>0.05 0.058</size>
+      <verticalAlignment>left</verticalAlignment>
+    </text>  
+</view>
+
+   <view name="screen">
+      <controllerActivity name="controllerActivity">
+         <pos>0.03 0.025</pos>
+         <size>0.085 0.025</size>
+         <!--<horizontalAlignment>right</horizontalAlignment>-->
+         <itemSpacing>0.003</itemSpacing>
+         <imagePath>./../_inc/gamepad.svg</imagePath>
+         <color>FFFFFF80</color>
+         <activityColor>A0A0FFC0</activityColor>
+         <hotkeyColor>FFA0A0C0</hotkeyColor>
+      </controllerActivity>
+   </view>
+
+</theme>

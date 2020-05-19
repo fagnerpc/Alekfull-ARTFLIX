@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Aqui está agrupado todos os jogos para 2 Jogadores de todos os sistemas disponíveis numa única lista, organizados por ordem alfabética. Você pode procurar o seu jogo favorito por diversos critérios através do sistema.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Aqui está agrupado todos os jogos para 2 Jogadores de todos os sistemas disponíveis numa única lista, organizados por ordem alfabética. Você pode procurar o seu jogo favorito por diversos critérios através do sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Here is grouped all games for 2 Players from all available systems in a single list, organized in alphabetical order. You can search for your favorite game by various criteria through the system.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Aquí se agrupan todos los juegos para 2 jugadores de todos los sistemas disponibles en una sola lista, organizada en orden alfabético. Puedes buscar tu juego favorito por varios criterios a través del sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Voici regroupés tous les jeux pour 2 joueurs de tous les systèmes disponibles dans une seule liste, classés par ordre alphabétique. Vous pouvez rechercher votre jeu préféré selon divers critères via le système.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>2 Jogadores</text>
+		</text>
+		
+			<text name="info2" extra="true"  region="PTBR">
+			<text>2 Jogadores</text>
+		</text>
+						<text name="info2" extra="true" region="EN">
+			<text>2 Players</text>
+		</text>
+						<text name="info2" extra="true" region="ES">
+			<text>2 Jugadores</text>
+		</text>
+						<text name="info2" extra="true" region="FR">
+			<text>2 Joueurs</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+		
+			<image name="logo" region="EN">
+		<path>./assets/logos/auto-at2players-en.png</path>
+	</image>
+
+				<image name="sublogo" region="EN">
+		<path>./assets/logos/auto-at2players-en.png</path>
+	</image>		
+		
+
+			<image name="logo" region="ES">
+		<path>./assets/logos/auto-at2players-es.png</path>
+	</image>
+
+				<image name="sublogo" region="ES">
+		<path>./assets/logos/auto-at2players-es.png</path>
+	</image>
+
+
+			<image name="logo" region="FR">
+		<path>./assets/logos/auto-at2players-fr.png</path>
+	</image>
+
+				<image name="sublogo" region="FR">
+		<path>./assets/logos/auto-at2players-fr.png</path>
+	</image>
+
+	
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>
+		
+	</view>
+
+</theme>

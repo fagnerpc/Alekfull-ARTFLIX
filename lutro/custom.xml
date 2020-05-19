@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Lutro é uma engine lua experimental baseada na arquitetura libretro usando a LÖVE API como referência. Com a Lutro, é possível criar facilmente jogos Lua sem o conhecimento de C ser necessário.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Lutro é uma engine lua experimental baseada na arquitetura libretro usando a LÖVE API como referência. Com a Lutro, é possível criar facilmente jogos Lua sem o conhecimento de C ser necessário.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Lutro is an experimental lua game framework for libretro following the LÖVE API. With Lutro, it is possible to easily create Lua games with no knowledge of C being necessary.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Lutro es un motor lua experimental basado en la arquitectura libretro usando la LÖVE API como referencia. Con Lutro, es posible crear fácilmente juegos de Lua sin el conocimiento de que C es necesario.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Lutro est un framework de jeu lua expérimental pour libretro suivant l'API LÖVE. Avec Lutro, il est possible de créer facilement des jeux Lua sans que la connaissance de C soit nécessaire.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>LUTRO</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>LÖVE API</text>
+		</text>			
+	</view>
+</theme>

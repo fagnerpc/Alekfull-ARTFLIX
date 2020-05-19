@@ -1,0 +1,119 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	
+<!-- Gamelist View -->
+   <view name="basic">
+       <helpsystem name="help">
+         <fontPath>./../_inc/fonts/Homizio.ttf</fontPath>
+         <fontSize>0.022</fontSize>     
+         <pos>0.28 0.955</pos>      
+         <textColor>FFFFFF</textColor>
+      </helpsystem>
+
+      <image name="logo">
+		<pos>0.141 0.060</pos>
+		<maxSize>0.181 0.168</maxSize>
+		<path>./../assets/logos/$system.png</path>
+      </image>	  
+	
+      <textlist name="gamelist">
+         <pos>0.312 0.11</pos>
+         <size>0.35 0.8</size>
+         <selectorColor>0f85a5</selectorColor>
+         <selectedColor>ffffff</selectedColor>
+         <primaryColor>ffffff</primaryColor>
+         <secondaryColor>ffffff</secondaryColor>
+         <fontPath>./../_inc/fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.035</fontSize>
+         <scrollSound>./../music/scroll.ogg</scrollSound>
+         <alignment>left</alignment>
+		 <lineSpacing>1.975</lineSpacing>
+      </textlist>
+	  
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>        
+         <path>./../_inc/bg-3.jpg</path>
+      </image>      
+   </view>  
+ 
+   <view name="detailed">
+      <helpsystem name="help">
+         <fontPath>./../_inc/fonts/Homizio.ttf</fontPath>
+         <fontSize>0.022</fontSize>     
+         <pos>0.008 0.955</pos>      
+         <textColor>FFFFFF</textColor>
+      </helpsystem>
+
+      <image name="logo">
+		<pos>0.141 0.060</pos>
+		<maxSize>0.181 0.168</maxSize>
+		<path>./../assets/logos/$system.png</path>
+      </image>	  
+	
+      <textlist name="gamelist">
+         <pos>0.312 0.11</pos>
+         <size>0.35 0.8</size>
+         <selectorColor>0f85a5</selectorColor>
+         <selectedColor>ffffff</selectedColor>
+         <primaryColor>ffffff</primaryColor>
+         <secondaryColor>ffffff</secondaryColor>
+         <fontPath>./../_inc/fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.020</fontSize>
+         <scrollSound>./../music/scroll.ogg</scrollSound>
+         <alignment>left</alignment>
+		 <lineSpacing>1.975</lineSpacing>
+      </textlist>
+
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>        
+         <path>./../_inc/bg-3.png</path>
+      </image>
+	  
+      <text name="md_rating, md_developer, md_publisher, md_genre, md_playcount, md_players">
+         <pos>2 2</pos> <size>0 0</size>
+         <fontSize>0.0</fontSize>
+         <zIndex>0</zIndex>
+      </text>
+  
+	  <datetime name="md_releasedate, md_lastplayed">
+	  <pos>2 2</pos>
+		<fontSize>0.00</fontSize>
+		<size>0 0</size><zIndex>0</zIndex>
+	</datetime>
+	
+      <text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
+         <pos>2 2</pos>
+         <size>0 0</size>
+		 <fontSize>0.0</fontSize>
+		 <zIndex>0</zIndex>
+      </text>
+	  
+      <text name="md_description">
+         <color>ffffff</color>      
+         <pos>0.01 0.23</pos>
+         <size>0.285 0.565</size>
+		 <fontPath>./../_inc/fonts/Homizio.ttf</fontPath>
+         <fontSize>0.024</fontSize>
+         <zIndex>42</zIndex>         
+      </text>
+
+      <image name="md_image">
+         <pos>0.830 0.485</pos>
+         <maxSize>0.33 0.60</maxSize>
+         <zIndex>51</zIndex>         
+      </image> 
+
+      <video name="md_video">
+         <pos>0.830 0.485</pos>
+         <maxSize>0.33 0.60</maxSize>
+         <zIndex>51</zIndex>  
+	</video>	  
+	  
+   </view>
+
+</theme>

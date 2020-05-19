@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Baseado num processador Zilog Z80-A a 3,50 MHz com 16 KBytes de ROM, Sinclair ZX Spectrum foi um dos mais influentes microcomputadores europeus de 8 bits durante a década de 1980. Foi lançado em 1982.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Baseado num processador Zilog Z80-A a 3,50 MHz com 16 KBytes de ROM, Sinclair ZX Spectrum foi um dos mais influentes microcomputadores europeus de 8 bits durante a década de 1980. Foi lançado em 1982.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>The ZX Spectrum is an 8-bit personal home computer released in the United Kingdom in 1982 by Sinclair Research. It was launched as the ZX Spectrum by Sinclair to highlight the machine's colour display.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Sinclair ZX Spectrum es un ordenador de 8 bits basado en el microprocesador Zilog Z80A, fabricado por la compañía británica Sinclair Research y lanzado al mercado el 23 de abril de 1982.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>ZX Spectrum est un petit ordinateur personnel mis sur le marché par le constructeur informatique anglais Sinclair Research en 1982. Basé sur le processeur Zilog Z80 tournant à 3,5 MHz.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>ZX Spectrum</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sinclair Research</text>
+		</text>	
+	</view>
+</theme>

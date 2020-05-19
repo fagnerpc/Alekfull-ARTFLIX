@@ -1,0 +1,81 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Os jogos que ainda não foram jogados de todos os sistemas disponíveis aparecem aqui numa lista única, organizada por ordem decrescente. Você pode procurar o seu jogo favorito por diversos critérios através do sistema.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Os jogos que ainda não foram jogados de todos os sistemas disponíveis aparecem aqui numa lista única, organizada por ordem decrescente. Você pode procurar o seu jogo favorito por diversos critérios através do sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Games that have not yet been played from all available systems appear here in a single list, organized in descending order. You can search for your favorite game by various criteria through the system.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Los juegos que aún no se han jugado desde todos los sistemas disponibles aparecen aquí en una sola lista, organizada en orden descendente. Puedes buscar tu juego favorito por varios criterios a través del sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Les jeux qui n'ont pas encore été joués à partir de tous les systèmes disponibles apparaissent ici dans une seule liste, organisée par ordre décroissant. Vous pouvez rechercher votre jeu préféré selon divers critères via le système.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Nunca Jogados</text>
+		</text>
+		
+			<text name="info2" extra="true"  region="PTBR">
+			<text>Nunca Jogados</text>
+		</text>
+						<text name="info2" extra="true" region="EN">
+			<text>Never Played</text>
+		</text>
+						<text name="info2" extra="true" region="ES">
+			<text>Nunca jugó</text>
+		</text>
+						<text name="info2" extra="true" region="FR">
+			<text>Jamais joué</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+		
+			<image name="logo" region="EN">
+		<path>./assets/logos/auto-neverplayed-en.png</path>
+	</image>
+
+				<image name="sublogo" region="EN">
+		<path>./assets/logos/auto-neverplayed-en.png</path>
+	</image>		
+		
+
+			<image name="logo" region="ES">
+		<path>./assets/logos/auto-neverplayed-es.png</path>
+	</image>
+
+				<image name="sublogo" region="ES">
+		<path>./assets/logos/auto-neverplayed-es.png</path>
+	</image>
+
+
+			<image name="logo" region="FR">
+		<path>./assets/logos/auto-neverplayed-fr.png</path>
+	</image>
+
+				<image name="sublogo" region="FR">
+		<path>./assets/logos/auto-neverplayed-fr.png</path>
+	</image>		
+		
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>
+		
+	</view>
+
+</theme>

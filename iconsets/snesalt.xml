@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./snesalt/updown.png</iconUpDown>
+			<iconLeftRight>./snesalt/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./snesalt/all.png</iconUpDownLeftRight>
+			<iconA>./snesalt/a.png</iconA>
+			<iconB>./snesalt/b.png</iconB>
+			<iconX>./snesalt/x.png</iconX>
+			<iconY>./snesalt/y.png</iconY>
+			<iconL>./snesalt/l.png</iconL>
+			<iconR>./snesalt/r.png</iconR>
+			<iconStart>./snesalt/start.png</iconStart>
+			<iconSelect>./snesalt/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./snes/updown.png</iconUpDown>
+			<iconLeftRight>./snes/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./snes/all.png</iconUpDownLeftRight>
+			<iconA>./snes/a.png</iconA>
+			<iconB>./snes/b.png</iconB>
+			<iconX>./snes/x.png</iconX>
+			<iconY>./snes/y.png</iconY>
+			<iconL>./snes/l.png</iconL>
+			<iconR>./snes/r.png</iconR>
+			<iconStart>./snes/start.png</iconStart>
+			<iconSelect>./snes/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

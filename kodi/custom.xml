@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Kodi (anteriormente XBMC) é um aplicativo de software para media player gratuito e de código aberto desenvolvido pela XBMC Foundation, um consórcio de tecnologia sem fins lucrativos. O Kodi está disponível para vários sistemas operacionais e dispositivos.</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>Kodi (anteriormente XBMC) é um aplicativo de software para media player gratuito e de código aberto desenvolvido pela XBMC Foundation, um consórcio de tecnologia sem fins lucrativos. O Kodi está disponível para vários sistemas operacionais e dispositivos.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Kodi (formerly XBMC) is a free and open-source media player software application developed by the XBMC Foundation, a non-profit technology consortium. Kodi is available for multiple operating systems and hardware platforms.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Kodi es una aplicación de software para reproductor multimedia gratuito y de código abierto desarrollada por la Fundación XBMC, un consorcio de tecnología sin fines de lucro. Kodi está disponible para una variedad de sistemas operativos y dispositivos.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Kodi (anciennement XBMC) est une application logicielle pour lecteur multimédia gratuit et open source développée par la XBMC Foundation, un consortium technologique à but non lucratif. Kodi est disponible pour une variété de systèmes d'exploitation et d'appareils.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>KODI</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2002</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>XBMC Foundation</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>			
+	</view>
+</theme>

@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O DOS, sigla para Disk Operating System ou sistema operacional em disco é um acrónimo para vários sistemas operativos intimamente relacionados que dominaram o mercado para compatíveis IBM PC entre 1981 e 1995.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>O DOS, sigla para Disk Operating System ou sistema operacional em disco é um acrónimo para vários sistemas operativos intimamente relacionados que dominaram o mercado para compatíveis IBM PC entre 1981 e 1995.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>DOS, acronyme de Disk Operating System ou de système d’exploitation de disques, est un acronyme pour plusieurs systèmes d’exploitation étroitement liés qui ont dominé le marché des PC compatibles IBM entre 1981 et 1995.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>El DOS, la sigla para el sistema operativo de disco o el sistema operativo en disco es un acrónimo para varios sistemas operativos íntimamente relacionados que dominaron el mercado para compatibilidad IBM PC entre 1981 y 1995.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>DOS, acronyme de Disk Operating System ou de système d’exploitation de disques, est un acronyme pour plusieurs systèmes d’exploitation étroitement liés qui ont dominé le marché des PC compatibles IBM entre 1981 et 1995.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>DOS</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>IBM, Microsoft</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+</theme>

@@ -1,0 +1,63 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Tire screenshots dos seus melhores jogos e highscores depois mostre aos seus amigos.
+			Quem será o melhor jogador...
+			God Bless Retro Games!</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Tire screenshots dos seus melhores jogos e highscores depois mostre aos seus amigos.
+			Quem será o melhor jogador...
+			God Bless Retro Games!</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Take screenshots of your best games and highscores then show them to your friends.
+			Who will be the best player ...
+			God Bless Retro Games!</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Toma capturas de pantalla de tus mejores juegos y mejores puntuaciones,
+luego muéstrales a tus amigos.
+¿Quién será el mejor jugador ...
+¡Dios bendiga a Retro Games!</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Prenez des captures d'écran de vos meilleurs jeux et scores,
+puis montrez-les à vos amis.
+Qui sera le meilleur joueur ...
+			God Bless Retro Games !</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Galeria de Imagens</text>
+		</text>
+		
+			<text name="info2" extra="true"  region="PTBR">
+			<text>Galeria de Imagens</text>
+		</text>
+						<text name="info2" extra="true" region="EN">
+			<text>Image Viewer</text>
+		</text>
+						<text name="info2" extra="true" region="ES">
+			<text>Visor de Imágenes</text>
+		</text>
+						<text name="info2" extra="true" region="FR">
+			<text>Visionneuse d'images</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>		
+	</view>
+</theme>

@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>DAPHNE é um emulador de jogos em laserdisc que permite jogar jogos de arcade em laserdisc. Usando Daphne, você poderá jogar vários clássicos dos arcades como Dragon's Lair, Astron Belt e muito mais.</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>DAPHNE é um emulador de jogos em laserdisc que permite jogar jogos de arcade em laserdisc. Usando Daphne, você poderá jogar vários clássicos dos arcades como Dragon's Lair, Astron Belt e muito mais.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>DAPHNE is a Free laserdisc game emulator that allows one to play laserdisc arcade games. Using Daphne, one can play various laserdisc arcade games such Dragon's Lair, Astron Belt and much more.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>DAPHNE es un emulador de juegos de disco láser gratuito que permite jugar juegos de arcade laserdisc. Usando Daphne, uno puede jugar varios juegos de arcade laserdisc como Dragon's Lair, Astron Belt y mucho más.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>DAPHNE est un émulateur de jeu laserdisc gratuit qui permet de jouer à des jeux d'arcade laserdisc. En utilisant Daphne, on peut jouer à divers jeux d'arcade laserdisc tels que Dragon's Lair, Astron Belt et plus encore.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Daphne</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>199X</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Matt Ownby</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+</theme>

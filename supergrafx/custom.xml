@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Além de rodar todos os jogos do PC Engine, rodava jogos feitos exclusivamente para ele. Porém, somente 5 jogos foram lançados (1941: Counter Attack, Aldynes, Battle Ace, Ghouls'n Ghosts e Madō King Granzort).</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Além de rodar todos os jogos do PC Engine, rodava jogos feitos exclusivamente para ele. Porém, somente 5 jogos foram lançados (1941: Counter Attack, Aldynes, Battle Ace, Ghouls'n Ghosts e Madō King Granzort).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>The PC Engine SuperGrafx (PCエンジンスーパーグラフィックス), is a video game console by NEC Home Electronics, released exclusively in Japan. It is an upgraded version of the PC Engine, released two years prior.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Fue lanzado en el continente europeo en noviembre de 1989 bajo el nombre de Turbografx, pero era muy difícil encontrar la consola ya que fueron lanzadas pocas unidades en ese mercado.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>SuperGrafx est une console de jeux vidéo fabriquée par NEC Corporation et lancée en décembre 1989 au Japon. Il s'agit d'une version améliorée de la PC-Engine (ou CoreGrafX).</text>
+		</text>
+		
+			<text name="info2" extra="true">
+			<text>NEC SuperGrafx</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>	
+	</view>
+</theme>

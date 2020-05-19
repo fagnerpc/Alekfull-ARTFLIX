@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Amiga 4000, ou A4000, é o sucessor dos computadores A2000 e A3000. Existem dois modelos: o A4000 / 040 lançado em outubro de 1992 com uma CPU Motorola 68040 e o A4000 / 030 lançado em abril de 1993 com um Motorola 68EC030.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Amiga 4000, ou A4000, é o sucessor dos computadores A2000 e A3000. Existem dois modelos: o A4000 / 040 lançado em outubro de 1992 com uma CPU Motorola 68040 e o A4000 / 030 lançado em abril de 1993 com um Motorola 68EC030.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Amiga 4000, or A4000, is the successor of the A2000 and A3000 computers. There are two models: the A4000/040 released in October 1992 with a Motorola 68040 CPU, and the A4000/030 released in April 1993 with a Motorola 68EC030.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Amiga 4000, o A4000, es el sucesor de las computadoras A2000 y A3000. Hay dos modelos: el A4000 / 040 lanzado en octubre de 1992 con una CPU Motorola 68040, y el A4000 / 030 lanzado en abril de 1993 con un Motorola 68EC030.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>L'Amiga 4000, ou A4000, est le successeur des ordinateurs A2000 et A3000. Il existe deux modèles: l'A4000 / 040 sorti en octobre 1992 avec un processeur Motorola 68040, et l'A4000 / 030 sorti en avril 1993 avec un Motorola 68EC030.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga 4000</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>
+	</view>
+</theme>

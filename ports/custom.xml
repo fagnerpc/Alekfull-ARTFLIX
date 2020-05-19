@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Vários desenvolvedores lançaram o código-fonte para muitos de seus títulos clássicos, permitindo que eles sejam nativos para muitas plataformas alternativas, incluindo o Linux.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Vários desenvolvedores lançaram o código-fonte para muitos de seus títulos clássicos, permitindo que eles sejam nativos para muitas plataformas alternativas, incluindo o Linux.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Several developers have released the source code to many of their legacy titles, allowing them to be run as native applications on many alternative platforms, including Linux.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Varios desarrollos han liberado el código fuente en muchos de sus títulos heredados, Permitir que se ejecuten aplicaciones nativas en varias alternativas de plataforma, incluyendo Linux.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Plusieurs développeurs ont publié le code source sur bon nombre de leurs anciens titres, leur permettant d’exécuter des applications natives sur de nombreuses plates-formes alternatives, y compris Linux.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Ports</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+	</view>
+</theme>

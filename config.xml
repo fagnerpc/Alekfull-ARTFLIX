@@ -1,0 +1,26 @@
+<theme>
+    <formatVersion>4</formatVersion>
+	<include subset="colorset" name="Full HD 1080p">./colorsets/fullhd.xml</include>
+	<include subset="colorset" name="HD 720p">./colorsets/hd.xml</include>
+	<include subset="colorset" name="Lite 540p">./colorsets/lite.xml</include>
+	
+	<include subset="iconset" name="standard icons" displayName="${icondef}">./iconsets/default.xml</include>
+	<include subset="iconset" name="SNES">./iconsets/snes.xml</include>
+	<include subset="iconset" name="SNES ALT">./iconsets/snesalt.xml</include>
+	<include subset="iconset" name="XBox">./iconsets/xbox.xml</include>
+	<include subset="iconset" name="Default PSX">./iconsets/psx.xml</include>
+	<include subset="iconset" name="ARCADE">./iconsets/arcade.xml</include>
+	<include subset="iconset" name="PSX ALT">./iconsets/psx1.xml</include>
+	<include subset="iconset" name="Xbox One">./iconsets/xboxone.xml</include>
+	<include subset="iconset" name="Switch">./iconsets/switch.xml</include>
+
+	<include subset="systemview" name="Random Videos" displayName="${srandvideo}">./systemview/7AB.xml</include>
+	<include subset="systemview" name="Random Videos (Logo)" displayName="${srandvideol}">./systemview/7AB2.xml</include>
+	<include subset="systemview" name="Random Background" displayName="${srandbg}">./systemview/7AC.xml</include>
+	<include subset="systemview" name="Random Background (Logo)" displayName="${srandbgl}">./systemview/7AC2.xml</include>
+	<include subset="systemview" name="Random Video Background" displayName="${svrandvid}">./systemview/7AA.xml</include>
+	<include subset="systemview" name="Random Video Background (Logo)" displayName="${svrandvidl}">./systemview/7AA2.xml</include>	
+	<include subset="systemview" name="Dynamic Background" displayName="${svwheel}">./systemview/7A.xml</include>
+	<include subset="systemview" name="Dynamic Background (Logo)" displayName="${svwheell}">./systemview/7A2.xml</include>
+	
+</theme>

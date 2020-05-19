@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi um console de vídeo games bastante popular nos anos 70 e 80. O console foi criado em 1978 pela empresa Magnavox / Philips como evolução do console da Magnavox anterior, o Magnavox Odyssey.</text>
+		</text>
+		
+		<text name="info1" extra="true" region="PTBR">
+			<text>Foi um console de vídeo games bastante popular nos anos 70 e 80. O console foi criado em 1978 pela empresa Magnavox / Philips como evolução do console da Magnavox anterior, o Magnavox Odyssey.</text>
+		</text>		
+		
+				<text name="info1" extra="true" region="EN">
+			<text>The Magnavox Odyssey², also known as Philips Odyssey² is a second generation home video game console released in 1978. It was sold in Europe as the Philips Videopac G7000, in Brazil as the Philips Odyssey.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Magnavox Odyssey², conocida también como Philips Odyssey² y Videopac G7000, es una videoconsola lanzada en 1978 y Sucesora de la Magnavox Odyssey, la primera videoconsola de la historia.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Videopac est une console de jeux vidéo conçue par Magnavox, fabriquée par Philips et commercialisée à la fin des années 1970 et au début des années 1980 sous les marques Philips (Videopac/Odyssey).</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Odyssey²</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1972</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Magnavox</text>
+		</text>			
+	</view>
+</theme>

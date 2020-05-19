@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Oric foi o nome usado pela Tangerine Computer Systems para uma série de computadores domésticos, incluindo o original Oric-1, seu sucessor, o Oric Atmos e os modelos Oric Stratos / IQ164 e Oric Telestrat.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Oric foi o nome usado pela Tangerine Computer Systems para uma série de computadores domésticos, incluindo o original Oric-1, seu sucessor, o Oric Atmos e os modelos Oric Stratos / IQ164 e Oric Telestrat.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Oric was the name used by Tangerine Computer Systems for a series of home computers, including the original Oric-1, its successor the Oric Atmos and the later Oric Stratos/IQ164 and Oric Telestrat models.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Oric fue el nombre utilizado por Tangerine Computer Systems para una serie de computadoras domésticas, incluidas la original Oric-1, su sucesora, Oric Atmos y la posterior Oric Stratos / IQ164 y Oric Telestrat.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Oric était le nom utilisé par Tangerine Computer Systems pour désigner une série d'ordinateurs personnels, notamment le premier Oric-1, son successeur, l'Oric Atmos, et les modèles plus récents Oric Stratos / IQ164 et Oric Telestrat.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Oric</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tangerine Computer Systems</text>
+		</text>	
+	</view>
+</theme>

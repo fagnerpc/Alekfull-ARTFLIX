@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Jogos de PC, também conhecidos como jogos de computador ou jogos de computador pessoal, são jogos projetados para serem jogados no PC ao invés de um hardware dedicado ou máquina arcade.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Jogos de PC, também conhecidos como jogos de computador ou jogos de computador pessoal, são jogos projetados para serem jogados no PC ao invés de um hardware dedicado ou máquina arcade.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>PC games, also known as computer games or personal computer games, are video games played on a personal computer rather than a dedicated video game console or arcade machine.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>También conocidos como juegos de computadora o juegos de computadora personales, son videojuegos que se juegan en una computadora personal en lugar de en una consola de videojuegos dedicada o en una máquina recreativa.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Les jeux PC, également connus sous le nom de jeux informatiques ou de jeux informatiques personnels, sont des jeux vidéo joués sur un ordinateur personnel plutôt que sur une console de jeu vidéo ou une machine à arcade dédiée.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>PC</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+	</view>
+</theme>

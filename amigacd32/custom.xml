@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Amiga CD32 foi um console de videogame, sendo o primeiro baseado CD-ROM de 32-bit vendido na Europa ocidental e na América do Norte.  Foi lançado em setembro de 1993, na Europa, Austrália, Canadá e Brasil.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Amiga CD32 foi um console de videogame, sendo o primeiro baseado CD-ROM de 32-bit vendido na Europa ocidental e na América do Norte.  Foi lançado em setembro de 1993, na Europa, Austrália, Canadá e Brasil.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Amiga CD32 was a video game console, the first being a 32-bit CD-ROM sold in Western Europe and North America. It was released in September 1993, in Europe, Australia, Canada and Brazil.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Amiga CD32 fue una consola de videojuego, siendo el primer basado en CD-ROM de 32 bits vendido en Europa occidental y Norteamérica. Fue lanzado en septiembre de 1993, en Europa, Australia, Canadá y Brasil.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Amiga CD32 était une console de jeux vidéo, la première étant un CD-ROM 32 bits vendu en Europe occidentale et en Amérique du Nord. Il a été publié en septembre 1993 en Europe, en Australie, au Canada et au Brésil.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga CD32</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>		
+	</view>
+</theme>

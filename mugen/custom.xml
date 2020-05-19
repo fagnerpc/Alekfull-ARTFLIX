@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O M.U.G.E.N (também conhecido como Mugen, MUGEN) é um mecanismo de jogo de luta 2D freeware desenvolvido por Elecbyte. O conteúdo é criado pela comunidade e milhares de lutadores, originais e de ficção popular, foram criados.</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>O M.U.G.E.N (também conhecido como Mugen, MUGEN) é um mecanismo de jogo de luta 2D freeware desenvolvido por Elecbyte. O conteúdo é criado pela comunidade e milhares de lutadores, originais e de ficção popular, foram criados.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>M.U.G.E.N (also known as Mugen, MUGEN) is a freeware 2D fighting game engine designed by Elecbyte. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>M.U.G.E.N (también conocido como Mugen, MUGEN) es un motor gratuito de juegos de lucha en 2D diseñado por Elecbyte. El contenido es creado por la comunidad y se han creado miles de luchadores, tanto originales como de ficción popular.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>M.U.G.E.N (également connu sous le nom de Mugen, MUGEN) est un moteur de jeu de combat 2D gratuit conçu par Elecbyte. Le contenu est créé par la communauté, et des milliers de combattants, à la fois originaux et de fiction populaire, ont été créés.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>M.U.G.E.N</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Elecbyte</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>			
+	</view>
+</theme>

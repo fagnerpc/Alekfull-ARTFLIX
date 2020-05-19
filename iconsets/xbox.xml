@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./xbox/updown.png</iconUpDown>
+			<iconLeftRight>./xbox/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./xbox/all.png</iconUpDownLeftRight>
+			<iconA>./xbox/a.png</iconA>
+			<iconB>./xbox/b.png</iconB>
+			<iconX>./xbox/x.png</iconX>
+			<iconY>./xbox/y.png</iconY>
+			<iconL>./xbox/l.png</iconL>
+			<iconR>./xbox/r.png</iconR>
+			<iconStart>./xbox/start.png</iconStart>
+			<iconSelect>./xbox/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./switch/updown.png</iconUpDown>
+			<iconLeftRight>./switch/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./switch/all.png</iconUpDownLeftRight>
+			<iconA>./switch/a.png</iconA>
+			<iconB>./switch/b.png</iconB>
+			<iconX>./switch/x.png</iconX>
+			<iconY>./switch/y.png</iconY>
+			<iconL>./switch/l.png</iconL>
+			<iconR>./switch/r.png</iconR>
+			<iconStart>./switch/start.png</iconStart>
+			<iconSelect>./switch/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

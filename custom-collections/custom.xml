@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Estão organizadas aqui todas as Coleções Customizadas de jogos de franquias, estilos, empresas e sistemas específicos. Você pode fazer a sua própria coleção através do sistema, selecionando seus jogos favoritos.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Estão organizadas aqui todas as Coleções Customizadas de jogos de franquias, estilos, empresas e sistemas específicos.  Você pode fazer a sua própria coleção através do sistema, selecionando seus jogos favoritos.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>All Custom Collections of games of franchises, styles, companies and specific systems are organized here. You can make your own collection through the system by selecting your favorite games.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Aquí se organizan todas las colecciones personalizadas de juegos de franquicias, estilos, empresas y sistemas específicos. Puedes hacer tu propia colección a través del sistema seleccionando tus juegos favoritos.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Toutes les collections personnalisées de jeux, styles, sociétés et systèmes spécifiques de franchise sont organisées ici. Vous pouvez créer votre propre collection via le système en sélectionnant vos jeux préférés.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Coleção Customizada</text>
+		</text>
+		
+			<text name="info2" extra="true"  region="PTBR">
+			<text>Coleção Customizada</text>
+		</text>
+						<text name="info2" extra="true" region="EN">
+			<text>Custom Collections</text>
+		</text>
+						<text name="info2" extra="true" region="ES">
+			<text>Colecciones personalizadas</text>
+		</text>
+						<text name="info2" extra="true" region="FR">
+			<text>Collections personnalisées</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+			<image name="logo" region="EN">
+		<path>./assets/logos/custom-collections-en.png</path>
+	</image>
+
+				<image name="sublogo" region="EN">
+		<path>./assets/logos/custom-collections-en.png</path>
+	</image>		
+		
+
+			<image name="logo" region="ES">
+		<path>./assets/logos/custom-collections-es.png</path>
+	</image>
+
+				<image name="sublogo" region="ES">
+		<path>./assets/logos/custom-collections-es.png</path>
+	</image>
+
+
+			<image name="logo" region="FR">
+		<path>./assets/logos/custom-collections-fr.png</path>
+	</image>
+
+				<image name="sublogo" region="FR">
+		<path>./assets/logos/custom-collections-fr.png</path>
+	</image>		
+		
+		
+		
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>
+		
+	</view>
+
+</theme>

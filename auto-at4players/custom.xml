@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Aqui está agrupado todos os jogos para 4 Jogadores de todos os sistemas disponíveis numa única lista, organizados por ordem alfabética. Você pode procurar o seu jogo favorito por diversos critérios através do sistema.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Aqui está agrupado todos os jogos para 4 Jogadores de todos os sistemas disponíveis numa única lista, organizados por ordem alfabética. Você pode procurar o seu jogo favorito por diversos critérios através do sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Here is grouped all games for 4 Players from all available systems in a single list, organized in alphabetical order. You can search for your favorite game by various criteria through the system.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Aquí se agrupan todos los juegos para 4 jugadores de todos los sistemas disponibles en una sola lista, organizada en orden alfabético. Puedes buscar tu juego favorito por varios criterios a través del sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Voici regroupés tous les jeux pour 4 joueurs de tous les systèmes disponibles dans une seule liste, classés par ordre alphabétique. Vous pouvez rechercher votre jeu préféré selon divers critères via le système.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>4 Jogadores</text>
+		</text>
+		
+			<text name="info2" extra="true"  region="PTBR">
+			<text>4 Jogadores</text>
+		</text>
+						<text name="info2" extra="true" region="EN">
+			<text>4 Players</text>
+		</text>
+						<text name="info2" extra="true" region="ES">
+			<text>4 Jugadores</text>
+		</text>
+						<text name="info2" extra="true" region="FR">
+			<text>4 Joueurs</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+		
+			<image name="logo" region="EN">
+		<path>./assets/logos/auto-at4players-en.png</path>
+	</image>
+
+				<image name="sublogo" region="EN">
+		<path>./assets/logos/auto-at4players-en.png</path>
+	</image>		
+		
+
+			<image name="logo" region="ES">
+		<path>./assets/logos/auto-at4players-es.png</path>
+	</image>
+
+				<image name="sublogo" region="ES">
+		<path>./assets/logos/auto-at4players-es.png</path>
+	</image>
+
+
+			<image name="logo" region="FR">
+		<path>./assets/logos/auto-at4players-fr.png</path>
+	</image>
+
+				<image name="sublogo" region="FR">
+		<path>./assets/logos/auto-at4players-fr.png</path>
+	</image>
+
+	
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>
+		
+	</view>
+
+</theme>

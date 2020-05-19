@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi um console de videogame da terceira geração lançado pela Sega em 1983. O console de 8 bits não alcançou muito sucesso, porém, seu sucessor, o Master System, alcançou um grande sucesso no mercado dos games.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Foi um console de videogame da terceira geração lançado pela Sega em 1983. O console de 8 bits não alcançou muito sucesso, porém, seu sucessor, o Master System, alcançou um grande sucesso no mercado dos games.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Also known as the Sega Computer Video Game SG-1000, is a home video game console manufactured by Sega and released in Japan, Australia, and other regions. It was Sega's first entry into the home video games.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Fue la primera videoconsola de sobremesa desarrollada por Sega. Fue primero lanzada al mercado en una primera fase de pruebas en Japón en 1981 y finalmente lanzada al mercado japonés en julio de 1983 por 15.000¥.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>SG-1000 (エスジー・セン, Esujī Sen), également connue sous le nom Sega Game 1000, est une console de jeux vidéo de troisième génération conçue et commercialisée par le constructeur japonais Sega Enterprises, Ltd.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>SG-1000</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>	
+	</view>
+</theme>

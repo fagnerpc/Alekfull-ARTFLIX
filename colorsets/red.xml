@@ -1,0 +1,17 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+	
+	<image name="hue" extra="true">
+		<color>ff0000</color>
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/overlayhue.png</path>
+         <zIndex>40</zIndex>
+      </image>
+   </view>
+
+</theme>

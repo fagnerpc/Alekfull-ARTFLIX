@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi o primeiro console de vídeo game fabricado pela Sony, desde o seu lançamento vendeu mais de 100 milhões de unidades. Ocupa a posição de segundo console de mesa mais vendido de todos os tempos.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Foi o primeiro console de vídeo game fabricado pela Sony, desde o seu lançamento vendeu mais de 100 milhões de unidades. Ocupa a posição de segundo console de mesa mais vendido de todos os tempos.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Is a home video game console developed by Sony Computer Entertainment. The console was the first of the PlayStation lineup of home video game consoles as part of the fifth generation of video game consoles.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>PlayStation (プレイステーション Pureisuteshon, oficialmente abreviada como PS1) es una videoconsola de sobremesa de 32 bits lanzada por Sony Computer Entertainment el 3 de diciembre de 1994 en Japón.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>PlayStation (プレイステーション) est une console de jeux vidéo de cinquième génération, produite par Sony Computer Entertainment à partir de 1994. Fut la première machine de la gamme PlayStation.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Sony PlayStation</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+
+	<text name="info2" extra="true">
+		<pos>0.02 0.08</pos>
+      </text>
+		
+	</view>
+</theme>

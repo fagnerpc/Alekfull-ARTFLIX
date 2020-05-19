@@ -1,0 +1,39 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>O Super Famicom é o segundo home console da Nintendo. O console apresentou gráficos avançados e recursos de som em comparação com outros consoles na época. Considerado um dos melhores consoles da história.</text>
+		</text>
+
+		<text name="info1" extra="true">
+			<text>O Super Famicom é o segundo home console da Nintendo. O console apresentou gráficos avançados e recursos de som em comparação com outros consoles na época. Considerado um dos melhores consoles da história.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America.</text>
+		</text>
+				
+				<text name="info1" extra="true" region="ES">
+			<text>Es la tercera videoconsola de sobremesa de Nintendo y la sucesora de Nintendo Entertainment System (NES) en América y Europa. Fue la más exitosa y vendida de la era de los 16 bits.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Super Famicom (スーパーファミコン?) au Japon (ou Super Nintendo Entertainment System), est une console de jeux vidéo 16 bits du constructeur japonais Nintendo commercialisée à partir de août 1991.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Super Famicom</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>
+		
+		</view>
+</theme>

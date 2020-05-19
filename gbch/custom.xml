@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É o sucessor do Game Boy da Nintendo. O portátil foi lançado no dia 21 de outubro de 1998 no Japão. Ele apresenta uma tela colorida, e é ligeiramente mais grosso e alto do que o Game Boy Pocket.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>É o sucessor do Game Boy da Nintendo. O portátil foi lançado no dia 21 de outubro de 1998 no Japão. Ele apresenta uma tela colorida, e é ligeiramente mais grosso e alto do que o Game Boy Pocket.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Is a handheld game console manufactured by Nintendo, which was released on October 21, 1998 in Japan and was released in November of the same year in international markets. It is the successor of the Game Boy.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Abreviada GBC, es una videoconsola portátil de la quinta generación de la familia de sistemas de videojuegos de Nintendo Game Boy. Fue lanzada al mercado en Japón el 23 de octubre de 1998.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Game Boy Color (ゲームボーイカラー), abrégé GBC, est la console de jeux vidéo portable succédant à la Game Boy. Créée par Nintendo, elle incorpore un écran couleur à peine plus grand que celui de la Game Boy.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>GBC Hacks</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

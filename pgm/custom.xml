@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O PolyGame Master (PGM) é um sistema de arcade lançado em 1997 pela empresa taiwanesa IGS. O PGM foi desenvolvido para competir com o sistema Neo Geo MVS da SNK em Taiwan.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>O PolyGame Master (PGM) é um sistema de arcade lançado em 1997 pela empresa taiwanesa IGS. O PGM foi desenvolvido para competir com o sistema Neo Geo MVS da SNK em Taiwan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>PolyGame Master (PGM) is an arcade system launched in 1997 by the Taiwanese company IGS. The PGM was developed to compete with SNK's Neo Geo MVS system in Taiwan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>PolyGame Master (PGM) es un sistema de arcade lanzado en 1997 por la empresa taiwanesa IGS. El PGM fue desarrollado para competir con el sistema Neo Geo MVS de SNK en Taiwán.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>PolyGame Master (PGM) est un système d'arcade lancé en 1997 par la société taïwanaise IGS. Le PGM a été développé pour concurrencer le système Neo Geo MVS de SNK à Taiwan.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>PolyGame Master</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1997</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>IGS</text>
+		</text>	
+	</view>
+</theme>

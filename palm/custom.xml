@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Palm, Inc. é uma empresa de fabricação de hardware e software fundada em 1992. Foi absorvida pela U.S. Robotics Corp. em 1995. Em junho de 1997, a Palm tornou-se uma subsidiária de 3Com.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Palm, Inc. é uma empresa de fabricação de hardware e software fundada em 1992. Foi absorvida pela U.S. Robotics Corp. em 1995. Em junho de 1997, a Palm tornou-se uma subsidiária de 3Com.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Palm, Inc. is a hardware and software manufacturing company founded in 1992. It was absorbed by U.S. Robotics Corp. 1995. In June 1997 Palm became a subsidiary of 3Com.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Palm, Inc. es una empresa de fabricación de hardware y software fundada en 1992. Fue absorbida por U.S. Robotics Corp. 1995. En junio de 1997 Palm se convirtió en una subsidiaria de 3Com.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Palm, Inc. est une société de fabrication de matériel informatique et de logiciels fondée en 1992. Elle a été absorbée par la société américaine Robotics Corp. 1995. En juin 1997, Palm devient une filiale de 3Com.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Palm</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Palm, Inc.</text>
+		</text>	
+	</view>
+</theme>

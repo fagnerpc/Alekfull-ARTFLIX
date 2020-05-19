@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Linux é um termo popularmente empregado para se referir a sistemas operacionais que utilizam o Kernel Linux. O kernel foi desenvolvido pelo programador finlandês Linus Torvalds, inspirado no sistema Minix.</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>Linux é um termo popularmente empregado para se referir a sistemas operacionais que utilizam o Kernel Linux. O kernel foi desenvolvido pelo programador finlandês Linus Torvalds, inspirado no sistema Minix.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Linux is a family of open source Unix-like operating systems based on the Linux kernel,an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Linux es una familia de sistemas operativos de código abierto tipo Unix basados ​​en el núcleo de Linux, un núcleo del sistema operativo lanzado por Linus Torvalds. Linux generalmente está empaquetado en una distribución de Linux.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Linux est une famille de systèmes d'exploitation open source de type Unix basés sur le noyau Linux, un noyau de système d'exploitation publié pour Linus Torvalds. Linux est généralement conditionné dans une distribution Linux.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Linux Games</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1991</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Linus Torvalds</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>			
+	</view>
+</theme>

@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de videogames desenvolvido pela Sony Computer Entertainment. É o sucessor do PlayStation 2. Foi lançado em 11 de novembro de 2006, no Japão, 17 de novembro de 2006 na América do Norte e em 23 de março de 2007 na Europa e Oceania.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>É um console de videogames desenvolvido pela Sony Computer Entertainment. É o sucessor do PlayStation 2. Foi lançado em 11 de novembro de 2006, no Japão, 17 de novembro de 2006 na América do Norte e em 23 de março de 2007 na Europa e Oceania.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>It is a video game console developed by Sony Computer Entertainment. It is the successor to PlayStation 2. It was released on November 11, 2006, in Japan, November 17, 2006 in North America and on March 23, 2007 in Europe and Oceania.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Es una consola de videojuegos desarrollada por Sony Computer Entertainment. Es el sucesor de PlayStation 2. Fue lanzado el 11 de noviembre de 2006 en Japón, el 17 de noviembre de 2006 en América del Norte y el 23 de marzo de 2007 en Europa y Oceanía.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>C'est une console de jeu vidéo développée par Sony Computer Entertainment. Il est le successeur de PlayStation 2. Il est sorti le 11 novembre 2006 au Japon, le 17 novembre 2006 en Amérique du Nord et le 23 mars 2007 en Europe et en Océanie.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sony PlayStation 3</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2006</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>	
+	</view>
+</theme>

@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma linha de consoles portáteis produzida pela Nintendo entre 1980 e 1991, criado pelo designer Gunpei Yokoi. Foi a segunda linha de aparelhos de jogos eletrônicos da Nintendo (a primeira foi o Color TV Game).</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>É uma linha de consoles portáteis produzida pela Nintendo entre 1980 e 1991, criado pelo designer Gunpei Yokoi. Foi a segunda linha de aparelhos de jogos eletrônicos da Nintendo (a primeira foi o Color TV Game).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game & Watch features a single game to be played on an LCD screen in addition to a clock.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Es una línea de 59 consolas portátiles de videojuegos fabricadas por Nintendo y creadas por Gunpei Yokoi de 1980 a 1991. Cada una de ellas poseía un único juego con pantalla LCD, y tenía además reloj y alarma.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Game and Watch sont des jeux électroniques de poche produits par la société Nintendo de 1980 à 1991, ils font également office de montres et de réveils. Vendus à 43,4 millions d'exemplaires à travers le monde.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Game & Watch</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

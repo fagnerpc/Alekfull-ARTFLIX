@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Jogos em flash podem ser executados usando tecnologias da Web padrão ou plug-ins de navegador. A criação desses jogos geralmente envolve o uso de tecnologias da Web padrão como front-end e outras tecnologias para fornecer um back-end.</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>Jogos em flash podem ser executados usando tecnologias da Web padrão ou plug-ins de navegador. A criação desses jogos geralmente envolve o uso de tecnologias da Web padrão como front-end e outras tecnologias para fornecer um back-end.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Flash games can be run using standard web technologies or browser plug-ins. The creation of such games usually involves use of standard web technologies as a frontend and other technologies to provide a backend.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Los juegos flash se pueden ejecutar utilizando tecnologías web estándar o complementos del navegador. La creación de tales juegos generalmente implica el uso de tecnologías web estándar como interfaz y otras tecnologías para proporcionar un back-end.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Les jeux Flash peuvent être exécutés à l'aide de technologies Web standard ou de plug-ins de navigateur. La création de tels jeux implique généralement l'utilisation de technologies Web standard.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Flash Games</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>FutureWave</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>			
+	</view>
+</theme>

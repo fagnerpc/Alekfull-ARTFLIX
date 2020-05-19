@@ -1,0 +1,159 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de video game de 16 bits da Sega que concorria diretamente com o SNES. O console fez grande sucesso na década de 1990, perdendo espaço após o surgimento e popularização da nova geração de consoles.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>É um console de video game de 16 bits da Sega que concorria diretamente com o SNES. O console fez grande sucesso na década de 1990, perdendo espaço após o surgimento e popularização da nova geração de consoles.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>It is a 16-bit video game console from Sega that competed directly with the SNES. The console was very successful in the 1990s, losing ground after the emergence and popularization of the new generation of consoles.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Es una consola de videojuego de 16 bits de Sega que compitió directamente con el SNES. La consola tuvo gran éxito en la década de 1990, perdiendo espacio después del surgimiento y popularización de la nueva generación de consolas.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Il s’agit d’une console de jeux vidéo 16 bits de Sega qui est en concurrence directe avec la SNES. La console a connu un grand succès dans les années 90, perdant du terrain après l’émergence et la popularisation de la nouvelle génération de consoles.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Mega Drive</text>
+		</text>
+						<text name="info2" extra="true" region="EN">
+			<text>Sega Genesis</text>
+		</text>
+						<text name="info2" extra="true" region="ES">
+			<text>Sega Mega Drive</text>
+		</text>
+						<text name="info2" extra="true" region="FR">
+			<text>Sega Mega Drive</text>
+		</text>
+		
+			<image name="logo" region="EN">
+		<path>./assets/logos/genesis.png</path>
+	</image>
+
+				<image name="sublogo" region="EN">
+		<path>./assets/logos/genesis.png</path>
+	</image>
+	
+      <image name="art"  region="EN">
+         <path>./assets/arts/genesis.jpg</path>
+      </image>
+
+	
+		<text name="info3" extra="true">
+			<text>1988</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>	
+	
+	</view>
+  <view name="grid">
+      <image name="art4" extra="true"  region="EN">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/arts/genesis.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+
+      <image name="logo4" region="EN">
+		<path>./assets/logos/genesis.png</path>
+         <pos>0.02 0.12</pos>
+         <maxSize>0.34 0.16</maxSize>
+         <origin>0 0</origin>
+         <zIndex>5</zIndex>
+      </image>  
+	  
+	</view>
+	  
+   <customView name="Boxes">
+	      <image name="art4" extra="true"  region="EN">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/arts/genesis.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+	   </customView>
+	   
+   <customView name="Boxes + details">
+	      <image name="art4" extra="true"  region="EN">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/arts/genesis.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+	   </customView>
+	   
+   <customView name="Boxes + Video">
+	      <image name="art4" extra="true"  region="EN">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/arts/genesis.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+	   </customView>	   
+
+   <customView name="Carousel">
+	      <image name="art4" extra="true"  region="EN">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/arts/genesis.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+	   </customView>
+
+   <customView name="Carousel Default">
+	      <image name="art4" extra="true"  region="EN">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/arts/genesis.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+	   </customView>
+	   
+   <customView name="Carousel + Details">
+	      <image name="art4" extra="true"  region="EN">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/arts/genesis.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+	   </customView>	   
+	   
+   <customView name="Tiles">
+	      <image name="art4" extra="true"  region="EN">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/arts/genesis.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+	   </customView>
+
+   <customView name="Tiles + Video">
+	      <image name="art4" extra="true"  region="EN">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/arts/genesis.jpg</path>
+         <zIndex>5</zIndex>
+      </image>
+	   </customView>
+
+</theme>

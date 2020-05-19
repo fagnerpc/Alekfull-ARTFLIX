@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de videogame portátil desenvolvido e produzido pela Nintendo, lançado em 2004. Ele é visualmente distinto por seu design abre e fecha, e a presença de duas telas, sendo a inferior sensível ao toque.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>É um console de videogame portátil desenvolvido e produzido pela Nintendo, lançado em 2004. Ele é visualmente distinto por seu design abre e fecha, e a presença de duas telas, sendo a inferior sensível ao toque.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>It is a portable video game console developed and produced by Nintendo, launched in 2004. It is visually distinguished by its open and close design, and the presence of two screens, the lower one being touch sensitive.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Es una consola de videojuegos portátil desarrollada y producida por Nintendo, lanzada en 2004. Se distingue visualmente por su diseño abierto y cerrado, y la presencia de dos pantallas, la inferior es sensible al tacto.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>C'est une console de jeu vidéo portable développée et produite par Nintendo, lancée en 2004. Elle se distingue visuellement par son design ouvert et fermé et par la présence de deux écrans, le plus bas étant sensible au toucher.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Nintendo DS</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

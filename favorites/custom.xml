@@ -1,0 +1,91 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Encontre todos os seus jogos favoritos em um único sistema.
+Toda vez que marcar um jogo como favorito em um sistema, você o encontrará aqui.
+Aproveite!</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>Encontre todos os seus jogos favoritos em um único sistema.
+Toda vez que marcar um jogo como favorito em um sistema, você o encontrará aqui.
+Aproveite!</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Find all your favorites games in a single system.
+Every time you mark a game as favorites in a system, you will find it here.
+Enjoy!</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Encuentra todos tus juegos favoritos en un solo sistema.
+Cada vez que marques un juego como favorito en un sistema, lo encontrarás aquí.
+¡Disfruta!</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Trouvez tous vos jeux favoris dans un seul système.
+Chaque fois que vous marquez un jeu comme favori dans un système, vous le trouverez ici.
+Prendre plaisir !</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Favoritos</text>
+		</text>
+		
+				<text name="info2" extra="true"  region="PTBR">
+			<text>Favoritos</text>
+		</text>
+						<text name="info2" extra="true" region="EN">
+			<text>Favorites</text>
+		</text>
+						<text name="info2" extra="true" region="ES">
+			<text>Favoritos</text>
+		</text>
+						<text name="info2" extra="true" region="FR">
+			<text>Favoris</text>
+		</text>
+		
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+		
+			<image name="logo" region="EN">
+		<path>./assets/logos/auto-favorites-en.png</path>
+	</image>
+
+				<image name="sublogo" region="EN">
+		<path>./assets/logos/auto-favorites-en.png</path>
+	</image>		
+		
+
+			<image name="logo" region="ES">
+		<path>./assets/logos/auto-favorites-es.png</path>
+	</image>
+
+				<image name="sublogo" region="ES">
+		<path>./assets/logos/auto-favorites-es.png</path>
+	</image>
+
+
+			<image name="logo" region="FR">
+		<path>./assets/logos/auto-favorites-fr.png</path>
+	</image>
+
+				<image name="sublogo" region="FR">
+		<path>./assets/logos/auto-favorites-fr.png</path>
+	</image>		
+		
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>
+	</view>
+
+</theme>

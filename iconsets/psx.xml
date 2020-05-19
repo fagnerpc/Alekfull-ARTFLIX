@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./psx/updown.png</iconUpDown>
+			<iconLeftRight>./psx/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./psx/all.png</iconUpDownLeftRight>
+			<iconA>./psx/a.png</iconA>
+			<iconB>./psx/b.png</iconB>
+			<iconX>./psx/x.png</iconX>
+			<iconY>./psx/y.png</iconY>
+			<iconL>./psx/l.png</iconL>
+			<iconR>./psx/r.png</iconR>
+			<iconStart>./psx/start.png</iconStart>
+			<iconSelect>./psx/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

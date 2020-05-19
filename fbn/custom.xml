@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>FB NEO é um emulador de código aberto das placas Capcom modelos CPS-1, 2 e 3, além de outras placas de arcade como a do SNK Neo-Geo, Toaplan, Cave e várias outras.</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>FB NEO é um emulador de código aberto das placas Capcom modelos CPS-1, 2 e 3, além de outras placas de arcade como a do SNK Neo-Geo, Toaplan, Cave e várias outras.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>FB NEO is an open-source project and it is programmed by a group of people known as the FBA Team. FB Alpha is based on the original FinalBurn by Dave.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>FB NEO es un proyecto de código abierto y está programado por un grupo de personas conocido como el Equipo FBA. FB Alpha está basado en el FinalBurn original de Dave.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>FB NEO est un émulateur de jeu vidéo d'arcade basé sur l'émulateur Final Burn, qui émule différents systèmes tel que le MVS, le CPS1 et CPS2, le System 16, System 18, X Board, Y Board de Sega, etc.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>FinalBurn NEO</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>FinalBurn NEO Team</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>			
+	</view>
+</theme>

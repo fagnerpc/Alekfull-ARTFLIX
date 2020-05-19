@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Wii U é um console de videogame da Nintendo, sucessor do Wii. Foi lançado em 18 de Novembro de 2012 na América do Norte, 30 de Novembro na Europa e em 8 de Dezembro no Japão.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Wii U é um console de videogame da Nintendo, sucessor do Wii. Foi lançado em 18 de Novembro de 2012 na América do Norte, 30 de Novembro na Europa e em 8 de Dezembro no Japão.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Wii U is a video game console from Nintendo, Wii's successor. It was released on November 18, 2012 in North America, November 30 in Europe and December 8 in Japan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Wii U es una consola de videojuegos de Nintendo, el sucesor de Wii. Fue lanzado el 18 de noviembre de 2012 en América del Norte, el 30 de noviembre en Europa y el 8 de diciembre en Japón.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Wii U est une console de jeux vidéo de Nintendo, le successeur de la Wii. Il a été publié le 18 novembre 2012 en Amérique du Nord, le 30 novembre en Europe et le 8 décembre au Japon.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Nintendo Wii U</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2012</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+</theme>

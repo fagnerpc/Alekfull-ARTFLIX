@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <view name="system">
+    <video name="tv_effect" extra="true">
+      <pos>0 0</pos>
+      <size>1 1</size>
+      <path>./effect_crt.mp4</path>
+      <color>A0A0A007</color></video>
+  </view>
+
+
+</theme>
