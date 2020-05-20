@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Midway Games Inc. (anteriormente Midway Manufacturing) era uma desenvolvedora e editora americana de videogames. As franquias da Midway incluíam Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n e NFL Blitz.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Midway Games Inc. (anteriormente Midway Manufacturing) era uma desenvolvedora e editora americana de videogames. As franquias da Midway incluíam Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n e NFL Blitz.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Midway Games Inc. (formerly Midway Manufacturing and commonly known as simply Midway) was an American video game developer and publisher. Midway's franchises included Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n, and NFL Blitz.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Midway Games Inc. (anteriormente Midway Manufacturing) fue un desarrollador y editor de videojuegos estadounidense. Las franquicias de Midway incluyeron Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n y NFL Blitz.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Midway Games Inc. (anciennement Midway Manufacturing) était un développeur et éditeur américain de jeux vidéo. Les franchises de Midway comprenaient Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n et NFL Blitz.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Midway</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1958</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Henry Ross, Marcine Wolverton</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>FONDATEUR:</text>
+		</text>	
+		
+	</view>
+</theme>

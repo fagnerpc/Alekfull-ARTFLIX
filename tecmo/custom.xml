@@ -1,0 +1,42 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Media player é um tipo de aplicativo para reproduzir arquivos multimídia, como arquivos de áudio e vídeo. Os players de mídia geralmente exibem ícones de controle de mídia padrão conhecidos de dispositivos físicos, como CD players.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Tecmo Co., Ltd. era uma empresa japonesa de videogame fundada em 1967. Sua sede era em Kudankita, Chiyoda, Tóquio. Tecmo é conhecido pelas séries Star Force, Dead or Alive, Fatal Frame, Ninja Gaiden e Rygar.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Media player software is a type of application software for playing multimedia files like audio and video files. Media players commonly display standard media control icons known from physical devices such as tape recorders and CD players.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Media Player es un tipo de software de aplicación para reproducir archivos multimedia como archivos de audio y video. Los reproductores multimedia suelen mostrar iconos de control multimedia conocidos desde dispositivos físicos, como reproductores de CD.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Est un type de logiciel d'application pour lire des fichiers multimédias comme des fichiers audio et vidéo. Les lecteurs multimédias affichent généralement des icônes de contrôle multimédia standard connues des périphériques physiques tels que les lecteurs de CD.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Media Player</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>
+
+	</view>
+</theme>

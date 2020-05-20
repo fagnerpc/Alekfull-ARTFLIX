@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de videogame portátil, de 8 bits, desenvolvido e produzido pela Sega. Fazia parte da denominada 4ª geração de consolas e surgiu em resposta ao portátil da Nintendo, o Game Boy.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>É um console de videogame portátil, de 8 bits, desenvolvido e produzido pela Sega. Fazia parte da denominada 4ª geração de consolas e surgiu em resposta ao portátil da Nintendo, o Game Boy.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Es una videoconsola portátil creada por Sega en respuesta a la Game Boy de Nintendo. Es la tercera consola portátil con pantalla en color de la historia, después de la Atari Lynx y la Turbo Express.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>La Game Gear (ゲームギア, Gēmu gia?) est une console de jeux vidéo portable en couleur, sortie en 1990 et produite par Sega afin de concurrencer la Game Boy de Nintendo apparue une année plus tôt.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Game Gear Hacks</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>			
+	</view>
+</theme>
