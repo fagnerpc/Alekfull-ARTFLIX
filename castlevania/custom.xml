@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Castlevania é uma série de videogame de terror gótico de ação e aventura sobre caçadores de vampiros criada e desenvolvida pela Konami. Foi lançado em várias plataformas, desde os primeiros sistemas até os consoles modernos, bem como em dispositivos portáteis.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Castlevania é uma série de videogame de terror gótico de ação e aventura sobre caçadores de vampiros criada e desenvolvida pela Konami. Foi lançado em várias plataformas, desde os primeiros sistemas até os consoles modernos, bem como em dispositivos portáteis.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Castlevania is an action-adventure gothic horror video game series about vampire hunters created and developed by Konami. It has been released on various platforms, from early systems to modern consoles, as well as handheld devices such as mobile phones.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Castlevania es una serie de videojuegos de terror gótico de acción y aventura sobre cazadores de vampiros creada y desarrollada por Konami. Se ha lanzado en varias plataformas, desde los primeros sistemas hasta las consolas modernas.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Castlevania est une série de jeux vidéo d'horreur gothique d'action-aventure sur les chasseurs de vampires créée et développée par Konami. Il a été publié sur diverses plates-formes, des premiers systèmes aux consoles modernes.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Castlevania</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Konami</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+</theme>

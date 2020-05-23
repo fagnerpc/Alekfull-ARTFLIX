@@ -1,0 +1,38 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de videogame doméstico lançado pela Nintendo, que emula o Super NES. O console, sucessor da NES Classic Edition, vem com 21 títulos Super NES pré-instalados, incluindo o primeiro lançamento oficial de Star Fox 2.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>É um console de videogame doméstico lançado pela Nintendo, que emula o Super NES. O console, sucessor da NES Classic Edition, vem com 21 títulos Super NES pré-instalados, incluindo o primeiro lançamento oficial de Star Fox 2.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Is a dedicated home video game console released by Nintendo, which emulates the Super NES. The console, a successor to the NES Classic Edition, comes with twenty-one Super NES titles pre-installed, including the first official release of Star Fox 2.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Es una consola de videojuegos lanzada por Nintendo, que emula el Super NES. La consola, sucesora de la NES Classic Edition, viene con veintiún títulos Super NES preinstalados, incluido el primer lanzamiento oficial de Star Fox 2.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Est une console de jeu vidéo dédiée à la maison publiée par Nintendo, qui émule le Super NES. La console, successeur de la NES Classic Edition, est livrée avec 21 titres Super NES préinstallés, dont la première version officielle de Star Fox 2.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Super NES Mini</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2017</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	
+	</view>
+</theme>
