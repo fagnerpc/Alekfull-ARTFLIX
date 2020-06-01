@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <customView name="HCoinSpin">
+      <video name="tv_effect" extra="true">
+         <pos>0.068 0.22</pos>
+         <minSize>0.40 0.55</minSize>
+         <path>./../effects/effect_vhs_glitch.mp4</path>
+         <color>FFFFFF20</color>
+         <zIndex>6</zIndex>
+	  </video>
+  </customView>
+  
+  <customView name="CoinOps Details">
+      <video name="tv_effect" extra="true">
+         <pos>0.068 0.22</pos>
+         <minSize>0.40 0.55</minSize>
+         <path>./../effects/effect_vhs_glitch.mp4</path>
+         <color>FFFFFF20</color>
+         <zIndex>6</zIndex>
+	  </video>
+  </customView>  
+</theme>

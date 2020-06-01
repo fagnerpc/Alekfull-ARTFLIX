@@ -26,7 +26,7 @@
 		<video name="md_video" extra="true">
 	     <path>{random}</path> 
          <pos>0.025 0.62</pos>
-         <minSize>0.30 0.30</minSize>
+         <maxSize>0.30 0.30</maxSize>
          <origin>0 0</origin>
          <delay>0.2</delay>
          <showSnapshotNoVideo>false</showSnapshotNoVideo>
@@ -156,7 +156,7 @@
 		</text>
 
 		<text name="info6" extra="true" region="PTBR">
-			<text>Friday, July 19</text>
+			<text>Idioma Selecionado: PT(BR)</text>
 		</text>
 		
 				<text name="info6" extra="true" region="EN">
@@ -215,8 +215,6 @@
 		<glowSize>0.8</glowSize>
 		<zIndex>42</zIndex>
 	</text>
-
-
 	
      <helpsystem name="help">
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
@@ -224,16 +222,6 @@
          <pos>0.02 0.955</pos>
          <textColor>FFFFFF</textColor>
       </helpsystem>
-  
-    <text name="clock">
-      <color>777777FF</color>
-	  <fontPath>./_assets/DIGITAL.TTF</fontPath>
-      <fontSize>0.016</fontSize>
-      <pos>0.148 0.055</pos>
-      <size>0.05 0.058</size>
-      <verticalAlignment>left</verticalAlignment>
-    </text>
-
 </view>
 
    <view name="screen">
@@ -247,7 +235,6 @@
          <activityColor>A0A0FFC0</activityColor>
          <hotkeyColor>FFA0A0C0</hotkeyColor>
       </controllerActivity>
-
 
    </view>
 

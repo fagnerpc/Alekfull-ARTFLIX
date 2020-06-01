@@ -155,7 +155,7 @@
 		</text>
 
 		<text name="info6" extra="true" region="PTBR">
-			<text>Friday, July 19</text>
+			<text>Idioma Selecionado: PT(BR)</text>
 		</text>
 		
 				<text name="info6" extra="true" region="EN">
@@ -214,15 +214,6 @@
 		<glowSize>0.8</glowSize>
 		<zIndex>42</zIndex>
 	</text>
-
-    <text name="clock">
-      <color>777777FF</color>
-	  <fontPath>./_assets/DIGITAL.TTF</fontPath>
-      <fontSize>0.016</fontSize>
-      <pos>0.148 0.055</pos>
-      <size>0.05 0.058</size>
-      <verticalAlignment>left</verticalAlignment>
-    </text>
 </view>
 
    <view name="screen">

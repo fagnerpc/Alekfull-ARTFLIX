@@ -22,5 +22,8 @@
 	<include subset="systemview" name="Random Video Background (Logo)" displayName="${svrandvidl}">./systemview/7AA2.xml</include>	
 	<include subset="systemview" name="Dynamic Background" displayName="${svwheel}">./systemview/7A.xml</include>
 	<include subset="systemview" name="Dynamic Background (Logo)" displayName="${svwheell}">./systemview/7A2.xml</include>
+	<include subset="systemview" name="Custom Background Image" displayName="${scustimg}">./systemview/7AD.xml</include>
+	<include subset="systemview" name="Custom Background Image (Logo)" displayName="${scustimgl}">./systemview/7AD2.xml</include>
+	<include subset="systemview" name="Without Vertical Carousel" displayName="${snocarou}">./systemview/7B.xml</include>
 	
 </theme>

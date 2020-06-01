@@ -3,7 +3,7 @@ ALEKFULL-ARTFLIX theme by fagnerpc
 facebook.com/alekfull.arcade
 
 
-Artes, código e conceito por fagnerpc
+Artes, codigo e conceito por fagnerpc
 Tema proibido para uso comercial
 -->
 
@@ -20,8 +20,6 @@ Tema proibido para uso comercial
    <include subset="MainBGColor" name="Red" displayName="${huered}">./colorsets/red.xml</include>
    <include subset="MainBGColor" name="Blue" displayName="${hueblue}">./colorsets/blue.xml</include>   
    <include subset="MainBGColor" name="Purple" displayName="${huepurple}">./colorsets/purple.xml</include>
-   <include subset="CoinOpsDefault" name="Arcade" displayName="${copsdef}">./colorsets/coinops.xml</include>
-   <include subset="CoinOpsDefault" name="TV" displayName="${copstv}">./colorsets/tv.xml</include>
    <include subset="shader" name="None" displayName="${none}"/>
    <include subset="shader" name="ScanLines">./effects/scanliness.xml</include>
    <include subset="shader" name="Crt">./effects/crtt.xml</include>
@@ -34,7 +32,14 @@ Tema proibido para uso comercial
    <include subset="shader" name="ScanLines Full Screen" displayName="${sclfs}">./effects/scanlines.xml</include>
    <include subset="shader" name="VHS Glitch (Heavy)" displayName="${svhsgl}">./effects/vhs.xml</include>
    <include subset="shader" name="CRT Glitch (Heavy)" displayName="${scrtgl}">./effects/crtvideo.xml</include>
-   <variables> <subset.MainBGColor>Main Background Color</subset.MainBGColor> <subset.CoinOpsDefault>CoinOps Default System</subset.CoinOpsDefault> </variables>
+   <include subset="tveffect" name="None" displayName="${none}" appliesTo="HCoinSpin,CoinOps Details"/>
+   <include subset="tveffect" name="Glitch" appliesTo="HCoinSpin,CoinOps Details">./effects/vhscoin.xml</include>
+   <include subset="tveffect" name="CRT" appliesTo="HCoinSpin,CoinOps Details">./effects/crtcoin.xml</include>
+   <include subset="CoinOpsDefault" name="TV" displayName="${copstv}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/tv.xml</include>
+   <include subset="CoinOpsDefault" name="Arcade" displayName="${copsdef}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/coinops.xml</include>
+   <variables> <subset.MainBGColor>Main Background Color</subset.MainBGColor> <subset.CoinOpsDefault>CoinOps Default System</subset.CoinOpsDefault>
+   <subset.tveffect>TV Effect CoinOps View</subset.tveffect>
+   </variables>
 
   <variables lang="pt">
     <tilesViewName>Miniaturas</tilesViewName>
@@ -46,8 +51,10 @@ Tema proibido para uso comercial
     <carouselViewName>Carrossel</carouselViewName>
     <carouselDefaultViewName>Carrossel Simples</carouselDefaultViewName>
     <carouselDetailsViewName>Carrossel Detalhado</carouselDetailsViewName>
+    <carouselposterViewName>Carrossel Poster</carouselposterViewName>	
     <carouselDetailssViewName>Carrossel (Imagem de Fundo + Video)</carouselDetailssViewName>
-    <hspindefViewName>HSpin (Vista Padrao)</hspindefViewName>
+    <hartfdefViewName>Artflix (Vista Padrao)</hartfdefViewName>
+	<hspindefViewName>HSpin (Vista Padrao)</hspindefViewName>
     <hspinfvlViewName>HSpin (Video Tela Cheio + Logos)</hspinfvlViewName>
     <hspinfvcViewName>HSpin (Video Tela Cheio + Capas)</hspinfvcViewName>
     <nflixxViewName>NFlix (Estatico)</nflixxViewName>
@@ -79,12 +86,16 @@ Tema proibido para uso comercial
 	<srandbgl>Imagens de Fundo Aleatorias de Jogos (Logos)</srandbgl>
     <svrandvid>Video de Fundo Aleatorios de Jogos</svrandvid>
 	<svrandvidl>Video de Fundo Aleatorios de Jogos (Logos)</svrandvidl>
+	<scustimg>Imagens de Fundo Customizadas</scustimg>
+	<scustimgl>Imagens de Fundo Customizadas (Logos)</scustimgl>
+	<snocarou>Sem Carrossel Vertical</snocarou>
     <subset.systemview>Vistas de Sistemas</subset.systemview>
     <subset.colorset>Imagens de Fundo</subset.colorset>
     <subset.iconset>Icones do Menu</subset.iconset>
     <subset.shader>Shaders do Tema</subset.shader>
 	<subset.music>Musicas dos Sistemas</subset.music>
 	<subset.MainBGColor>Cor do Fundo Principal</subset.MainBGColor>
+	<subset.tveffect>Efeito da Tela Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Fundo Padrao Vista CoinOps</subset.CoinOpsDefault>
   </variables>
 
@@ -99,7 +110,9 @@ Tema proibido para uso comercial
     <carouselViewName>Carrousel</carouselViewName>
     <carouselDefaultViewName>Carrousel simple</carouselDefaultViewName>
     <carouselDetailsViewName>Carrousel detaille</carouselDetailsViewName>
+	<carouselposterViewName>Affiche Carrossel</carouselposterViewName>
     <carouselDetailssViewName>Carrousel (arriere-plan + video)</carouselDetailssViewName>
+	<hartfdefViewName>Artflix (vue standard)</hartfdefViewName>
     <hspindefViewName>HSpin (vue standard)</hspindefViewName>
     <hspinfvlViewName>HSpin (video plein ecran + logos)</hspinfvlViewName>
     <hspinfvcViewName>HSpin (video plein ecran + couvertures)</hspinfvcViewName>
@@ -130,13 +143,17 @@ Tema proibido para uso comercial
     <srandbg>Fonds decran de jeux aleatoires</srandbg>
 	<srandbgl>Fonds decran de jeux aleatoires (Logos)</srandbgl>
     <svrandvid>Arriere-plan du jeu video aleatoire</svrandvid>
-	<svrandvidl>Arriere-plan du jeu video aleatoire (Logos)</svrandvidl>	
+	<svrandvidl>Arriere-plan du jeu video aleatoire (Logos)</svrandvidl>
+	<scustimg>Images darriere-plan personnalisees</scustimg>
+	<scustimgl>Images darriere-plan personnalisees (Logos)</scustimgl>
+	<snocarou>Sans Carrousel Vertical</snocarou>
     <subset.systemview>Vues systemes</subset.systemview>
     <subset.colorset>Images darriere-plan</subset.colorset>
     <subset.iconset>Icones de Menu</subset.iconset>
     <subset.shader>Shaders de Theme</subset.shader>
 	<subset.music>System Music</subset.music>
 	<subset.MainBGColor>Couleur darriere-plan principale </subset.MainBGColor>
+	<subset.tveffect>Effet decran Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Modele darriere-plan Vista CoinOps </subset.CoinOpsDefault>
   </variables> 
    
@@ -151,7 +168,9 @@ Tema proibido para uso comercial
     <carouselViewName>Carrussel</carouselViewName>
     <carouselDefaultViewName>Carrussel Simple</carouselDefaultViewName>
     <carouselDetailsViewName>Carrussel Detallado</carouselDetailsViewName>
+	<carouselposterViewName>Cartel de Carrossel</carouselposterViewName>
     <carouselDetailssViewName>Carrussel (Imagen de Fondo + Video)</carouselDetailssViewName>
+	<hartfdefViewName>Artflix (Vista Estandar)</hartfdefViewName>
     <hspindefViewName>HSpin (Vista Estandar)</hspindefViewName>
     <hspinfvlViewName>HSpin (video de pantalla completa + logotipos)</hspinfvlViewName>
     <hspinfvcViewName>HSpin (video de pantalla completa + cajas)</hspinfvcViewName>
@@ -184,12 +203,16 @@ Tema proibido para uso comercial
 	<srandbgl>Fondos de pantalla de juegos aleatorios (Logos)</srandbgl>
     <svrandvid>Fondos de video de juegos aleatorios</svrandvid>
 	<svrandvidl>Fondos de video de juegos aleatorios (Logos)</svrandvidl>
+	<scustimg>Imagenes de Fondo Personalizadas</scustimg>
+	<scustimgl>Imagenes de Fondo Personalizadas (Logos)</scustimgl>
+	<snocarou>Sin Carrussel Vertical</snocarou>
     <subset.systemview>Vistas de Sistemas</subset.systemview>
     <subset.colorset>Imagenes de Fondo</subset.colorset>
     <subset.iconset>Iconos de Menu</subset.iconset>
     <subset.shader>Shaders de Tema</subset.shader>
 	<subset.music>Musica del Sistemas</subset.music>
 	<subset.MainBGColor>Color de Fondo Principal</subset.MainBGColor>
+	<subset.tveffect>Efecto de pantalla Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Fondo estandar de CoinOps Vista</subset.CoinOpsDefault>
   </variables>
 
@@ -373,6 +396,224 @@ Tema proibido para uso comercial
       </text>
    </view>
 
+<customView name="Artflix (Default)" inherits="grid" tinyScreen="false" displayName="${hartfdefViewName}">
+      <text name="md_name">
+         <color>ffffffff</color>
+         <pos>0.025 0.16</pos>
+         <size>0.92 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000016</glowColor>
+         <glowSize>4</glowSize>
+         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
+         <zIndex>0</zIndex>
+      </text>
+
+      <imagegrid name="gamegrid">
+         <pos>0.72 0</pos>
+         <size>0.3 1</size>
+         <scrollDirection>vertical</scrollDirection>
+         <autoLayout>1 7</autoLayout>
+         <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
+         <margin>0.005 0.010</margin>
+         <centerSelection>true</centerSelection>
+         <scrollLoop>true</scrollLoop>
+         <imageSource>marquee</imageSource>
+      </imagegrid>
+
+      <text name="md_developer">
+		<fontPath>./assets/Circular Std Book.ttf</fontPath>
+		<color>5c5b5c</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.21 0.03</size>
+		<pos>0.195 0.374</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+
+		<text name="info6" extra="true">
+			<text>Idioma Selecionado: PT(BR)</text>
+		</text>
+		<text name="info6" extra="true" region="PTBR">
+			<text>Idioma Selecionado: PT(BR)</text>
+		</text>
+		<text name="info6" extra="true" region="EN">
+			<text>Selected Language: EN(US)</text>
+		</text>
+		<text name="info6" extra="true" region="ES">
+			<text>Idioma Seleccionado: ES</text>
+		</text>
+		<text name="info6" extra="true" region="FR">
+			<text>Langue Choisie: FR</text>
+		</text>
+
+	<text name="info6" extra="true">
+		<fontPath>./assets/Circular Std Book.ttf</fontPath>
+		<color>9b9b9b</color>
+		<alignment>left</alignment>
+		<fontSize>0.0147</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0</size>
+		<pos>0.104 0.076</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>0.6</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+
+      <text name="md_lbl_developer">
+		<fontPath>./assets/Circular Std Black.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0</size>
+		<pos>0.078 0.378</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+		<forceUppercase>true</forceUppercase>
+      </text>
+
+	<text name="playbutton" extra="true">
+		<text>JOGAR AGORA</text>
+	</text>
+	<text name="playbutton" extra="true" region="PTBR">
+		<text>JOGAR AGORA</text>
+	</text>
+	<text name="playbutton" extra="true" region="EN">
+		<text>PLAY NOW</text>
+	</text>
+	<text name="playbutton" extra="true" region="ES">
+		<text>JUGAR AHORA</text>
+	</text>
+	<text name="playbutton" extra="true" region="FR">
+		<text>LISTE DES JEUX</text>
+	</text>
+
+	<text name="playbutton" extra="true">
+		<fontPath>./assets/Circular Std Black.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>center</alignment>
+	     <fontSize>0.0142</fontSize>
+		<size>0.35 0</size>
+		<pos>-0.108 0.5315</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>0.8</glowSize>
+		<zIndex>42</zIndex>
+	</text>
+
+      <datetime name="md_releasedate">
+		<fontPath>./assets/Circular Std Black.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.04 0.03</size>
+		<pos>0.029 0.374</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+		<format>%Y</format>
+      </datetime>
+
+      <gridtile name="default">
+         <padding>64 16</padding>
+         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+         <imageSizeMode>maxSize</imageSizeMode>
+         <imageColor>FFFFFFAA</imageColor>
+         <reflexion>0.11 0.0</reflexion>
+      </gridtile>
+      <gridtile name="selected">
+         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+         <padding>64 16</padding>
+      </gridtile>
+      <text name="gridtile">
+         <color>80808080</color>
+         <fontSize>0.016</fontSize>
+         <size>1 0</size>
+      </text>
+      <text name="gridtile_selected">
+         <color>FFFFFF00</color>
+         <fontSize>0.035</fontSize>
+         <size>1 0</size>
+      </text>
+      <image name="art2" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./assets/overlay1222.png</path>
+         <zIndex>6</zIndex>
+      </image>
+
+      <text name="md_description">
+		<fontPath>./assets/Circular Std Book.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0.0925</size>
+		<pos>0.025 0.4</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+     <video name="md_video">
+         <pos>0.025 0.62</pos>
+         <minSize>0.30 0.30</minSize>
+         <origin>0 0</origin>
+         <delay>0.2</delay>
+         <showSnapshotNoVideo>false</showSnapshotNoVideo>
+         <showSnapshotDelay>false</showSnapshotDelay>
+         <zIndex>6</zIndex>
+      </video>
+
+      <image name="logo">
+         <!-- try png -->
+         <path>./assets/logos/${system.theme}.png</path>
+         <!-- if system2 exists, take this version -->
+         <path>./${system.theme}/art/system2.svg</path>
+         <!--<pos>0.266 0.074</pos><maxSize>0.460 0.126</maxSize>-->
+         <pos>0.152 0.74</pos>
+         <maxSize>0.4 0.126</maxSize>
+         <origin>0 0</origin>
+         <zIndex>0</zIndex>
+      </image>
+
+      <image name="md_marquee">
+         <pos>0.155 0.22</pos>
+         <maxSize>0.24 0.26</maxSize>
+         <zIndex>36</zIndex>
+      </image>
+
+	<text name="md_genre">
+		<pos>0.1515 0.5291</pos>
+         <alignment>center</alignment>
+         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+	     <fontSize>0.0138</fontSize>
+	     <color>FFFFFF</color><zIndex>42</zIndex>
+		<size>0.08 0.03</size>
+		<forceUppercase>true</forceUppercase>
+    </text>
+
+     <rating name="md_rating">
+         <zIndex>0</zIndex>
+      </rating>
+
+      <image name="md_image">
+         <zIndex>4</zIndex>
+      </image>
+
+      <text name="md_publisher">
+         <color>ffffff00</color>
+         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
+         <pos>0.42 0.63</pos>
+      </text>
+</customView>
+   
 <customView name="HSpin (Default)" inherits="grid" tinyScreen="false" displayName="${hspindefViewName}">
       <text name="md_name">
          <color>ffffffff</color>
@@ -738,12 +979,6 @@ Tema proibido para uso comercial
          <zIndex>5</zIndex>
       </video>
 
-    <video name="tv_effect" extra="true">
-      <pos>0.068 0.28</pos>
-         <minSize>0.40 0.55</minSize>
-      <path>./effects/effect_vhs_glitch.mp4</path>
-      <color>FFFFFF20</color>         <zIndex>6</zIndex></video>
-
       <image name="art2" extra="true">
          <zIndex>0</zIndex>
       </image>
@@ -785,7 +1020,7 @@ Tema proibido para uso comercial
          <glowColor>00000016</glowColor>
          <glowSize>2</glowSize>
          <alignment>left</alignment>
-	<fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./assets/Circular Std Black.ttf</fontPath>
          <zIndex>36</zIndex>
       </text>
 
@@ -797,7 +1032,7 @@ Tema proibido para uso comercial
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
          <alignment>left</alignment>
-	<fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./assets/Circular Std Book.ttf</fontPath>
       </text>
 
   <text name="md_developer">
@@ -807,7 +1042,7 @@ Tema proibido para uso comercial
          <color>539ac8</color>
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
-	<fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./assets/Circular Std Book.ttf</fontPath>
          <alignment>left</alignment>
     </text>
 	
@@ -874,12 +1109,6 @@ Tema proibido para uso comercial
          <showSnapshotDelay>false</showSnapshotDelay>
          <zIndex>5</zIndex>
       </video>
-
-    <video name="tv_effect" extra="true">
-      <pos>0.068 0.28</pos>
-         <minSize>0.40 0.55</minSize>
-      <path>./effects/effect_vhs_glitch.mp4</path>
-      <color>FFFFFF20</color>         <zIndex>6</zIndex></video>
 
       <image name="art2" extra="true">
          <zIndex>0</zIndex>

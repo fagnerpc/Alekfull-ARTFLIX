@@ -8,6 +8,7 @@
 		<size>1 1</size>
 		<pos>0 0</pos>
 		<origin>0 0</origin>
+		<path>./../customize/images/$system.jpg</path>
 	</image> 	
 
 	<image name="logo">
@@ -22,44 +23,30 @@
          <zIndex>41</zIndex>
       </image>
 
-
-		<video name="md_video" extra="true">
-	     <path>{random}</path> 
-         <pos>0.025 0.62</pos>
-         <maxSize>0.30 0.30</maxSize>
-         <origin>0 0</origin>
-         <delay>0.2</delay>
-         <showSnapshotNoVideo>false</showSnapshotNoVideo>
-         <showSnapshotDelay>false</showSnapshotDelay>
-		 <zIndex>50</zIndex>
-		 </video>
-
-      <image name="md_image"  extra="true">
-	     <path>{random}</path> 
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <zIndex>11</zIndex>
-      </image>
-
-
-
-	<image name="sublogo" extra="true">
-		<path>./../assets/logos/$system.png</path>
-		<pos>0.02 0.22</pos>
-		<maxSize>0.34 0.16</maxSize>
+	<text name="info2" extra="true">
+		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+ 		<fontSize>0.11</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.45 0.35</size>
+		<pos>0.02 0.10</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
 		<zIndex>42</zIndex>
-	</image>	  
+      </text>	  
 	  
 	  
-<text name="info1" extra="true">
-   		<fontPath>./../assets/Roboto-Medium.ttf</fontPath>
-        <color>FFFFFF</color>
-        <alignment>left</alignment>
-        <fontSize>0.023</fontSize>
-        <lineSpacing>1</lineSpacing>
+	<text name="info1" extra="true">
+		<fontPath>./../assets/Circular Std Book.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
 		<size>0.35 0</size>
-		<pos>0.035 0.4</pos>
+		<pos>0.025 0.4</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
 		<zIndex>42</zIndex>
       </text>	  
 	  
@@ -85,17 +72,14 @@
 	     <color>FFFFFF</color>
     </text>
 
-<text name="info2" extra="true">
-   		<fontPath>./../assets/Roboto-Medium.ttf</fontPath>
-        <color>FFFFFF</color>
-        <alignment>left</alignment>
-        <fontSize>0.023</fontSize>
-        <lineSpacing>1</lineSpacing>
-		<size>0.35 0</size>
-		<pos>0.035 0.4</pos>
-		<zIndex>0</zIndex>
-      </text>
 
+     <helpsystem name="help">
+         <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontSize>0.017</fontSize>
+         <pos>0.02 0.955</pos>
+         <textColor>FFFFFF</textColor>
+      </helpsystem>
+  
 
 	<text name="info3" extra="true">
 		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
@@ -222,13 +206,7 @@
 		<glowSize>0.8</glowSize>
 		<zIndex>42</zIndex>
 	</text>
-	
-     <helpsystem name="help">
-         <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.017</fontSize>
-         <pos>0.02 0.955</pos>
-         <textColor>FFFFFF</textColor>
-      </helpsystem>  
+
 </view>
 
    <view name="screen">
