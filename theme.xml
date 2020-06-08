@@ -837,9 +837,9 @@ Tema proibido para uso comercial
 		<fontPath>./assets/Circular Std Black.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
- 		<fontSize>0.09</fontSize>
+ 		<fontSize>0.07</fontSize>
 		<lineSpacing>1</lineSpacing>
-		<size>0.45 0.30</size>
+		<size>0.65 0.30</size>
 		<pos>0.03 0.07</pos>
 		<glowColor>00000016</glowColor>
 		<glowSize>4</glowSize>
@@ -1015,7 +1015,7 @@ Tema proibido para uso comercial
       <text name="md_name">
          <pos>0.15 0.86</pos>
          <size>0.39 0.05</size>
-         <fontSize>0.050</fontSize>
+		 <fontSize>0.030</fontSize>
          <color>FFFFFF</color>
          <glowColor>00000016</glowColor>
          <glowSize>2</glowSize>
@@ -1100,6 +1100,15 @@ Tema proibido para uso comercial
          <zIndex>7</zIndex>
       </image>
 
+      <image name="screenbg" extra="true">
+         <color>000000</color>
+         <tile>true</tile>
+         <path>./assets/filter3.png</path>
+         <pos>0.106 0.22</pos>
+         <size>0.365 0.48</size>
+         <zIndex>5</zIndex>
+      </image>	  
+	  
      <video name="md_video">
          <pos>0.106 0.22</pos>
          <size>0.365 0.48</size>
@@ -1147,12 +1156,12 @@ Tema proibido para uso comercial
       <text name="md_name">
          <pos>0.325 0.54</pos>
          <size>0.65 0.05</size>
-         <fontSize>0.050</fontSize>
+		 <fontSize>0.050</fontSize>
          <color>FFFFFF</color>
          <glowColor>00000016</glowColor>
          <glowSize>2</glowSize>
          <alignment>left</alignment>
-	<fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./assets/Circular Std Black.ttf</fontPath>
          <zIndex>36</zIndex>
       </text>
 
@@ -1164,8 +1173,8 @@ Tema proibido para uso comercial
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
          <alignment>left</alignment>
-		<lineSpacing>1.08</lineSpacing>
-	<fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <lineSpacing>1.08</lineSpacing>
+         <fontPath>./assets/Circular Std Book.ttf</fontPath>
       </text>
 
   <text name="md_developer">
@@ -1175,7 +1184,7 @@ Tema proibido para uso comercial
          <color>539ac8</color>
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
-	<fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./assets/Circular Std Book.ttf</fontPath>
          <alignment>left</alignment>
 
     </text>
@@ -1188,7 +1197,7 @@ Tema proibido para uso comercial
          <margin>0.005 0.010</margin>
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
-	  <imageSource>marquee</imageSource>
+         <imageSource>marquee</imageSource>
          <zIndex>6</zIndex>
       </imagegrid>
 
@@ -1262,7 +1271,7 @@ Tema proibido para uso comercial
          <pos>2.15 0.96</pos>
          <fontSize>0.010</fontSize>
          <textColor>539ac8</textColor>
-	<fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./assets/Circular Std Book.ttf</fontPath>
       </helpsystem>
    </customView>
      
@@ -1446,6 +1455,14 @@ Tema proibido para uso comercial
          <glowSize>1</glowSize>
          <alignment>left</alignment>
       </text>
+
+      <image name="md_image">
+         <tile>true</tile>
+         <pos>0.25 0</pos>
+         <origin>0 0</origin>
+         <size>0.75 0.75</size>
+         <zIndex>3</zIndex>
+      </image>
 	  
      <video name="md_video">
          <pos>0.25 0</pos>
@@ -2180,7 +2197,7 @@ Tema proibido para uso comercial
 		<alignment>left</alignment>
  		<fontSize>0.09</fontSize>
 		<lineSpacing>1</lineSpacing>
-		<size>0.45 0.40</size>
+		<size>0.65 0.40</size>
 		<pos>0.03 0</pos>
 		<glowColor>00000016</glowColor>
 		<glowSize>4</glowSize>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  
+	<view name="splash">
+
+		<splash name="splash">
+			<backgroundColor>000000FF</backgroundColor>
+		</splash>
+		
+		<image name="background">
+	    	<path>./assets/arts/splash.jpg</path>
+		</image>
+				
+		<image name="progressbar">
+			<origin>0 0</origin>
+			<pos>0.103 0.85</pos>
+			<size>0.985 0.065</size>
+			<rotation>72</rotation>
+			<rotationOrigin>1.1 1.6</rotationOrigin>
+			<color>f60915</color>
+		</image>
+
+		<text name="label">
+			<fontPath>./assets/Circular Std Book.ttf</fontPath>
+			<color>FFFFFF</color>
+			<fontSize>0.023</fontSize>
+		</text>
+		
+		<image name="progressbar:active">
+			<color>f60915</color>
+			<pos>-0.005 -0.15</pos>
+			<size>0.955 0.065</size>
+			<rotation>-74</rotation>
+			<rotationOrigin>1.1 1.6</rotationOrigin>
+		</image>
+		
+	</view>	
+</theme>

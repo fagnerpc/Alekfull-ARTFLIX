@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Tomb Raider é uma franquia que se originou com uma série de videogames de ação e aventura criada pela empresa britânica de jogos Core Design. Anteriormente de propriedade da Eidos Interactive, a franquia se concentra na arqueóloga britânica fictícia Lara Croft.</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Tomb Raider é uma franquia que se originou com uma série de videogames de ação e aventura criada pela empresa britânica de jogos Core Design. Anteriormente de propriedade da Eidos Interactive, a franquia se concentra na arqueóloga britânica fictícia Lara Croft.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Tomb Raider is a media franchise that originated with an action-adventure video game series created by British gaming company Core Design. Formerly owned by Eidos Interactive, the franchise focuses on fictional British archaeologist Lara Croft.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Tomb Raider es una franquicia que se originó con una serie de videojuegos de acción y aventuras creada por la compañía británica de juegos Core Design. Anteriormente propiedad de Eidos Interactive, la franquicia se centra en la arqueóloga británica ficticia Lara Croft.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Tomb Raider est une franchise médiatique issue d'une série de jeux vidéo d'action-aventure créée par la société de jeux britannique Core Design. Anciennement détenue par Eidos Interactive, la franchise se concentre sur l'archéologue fictive britannique Lara Croft.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Tomb Raider</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Core Design</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+</theme>
