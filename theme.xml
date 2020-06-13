@@ -996,7 +996,7 @@ Tema proibido para uso comercial
       </video>
 
 	   <image name="art" extra="true">
-         <zIndex>4</zIndex>
+         <zIndex>5</zIndex>
          <pos>-0.55 0</pos>
       </image> 
 	  
@@ -1014,7 +1014,7 @@ Tema proibido para uso comercial
       </image>
 
       <image name="md_image">
-         <zIndex>3</zIndex>
+         <zIndex>4</zIndex>
          <pos>0.15 0</pos>
       </image>
 
@@ -1140,7 +1140,7 @@ Tema proibido para uso comercial
       </video>
 	  
       <image name="art" extra="true">
-         <zIndex>4</zIndex>
+         <zIndex>5</zIndex>
          <pos>-0.55 0</pos>
       </image>
 
@@ -1158,7 +1158,7 @@ Tema proibido para uso comercial
       </image>
 
       <image name="md_image">
-         <zIndex>3</zIndex>
+         <zIndex>4</zIndex>
          <pos>0.15 0</pos>
       </image>
 
