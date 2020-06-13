@@ -1,8 +1,9 @@
 <!--
 ALEKFULL-ARTFLIX theme by fagnerpc
-facebook.com/alekfull.arcade
+https://facebook.com/alekfull.arcade
 
-
+Version: 1.08 for Batocera 5.25+, Retrobat and Emuelec 3.24+
+https://github.com/fagnerpc/Alekfull-ARTFLIX
 Artes, codigo e conceito por fagnerpc
 Tema proibido para uso comercial
 -->
@@ -15,7 +16,7 @@ Tema proibido para uso comercial
    <include subset="music" name="Mute" displayName="${silence}">./nosounds.xml</include>
    <include subset="music" name="On" displayName="${sysmusic}">./sounds.xml</include>
    <include subset="music" name="Off" displayName="${nomusic}"/>
-   <include subset="MainBGColor" name="Default" displayName="${huedefault}"/>
+   <include subset="MainBGColor" name="Default" displayName="${default}"/>
    <include subset="MainBGColor" name="Green" displayName="${huegreen}">./colorsets/green.xml</include>
    <include subset="MainBGColor" name="Red" displayName="${huered}">./colorsets/red.xml</include>
    <include subset="MainBGColor" name="Blue" displayName="${hueblue}">./colorsets/blue.xml</include>   
@@ -35,10 +36,13 @@ Tema proibido para uso comercial
    <include subset="tveffect" name="None" displayName="${none}" appliesTo="HCoinSpin,CoinOps Details"/>
    <include subset="tveffect" name="Glitch" appliesTo="HCoinSpin,CoinOps Details">./effects/vhscoin.xml</include>
    <include subset="tveffect" name="CRT" appliesTo="HCoinSpin,CoinOps Details">./effects/crtcoin.xml</include>
-   <include subset="CoinOpsDefault" name="TV" displayName="${copstv}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/tv.xml</include>
-   <include subset="CoinOpsDefault" name="Arcade" displayName="${copsdef}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/coinops.xml</include>
+   <include subset="ShowTopMarquee" name="Yes" displayName="${yes}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/wmarquee.xml</include>
+   <include subset="ShowTopMarquee" name="No" displayName="${no}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/nmarquee.xml</include>
+   <include subset="CoinOpsDefault" name="Default" displayName="${default}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/coinops.xml</include>
+   <include subset="CoinOpsDefault" name="TV Only" displayName="${copstv}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/tv.xml</include>
+   <include subset="CoinOpsDefault" name="Arcade Only" displayName="${copsarc}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/arcade.xml</include>
    <variables> <subset.MainBGColor>Main Background Color</subset.MainBGColor> <subset.CoinOpsDefault>CoinOps Default System</subset.CoinOpsDefault>
-   <subset.tveffect>TV Effect CoinOps View</subset.tveffect>
+   <subset.tveffect>TV Effect CoinOps View</subset.tveffect> <subset.ShowTopMarquee>Show Top Marquee in CoinOps Views</subset.ShowTopMarquee>
    </variables>
 
   <variables lang="pt">
@@ -60,11 +64,13 @@ Tema proibido para uso comercial
     <nflixxViewName>NFlix (Estatico)</nflixxViewName>
     <nflixvideocViewName>NFlix (Video + Capa)</nflixvideocViewName>
     <nflixvideolViewName>NFlix (Video + Logos)</nflixvideolViewName>
+	<yes>Sim</yes>
+	<no>Nao</no>
     <none>Nenhum</none>
     <sysmusic>Ligado</sysmusic>
     <nomusic>Aleatorias</nomusic>
     <silence>Sem Musicas de Fundo</silence>	
-	<huedefault>Padrao</huedefault>	
+	<default>Padrao</default>	
 	<huegreen>Verde</huegreen>	
 	<huered>Vermelho</huered>	
 	<hueblue>Azul</hueblue>	
@@ -72,7 +78,8 @@ Tema proibido para uso comercial
 	<icondef>Icones Padrao</icondef>
 	<hspinadefViewName>CoinOps Padrao</hspinadefViewName>
 	<hcoinopsdViewName>CoinOps Detalhado</hcoinopsdViewName>
-	<copsdef>Fliperama</copsdef>
+	<copstv>Somente TV</copstv>
+	<copsarc>Somente Fliperama</copsarc>
     <svhsgl>VHS Glitch (Pesado)</svhsgl>
     <scrtgl>CRT Glitch (Pesado)</scrtgl>
     <scrtfs>CRT Tela Cheia</scrtfs>
@@ -97,6 +104,7 @@ Tema proibido para uso comercial
 	<subset.MainBGColor>Cor do Fundo Principal</subset.MainBGColor>
 	<subset.tveffect>Efeito da Tela Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Fundo Padrao Vista CoinOps</subset.CoinOpsDefault>
+	<subset.ShowTopMarquee>Mostrar Marquee Superior nas Vistas CoinOps</subset.ShowTopMarquee>
   </variables>
 
 
@@ -119,11 +127,13 @@ Tema proibido para uso comercial
     <nflixxViewName>NFlix (Statico)</nflixxViewName>
     <nflixvideocViewName>NFlix (video + couverture) </nflixvideocViewName>
     <nflixvideolViewName>NFlix (video + logos) </nflixvideolViewName>
+	<yes>Oui</yes>
+	<no>Ne Pas</no>
     <none>Aucun</none>
     <sysmusic>Active</sysmusic>
     <nomusic>Aleatoire</nomusic>
     <silence>Sans musique de fond</silence>	
-	<huedefault>Standard</huedefault>	
+	<default>Standard</default>	
 	<huegreen>Vert</huegreen>	
 	<huered>Rouge</huered>	
 	<hueblue>Bleu</hueblue>	
@@ -131,7 +141,8 @@ Tema proibido para uso comercial
 	<icondef>Icones standard</icondef>
 	<hspinadefViewName>CoinOps standard</hspinadefViewName>
 	<hcoinopsdViewName>CoinOps detaille</hcoinopsdViewName>	
-	<copsdef>Arcade</copsdef>
+	<copstv>TV Uniquement</copstv>
+	<copsarc>Arcade uniquement</copsarc>
     <svhsgl>VHS Glitch (lourd)</svhsgl>
     <scrtgl>CRT Glitch (lourd)</scrtgl>
     <scrtfs>CRT plein ecran</scrtfs>
@@ -155,6 +166,7 @@ Tema proibido para uso comercial
 	<subset.MainBGColor>Couleur darriere-plan principale </subset.MainBGColor>
 	<subset.tveffect>Effet decran Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Modele darriere-plan Vista CoinOps </subset.CoinOpsDefault>
+	<subset.ShowTopMarquee>Afficher le marquee superieur dans les vues CoinOps</subset.ShowTopMarquee>
   </variables> 
    
   
@@ -177,11 +189,13 @@ Tema proibido para uso comercial
     <nflixxViewName>NFlix (Statico)</nflixxViewName>
     <nflixvideocViewName>NFlix (Video + Cajas)</nflixvideocViewName>
     <nflixvideolViewName>NFlix (Video + Logos)</nflixvideolViewName>
+	<yes>Si</yes>
+	<no>No</no>
     <none>Ninguno</none>
     <sysmusic>Activado</sysmusic>
     <nomusic>Aleatoro</nomusic>
     <silence>Sin Musica de Fondo</silence>	
-	<huedefault>Estandar</huedefault>	
+	<default>Estandar</default>	
 	<huegreen>Rojo</huegreen>	
 	<huered>Vermelho</huered>	
 	<hueblue>Azul</hueblue>	
@@ -189,7 +203,8 @@ Tema proibido para uso comercial
 	<icondef>Iconos Estandar</icondef>
 	<hspinadefViewName>CoinOps Estandar</hspinadefViewName>
 	<hcoinopsdViewName>CoinOps Detallado</hcoinopsdViewName>
-	<copsdef>Arcade</copsdef>
+	<copstv>Solo TV</copstv>
+	<copsarc>Solo Arcade</copsarc>
     <svhsgl>VHS Glitch (Pesado)</svhsgl>
     <scrtgl>CRT Glitch (Pesado)</scrtgl>
     <scrtfs>CRT Pantalla Completa</scrtfs>
@@ -214,6 +229,7 @@ Tema proibido para uso comercial
 	<subset.MainBGColor>Color de Fondo Principal</subset.MainBGColor>
 	<subset.tveffect>Efecto de pantalla Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Fondo estandar de CoinOps Vista</subset.CoinOpsDefault>
+	<subset.ShowTopMarquee>Mostrar la marquee superior en las vistas de CoinOps</subset.ShowTopMarquee>
   </variables>
 
 
@@ -300,16 +316,7 @@ Tema proibido para uso comercial
          <origin>0 0</origin>
          <zIndex>4</zIndex>
       </image>
-      <!--
-    <image name="logo2" extra="true">
-      <path>./art/splash.svg</path>
-      <path>./${system.theme}/art/controller.svg</path>
-      <pos>0.874 0.074</pos>
-      <maxSize>0.460 0.126</maxSize>
-      <origin>0.5 0.5</origin>
-      <color>${baseColor}</color>
-    </image>
-    -->
+
       <helpsystem name="help">
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.017</fontSize>
@@ -969,6 +976,15 @@ Tema proibido para uso comercial
          <zIndex>7</zIndex>
       </image>
 
+      <image name="screenbg" extra="true">
+         <color>000000</color>
+         <tile>true</tile>
+         <path>./assets/filter3.png</path>
+         <pos>0.106 0.30</pos>
+         <size>0.365 0.48</size>
+         <zIndex>5</zIndex>
+      </image>	  
+	  
      <video name="md_video">
          <pos>0.106 0.30</pos>
          <size>0.365 0.48</size>
@@ -979,6 +995,11 @@ Tema proibido para uso comercial
          <zIndex>5</zIndex>
       </video>
 
+	   <image name="art" extra="true">
+         <zIndex>4</zIndex>
+         <pos>-0.55 0</pos>
+      </image> 
+	  
       <image name="art2" extra="true">
          <zIndex>0</zIndex>
       </image>
@@ -990,11 +1011,10 @@ Tema proibido para uso comercial
       <image name="md_marquee">
          <pos>0.285 0.1</pos>
          <maxSize>0.25 0.15</maxSize>
-         <zIndex>36</zIndex>
       </image>
 
       <image name="md_image">
-         <zIndex>4</zIndex>
+         <zIndex>3</zIndex>
          <pos>0.15 0</pos>
       </image>
 
@@ -1118,6 +1138,11 @@ Tema proibido para uso comercial
          <showSnapshotDelay>false</showSnapshotDelay>
          <zIndex>5</zIndex>
       </video>
+	  
+      <image name="art" extra="true">
+         <zIndex>4</zIndex>
+         <pos>-0.55 0</pos>
+      </image>
 
       <image name="art2" extra="true">
          <zIndex>0</zIndex>
@@ -1130,11 +1155,10 @@ Tema proibido para uso comercial
       <image name="md_marquee">
          <pos>0.285 0.04</pos>
          <maxSize>0.22 0.12</maxSize>
-         <zIndex>36</zIndex>
       </image>
 
       <image name="md_image">
-         <zIndex>4</zIndex>
+         <zIndex>3</zIndex>
          <pos>0.15 0</pos>
       </image>
 
@@ -1142,7 +1166,7 @@ Tema proibido para uso comercial
          <pos>2.15 0.96</pos>
          <fontSize>0.010</fontSize>
          <textColor>539ac8</textColor>
-	<fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./assets/Circular Std Book.ttf</fontPath>
       </helpsystem>
    </customView>
 

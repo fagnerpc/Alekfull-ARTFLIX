@@ -49,7 +49,22 @@
 		</text>
 						<text name="info5" extra="true" region="FR">
 			<text>FONDATEUR:</text>
-		</text>	
-		
+		</text>		
 	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/mame.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/mame.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
 </theme>

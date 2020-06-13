@@ -32,7 +32,21 @@
 		
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
-		</text>	
-	
+		</text>		
 	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/snes.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/snes.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
 </theme>

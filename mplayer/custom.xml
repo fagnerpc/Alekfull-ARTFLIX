@@ -3,35 +3,50 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame portátil, de 8 bits, desenvolvido e produzido pela Sega. Fazia parte da denominada 4ª geração de consolas e surgiu em resposta ao portátil da Nintendo, o Game Boy.</text>
+			<text>Media player é um tipo de aplicativo para reproduzir arquivos de computador multimídia, como arquivos de áudio e vídeo. Os players de mídia geralmente exibem ícones de controle de mídia padrão conhecidos de dispositivos físicos, como gravadores e CD players.</text>
 		</text>
 
 		<text name="info1" extra="true" region="PTBR">
-			<text>É um console de videogame portátil, de 8 bits, desenvolvido e produzido pela Sega. Fazia parte da denominada 4ª geração de consolas e surgiu em resposta ao portátil da Nintendo, o Game Boy.</text>
+			<text>Media player é um tipo de aplicativo para reproduzir arquivos de computador multimídia, como arquivos de áudio e vídeo. Os players de mídia geralmente exibem ícones de controle de mídia padrão conhecidos de dispositivos físicos, como gravadores e CD players.</text>
 		</text>
 		
 				<text name="info1" extra="true" region="EN">
-			<text>Is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia.</text>
+			<text>Media player software is a type of application software for playing multimedia computer files like audio and video files. Media players commonly display standard media control icons known from physical devices such as tape recorders and CD players.</text>
 		</text>
 		
 				<text name="info1" extra="true" region="ES">
-			<text>Es una videoconsola portátil creada por Sega en respuesta a la Game Boy de Nintendo. Es la tercera consola portátil con pantalla en color de la historia, después de la Atari Lynx y la Turbo Express.</text>
+			<text>Es un tipo de software de aplicación para reproducir archivos multimedia de computadora como archivos de audio y video. Los reproductores multimedia suelen mostrar iconos de control multimedia conocidos desde dispositivos físicos, como grabadoras y reproductores de CD.</text>
 		</text>
 		
 				<text name="info1" extra="true" region="FR">
-			<text>La Game Gear (ゲームギア, Gēmu gia?) est une console de jeux vidéo portable en couleur, sortie en 1990 et produite par Sega afin de concurrencer la Game Boy de Nintendo apparue une année plus tôt.</text>
+			<text>Est un type de logiciel d'application pour lire des fichiers informatiques multimédias comme des fichiers audio et vidéo. Les lecteurs multimédias affichent généralement des icônes de contrôle multimédia standard connues des périphériques physiques.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Game Gear Hacks</text>
+			<text>Media Player</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>1990</text>
+			<text>19XX</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>SEGA Corporation</text>
+			<text>Various</text>
 		</text>			
 	</view>
+	
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
 </theme>
