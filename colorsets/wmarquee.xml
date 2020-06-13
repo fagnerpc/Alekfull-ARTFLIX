@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+	<customView name="HCoinSpin">
+      <image name="md_marquee">
+         <zIndex>36</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="md_marquee">
+         <zIndex>36</zIndex>
+      </image>
+	</customView> 
+</theme>

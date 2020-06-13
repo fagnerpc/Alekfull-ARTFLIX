@@ -3,8 +3,8 @@
   <formatVersion>7</formatVersion>
   <customView name="HCoinSpin">
       <video name="tv_effect" extra="true">
-         <pos>0.068 0.22</pos>
-         <minSize>0.40 0.55</minSize>
+         <pos>0.106 0.30</pos>
+         <size>0.365 0.48</size>
          <path>./../effects/effect_crt.mp4</path>
          <color>FFFFFF20</color>
          <zIndex>6</zIndex>
@@ -13,8 +13,8 @@
   
   <customView name="CoinOps Details">
       <video name="tv_effect" extra="true">
-         <pos>0.068 0.22</pos>
-         <minSize>0.40 0.55</minSize>
+         <pos>0.106 0.22</pos>
+         <size>0.365 0.48</size>
          <path>./../effects/effect_crt.mp4</path>
          <color>FFFFFF20</color>
          <zIndex>6</zIndex>

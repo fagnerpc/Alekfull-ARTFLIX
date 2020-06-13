@@ -1,0 +1,20 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/coinops.png</path>
+         <zIndex>7</zIndex>
+      </image>
+</customView>
+
+
+<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/coinops.png</path>
+         <zIndex>7</zIndex>
+      </image>
+</customView>
+
+</theme>
