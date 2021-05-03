@@ -16,8 +16,10 @@
 
 	<include subset="systemview" name="Random Videos" displayName="${srandvideo}">./systemview/7AB.xml</include>
 	<include subset="systemview" name="Random Videos (Logo)" displayName="${srandvideol}">./systemview/7AB2.xml</include>
-	<include subset="systemview" name="Random Background" displayName="${srandbg}">./systemview/7AC.xml</include>
-	<include subset="systemview" name="Random Background (Logo)" displayName="${srandbgl}">./systemview/7AC2.xml</include>
+	<include subset="systemview" name="Random Box Background" displayName="${srandbg}">./systemview/7AC.xml</include>
+	<include subset="systemview" name="Random Box Background (Logo)" displayName="${srandbgl}">./systemview/7AC2.xml</include>
+	<include subset="systemview" name="Random Fanart Background" displayName="${srandbbg}">./systemview/7ACC.xml</include>
+	<include subset="systemview" name="Random Fanart Background (Logo)" displayName="${srandbbgl}">./systemview/7ACC2.xml</include>
 	<include subset="systemview" name="Random Video Background" displayName="${svrandvid}">./systemview/7AA.xml</include>
 	<include subset="systemview" name="Random Video Background (Logo)" displayName="${svrandvidl}">./systemview/7AA2.xml</include>	
 	<include subset="systemview" name="Dynamic Background" displayName="${svwheel}">./systemview/7A.xml</include>

@@ -2,7 +2,7 @@
 ALEKFULL-ARTFLIX theme by fagnerpc
 https://facebook.com/alekfull.arcade
 
-Version: 1.08 for Batocera 5.25+, Retrobat and Emuelec 3.24+
+Version: 1.09 for Batocera 5.25+, Retrobat and Emuelec 3.24+
 https://github.com/fagnerpc/Alekfull-ARTFLIX
 Artes, codigo e conceito por fagnerpc
 Tema proibido para uso comercial
@@ -91,6 +91,8 @@ Tema proibido para uso comercial
 	<svwheell>Fundo Video Dinamico (Logos)</svwheell>
     <srandbg>Imagens de Fundo Aleatorias de Jogos</srandbg>
 	<srandbgl>Imagens de Fundo Aleatorias de Jogos (Logos)</srandbgl>
+	<srandbbg>Imagens de Fundo Aleatorias de Fanarts</srandbbg>
+	<srandbbgl>Imagens de Fundo Aleatorias de Fanarts (Logos)</srandbbgl>
     <svrandvid>Video de Fundo Aleatorios de Jogos</svrandvid>
 	<svrandvidl>Video de Fundo Aleatorios de Jogos (Logos)</svrandvidl>
 	<scustimg>Imagens de Fundo Customizadas</scustimg>
@@ -153,6 +155,8 @@ Tema proibido para uso comercial
 	<svwheell>Arriere-plan video dynamique (Logos)</svwheell>
     <srandbg>Fonds decran de jeux aleatoires</srandbg>
 	<srandbgl>Fonds decran de jeux aleatoires (Logos)</srandbgl>
+	<srandbbg>Fonds decran de fanarts aleatoires</srandbbg>
+	<srandbbgl>Fonds decran de fanarts aleatoires (Logos)</srandbbgl>
     <svrandvid>Arriere-plan du jeu video aleatoire</svrandvid>
 	<svrandvidl>Arriere-plan du jeu video aleatoire (Logos)</svrandvidl>
 	<scustimg>Images darriere-plan personnalisees</scustimg>
@@ -216,6 +220,8 @@ Tema proibido para uso comercial
 	<svwheell>Fondo de Video Dinamico (Logos)</svwheell>
     <srandbg>Fondos de pantalla de juegos aleatorios</srandbg>
 	<srandbgl>Fondos de pantalla de juegos aleatorios (Logos)</srandbgl>
+	<srandbbg>Fondos de pantalla de fanarts aleatorias</srandbbg>
+	<srandbbgl>Fondos de pantalla de fanarts aleatorias (Logos)</srandbbgl>
     <svrandvid>Fondos de video de juegos aleatorios</svrandvid>
 	<svrandvidl>Fondos de video de juegos aleatorios (Logos)</svrandvidl>
 	<scustimg>Imagenes de Fondo Personalizadas</scustimg>
@@ -289,6 +295,7 @@ Tema proibido para uso comercial
       <iconShutdown>./_inc/icons/Shutdown.png</iconShutdown>
       <iconFastShutdown>./_inc/icons/Fastshutdown.png</iconFastShutdown>
       <iconRetroachievements>./_inc/icons/Contest.png</iconRetroachievements>
+	  <iconEmuelec>./_inc/icons/Emuelec.png</iconEmuelec>
     </menuIcons>
     <menuTextEdit name="menutextedit">
       <inactive>./_inc/textinput_ninepatch.png</inactive>
@@ -575,7 +582,7 @@ Tema proibido para uso comercial
          <delay>0.2</delay>
          <showSnapshotNoVideo>false</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
-         <zIndex>6</zIndex>
+         <zIndex>7</zIndex>
       </video>
 
       <image name="logo">
@@ -611,7 +618,7 @@ Tema proibido para uso comercial
       </rating>
 
       <image name="md_image">
-         <zIndex>4</zIndex>
+         <zIndex>5</zIndex>
       </image>
 
       <text name="md_publisher">
@@ -691,7 +698,7 @@ Tema proibido para uso comercial
          <delay>0.2</delay>
          <showSnapshotNoVideo>false</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
-         <zIndex>6</zIndex>
+         <zIndex>7</zIndex>
       </video>
 
       <image name="logo">
@@ -992,7 +999,7 @@ Tema proibido para uso comercial
          <delay>0</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
-         <zIndex>5</zIndex>
+         <zIndex>6</zIndex>
       </video>
 
 	   <image name="art" extra="true">
@@ -1136,7 +1143,7 @@ Tema proibido para uso comercial
          <delay>0</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
-         <zIndex>5</zIndex>
+         <zIndex>6</zIndex>
       </video>
 	  
       <image name="art" extra="true">
