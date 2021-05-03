@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Também conhecido como Pocket Monsters no Japão, é uma franquia de mídia japonesa administrada pela The Pokémon Company, uma empresa fundada pela Nintendo, Game Freak e Creatures. A franquia foi criada por Satoshi Tajiri em 1995 e é centrada em criaturas fictícias chamadas "Pokémon".</text>
+		</text>
+
+		<text name="info1" extra="true" region="PTBR">
+			<text>Também conhecido como Pocket Monsters no Japão, é uma franquia de mídia japonesa administrada pela The Pokémon Company, uma empresa fundada pela Nintendo, Game Freak e Creatures. A franquia foi criada por Satoshi Tajiri em 1995 e é centrada em criaturas fictícias chamadas "Pokémon".</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Also known as Pocket Monsters in Japan, is a Japanese media franchise managed by The Pokémon Company, a company founded by Nintendo, Game Freak, and Creatures. The franchise was created by Satoshi Tajiri in 1995, and is centered on fictional creatures called "Pokémon".</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>También conocida como Pocket Monsters en Japón, es una franquicia de medios japonesa administrada por The Pokémon Company, una compañía fundada por Nintendo, Game Freak y Creatures. Fue creada por Satoshi Tajiri en 1995 y se centra en criaturas ficticias llamadas "Pokémon".</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Est une franchise de médias japonais gérée par The Pokémon Company, une société fondée par Nintendo, Game Freak et Creatures. La franchise a été créée par Satoshi Tajiri en 1995 et est centrée sur des créatures fictives appelées "Pokémon".</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Pokémon</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Satoshi Tajiri</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  region="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" region="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" region="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" region="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+		
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>
