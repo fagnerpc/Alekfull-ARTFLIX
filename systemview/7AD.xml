@@ -23,30 +23,29 @@
          <zIndex>41</zIndex>
       </image>
 
-	<text name="info2" extra="true">
-		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
-		<color>FFFFFF</color>
-		<alignment>left</alignment>
- 		<fontSize>0.11</fontSize>
-		<lineSpacing>1</lineSpacing>
-		<size>0.45 0.35</size>
-		<pos>0.02 0.10</pos>
-		<glowColor>00000016</glowColor>
-		<glowSize>2</glowSize>
-		<zIndex>42</zIndex>
-      </text>	  
-	  
-	  
 	<text name="info1" extra="true">
 		<fontPath>./../assets/Circular Std Book.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
-		<fontSize>0.023</fontSize>
+		<fontSize>0.020</fontSize>
 		<lineSpacing>1</lineSpacing>
-		<size>0.35 0</size>
+		<size>0.32 0</size>
 		<pos>0.025 0.4</pos>
 		<glowColor>00000016</glowColor>
 		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>	
+
+	<text name="info2" extra="true">
+		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+ 		<fontSize>0.09</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.36 0.35</size>
+		<pos>0.02 0.10</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
 		<zIndex>42</zIndex>
       </text>	  
 	  
