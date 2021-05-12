@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma variante japonesa do PC, construída pela Fujitsu de fevereiro de 1989 ao verão de 1997. Começou como uma variante de PC proprietária destinada a aplicativos de multimídia e jogos de PC.</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>É uma variante japonesa do PC, construída pela Fujitsu de fevereiro de 1989 ao verão de 1997. Começou como uma variante de PC proprietária destinada a aplicativos de multimídia e jogos de PC.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>Is a Japanese variant of PC, built by Fujitsu from February 1989 to the summer of 1997. It started as a proprietary PC variant intended for multimedia applications and games, but later became more compatible with IBM PC compatibles.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Es una variante japonesa de PC, construida por Fujitsu desde febrero de 1989 hasta el verano de 1997. Comenzó como una variante de PC patentada destinada a aplicaciones multimedia y juegos de PC.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Il s'agit d'une variante japonaise du PC, construite par Fujitsu de février 1989 à l'été 1997. Elle a commencé comme une variante PC propriétaire destinée aux applications multimédias et aux jeux PC.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>FM Towns</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Fujitsu</text>
+		</text>			
+	</view>
+	
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/coinpc.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/coinpc.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

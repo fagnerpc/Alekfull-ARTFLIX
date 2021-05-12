@@ -620,6 +620,13 @@ Tema proibido para uso comercial
       <image name="md_image">
          <zIndex>5</zIndex>
       </image>
+	  
+	   <image name="md_fanart">
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <pos>0 0</pos>
+         <zIndex>6</zIndex>	
+      </image>
 
       <text name="md_publisher">
          <color>ffffff00</color>
@@ -731,6 +738,13 @@ Tema proibido para uso comercial
          <zIndex>4</zIndex>
       </image>
 
+      <image name="md_fanart">
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <pos>0 0</pos>
+         <zIndex>6</zIndex>	
+      </image>
+
       <text name="md_publisher">
          <color>ffffff00</color>
          <fontPath>./_inc/fonts/Homizio.ttf</fontPath>         <pos>0.42 0.63</pos>
@@ -810,11 +824,11 @@ Tema proibido para uso comercial
       </text>
      <video name="md_video">
          <pos>0 0</pos>
-         <minSize>1 1</minSize>
+         <size>1 1</size>
          <origin>0 0</origin>
-         <delay>1</delay>
+         <delay>0</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
+         <showSnapshotDelay>false</showSnapshotDelay>
          <zIndex>5</zIndex>
       </video>
 
@@ -869,7 +883,6 @@ Tema proibido para uso comercial
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
 	  <imageSource>marquee</imageSource>
-
       </imagegrid>
       <gridtile name="default">
          <padding>64 16</padding>
@@ -912,11 +925,11 @@ Tema proibido para uso comercial
       </text>
      <video name="md_video">
          <pos>0 0</pos>
-         <minSize>1 1</minSize>
+         <size>1 1</size>
          <origin>0 0</origin>
-         <delay>1</delay>
+         <delay>0</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
+         <showSnapshotDelay>false</showSnapshotDelay>
          <zIndex>5</zIndex>
       </video>
 
@@ -1018,6 +1031,13 @@ Tema proibido para uso comercial
       <image name="md_marquee">
          <pos>0.285 0.1</pos>
          <maxSize>0.25 0.15</maxSize>
+      </image>
+
+	   <image name="md_fanart">
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <pos>0.15 0</pos>
+         <zIndex>5</zIndex>	
       </image>
 
       <image name="md_image">
@@ -1164,6 +1184,13 @@ Tema proibido para uso comercial
          <maxSize>0.22 0.12</maxSize>
       </image>
 
+	   <image name="md_fanart">
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <pos>0.15 0</pos>
+         <zIndex>5</zIndex>	
+      </image>
+
       <image name="md_image">
          <zIndex>4</zIndex>
          <pos>0.15 0</pos>
@@ -1268,8 +1295,8 @@ Tema proibido para uso comercial
       </image>
 
      <video name="md_video">
-         <color>606060FF</color>
-         <pos>0 0</pos>
+         <color>505050FF</color>
+         <pos>0 -0.3</pos>
          <size>1 1</size>
          <origin>0 0</origin>
          <delay>1</delay>
@@ -1293,7 +1320,7 @@ Tema proibido para uso comercial
       </image>
 
       <image name="md_image">
-         <color>707070FF</color>
+         <color>808080FF</color>
          <zIndex>4</zIndex>
          <pos>0 0</pos>
       </image>

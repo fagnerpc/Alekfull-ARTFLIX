@@ -1,0 +1,52 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>GemRB (Game Engine Made with preRendered Background) é uma reimplementação portátil de código aberto do Infinity Engine que sustentava Baldur's Gate, Icewind Dale e Planescape: Torment.</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>GemRB (Game Engine Made with preRendered Background) é uma reimplementação portátil de código aberto do Infinity Engine que sustentava Baldur's Gate, Icewind Dale e Planescape: Torment.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>GemRB (Game Engine Made with preRendered Background) is a portable open-source reimplementation of the Infinity Engine that underpinned Baldur's Gate, Icewind Dale and Planescape: Torment.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>GemRB (Game Engine Made with preRendered Background) es una reimplementación portátil de código abierto del Infinity Engine que sustentaba Baldur's Gate, Icewind Dale y Planescape: Torment.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>GemRB (Game Engine Made with preRendered Background) est une réimplémentation open-source portable du moteur Infinity qui sous-tendait Baldur's Gate, Icewind Dale et Planescape: Torment.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>GemRB</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Team GemRB</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

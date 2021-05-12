@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Sistema destinado a biblioteca de mídias encontradas de todos os jogos, organizados de forma crescente (ou da forma que preferir).</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>Sistema destinado a biblioteca de mídias encontradas de todos os jogos, organizados de forma crescente (ou da forma que preferir).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>System destined to the library of media found from all games, organized in an increasing way (or in the way you prefer).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>Sistema destinado a la mediateca encontrada en todos los juegos, organizada de forma creciente (o de la forma que prefieras).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>Système destiné à la médiathèque de tous les jeux, organisé de manière croissante (ou de la manière que vous préférez).</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Library</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>			
+	</view>
+</theme>

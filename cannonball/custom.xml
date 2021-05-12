@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>CannonBall é um motor de jogo aprimorado para o jogo de arcade OutRun. Isso torna possível fazer melhorias adequadas para plataformas modernas, incluindo uma taxa de quadros mais alta e suporte a widescreen.</text>
+		</text>
+
+		<text name="info1" extra="true"  region="PTBR">
+			<text>CannonBall é um motor de jogo aprimorado para o jogo de arcade OutRun. Isso torna possível fazer melhorias adequadas para plataformas modernas, incluindo uma taxa de quadros mais alta e suporte a widescreen.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="EN">
+			<text>CannonBall is an souped up game engine for the OutRun arcade game. This makes it possible to make improvements suitable for modern platforms, including a higher frame-rate and widescreen support.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="ES">
+			<text>CannonBall es un motor de juego mejorado para el juego de arcade OutRun. Esto hace posible realizar mejoras adecuadas para las plataformas modernas, incluida una mayor velocidad de fotogramas y compatibilidad con pantalla ancha.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="FR">
+			<text>CannonBall est un moteur de jeu amélioré pour le jeu d'arcade OutRun. Cela permet d'apporter des améliorations adaptées aux plates-formes modernes, notamment une fréquence d'images plus élevée et un support d'écran large.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>CannonBall</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2012</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Chris White</text>
+		</text>			
+	</view>
+</theme>
