@@ -27,8 +27,8 @@
 			<text>Nintendo Entertainment System</text>
 		</text>
 		
-			<text name="info2" extra="true">
- 		<fontSize>0.10</fontSize>
+		<text name="info2" extra="true">
+ 		<fontSize>0.082</fontSize>
 		<size>0.55 0.35</size>
 		<lineSpacing>0.8</lineSpacing>
 		<size>0.45 0.35</size>
