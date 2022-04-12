@@ -6,19 +6,19 @@
 			<text>O Sega Saturn é um console de videogame de 32 bits lançado primeiramente pela Sega em 22 de Novembro de 1994 no Japão, em 11 de Maio de 1995 na América do Norte, 30 de agosto de 1995 no Brasil e em 8 de Julho na Europa.</text>
 		</text>
 	
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>O Sega Saturn é um console de videogame de 32 bits lançado primeiramente pela Sega em 22 de Novembro de 1994 no Japão, em 11 de Maio de 1995 na América do Norte, 30 de agosto de 1995 no Brasil e em 8 de Julho na Europa.</text>
 		</text>
 	
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Sega Saturn is a 32-bit video game console first launched by Sega on November 22, 1994 in Japan, May 11, 1995 in North America, August 30, 1995 in Brazil, and July 8 in Europe.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Sega Saturn es una consola de videojuegos de 32 bits lanzada por primera vez por Sega el 22 de noviembre de 1994 en Japón, el 11 de mayo de 1995 en América del Norte, el 30 de agosto de 1995 en Brasil y el 8 de julio en Europa.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Sega Saturn est une console de jeu vidéo 32 bits lancée pour la première fois par Sega le 22 novembre 1994 au Japon, le 11 mai 1995 en Amérique du Nord, le 30 août 1995 au Brésil et le 8 juillet en Europe.</text>
 		</text>
 		

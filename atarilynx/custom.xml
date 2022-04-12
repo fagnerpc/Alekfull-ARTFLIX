@@ -6,19 +6,19 @@
 			<text>Foi um console de videogame portátil produzido pela Atari, lançado em 1989, sendo o primeiro a apresentar tela colorida. Fazendo parte dos videogames de quarta geração, concorreu com o Game Boy da Nintendo.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Foi um console de videogame portátil produzido pela Atari, lançado em 1989, sendo o primeiro a apresentar tela colorida. Fazendo parte dos videogames de quarta geração, concorreu com o Game Boy da Nintendo.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Is a 16-bit handheld game console that was released by Atari Corporation in September 1989 in North America, and in Europe and Japan in 1990. It was the world's first handheld electronic game with a color LCD.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Fue una videoconsola portátil de 8 bits producida por Atari. Fue lanzada en 1989, siendo la primera con LCD en color. Si bien era superior a la Game Boy y a la Game Gear, no tuvo demasiado éxito debido a su exagerado precio.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Atari Lynx fut la seule console portable d'Atari et la première portable avec un écran LCD couleur. Elle sortit en 1989, la même année que le Game Boy (monochrome) de Nintendo.</text>
 		</text>
 		

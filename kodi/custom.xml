@@ -6,19 +6,19 @@
 			<text>Kodi (anteriormente XBMC) é um aplicativo de software para media player gratuito e de código aberto desenvolvido pela XBMC Foundation, um consórcio de tecnologia sem fins lucrativos. O Kodi está disponível para vários sistemas operacionais e dispositivos.</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>Kodi (anteriormente XBMC) é um aplicativo de software para media player gratuito e de código aberto desenvolvido pela XBMC Foundation, um consórcio de tecnologia sem fins lucrativos. O Kodi está disponível para vários sistemas operacionais e dispositivos.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Kodi (formerly XBMC) is a free and open-source media player software application developed by the XBMC Foundation, a non-profit technology consortium. Kodi is available for multiple operating systems and hardware platforms.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Kodi es una aplicación de software para reproductor multimedia gratuito y de código abierto desarrollada por la Fundación XBMC, un consorcio de tecnología sin fines de lucro. Kodi está disponible para una variedad de sistemas operativos y dispositivos.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Kodi (anciennement XBMC) est une application logicielle pour lecteur multimédia gratuit et open source développée par la XBMC Foundation, un consortium technologique à but non lucratif. Kodi est disponible pour une variété de systèmes d'exploitation et d'appareils.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>			
 	</view>

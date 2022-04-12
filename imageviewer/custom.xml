@@ -8,26 +8,26 @@
 			God Bless Retro Games!</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Tire screenshots dos seus melhores jogos e highscores depois mostre aos seus amigos.
 			Quem será o melhor jogador...
 			God Bless Retro Games!</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Take screenshots of your best games and highscores then show them to your friends.
 			Who will be the best player ...
 			God Bless Retro Games!</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Toma capturas de pantalla de tus mejores juegos y mejores puntuaciones,
 luego muéstrales a tus amigos.
 ¿Quién será el mejor jugador ...
 ¡Dios bendiga a Retro Games!</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Prenez des captures d'écran de vos meilleurs jeux et scores,
 puis montrez-les à vos amis.
 Qui sera le meilleur joueur ...
@@ -37,16 +37,16 @@ Qui sera le meilleur joueur ...
 			<text>Galeria de Imagens</text>
 		</text>
 		
-			<text name="info2" extra="true"  region="PTBR">
+			<text name="info2" extra="true"  lang="PTBR">
 			<text>Galeria de Imagens</text>
 		</text>
-						<text name="info2" extra="true" region="EN">
+						<text name="info2" extra="true" lang="EN">
 			<text>Image Viewer</text>
 		</text>
-						<text name="info2" extra="true" region="ES">
+						<text name="info2" extra="true" lang="ES">
 			<text>Visor de Imágenes</text>
 		</text>
-						<text name="info2" extra="true" region="FR">
+						<text name="info2" extra="true" lang="FR">
 			<text>Visionneuse d'images</text>
 		</text>
 		<text name="info3" extra="true">

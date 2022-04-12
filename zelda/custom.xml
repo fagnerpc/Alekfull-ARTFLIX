@@ -6,19 +6,19 @@
 			<text>The Legend of Zelda é uma franquia de jogos de ação e aventura criada pelos designers de jogos japoneses Shigeru Miyamoto e Takashi Tezuka. A série foi expandida para incluir 19 jogos em todos os consoles da Nintendo.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>The Legend of Zelda é uma franquia de jogos de ação e aventura criada pelos designers de jogos japoneses Shigeru Miyamoto e Takashi Tezuka. A série foi expandida para incluir 19 jogos em todos os consoles da Nintendo.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>The Legend of Zelda is an action-adventure game franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka. Developed and published by Nintendo. The series has expanded to include 19 entries on all of Nintendo's consoles.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>The Legend of Zelda es una franquicia de juegos de acción y aventura creada por los diseñadores de juegos japoneses Shigeru Miyamoto y Takashi Tezuka. La serie se ha expandido para incluir 19 entradas en todas las consolas de Nintendo.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>The Legend of Zelda est une franchise de jeux d'action-aventure créée par les concepteurs de jeux japonais Shigeru Miyamoto et Takashi Tezuka. La série s'est élargie pour inclure 19 entrées sur toutes les consoles de Nintendo.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

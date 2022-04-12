@@ -6,19 +6,19 @@
 			<text>OpenBOR (Open Beats of Rage) é uma continuação de código aberto do mecanismo Beats of Rage. Embora o Beats of Rage pretendesse ser um jogo autônomo, o design modular dos elementos e do mecanismo dos jogos significava que os usuários finais podiam substituir assets.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>OpenBOR (Open Beats of Rage) é uma continuação de código aberto do mecanismo Beats of Rage. Embora o Beats of Rage pretendesse ser um jogo autônomo, o design modular dos elementos e do mecanismo dos jogos significava que os usuários finais podiam substituir assets.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>OpenBOR (Open Beats of Rage) is an open source continuation of the Beats of Rage engine. Although Beats of Rage was intended to be a stand alone game, the modular design of in game elements and engine meant end users were able to replace assets.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>OpenBOR es una continuación de código abierto del motor Beats of Rage. Aunque Beats of Rage estaba destinado a ser un juego independiente, el diseño modular de los elementos y el motor del juego significaba que los usuarios finales podían reemplazar los activos.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>OpenBOR (Open Beats of Rage) est une suite open source du moteur Beats of Rage. Bien que Beats of Rage ait été conçu pour être un jeu indépendant, la conception modulaire des éléments et du moteur de jeu a permis aux utilisateurs finaux de remplacer leurs actifs.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

@@ -6,19 +6,19 @@
 			<text>Internet é o sistema global de redes de computadores interconectadas que usa o conjunto de protocolos da Internet (TCP / IP) para se comunicar entre redes e dispositivos. É uma rede que consiste em redes privadas, públicas, acadêmicas, comerciais e governamentais.</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>Internet é o sistema global de redes de computadores interconectadas que usa o conjunto de protocolos da Internet (TCP / IP) para se comunicar entre redes e dispositivos. É uma rede que consiste em redes privadas, públicas, acadêmicas, comerciais e governamentais.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Internet is the global system of interconnected computer networks that uses the protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business, and government networks.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Internet es el sistema global de redes informáticas interconectadas que utiliza el conjunto de protocolos (TCP / IP) para comunicarse entre redes y dispositivos. Es una red de redes que consta de redes privadas, públicas, académicas, comerciales y gubernamentales.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Internet est le système mondial de réseaux informatiques interconnectés qui utilise l'ensemble de protocoles (TCP / IP) pour communiquer entre les réseaux et les appareils. Il se compose de réseaux privés, publics, universitaires, commerciaux et gouvernementaux.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>			
 	</view>

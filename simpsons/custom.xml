@@ -6,19 +6,19 @@
 			<text>The Simpsons é uma série de animação e sitcom norte-americana criada por Matt Groening para a Fox Broadcasting Company. A série é uma paródia satírica do estilo de vida da classe média dos Estados Unidos (como cultura, sociedade e televisão) e aspectos da condição humana.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>The Simpsons é uma série de animação e sitcom norte-americana criada por Matt Groening para a Fox Broadcasting Company. A série é uma paródia satírica do estilo de vida da classe média dos Estados Unidos (como cultura, sociedade e televisão) e aspectos da condição humana.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>The Simpsons is an American sitcom and animation series created by Matt Groening for the Fox Broadcasting Company. The series is a satirical parody of America's middle class lifestyle (such as culture, society and television) and aspects of the human condition.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Los Simpson es una serie de animación y comedia de situación estadounidense creada por Matt Groening. La serie es una parodia satírica del estilo de vida de la clase media estadounidense (como la cultura, la sociedad y la televisión) y aspectos de la condición humana.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>The Simpsons est une sitcom américaine et une série d'animation créée par Matt Groening. La série est une parodie satirique du style de vie de la classe moyenne américaine (comme la culture, la société et la télévision) et des aspects de la condition humaine.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>CRIADO POR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>CRIADO POR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>CREATED BY:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>CRIADO POR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>CRÉÉ PAR:</text>
 		</text>		
 	</view>

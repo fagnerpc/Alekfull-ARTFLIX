@@ -6,19 +6,19 @@
 			<text>O FinalBurn Alpha é um emulador de código aberto das placas Capcom modelos CPS-1, 2 e 3, além de outras placas de arcade como a do SNK Neo-Geo, Toaplan, Cave e várias outras.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>O FinalBurn Alpha é um emulador de código aberto das placas Capcom modelos CPS-1, 2 e 3, além de outras placas de arcade como a do SNK Neo-Geo, Toaplan, Cave e várias outras.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Is an emulator of arcade games, that is, it takes the program code, graphics data, etc., from an original arcade game and emulates the hardware to make the game run in it's original form.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Es un emulador de juegos de arcade, es decir, toma el código del programa, los datos gráficos, etc. de un juego de arcade original y emula el hardware para hacer que el juego se ejecute en su forma original.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Final Burn Alpha est un émulateur de jeu vidéo d'arcade basé sur l'émulateur Final Burn, qui émule différents systèmes tel que le MVS, le CPS1 et CPS2, le System 16, System 18, X Board, Y Board de Sega, etc.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>
 	</view>

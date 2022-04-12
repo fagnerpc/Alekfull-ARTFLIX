@@ -6,19 +6,19 @@
 			<text>É um console portátil lançado em agosto de 1995 e se tornou o maior fracasso da Nintendo. Com um processador de 32 bits e duas telas no formato de um óculos apoiado sobre um tripé, pouco móvel para um 'portátil'.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>É um console portátil lançado em agosto de 1995 e se tornou o maior fracasso da Nintendo. Com um processador de 32 bits e duas telas no formato de um óculos apoiado sobre um tripé, pouco móvel para um 'portátil'.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Is a 32-bit table-top video game console developed and manufactured by Nintendo. Released in 1995, it was marketed as the first console capable of displaying stereoscopic 3D graphics.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Virtual Boy fue una consola de videojuegos, lanzada en 1995 por Nintendo, que usaba un proyector de estilo gafas para mostrar los juegos en «verdadero» 3D, por medio de un efecto estereoscópico.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Virtual Boy est une console de jeux vidéo créée par Nintendo et sortie en 1995 au Japon et aux États-Unis, se présentant sous la forme d'un casque de réalité virtuelle.</text>
 		</text>
 		

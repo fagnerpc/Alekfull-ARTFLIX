@@ -6,19 +6,19 @@
 			<text>Cave Story (洞窟物語, Dōkutsu Monogatari) é um jogo eletrônico freeware de ação-aventura para computador criado e desenvolvido por Daisuke Amaya em 2004. Foi desenvolvido por mais de cinco anos por Daisuke "Pixel" em seu tempo livre.</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>Cave Story (洞窟物語, Dōkutsu Monogatari) é um jogo eletrônico freeware de ação-aventura para computador criado e desenvolvido por Daisuke Amaya em 2004. Foi desenvolvido por mais de cinco anos por Daisuke "Pixel" em seu tempo livre.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Cave Story (洞窟物語 Dōkutsu Monogatari) is a metroidvania platform-adventure video game released in 2004 for the Windows PC. It was developed over five years by Daisuke "Pixel" Amaya in his free time.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Cave Story (洞窟 物語, Dōkutsu Monogatari?) Es un juego de computadora de acción y aventura (estilo "Metroidvania") creado por Daisuke Amaya en 2004. Fue desarrollado durante más de cinco años por Daisuke "Pixel" en su tiempo libre.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Cave Story (洞窟物語 Dōkutsu Monogatari) est un jeu vidéo amateur de plate-formes et d'aventure (metroidvania) sorti en 2004 sur PC. Développé en 5 ans par Daisuke "Pixel" Amaya sur son temps libre.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

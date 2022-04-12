@@ -450,16 +450,16 @@ Tema proibido para uso comercial
 		<text name="info6" extra="true">
 			<text>Idioma Selecionado: PT(BR)</text>
 		</text>
-		<text name="info6" extra="true" region="PTBR">
+		<text name="info6" extra="true" lang="PTBR">
 			<text>Idioma Selecionado: PT(BR)</text>
 		</text>
-		<text name="info6" extra="true" region="EN">
+		<text name="info6" extra="true" lang="EN">
 			<text>Selected Language: EN(US)</text>
 		</text>
-		<text name="info6" extra="true" region="ES">
+		<text name="info6" extra="true" lang="ES">
 			<text>Idioma Seleccionado: ES</text>
 		</text>
-		<text name="info6" extra="true" region="FR">
+		<text name="info6" extra="true" lang="FR">
 			<text>Langue Choisie: FR</text>
 		</text>
 
@@ -493,16 +493,16 @@ Tema proibido para uso comercial
 	<text name="playbutton" extra="true">
 		<text>JOGAR AGORA</text>
 	</text>
-	<text name="playbutton" extra="true" region="PTBR">
+	<text name="playbutton" extra="true" lang="PTBR">
 		<text>JOGAR AGORA</text>
 	</text>
-	<text name="playbutton" extra="true" region="EN">
+	<text name="playbutton" extra="true" lang="EN">
 		<text>PLAY NOW</text>
 	</text>
-	<text name="playbutton" extra="true" region="ES">
+	<text name="playbutton" extra="true" lang="ES">
 		<text>JUGAR AHORA</text>
 	</text>
-	<text name="playbutton" extra="true" region="FR">
+	<text name="playbutton" extra="true" lang="FR">
 		<text>LISTE DES JEUX</text>
 	</text>
 

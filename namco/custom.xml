@@ -6,19 +6,19 @@
 			<text>Namco Ltd. é uma ex-desenvolvedora e editora japonesa de videogames para arcade e console doméstico, originalmente sediada em Ota, Tóquio. A Namco produziu várias franquias de sucesso comercial e crítico, incluindo Pac-Man, Tekken, Ace Combat e SoulCalibur.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Namco Ltd. é uma ex-desenvolvedora e editora japonesa de videogames para arcade e console doméstico, originalmente sediada em Ota, Tóquio. A Namco produziu várias franquias de sucesso comercial e crítico, incluindo Pac-Man, Tekken, Ace Combat e SoulCalibur.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Namco Ltd. is a former Japanese developer and publisher of arcade and home console video games, originally headquartered in Ōta, Tokyo. Namco produced several critically and commercially successful franchises, including Pac-Man, Tekken, Ace Combat and SoulCalibur.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Namco Ltd. es un antiguo desarrollador y editor japonés de videojuegos de videojuegos y consolas domésticas, originalmente con sede en Ōta, Tokio. Namco produjo varias franquicias de éxito crítico y comercial, incluidas Pac-Man, Tekken, Ace Combat y SoulCalibur.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Namco Ltd. est un ancien développeur et éditeur japonais de jeux vidéo d'arcade et de consoles de salon, dont le siège social était à l'origine à Ōta, Tokyo. Namco a produit plusieurs franchises à succès critique et commercial, dont Pac-Man, Tekken et SoulCalibur.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>FUNDADOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>FUNDADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>FOUNDER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>FUNDADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>FONDATEUR:</text>
 		</text>			
 	</view>

@@ -6,19 +6,19 @@
 			<text>Tomb Raider é uma franquia que se originou com uma série de videogames de ação e aventura criada pela empresa britânica de jogos Core Design. Anteriormente de propriedade da Eidos Interactive, a franquia se concentra na arqueóloga britânica fictícia Lara Croft.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Tomb Raider é uma franquia que se originou com uma série de videogames de ação e aventura criada pela empresa britânica de jogos Core Design. Anteriormente de propriedade da Eidos Interactive, a franquia se concentra na arqueóloga britânica fictícia Lara Croft.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Tomb Raider is a media franchise that originated with an action-adventure video game series created by British gaming company Core Design. Formerly owned by Eidos Interactive, the franchise focuses on fictional British archaeologist Lara Croft.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Tomb Raider es una franquicia que se originó con una serie de videojuegos de acción y aventuras creada por la compañía británica de juegos Core Design. Anteriormente propiedad de Eidos Interactive, la franquicia se centra en la arqueóloga británica ficticia Lara Croft.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Tomb Raider est une franchise médiatique issue d'une série de jeux vidéo d'action-aventure créée par la société de jeux britannique Core Design. Anciennement détenue par Eidos Interactive, la franchise se concentre sur l'archéologue fictive britannique Lara Croft.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

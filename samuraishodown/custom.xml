@@ -6,19 +6,19 @@
 			<text>Samurai Shodown, conhecido no Japão como Samurai Spirits, é uma série de jogos de luta da SNK. As histórias da série acontecem no Japão do século XVIII, durante o período Sakoku ou reclusão no Japão com grande licença artística.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Samurai Shodown, conhecido no Japão como Samurai Spirits, é uma série de jogos de luta da SNK. As histórias da série acontecem no Japão do século XVIII, durante o período Sakoku ou reclusão no Japão com grande licença artística.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Samurai Shodown, known in Japan as Samurai Spirits, is a fighting game series by SNK. The stories in the series take place in 18th-century Japan, during the Sakoku or seclusion period of Japan with great artistic license.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Samurai Shodown, conocido en Japón como Samurai Spirits, es una serie de juegos de lucha de SNK. Las historias de la serie tienen lugar en el Japón del siglo XVIII, durante el período Sakoku o reclusión de Japón con gran licencia artística.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Samurai Shodown, connu au Japon sous le nom de Samurai Spirits, est une série de jeux de combat de SNK. Les histoires de la série se déroulent au Japon au XVIIIe siècle, pendant la période de Sakoku ou d'isolement du Japon avec une grande licence artistique.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

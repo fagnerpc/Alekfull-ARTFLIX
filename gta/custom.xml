@@ -6,19 +6,19 @@
 			<text>Grand Theft Auto (GTA) é uma série de jogos de ação e aventura criados por David Jones e Mike Dailly. A maioria dos jogos da série se passa em locais fictícios modelados em cidades, geralmente Liberty City, Vice City ou San Andreas.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Grand Theft Auto (GTA) é uma série de jogos de ação e aventura criados por David Jones e Mike Dailly. A maioria dos jogos da série se passa em locais fictícios modelados em cidades, geralmente Liberty City, Vice City ou San Andreas.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Grand Theft Auto (GTA) is a series of action-adventure games created by David Jones and Mike Dailly. Most games in the series are set in fictional locales modelled on cities, usually either Liberty City, Vice City or San Andreas.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Grand Theft Auto (GTA) es una serie de juegos de acción y aventura creados por David Jones y Mike Dailly. La mayoría de los juegos de la serie se desarrollan en escenarios ficticios inspirados en ciudades, generalmente Liberty City, Vice City o San Andreas.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Grand Theft Auto (GTA) est une série de jeux d'action-aventure créés par David Jones et Mike Dailly. La plupart des jeux de la série se déroulent dans des lieux fictifs calqués sur les villes, généralement Liberty City, Vice City ou San Andreas.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

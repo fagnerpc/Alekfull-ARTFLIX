@@ -6,19 +6,19 @@
 			<text>Amiga 3000, ou A3000, é um computador pessoal lançado pela Commodore em junho de 1990. Possui velocidade de processamento aprimorada, renderização gráfica aprimorada e uma nova revisão do sistema operacional. É o sucessor do Amiga 2000.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Amiga 3000, ou A3000, é um computador pessoal lançado pela Commodore em junho de 1990. Possui velocidade de processamento aprimorada, renderização gráfica aprimorada e uma nova revisão do sistema operacional. É o sucessor do Amiga 2000.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text> Amiga 3000, or A3000, is a personal computer released by Commodore in June 1990. It features improved processing speed, improved graphics rendering, and a new revision of the operating system. It is the successor to the Amiga 2000.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Amiga 3000, o A3000, es una computadora personal lanzada por Commodore en junio de 1990. Cuenta con una velocidad de procesamiento mejorada, una representación gráfica mejorada y una nueva revisión del sistema operativo. Es el sucesor del Amiga 2000.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>L'Amiga 3000 est un ordinateur personnel commercialisé par Commodore en juin 1990. Il présente une vitesse de traitement améliorée, un rendu graphique amélioré et une nouvelle révision du système d'exploitation. Il est le successeur de l'Amiga 2000.</text>
 		</text>
 		

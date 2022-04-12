@@ -6,19 +6,19 @@
 			<text>É uma série de videogames que apresenta as aventuras de um gorila chamado Donkey Kong, concebido por Shigeru Miyamoto em 1981. A franquia consiste principalmente em dois gêneros de jogos, mas também inclui títulos adicionais de vários gêneros.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>É uma série de videogames que apresenta as aventuras de um gorila chamado Donkey Kong, concebido por Shigeru Miyamoto em 1981. A franquia consiste principalmente em dois gêneros de jogos, mas também inclui títulos adicionais de vários gêneros.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Is a series of video games featuring the adventures of a gorilla character called Donkey Kong, conceived by Shigeru Miyamoto in 1981. The franchise consists mainly of two game genres, but also includes additional spin-off titles of various genres.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Es una serie de videojuegos que presenta las aventuras de un gorila llamado Donkey Kong, concebido por Shigeru Miyamoto en 1981. La franquicia consiste principalmente en dos géneros de juegos, pero también incluye títulos adicionales derivados de varios géneros.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Est une série de jeux vidéo présentant les aventures d'un gorille appelé Donkey Kong, conçu par Shigeru Miyamoto en 1981. La franchise se compose principalement de deux genres de jeux, mais comprend également des titres dérivés supplémentaires de divers genres.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

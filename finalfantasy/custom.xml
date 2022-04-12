@@ -6,19 +6,19 @@
 			<text>Final Fantasy é uma franquia japonesa de mídia de fantasia científica criada por Hironobu Sakaguchi e desenvolvida e de propriedade da Square Enix (anteriormente Square). A franquia se concentra em uma série de videogames de fantasia e ciência.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Final Fantasy é uma franquia japonesa de mídia de fantasia científica criada por Hironobu Sakaguchi e desenvolvida e de propriedade da Square Enix (anteriormente Square). A franquia se concentra em uma série de videogames de fantasia e ciência.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Final Fantasy is a Japanese science fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square Enix (formerly Square). The franchise centers on a series of fantasy and science fantasy role-playing video games.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Final Fantasy es una franquicia de medios de fantasía científica japonesa creada por Hironobu Sakaguchi, y desarrollada y propiedad de Square Enix (anteriormente Square). La franquicia se centra en una serie de videojuegos de rol de fantasía y ciencia ficción.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Final Fantasy est une franchise médiatique japonaise de science-fiction créée par Hironobu Sakaguchi, développée et détenue par Square. La franchise se concentre sur une série de jeux vidéo de jeux de rôle fantastiques et fantastiques scientifiques.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

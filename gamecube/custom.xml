@@ -6,19 +6,19 @@
 			<text>È um console de videogame produzido pela empresa japonesa Nintendo. Sucessor do Nintendo 64, seu codinome durante a produção era Project Dolphin e seu código de modelo é DOL-001 (referência a Dolphin).</text>
 		</text>
 	
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>È um console de videogame produzido pela empresa japonesa Nintendo. Sucessor do Nintendo 64, seu codinome durante a produção era Project Dolphin e seu código de modelo é DOL-001 (referência a Dolphin).</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Is a home video game console released by Nintendo in Japan and North America in -01 and Europe and Australia in 2002. The sixth generation console is the successor to the N64 and competed with PS2 and Xbox.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Nintendo GameCube, es una de las consolas de sexta generación y fue fabricada por Nintendo. Es la sucesora de la Nintendo 64 y la predecesora de la Wii. Logró vender 21 740 000 unidades mundialmente.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>GameCube (ニンテンドーゲームキューブ) est une console de jeux vidéo de salon du fabricant japonais Nintendo, sortie en 2001 (2002 en Europe), développée en association avec IBM, NEC et ATI.</text>
 		</text>
 		

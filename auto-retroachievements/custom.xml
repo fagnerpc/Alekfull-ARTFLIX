@@ -6,19 +6,19 @@
 			<text>Você foi o melhor na sua época nos jogos Mega Drive ou SNES? Quer provar? Use emuladores modificados e você receberá conquistas conforme joga! Seu progresso será monitorado para que você possa completar todos os seus clássicos favoritos em 100%.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Você foi o melhor na sua época nos jogos Mega Drive ou SNES? Quer provar? Use emuladores modificados e você receberá conquistas conforme joga! Seu progresso será monitorado para que você possa completar todos os seus clássicos favoritos em 100%..</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Were you the greatest in your day at Mega Drive or SNES games? Wanna prove it? Use modified emulators and you will be awarded achievements as you play! Your progress will be tracked so you can complete all your favourite classics to 100%.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>¿Fuiste el mejor en tu día en los juegos de Mega Drive o SNES? ¿Quieres probarlo? ¡Usa emuladores modificados y recibirás logros mientras juegas! Se realizará un seguimiento de su progreso para que pueda completar todos sus clásicos favoritos al 100%.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Avez-vous été le meilleur de votre journée aux jeux Mega Drive ou SNES? Tu veux le prouver? Utilisez des émulateurs modifiés et vous obtiendrez des succès en jouant! Vos progrès seront suivis afin que vous puissiez compléter tous vos classiques préférés à 100%.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

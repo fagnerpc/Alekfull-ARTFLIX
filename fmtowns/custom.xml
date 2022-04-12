@@ -6,19 +6,19 @@
 			<text>É uma variante japonesa do PC, construída pela Fujitsu de fevereiro de 1989 ao verão de 1997. Começou como uma variante de PC proprietária destinada a aplicativos de multimídia e jogos de PC.</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>É uma variante japonesa do PC, construída pela Fujitsu de fevereiro de 1989 ao verão de 1997. Começou como uma variante de PC proprietária destinada a aplicativos de multimídia e jogos de PC.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Is a Japanese variant of PC, built by Fujitsu from February 1989 to the summer of 1997. It started as a proprietary PC variant intended for multimedia applications and games, but later became more compatible with IBM PC compatibles.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Es una variante japonesa de PC, construida por Fujitsu desde febrero de 1989 hasta el verano de 1997. Comenzó como una variante de PC patentada destinada a aplicaciones multimedia y juegos de PC.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Il s'agit d'une variante japonaise du PC, construite par Fujitsu de février 1989 à l'été 1997. Elle a commencé comme une variante PC propriétaire destinée aux applications multimédias et aux jeux PC.</text>
 		</text>
 		

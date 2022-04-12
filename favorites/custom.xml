@@ -8,25 +8,25 @@ Toda vez que marcar um jogo como favorito em um sistema, você o encontrará aqu
 Aproveite!</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>Encontre todos os seus jogos favoritos em um único sistema.
 Toda vez que marcar um jogo como favorito em um sistema, você o encontrará aqui.
 Aproveite!</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Find all your favorites games in a single system.
 Every time you mark a game as favorites in a system, you will find it here.
 Enjoy!</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Encuentra todos tus juegos favoritos en un solo sistema.
 Cada vez que marques un juego como favorito en un sistema, lo encontrarás aquí.
 ¡Disfruta!</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Trouvez tous vos jeux favoris dans un seul système.
 Chaque fois que vous marquez un jeu comme favori dans un système, vous le trouverez ici.
 Prendre plaisir !</text>
@@ -35,16 +35,16 @@ Prendre plaisir !</text>
 			<text>Favoritos</text>
 		</text>
 		
-				<text name="info2" extra="true"  region="PTBR">
+				<text name="info2" extra="true"  lang="PTBR">
 			<text>Favoritos</text>
 		</text>
-						<text name="info2" extra="true" region="EN">
+						<text name="info2" extra="true" lang="EN">
 			<text>Favorites</text>
 		</text>
-						<text name="info2" extra="true" region="ES">
+						<text name="info2" extra="true" lang="ES">
 			<text>Favoritos</text>
 		</text>
-						<text name="info2" extra="true" region="FR">
+						<text name="info2" extra="true" lang="FR">
 			<text>Favoris</text>
 		</text>
 		
@@ -57,29 +57,29 @@ Prendre plaisir !</text>
 			<text></text>
 		</text>
 		
-			<image name="logo" region="EN">
+			<image name="logo" lang="EN">
 		<path>./assets/logos/auto-favorites-en.png</path>
 	</image>
 
-				<image name="sublogo" region="EN">
+				<image name="sublogo" lang="EN">
 		<path>./assets/logos/auto-favorites-en.png</path>
 	</image>		
 		
 
-			<image name="logo" region="ES">
+			<image name="logo" lang="ES">
 		<path>./assets/logos/auto-favorites-es.png</path>
 	</image>
 
-				<image name="sublogo" region="ES">
+				<image name="sublogo" lang="ES">
 		<path>./assets/logos/auto-favorites-es.png</path>
 	</image>
 
 
-			<image name="logo" region="FR">
+			<image name="logo" lang="FR">
 		<path>./assets/logos/auto-favorites-fr.png</path>
 	</image>
 
-				<image name="sublogo" region="FR">
+				<image name="sublogo" lang="FR">
 		<path>./assets/logos/auto-favorites-fr.png</path>
 	</image>		
 		

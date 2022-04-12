@@ -6,19 +6,19 @@
 			<text>Resident Evil, conhecido no Japão como Biohazard, é uma franquia japonesa de mídia de terror criada por Shinji Mikami e Tokuro Fujiwara e de propriedade da empresa de videogames Capcom. A franquia começou com o videogame Resident Evil, lançado em 1996.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Resident Evil, conhecido no Japão como Biohazard, é uma franquia japonesa de mídia de terror criada por Shinji Mikami e Tokuro Fujiwara e de propriedade da empresa de videogames Capcom. A franquia começou com o videogame Resident Evil, lançado em 1996.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Resident Evil, known in Japan as Biohazard, is a Japanese horror media franchise created by Shinji Mikami and Tokuro Fujiwara, and owned by Capcom. The franchise began with the video game Resident Evil, released in 1996.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Resident Evil, conocido en Japón como Biohazard, es una franquicia japonesa de medios de terror creada por Shinji Mikami y Tokuro Fujiwara, y propiedad de Capcom. La franquicia comenzó con el videojuego Resident Evil, lanzado en 1996.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Resident Evil, connue au Japon sous le nom de Biohazard, est une franchise japonaise de médias d'horreur créée par Shinji Mikami et Tokuro Fujiwara, et détenue par Capcom. La franchise a commencé avec le jeu vidéo Resident Evil, sorti en 1996.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

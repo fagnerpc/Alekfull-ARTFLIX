@@ -6,19 +6,19 @@
 			<text>Crash Bandicoot é uma franquia de videogames de plataforma. A série foi criada por Andy Gavin e Jason Rubin durante seu mandato na Naughty Dog para a Universal Interactive Studios e foi originalmente publicada pela Sony Computer Entertainment.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Crash Bandicoot é uma franquia de videogames de plataforma. A série foi criada por Andy Gavin e Jason Rubin durante seu mandato na Naughty Dog para a Universal Interactive Studios e foi originalmente publicada pela Sony Computer Entertainment.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Crash Bandicoot is a franchise of platform video games. The series was created by Andy Gavin and Jason Rubin during their tenure at Naughty Dog for Universal Interactive Studios and was originally published by Sony Computer Entertainment.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Crash Bandicoot es una franquicia de videojuegos de plataformas. La serie fue creada por Andy Gavin y Jason Rubin durante su permanencia en Naughty Dog para Universal Interactive Studios y fue originalmente publicada por Sony Computer Entertainment.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Crash Bandicoot est une franchise de jeux vidéo de plateforme. La série a été créée par Andy Gavin et Jason Rubin pendant leur mandat chez Naughty Dog pour Universal Interactive Studios et a été initialement publiée par Sony Computer Entertainment.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

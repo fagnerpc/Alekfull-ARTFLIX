@@ -6,19 +6,19 @@
 			<text>Konami é um conglomerado japonês de entretenimento e jogos de azar. Opera como distribuidor de produtos (que produz e distribui anime, tokusatsu, caça-níqueis,e máquinas de pachinko), desenvolvedor de videogame e empresa editora.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Konami é um conglomerado japonês de entretenimento e jogos de azar. Opera como distribuidor de produtos (que produz e distribui anime, tokusatsu, caça-níqueis,e máquinas de pachinko), desenvolvedor de videogame e empresa editora.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Konami is a Japanese entertainment and gambling conglomerate. It operates as a product distributor (which produces and distributes trading cards, anime, tokusatsu, slot machines, pachinko machines and arcade cabinets), video game developer and publisher company.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Konami es un conglomerado japonés de entretenimiento y juegos de azar. Funciona como un distribuidor de productos (que produce y distribuye anime, tokusatsu, máquinas tragamonedas y máquinas pachinko), desarrollador de videojuegos y compañía editorial.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Konami est un conglomérat de divertissement et de jeu japonais. Il opère en tant que distributeur de produits (qui produit et distribue des animés, des tokusatsu, des machines à sous et des armoires d'arcade), développeur de jeux vidéo et société d'édition.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>FUNDADOR:</text>
 		</text>
 		
-		<text name="info5" extra="true"  region="PTBR">
+		<text name="info5" extra="true"  lang="PTBR">
 			<text>FUNDADOR:</text>
 		</text>
-		<text name="info5" extra="true" region="EN">
+		<text name="info5" extra="true" lang="EN">
 			<text>FOUNDER:</text>
 		</text>
-		<text name="info5" extra="true" region="ES">
+		<text name="info5" extra="true" lang="ES">
 			<text>FUNDADOR:</text>
 		</text>
-		<text name="info5" extra="true" region="FR">
+		<text name="info5" extra="true" lang="FR">
 			<text>FONDATEUR:</text>
 		</text>		
 	</view>

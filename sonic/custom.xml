@@ -6,19 +6,19 @@
 			<text>Sonic the Hedgehog é uma série de videogames japonesa e franquia de mídia criada e de propriedade da Sega. A franquia segue Sonic, um ouriço azul que luta contra o malvado Doctor Eggman, um cientista louco.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Sonic the Hedgehog é uma série de videogames japonesa e franquia de mídia criada e de propriedade da Sega. A franquia segue Sonic, um ouriço azul que luta contra o malvado Doctor Eggman, um cientista louco.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Sonic the Hedgehog is a Japanese video game series and media franchise created and owned by Sega. The franchise follows Sonic, a blue hedgehog who battles the evil Doctor Eggman, a mad scientist.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Sonic the Hedgehog es una serie de videojuegos japoneses y una franquicia de medios creada y propiedad de Sega. La franquicia sigue a Sonic, un erizo azul que lucha contra el malvado Doctor Eggman, un científico loco.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Sonic the Hedgehog est une série japonaise de jeux vidéo et une franchise multimédia créée et détenue par Sega. La franchise suit Sonic, un hérisson bleu qui combat le méchant docteur Eggman, un savant fou.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

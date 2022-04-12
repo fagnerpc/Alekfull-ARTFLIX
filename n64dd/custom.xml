@@ -6,19 +6,19 @@
 			<text>Foi um periférico para o Nintendo 64. Era plugado através da EXTension Port e permitia ao N64 usar discos magnéticos proprietários de 64 MB de capacidade para aumentar a capacidade de armazenamento de dados.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Foi um periférico para o Nintendo 64. Era plugado através da EXTension Port e permitia ao N64 usar discos magnéticos proprietários de 64 MB de capacidade para aumentar a capacidade de armazenamento de dados.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>It was a peripheral for the Nintendo 64. It was plugged through the EXTension Port and allowed the N64 to use 64 MB proprietary magnetic disks to increase data storage capacity.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Era un periférico para Nintendo 64. Estaba conectado a través del puerto EXTension y permitía que el N64 usara discos magnéticos patentados de 64 MB para aumentar la capacidad de almacenamiento de datos.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>C'était un périphérique pour la Nintendo 64. Il était branché sur le port EXTension et permettait au N64 d'utiliser des disques magnétiques exclusifs de 64 Mo pour augmenter la capacité de stockage de données.</text>
 		</text>
 		

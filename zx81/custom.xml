@@ -6,19 +6,19 @@
 			<text>Sinclair ZX81, lançado pela Sinclair Research em 1981, veio em sequência ao ZX80. Foi o primeiro computador doméstico no mundo vendido abaixo de US$ 100 (sob a forma de "kit").</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Sinclair ZX81, lançado pela Sinclair Research em 1981, veio em sequência ao ZX80. Foi o primeiro computador doméstico no mundo vendido abaixo de US$ 100 (sob a forma de "kit").</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to ZX80.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>ZX81, lanzado por Sinclair Research en 1981, fue el computador de menor precio de la época y se vendía en la versión de kit por 49,95 libras esterlinas, y por 69,95 montado. Este era la versión mejorada del ZX80.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>La conception du ZX81 avait pour objectif de produire un ordinateur aux performances certes modestes, mais à un coût raisonnable. Cela passait d'abord par une réduction du nombre des composants et par l'optimisation de leur utilisation.</text>
 		</text>
 		

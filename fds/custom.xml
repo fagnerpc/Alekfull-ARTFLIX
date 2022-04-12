@@ -6,19 +6,19 @@
 			<text>Este acessório era utilizado no Nintendo Entertainment System. A sua distribuição ocorreu somente no Japão, mas não foi bem sucedida devido aos problemas a que esse tipo de mídia (disquete) está sujeita.</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>Este acessório era utilizado no Nintendo Entertainment System. A sua distribuição ocorreu somente no Japão, mas não foi bem sucedida devido aos problemas a que esse tipo de mídia (disquete) está sujeita.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>The Family Computer Disk System, abbreviated as the FDS or FCD, is a peripheral for Nintendo's Family Computer home video game console, released only in Japan on February 21, 1986.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>The Family Computer Disk System, abreviado como FDS o FCD, es un periférico para la consola de videojuegos para el hogar de Nintendo's Family Computer, lanzado solo en Japón el 21 de febrero de 1986.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Est un périphérique de la console de jeux vidéo Famicom. Vendu par Nintendo, il se place sous la console et utilise un format propriétaire de disquette permettant de stocker des jeux.</text>
 		</text>
 		

@@ -6,19 +6,19 @@
 			<text>É o video game de segunda geração da Coleco Industries lançado em agosto de 1982. Ele oferecia gráficos e estilo de jogo de qualidade similar aos encontrados nos fliperamas (arcade) da época.</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>É o video game de segunda geração da Coleco Industries lançado em agosto de 1982. Ele oferecia gráficos e estilo de jogo de qualidade similar aos encontrados nos fliperamas (arcade) da época.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Is Coleco Industries' second-generation home video-game console that was released in August 1982. The ColecoVision offered a closer experience to more powerful arcade game systems.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>ColecoVision es una consola de videojuegos de segunda generación lanzada al mercado estadounidense en agosto de 1982 por la empresa Coleco.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>La ColecoVision est une console de jeu vidéo de deuxième génération commercialisée par Coleco, sortie en août 1982. Elle propose des graphismes et des manettes similaires aux jeux d'arcade de l'époque.</text>
 		</text>
 		

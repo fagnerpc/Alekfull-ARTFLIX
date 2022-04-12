@@ -6,19 +6,19 @@
 			<text>É uma máquina virtual e motor de jogo criado pela Lexaloffle Games. Ele é projetado para imitar um "console de videogame de fantasia, emulando as severas limitações de hardware dos consoles de videogame no início dos anos 1980.</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>É uma máquina virtual e motor de jogo criado pela Lexaloffle Games. Ele é projetado para imitar um "console de videogame de fantasia, emulando as severas limitações de hardware dos consoles de videogame no início dos anos 1980.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Is a virtual machine and game engine created by Lexaloffle Games. It is designed to mimic a "fantasy video game console, by emulating the harsh hardware limitations of the video game consoles around the early 1980s.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Es una máquina virtual y un motor de juegos creado por Lexaloffle Games. Está diseñado para imitar una "consola de videojuegos de fantasía, emulando las duras limitaciones de hardware de las consolas de videojuegos de la década de 1980".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Est une machine virtuelle et un moteur de jeu créés par Lexaloffle Games. Il est conçu pour imiter une «console de jeu vidéo fantastique, en émulant les dures limitations matérielles des consoles de jeux vidéo au début des années 1980.</text>
 		</text>
 		

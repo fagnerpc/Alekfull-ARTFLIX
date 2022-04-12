@@ -6,19 +6,19 @@
 			<text>O DOS, sigla para Disk Operating System ou sistema operacional em disco é um acrónimo para vários sistemas operativos intimamente relacionados que dominaram o mercado para compatíveis IBM PC entre 1981 e 1995.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>O DOS, sigla para Disk Operating System ou sistema operacional em disco é um acrónimo para vários sistemas operativos intimamente relacionados que dominaram o mercado para compatíveis IBM PC entre 1981 e 1995.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>DOS, acronyme de Disk Operating System ou de système d’exploitation de disques, est un acronyme pour plusieurs systèmes d’exploitation étroitement liés qui ont dominé le marché des PC compatibles IBM entre 1981 et 1995.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>El DOS, la sigla para el sistema operativo de disco o el sistema operativo en disco es un acrónimo para varios sistemas operativos íntimamente relacionados que dominaron el mercado para compatibilidad IBM PC entre 1981 y 1995.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>DOS, acronyme de Disk Operating System ou de système d’exploitation de disques, est un acronyme pour plusieurs systèmes d’exploitation étroitement liés qui ont dominé le marché des PC compatibles IBM entre 1981 et 1995.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

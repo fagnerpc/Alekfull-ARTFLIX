@@ -6,19 +6,19 @@
 			<text>Também conhecido como Pocket Monsters no Japão, é uma franquia de mídia japonesa administrada pela The Pokémon Company, uma empresa fundada pela Nintendo, Game Freak e Creatures. A franquia foi criada por Satoshi Tajiri em 1995 e é centrada em criaturas fictícias chamadas "Pokémon".</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Também conhecido como Pocket Monsters no Japão, é uma franquia de mídia japonesa administrada pela The Pokémon Company, uma empresa fundada pela Nintendo, Game Freak e Creatures. A franquia foi criada por Satoshi Tajiri em 1995 e é centrada em criaturas fictícias chamadas "Pokémon".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Also known as Pocket Monsters in Japan, is a Japanese media franchise managed by The Pokémon Company, a company founded by Nintendo, Game Freak, and Creatures. The franchise was created by Satoshi Tajiri in 1995, and is centered on fictional creatures called "Pokémon".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>También conocida como Pocket Monsters en Japón, es una franquicia de medios japonesa administrada por The Pokémon Company, una compañía fundada por Nintendo, Game Freak y Creatures. Fue creada por Satoshi Tajiri en 1995 y se centra en criaturas ficticias llamadas "Pokémon".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Est une franchise de médias japonais gérée par The Pokémon Company, une société fondée par Nintendo, Game Freak et Creatures. La franchise a été créée par Satoshi Tajiri en 1995 et est centrée sur des créatures fictives appelées "Pokémon".</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

@@ -7,19 +7,19 @@
 			<text>O Satellaview é um periférico que funcionava como um modem via satélite para o sistema Super Famicom da Nintendo que foi lançado em Japão em 1995.</text>
 		</text>	
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>O Satellaview é um periférico que funcionava como um modem via satélite para o sistema Super Famicom da Nintendo que foi lançado em Japão em 1995.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Satellaview est un périphérique qui a servi de modem satellite pour le système Super Famicom de Nintendo sorti au Japon en 1995.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Satellaview est un périphérique qui a servi de modem satellite pour le système Super Famicom de Nintendo sorti au Japon en 1995.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Satellaview est un périphérique qui a servi de modem satellite pour le système Super Famicom de Nintendo sorti au Japon en 1995.</text>
 		</text>
 		

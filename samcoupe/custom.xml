@@ -6,19 +6,19 @@
 			<text>SAM Coupé é um computador doméstico britânico de 8 bits que foi lançado pela primeira vez no final de 1989. Ele foi projetado para ter compatibilidade e é comumente considerado um clone do computador Sinclair ZX Spectrum.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>SAM Coupé é um computador doméstico britânico de 8 bits que foi lançado pela primeira vez no final de 1989. Ele foi projetado para ter compatibilidade e é comumente considerado um clone do computador Sinclair ZX Spectrum.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>The SAM Coupé is an 8-bit British home computer that was first released in late 1989. It was designed to have compatibility with and is commonly considered a clone of the Sinclair ZX Spectrum computer.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>El SAM Coupé es una computadora doméstica británica de 8 bits, lanzada por primera vez a fines de 1989. Fue diseñada para ser compatible con y generalmente se considera un clon de la computadora Sinclair ZX Spectrum.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Le SAM Coupé est un ordinateur domestique britannique 8 bits, lancé pour la première fois à la fin de 1989. Il a été conçu pour être compatible avec et est généralement considéré comme un clone de l'ordinateur Sinclair ZX Spectrum.</text>
 		</text>
 		

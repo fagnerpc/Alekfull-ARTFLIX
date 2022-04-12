@@ -6,19 +6,19 @@
 			<text>EasyRPG é uma engine de código aberto que reimplementa as plataformas RPG Maker 2000 e 2003. Ele procura oferecer portabilidade e compatibilidade total com jogos RM2k / 2k3 enquanto corrige bugs no motor de jogo original.</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>EasyRPG é uma engine de código aberto que reimplementa as plataformas RPG Maker 2000 e 2003. Ele procura oferecer portabilidade e compatibilidade total com jogos RM2k / 2k3 enquanto corrige bugs no motor de jogo original.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>EasyRPG is a multi-platform, open-source game engine that reimplements the RPG Maker 2000 and 2003 game creation platforms. It seeks to offer portability and full compatibility with RM2k/2k3 games while fixing bugs in the original game engine.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>EasyRPG es un motor de juegos de código abierto que reimplementa las plataformas RPG Maker 2000 y 2003. Busca ofrecer portabilidad y compatibilidad total con juegos RM2k / 2k3 mientras corrige errores en el motor del juego original.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>EasyRPG est un moteur de jeu open-source qui réimplémente le RPG Maker 2000 et 2003. Il cherche à offrir une portabilité et une compatibilité totale avec les jeux RM2k / 2k3 tout en corrigeant les bogues dans le moteur de jeu original.</text>
 		</text>
 		

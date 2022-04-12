@@ -6,19 +6,19 @@
 			<text>Metal Gear é uma série de videogames furtivos de ação e aventura criados por Hideo Kojima e desenvolvidos e publicados pela Konami. A série é creditada por ser pioneira e popularizar videogames furtivos e "videogames cinematográficos".</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Metal Gear é uma série de videogames furtivos de ação e aventura criados por Hideo Kojima e desenvolvidos e publicados pela Konami. A série é creditada por ser pioneira e popularizar videogames furtivos e "videogames cinematográficos".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Metal Gear is a series of action-adventure stealth video games created by Hideo Kojima and developed and published by Konami. The series is credited for pioneering and popularizing stealth video games and "cinematic video games".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Metal Gear es una serie de videojuegos sigilosos de acción y aventura creados por Hideo Kojima y desarrollados y publicados por Konami. A la serie se le atribuye ser pionera y popularizar los videojuegos sigilosos y los "videojuegos cinematográficos".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Metal Gear est une série de jeux vidéo d'action-aventure furtifs créés par Hideo Kojima et développés et publiés par Konami. La série est reconnue pour avoir innové et popularisé les jeux vidéo furtifs et les jeux vidéo cinématographiques.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

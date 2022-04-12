@@ -6,19 +6,19 @@
 			<text>O TIC-80 é um computador de fantasia para criar, jogar e compartilhar pequenos jogos. Existem ferramentas internas para desenvolvimento: código, sprites, mapas, o suficiente para criar um mini-jogo retro.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>O TIC-80 é um computador de fantasia para criar, jogar e compartilhar pequenos jogos. Existem ferramentas internas para desenvolvimento: código, sprites, mapas, o suficiente para criar um mini-jogo retro.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>TIC-80 is a fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, which is enough to create a mini retro game.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>TIC-80 es una computadora de fantasía para hacer, jugar y compartir pequeños juegos. Hay herramientas integradas para el desarrollo: código, sprites, mapas, que es suficiente para crear un mini juego retro.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>TIC-80 est un ordinateur fantastique permettant de créer, de jouer et de partager de petits jeux. Il existe des outils intégrés pour le développement: code, sprites, cartes, ce qui est suffisant pour créer un mini jeu rétro.</text>
 		</text>
 		

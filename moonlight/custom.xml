@@ -6,19 +6,19 @@
 			<text>Moonlight permite que você faça stream dos jogos da sua coleção da Steam no seu Raspberry Pi. Moonlight é perfeito para jogar 'on the go' sem sacrificar o seu PC.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Moonlight permite que você faça stream dos jogos da sua coleção da Steam no seu Raspberry Pi. Moonlight é perfeito para jogar 'on the go' sem sacrificar o seu PC.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Moonlight allows you to stream your collection of Steam games from your NVIDIA GFE PC to your rpi. Moonlight is perfect for gameplay on the go without sacrificing the graphics quality of your gaming computer.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Moonlight le permite transmitir su colección de juegos de Steam desde su PC a su rpi. Moonlight es perfecto para el juego en cualquier lugar sin sacrificar la calidad de gráficos de tu computadora de juego.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Moonlight vous permet de diffuser votre collection de jeux Steam depuis votre PC NVIDIA GFE vers votre rpi. Moonlight est parfait pour le jeu en déplacement sans sacrifier la qualité graphique de votre ordinateur de jeu.</text>
 		</text>
 		

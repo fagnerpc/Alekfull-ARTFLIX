@@ -6,19 +6,19 @@
 			<text>Arcade é um aparelho de jogo eletrônico instalado em estabelecimentos de entretenimento. Compõe-se de um gabinete, tubo de imagem (CRT) ou monitor, fonte de alimentação, controle(s) de jogo e sistema de jogo.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Arcade é um aparelho de jogo eletrônico instalado em estabelecimentos de entretenimento. Compõe-se de um gabinete, tubo de imagem (CRT) ou monitor, fonte de alimentação, controle(s) de jogo e sistema de jogo.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Arcade is an electronic gaming device installed in entertainment establishments. It consists of an enclosure, CRT or monitor, power supply, game controller (s) and game system.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Arcade es un dispositivo de juego electrónico instalado en establecimientos de entretenimiento. Consiste en un gabinete, CRT o monitor, fuente de alimentación, controlador (es) de juego y sistema de juego.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Arcade est un appareil de jeu électronique installé dans les établissements de divertissement. Il comprend un boîtier, un tube cathodique ou un moniteur, une alimentation, des contrôleurs de jeu et un système de jeu.</text>
 		</text>
 		

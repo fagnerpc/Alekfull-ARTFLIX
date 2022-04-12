@@ -6,19 +6,19 @@
 			<text>Sega 32x é um acessório para o console da Sega, o Mega Drive, Genesis Na América do Norte. O acessório deveria ser inserido na entrada de cartucho do Mega Drive, recebendo cartuchos próprios ou do Mega Drive.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Sega 32x é um acessório para o console da Sega, o Mega Drive, Genesis Na América do Norte. O acessório deveria ser inserido na entrada de cartucho do Mega Drive, recebendo cartuchos próprios ou do Mega Drive.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>The 32X is an add-on for the Sega Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Genesis and serve as a transitional console into the 32-bit.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Mega Drive 32X, también llamada Sega 32X (en América) o Super 32X (en Japón), es un periférico lanzado por Sega en 1994, que ofrecía una ampliación de 32 bits para la consola de 16 bits Sega Mega Drive.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Est une extension de la Mega Drive, console du constructeur japonais Sega. La 32X utilise indépendamment de la Mega Drive ses propres cartouches de jeu et dispose d'une ludothèque de quarante jeux vidéo.</text>
 		</text>
 
@@ -26,16 +26,16 @@
 			<text>Sega 32X</text>
 		</text>
 		
-		<text name="info2" extra="true" region="PTBR">
+		<text name="info2" extra="true" lang="PTBR">
 			<text>Sega 32X</text>
 		</text>
-						<text name="info2" extra="true" region="EN">
+						<text name="info2" extra="true" lang="EN">
 			<text>Genesis 32X</text>
 		</text>
-						<text name="info2" extra="true" region="ES">
+						<text name="info2" extra="true" lang="ES">
 			<text>Mega Drive 32X</text>
 		</text>
-						<text name="info2" extra="true" region="FR">
+						<text name="info2" extra="true" lang="FR">
 			<text>Mega Drive 32X</text>
 		</text>
 		
@@ -47,11 +47,11 @@
 			<text>Sega Corporation</text>
 		</text>	
 		
-		<image name="logo" region="EN">
+		<image name="logo" lang="EN">
 		<path>./../assets/logos/sega32x4.png</path>
 	</image>	
 
-		<image name="sublogo" region="EN">
+		<image name="sublogo" lang="EN">
 		<path>./assets/logos/sega32x4.png</path>
 	</image>		
 	</view>

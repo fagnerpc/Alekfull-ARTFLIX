@@ -6,19 +6,19 @@
 			<text>Shoot 'em up é um subgênero de jogos eletrônicos de tiro. Em um shoot 'em up, o personagem do jogador se envolve em um ataque solitário, frequentemente, em uma nave espacial ou aeronaves, disparando em vários de inimigos e evitando seus ataques.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Shoot 'em up é um subgênero de jogos eletrônicos de tiro. Em um shoot 'em up, o personagem do jogador se envolve em um ataque solitário, frequentemente, em uma nave espacial ou aeronaves, disparando em vários de inimigos e evitando seus ataques.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Shoot 'em up is a subgenre of electronic shooting games. In a shoot 'em up, the player's character engages in a lone attack, often on a spaceship or aircraft, firing at several of enemies and avoiding their attacks.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Shoot 'em up es un subgénero de los juegos de disparos electrónicos. En un juego de disparos, el personaje del jugador se involucra en un ataque solitario, a menudo en una nave espacial o un avión, disparando a varios enemigos y evitando sus ataques.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Shoot 'em up est un sous-genre de jeux de tir électroniques. Dans un shoot 'em up, le personnage du joueur s'engage dans une attaque solitaire, souvent sur un vaisseau spatial ou un avion, tirant sur plusieurs ennemis et évitant leurs attaques.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

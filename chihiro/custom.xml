@@ -6,19 +6,19 @@
 			<text>Sega Chihiro é uma placa de arcade da Sega baseada na arquitetura do Xbox da Microsoft. Entre as características semelhantes às do Xbox se encontram o processador Intel Pentium III e o processador gráfico nVidia XChip.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Sega Chihiro é uma placa de arcade da Sega baseada na arquitetura do Xbox da Microsoft. Entre as características semelhantes às do Xbox se encontram o processador Intel Pentium III e o processador gráfico nVidia XChip.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Sega Chihiro is a Sega arcade card based on Microsoft's Xbox architecture. Xbox-like features include the Intel Pentium III processor and the nVidia XChip graphics processor.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Sega Chihiro es una tarjeta arcade Sega basada en la arquitectura Xbox de Microsoft. Las características tipo Xbox incluyen el procesador Intel Pentium III y el procesador de gráficos nVidia XChip.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Sega Chihiro est une carte d'arcade Sega basée sur l'architecture Xbox de Microsoft. Les fonctionnalités de type Xbox incluent le processeur Intel Pentium III et le processeur graphique nVidia XChip.</text>
 		</text>
 		

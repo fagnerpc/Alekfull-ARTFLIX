@@ -6,19 +6,19 @@
 			<text>Gabinete Electrónico Consultivo, mais conhecida como Gaelco, S.A., é uma empresa espanhola que desenvolve e publica jogos de arcade e videogames. A partir de 2007, a Gaelco desenvolve máquinas eletrônicas de dardo sob o nome de "Gaelco Darts".</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>Gabinete Electrónico Consultivo, mais conhecida como Gaelco, S.A., é uma empresa espanhola que desenvolve e publica jogos de arcade e videogames. A partir de 2007, a Gaelco desenvolve máquinas eletrônicas de dardo sob o nome de "Gaelco Darts".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Gabinete Electrónico Consultivo, better known as Gaelco, S.A., is a Spanish company that develops and publishes arcade games and video games. As of 2007, Gaelco develops electronic dart machines under the name of "Gaelco Darts".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Gabinete Electrónico Consultivo, más conocido como Gaelco, S.A., es una empresa española que desarrolla y publica juegos de videojuegos y arcade. A partir de 2007, Gaelco desarrolla máquinas de dardos electrónicos bajo el nombre de "Gaelco Darts".</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Gabinete Electrónico Consultivo, plus connue sous le nom de Gaelco, S.A., est une société espagnole qui développe et publie des jeux d'arcade et des jeux vidéo. Depuis 2007, Gaelco développe des machines à fléchettes électroniques sous le nom de "Gaelco Darts".</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>FUNDADOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>FUNDADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>FOUNDER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>FUNDADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>FONDATEUR:</text>
 		</text>			
 	</view>

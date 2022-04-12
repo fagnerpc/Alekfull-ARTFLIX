@@ -6,19 +6,19 @@
 			<text>Uma pistola de luz (também conhecida pelo nome em inglês, light gun) é um dispositivo de indicação para computadores e um controlador para jogos de arcade e consoles de videogame.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Uma pistola de luz (também conhecida pelo nome em inglês, light gun) é um dispositivo de indicação para computadores e um controlador para jogos de arcade e consoles de videogame.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>A light gun is a pointing device for computers and a control device for arcade and video games, typically shaped to resemble a pistol.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Una pistola de luz es un dispositivo apuntador para computadoras y un dispositivo de control para videojuegos y videojuegos, típicamente diseñado para parecerse a una pistola.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Un pistolet léger est un dispositif de pointage pour les ordinateurs et un dispositif de contrôle pour les jeux d'arcade et les jeux vidéo, généralement conçus pour ressembler à un pistolet.</text>
 		</text>
 		

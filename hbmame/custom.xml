@@ -6,19 +6,19 @@
 			<text>MAME significa Multiple Arcade Machine Emulator - Emulador de Múltiplas Máquinas de Arcade, em português. O MAME irá reproduzir, mais ou menos fielmente, o jogo em sua máquina.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>MAME significa Multiple Arcade Machine Emulator - Emulador de Múltiplas Máquinas de Arcade, em português. O MAME irá reproduzir, mais ou menos fielmente, o jogo em sua máquina.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Multiple Arcade Machine Emulator is a free and open source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Multiple Arcade Machine Emulator es un emulador de código abierto y gratuito diseñado para recrear el hardware de los sistemas de juegos de arcade en software en computadoras personales modernas y otras plataformas.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Multiple Arcade Machine Emulator, est un logiciel d'émulation pour PC dont le but est de reproduire fidèlement le fonctionnement des jeux et des systèmes d'arcade afin de préserver l'histoire du jeu vidéo.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

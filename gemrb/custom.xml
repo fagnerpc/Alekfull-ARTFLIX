@@ -6,19 +6,19 @@
 			<text>GemRB (Game Engine Made with preRendered Background) é uma reimplementação portátil de código aberto do Infinity Engine que sustentava Baldur's Gate, Icewind Dale e Planescape: Torment.</text>
 		</text>
 
-		<text name="info1" extra="true"  region="PTBR">
+		<text name="info1" extra="true"  lang="PTBR">
 			<text>GemRB (Game Engine Made with preRendered Background) é uma reimplementação portátil de código aberto do Infinity Engine que sustentava Baldur's Gate, Icewind Dale e Planescape: Torment.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>GemRB (Game Engine Made with preRendered Background) is a portable open-source reimplementation of the Infinity Engine that underpinned Baldur's Gate, Icewind Dale and Planescape: Torment.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>GemRB (Game Engine Made with preRendered Background) es una reimplementación portátil de código abierto del Infinity Engine que sustentaba Baldur's Gate, Icewind Dale y Planescape: Torment.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>GemRB (Game Engine Made with preRendered Background) est une réimplémentation open-source portable du moteur Infinity qui sous-tendait Baldur's Gate, Icewind Dale et Planescape: Torment.</text>
 		</text>
 		

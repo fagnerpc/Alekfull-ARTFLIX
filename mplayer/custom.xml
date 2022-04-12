@@ -6,19 +6,19 @@
 			<text>Media player é um tipo de aplicativo para reproduzir arquivos de computador multimídia, como arquivos de áudio e vídeo. Os players de mídia geralmente exibem ícones de controle de mídia padrão conhecidos de dispositivos físicos, como gravadores e CD players.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Media player é um tipo de aplicativo para reproduzir arquivos de computador multimídia, como arquivos de áudio e vídeo. Os players de mídia geralmente exibem ícones de controle de mídia padrão conhecidos de dispositivos físicos, como gravadores e CD players.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Media player software is a type of application software for playing multimedia computer files like audio and video files. Media players commonly display standard media control icons known from physical devices such as tape recorders and CD players.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Es un tipo de software de aplicación para reproducir archivos multimedia de computadora como archivos de audio y video. Los reproductores multimedia suelen mostrar iconos de control multimedia conocidos desde dispositivos físicos, como grabadoras y reproductores de CD.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Est un type de logiciel d'application pour lire des fichiers informatiques multimédias comme des fichiers audio et vidéo. Les lecteurs multimédias affichent généralement des icônes de contrôle multimédia standard connues des périphériques physiques.</text>
 		</text>
 		

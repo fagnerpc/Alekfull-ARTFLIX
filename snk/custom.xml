@@ -6,19 +6,19 @@
 			<text>A SNK Corporation é uma empresa japonesa de hardware e software de videogame. É o sucessor da empresa Shin Nihon Kikaku e atualmente possui a marca de videogames SNK e a plataforma de videogame Neo Geo.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>A SNK Corporation é uma empresa japonesa de hardware e software de videogame. É o sucessor da empresa Shin Nihon Kikaku e atualmente possui a marca de videogames SNK e a plataforma de videogame Neo Geo.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>SNK Corporation  is a Japanese video game hardware and software company. It is the successor to the company Shin Nihon Kikaku and presently owns the SNK video game brand and the Neo Geo video game platform.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>SNK Corporation es una compañía japonesa de hardware y software de videojuegos. Es el sucesor de la compañía Shin Nihon Kikaku y actualmente posee la marca de videojuegos SNK y la plataforma de videojuegos Neo Geo.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>SNK Corporation est une société japonaise de matériel et de logiciels de jeux vidéo. Il succède à la société Shin Nihon Kikaku et détient actuellement la marque de jeux vidéo SNK et la plateforme de jeux vidéo Neo Geo.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>FUNDADOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>FUNDADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>FOUNDER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>FUNDADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>FONDATEUR:</text>
 		</text>	
 	</view>

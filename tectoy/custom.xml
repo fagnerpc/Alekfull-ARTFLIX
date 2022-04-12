@@ -6,19 +6,19 @@
 			<text>A Tectoy é uma empresa brasileira de equipamentos eletrônicos de consumo, conhecida principalmente por seu trabalho na produção e comercialização de consoles e jogos eletrônicos.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>A Tectoy é uma empresa brasileira de equipamentos eletrônicos de consumo, conhecida principalmente por seu trabalho na produção e comercialização de consoles e jogos eletrônicos.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Tectoy is a Brazilian company of consumer electronic equipment, known mainly for its work in the production and commercialization of consoles and electronic games.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Tectoy es una empresa brasileña de equipos electrónicos de consumo, conocida principalmente por su trabajo en la producción y comercialización de consolas y juegos electrónicos.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Tectoy est une société brésilienne de matériel électronique grand public, connue principalement pour ses travaux dans la production et la commercialisation de consoles et de jeux électroniques.</text>
 		</text>
 		

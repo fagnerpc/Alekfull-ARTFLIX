@@ -6,19 +6,19 @@
 			<text>O NEC PC-8801 foi um computador pessoal, fabricado pela Nippon Electric Company e lançado em 1981, era baseado em no processador 8 bits Zilog Z80.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>O NEC PC-8801 foi um computador pessoal, fabricado pela Nippon Electric Company e lançado em 1981, era baseado em no processador 8 bits Zilog Z80.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>The NEC PC-8801 was a personal computer, manufactured by Nippon Electric Company and released in 1981, was based on the Zilog Z80 8-bit processor.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>El NEC PC-8801 era una computadora personal, fabricada por Nippon Electric Company y lanzada en 1981, basada en el procesador Zilog Z80 de 8 bits.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Le NEC PC-8801 était un ordinateur personnel, fabriqué par Nippon Electric Company et commercialisé en 1981, basé sur le processeur Zilog Z80 à 8 bits.</text>
 		</text>
 		

@@ -6,19 +6,19 @@
 			<text>Duke Nukem é um herói americano e ícone cultural mundial que salvou repetidamente a Terra de exércitos de robôs hostis, invasores alienígenas e policiais suínos mutantes. Ele é o personagem principal de uma franquia inteira com o seu nome.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Duke Nukem é um herói americano e ícone cultural mundial que salvou repetidamente a Terra de exércitos de robôs hostis, invasores alienígenas e policiais suínos mutantes. Ele é o personagem principal de uma franquia inteira com o seu nome.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Duke Nukem is an American hero and worldwide cultural icon who has repeatedly saved Earth from armies of hostile robots, alien invaders, and mutant pig cops. He is the flagship character of an entire franchise named after him.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Duke Nukem es un héroe estadounidense que en repetidas ocasiones ha salvado la Tierra de ejércitos de robots hostiles, invasores alienígenas y policías cerdos mutantes. Es el personaje insignia de toda una franquicia que lleva su nombre.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Duke Nukem est un héros américain qui a sauvé à plusieurs reprises la Terre des armées de robots hostiles, d'envahisseurs extraterrestres et de flics cochons mutants. Il est le personnage phare de toute une franchise qui porte son nom.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>		
 	</view>

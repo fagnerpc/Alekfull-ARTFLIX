@@ -6,19 +6,19 @@
 			<text>Mr.Boom é um core para o RetroArch baseado no clássico Bomberman na sua fase 8-bits. Ele tem suporte para 8 jogadores simultâneos e continua muito divertido, com a experiência Bomberman completa.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Mr.Boom é um core para o RetroArch baseado no clássico Bomberman na sua fase 8-bits. Ele tem suporte para 8 jogadores simultâneos e continua muito divertido, com a experiência Bomberman completa.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Mr.Boom is a core for RetroArch based on the classic Bomberman in its 8-bit phase. It has support for 8 simultaneous players and remains very fun, with the complete Bomberman experience.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Mr.Boom es un núcleo para RetroArch basado en el clásico Bomberman en su fase de 8 bits. Tiene soporte para 8 jugadores simultáneos y sigue siendo muy divertido, con la experiencia completa de Bomberman.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Mr.Boom est un noyau pour RetroArch basé sur le Bomberman classique dans sa phase 8 bits. Il prend en charge 8 joueurs simultanés et reste très amusant, avec l'expérience complète de Bomberman.</text>
 		</text>
 				<text name="info2" extra="true">

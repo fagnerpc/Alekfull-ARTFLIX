@@ -6,19 +6,19 @@
 			<text>Dragon Ball Z (geralmente abreviado como DBZ) foi uma série de animação produzida pela Toei Animation. Baseada na série de mangá Dragon Ball escrita por Akira Toriyama, Dragon Ball Z corresponde aos volumes 17 ao 42 do mangá.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Dragon Ball Z (geralmente abreviado como DBZ) foi uma série de animação produzida pela Toei Animation. Baseada na série de mangá Dragon Ball escrita por Akira Toriyama, Dragon Ball Z corresponde aos volumes 17 ao 42 do mangá.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Dragon Ball Z (usually abbreviated as DBZ) was an animation series produced by Toei Animation. Based on the Dragon Ball manga series written by Akira Toriyama, Dragon Ball Z corresponds to volumes 17 to 42 of the manga.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Dragon Ball Z (generalmente abreviado como DBZ) fue una serie de animación producida por Toei Animation. Basado en la serie de manga Dragon Ball escrita por Akira Toriyama, Dragon Ball Z corresponde a los volúmenes 17 a 42 del manga.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Dragon Ball Z (généralement abrégé en DBZ) était une série d'animation produite par Toei Animation. Basé sur la série manga Dragon Ball écrite par Akira Toriyama, Dragon Ball Z correspond aux volumes 17 à 42 du manga.</text>
 		</text>
 		
@@ -38,16 +38,16 @@
 			<text>CRIADO POR:</text>
 		</text>
 		
-				<text name="info5" extra="true"  region="PTBR">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>CRIADO POR:</text>
 		</text>
-						<text name="info5" extra="true" region="EN">
+						<text name="info5" extra="true" lang="EN">
 			<text>CREATED BY:</text>
 		</text>
-						<text name="info5" extra="true" region="ES">
+						<text name="info5" extra="true" lang="ES">
 			<text>CRIADO POR:</text>
 		</text>
-						<text name="info5" extra="true" region="FR">
+						<text name="info5" extra="true" lang="FR">
 			<text>CRÉÉ PAR:</text>
 		</text>		
 	</view>

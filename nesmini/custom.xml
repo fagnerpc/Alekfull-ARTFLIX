@@ -6,19 +6,19 @@
 			<text>É um console de videogame dedicado da Nintendo, que emula o NES. Esteticamente, o console é uma réplica em miniatura do NES e inclui uma biblioteca estática de 30 jogos internos da biblioteca NES licenciada, suportando estados salvos para todos eles.</text>
 		</text>
 
-		<text name="info1" extra="true" region="PTBR">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>É um console de videogame dedicado da Nintendo, que emula o NES. Esteticamente, o console é uma réplica em miniatura do NES e inclui uma biblioteca estática de 30 jogos internos da biblioteca NES licenciada, suportando estados salvos para todos eles.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="EN">
+				<text name="info1" extra="true" lang="EN">
 			<text>Is a dedicated video game console by Nintendo, which emulates the NES. Aesthetically, the console is a miniature replica of the NES, and it includes a static library of 30 built-in games from the licensed NES library, supporting save states for all of them.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="ES">
+				<text name="info1" extra="true" lang="ES">
 			<text>Es una consola de videojuegos dedicada de Nintendo, que emula la NES. Estéticamente, la consola es una réplica en miniatura del NES, e incluye una biblioteca estática de 30 juegos integrados de la biblioteca NES con licencia, que admite estados de guardado para todos.</text>
 		</text>
 		
-				<text name="info1" extra="true" region="FR">
+				<text name="info1" extra="true" lang="FR">
 			<text>Est une console de jeux vidéo dédiée de Nintendo, qui émule la NES. Esthétiquement, la console est une réplique miniature de la NES, et elle comprend une bibliothèque statique de 30 jeux intégrés de la bibliothèque NES sous licence.</text>
 		</text>
 		
