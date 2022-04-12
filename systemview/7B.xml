@@ -34,7 +34,7 @@
      </video>
   
 	<text name="info1" extra="true">
-		<fontPath>./../assets/Circular Std Book.ttf</fontPath>
+		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
 		<fontSize>0.020</fontSize>
@@ -52,7 +52,7 @@
   
 
 	<text name="info3" extra="true">
-		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
+		<fontPath>./../_inc/fonts/Circular Std Black.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
 		<fontSize>0.023</fontSize>
@@ -65,8 +65,8 @@
       </text>
 
 	<text name="info4" extra="true">
-		<fontPath>./../assets/Circular Std Book.ttf</fontPath>
-		<color>5c5b5c</color>
+		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
+		<color>a8a8a8</color>
 		<alignment>left</alignment>
 		<fontSize>0.023</fontSize>
 		<lineSpacing>1</lineSpacing>
@@ -81,7 +81,7 @@
 	<text name="systemInfo">
 		<pos>-0.308 0.516</pos>
          <alignment>center</alignment>
-         <fontPath>./../assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./../_inc/fonts/Circular Std Black.ttf</fontPath>
 	     <fontSize>0.0128</fontSize>
 	     <color>FFFFFF</color>
     </text>
@@ -101,7 +101,7 @@
 	</carousel>
 	
      <helpsystem name="help">
-         <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontPath>./../_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.017</fontSize>
          <pos>0.02 0.955</pos>
          <textColor>FFFFFF</textColor>
@@ -129,7 +129,7 @@
 		</text>
 
 	<text name="info5" extra="true">
-		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
+		<fontPath>./../_inc/fonts/Circular Std Black.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
 		<fontSize>0.023</fontSize>
@@ -163,7 +163,7 @@
 		</text>
 
 	<text name="info6" extra="true">
-		<fontPath>./../assets/Circular Std Book.ttf</fontPath>
+		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
 		<color>9b9b9b</color>
 		<alignment>left</alignment>
 		<fontSize>0.0147</fontSize>
@@ -196,7 +196,7 @@
 	</text>
 
 	<text name="playbutton" extra="true">
-		<fontPath>./../assets/Circular Std Black.ttf</fontPath>
+		<fontPath>./../_inc/fonts/Circular Std Black.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>center</alignment>
 	     <fontSize>0.0142</fontSize>

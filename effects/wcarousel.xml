@@ -1,0 +1,36 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+	<carousel name="systemcarousel">
+		<type>horizontal</type>
+		<pos>2 2</pos>
+		<size>1 1</size>
+		<origin>0 0</origin>
+		<color>00000000</color>
+		<logoScale>1</logoScale>
+		<logoSize>0.3 0.2</logoSize>
+		<logoAlignment>left</logoAlignment>
+		<maxLogoCount>1</maxLogoCount>
+		<defaultTransition>instant</defaultTransition>	
+		<zIndex>50</zIndex>
+	</carousel>
+	
+		<text name="info2" extra="true">
+		<pos>2.025 2.4</pos>
+		<zIndex>0</zIndex>
+      </text>
+	
+	<image name="sublogo" extra="true">
+	      <!-- try svg -->
+		<path>./../assets/logos/$system.png</path>
+	      <!-- try png -->
+		<path>./../assets/logos/$system2.png</path>
+		<pos>0.02 0.2</pos>
+		<maxSize>0.34 0.16</maxSize>
+		<zIndex>42</zIndex>
+	</image>	
+   </view>
+
+</theme>

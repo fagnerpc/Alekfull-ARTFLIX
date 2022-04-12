@@ -1,0 +1,15 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+
+	<text name="info2" extra="true">
+		<zIndex>0</zIndex>
+		<size>0 0</size>
+		<pos>2 2</pos>
+      </text>
+	
+   </view>
+
+</theme>

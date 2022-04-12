@@ -1,0 +1,24 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+	<image name="sublogo" extra="true">
+	      <!-- try svg -->
+		<path>./../assets/logos/$system.png</path>
+	      <!-- try png -->
+		<path>./../assets/logos/$system2.png</path>
+		<pos>0.02 0.2</pos>
+		<maxSize>0.34 0.16</maxSize>
+		<zIndex>42</zIndex>
+	</image>
+	
+	<text name="info2" extra="true">
+		<zIndex>0</zIndex>
+		<size>0 0</size>
+		<pos>2 2</pos>
+      </text>
+	
+   </view>
+
+</theme>

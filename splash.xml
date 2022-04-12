@@ -22,7 +22,7 @@
 		</image>
 
 		<text name="label">
-			<fontPath>./assets/Circular Std Book.ttf</fontPath>
+			<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
 			<color>FFFFFF</color>
 			<fontSize>0.023</fontSize>
 		</text>

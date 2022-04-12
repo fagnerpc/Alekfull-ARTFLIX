@@ -2,7 +2,7 @@
 ALEKFULL-ARTFLIX theme by fagnerpc
 https://facebook.com/alekfull.arcade
 
-Version: 1.09 for Batocera 5.25+, Retrobat and Emuelec 3.24+
+Version: 1.11 for Batocera 5.25+, Retrobat and Emuelec 3.24+
 https://github.com/fagnerpc/Alekfull-ARTFLIX
 Artes, codigo e conceito por fagnerpc
 Tema proibido para uso comercial
@@ -28,7 +28,13 @@ Tema proibido para uso comercial
    <include subset="shader" name="Scanlines Alternative" displayName="${scanalt}">./effects/scanliness.xml</include>
    <include subset="shader" name="Phosphore +">./effects/phosplus.xml</include>
    <include subset="shader" name="Vertical Scanlines">./effects/scanvert.xml</include>
-   <include subset="shader" name="Vertical Fine">./effects/verticalfine.xml</include>
+   <include subset="shader" name="Vertical Fine">./effects/verticalfine.xml</include>   
+   <include subset="syscarousel" name="Wheel">./effects/carouselwheel.xml</include>
+   <include subset="syscarousel" name="Vertical">./effects/carouselvert.xml</include>
+   <include subset="syscarousel" name="Without Vertical Carousel" displayName="${snocarou}">./effects/wcarousel.xml</include>
+   <include subset="sysname" name="Text">./colorsets/texttitle.xml</include>
+   <include subset="sysname" name="Logo">./colorsets/logotitle.xml</include>
+   <include subset="sysname" name="Without" displayName="${none}">./colorsets/wtitle.xml</include>   
    <include subset="shader" name="Crt Full Screen" displayName="${scrtfs}">./effects/crt.xml</include>
    <include subset="shader" name="ScanLines Full Screen" displayName="${sclfs}">./effects/scanlines.xml</include>
    <include subset="shader" name="VHS Glitch (Heavy)" displayName="${svhsgl}">./effects/vhs.xml</include>
@@ -43,6 +49,7 @@ Tema proibido para uso comercial
    <include subset="CoinOpsDefault" name="Arcade Only" displayName="${copsarc}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/arcade.xml</include>
    <variables> <subset.MainBGColor>Main Background Color</subset.MainBGColor> <subset.CoinOpsDefault>CoinOps Default System</subset.CoinOpsDefault>
    <subset.tveffect>TV Effect CoinOps View</subset.tveffect> <subset.ShowTopMarquee>Show Top Marquee in CoinOps Views</subset.ShowTopMarquee>
+   <subset.syscarousel>System Carousel</subset.syscarousel>  <subset.sysname>System name on System view</subset.sysname>
    </variables>
 
   <variables lang="pt">
@@ -270,7 +277,7 @@ Tema proibido para uso comercial
       <selectorGradientType>horizontal</selectorGradientType>
     </menuText>
     <menuTextSmall name="menutextsmall">
-      <fontPath>./assets/Circular Std Book.ttf</fontPath>
+      <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
       <fontSize>0.022</fontSize>
       <color>e0343d</color>
     </menuTextSmall>
@@ -303,7 +310,7 @@ Tema proibido para uso comercial
     </menuTextEdit>
 		  
 	<helpsystem name="help">
-         <fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
          <fontSize>0.022</fontSize>     
          <pos>0.06 0.955</pos>      
          <textColor>FFFFFF</textColor>
@@ -435,8 +442,8 @@ Tema proibido para uso comercial
       </imagegrid>
 
       <text name="md_developer">
-		<fontPath>./assets/Circular Std Book.ttf</fontPath>
-		<color>5c5b5c</color>
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+		<color>a8a8a8</color>
 		<alignment>left</alignment>
 		<fontSize>0.023</fontSize>
 		<lineSpacing>1</lineSpacing>
@@ -464,7 +471,7 @@ Tema proibido para uso comercial
 		</text>
 
 	<text name="info6" extra="true">
-		<fontPath>./assets/Circular Std Book.ttf</fontPath>
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
 		<color>9b9b9b</color>
 		<alignment>left</alignment>
 		<fontSize>0.0147</fontSize>
@@ -477,7 +484,7 @@ Tema proibido para uso comercial
       </text>
 
       <text name="md_lbl_developer">
-		<fontPath>./assets/Circular Std Black.ttf</fontPath>
+		<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
 		<fontSize>0.023</fontSize>
@@ -507,7 +514,7 @@ Tema proibido para uso comercial
 	</text>
 
 	<text name="playbutton" extra="true">
-		<fontPath>./assets/Circular Std Black.ttf</fontPath>
+		<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>center</alignment>
 	     <fontSize>0.0142</fontSize>
@@ -519,7 +526,7 @@ Tema proibido para uso comercial
 	</text>
 
       <datetime name="md_releasedate">
-		<fontPath>./assets/Circular Std Black.ttf</fontPath>
+		<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
 		<fontSize>0.023</fontSize>
@@ -564,7 +571,7 @@ Tema proibido para uso comercial
       </image>
 
       <text name="md_description">
-		<fontPath>./assets/Circular Std Book.ttf</fontPath>
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
 		<fontSize>0.023</fontSize>
@@ -606,7 +613,7 @@ Tema proibido para uso comercial
 	<text name="md_genre">
 		<pos>0.1515 0.5291</pos>
          <alignment>center</alignment>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
 	     <fontSize>0.0138</fontSize>
 	     <color>FFFFFF</color><zIndex>42</zIndex>
 		<size>0.08 0.03</size>
@@ -862,7 +869,7 @@ Tema proibido para uso comercial
 
 <customView name="HSpin (Full Video + Cover)" inherits="grid" tinyScreen="false" displayName="${hspinfvcViewName}">
       <text name="md_name">
-		<fontPath>./assets/Circular Std Black.ttf</fontPath>
+		<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
  		<fontSize>0.07</fontSize>
@@ -1060,38 +1067,147 @@ Tema proibido para uso comercial
       </image>
 
       <text name="md_name">
-         <pos>0.15 0.86</pos>
+         <pos>0.15 0.84</pos>
          <size>0.39 0.05</size>
 		 <fontSize>0.030</fontSize>
          <color>FFFFFF</color>
          <glowColor>00000016</glowColor>
          <glowSize>2</glowSize>
          <alignment>left</alignment>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
          <zIndex>36</zIndex>
       </text>
 
-      <text name="md_description">
-         <pos>0.55 0.88</pos>
-         <size>0.28 0.100</size>
-         <fontSize>0.020</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-         <fontPath>./assets/Circular Std Book.ttf</fontPath>
-      </text>
-
-  <text name="md_developer">
-         <pos>0.15 0.88</pos>
+  <text name="md_publisher">
+         <pos>0.15 0.84</pos>
          <size>0.22 0.102</size>
          <fontSize>0.020</fontSize>
          <color>539ac8</color>
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
-         <fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
          <alignment>left</alignment>
     </text>
+
+      <text name="md_description">
+         <pos>0.15 0.90</pos>
+         <size>0.374 0.078</size>
+         <fontSize>0.018</fontSize>
+         <color>FFFFFF</color>
+		 <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+      </text>
+
+      <text name="md_lbl_releasedate, md_lbl_developer, md_lbl_genre, md_lbl_players">
+         <color>FFFFFF</color>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+         <fontSize>0.018</fontSize>
+      </text>
+	  <text name="md_developer, md_publisher, md_genre, md_players, md_releasedate">
+         <color>cc0e18</color>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+         <fontSize>0.018</fontSize>
+      </text>
+
+      <text name="md_lbl_releasedate">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.55 0.865</pos>
+         <size>0.15 0.018</size>
+      </text>
+      <datetime name="md_releasedate">
+	     <pos>0.65 0.865</pos>
+         <size>0.15 0.018</size>
+		 <alignment>left</alignment>
+      </datetime>
+	  
+      <text name="md_lbl_players">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.55 0.895</pos>
+         <size>0.15 0.018</size>
+      </text>
+      <text name="md_players">
+         <pos>0.65 0.895</pos>
+         <size>0.15 0.018</size>
+         <color>dddddd</color>
+		 <fontSize>0.033</fontSize>
+         <glowColor>00000040</glowColor>
+         <fontPath>./_inc/fonts/players.ttf</fontPath>
+      </text>
+	  
+      <text name="md_lbl_genre">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.55 0.925</pos>
+         <size>0.15 0.018</size>
+      </text>
+      <text name="md_genre">
+         <pos>0.65 0.925</pos>
+         <size>0.17 0.018</size>
+      </text>
+	  <text name="md_lbl_developer">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.55 0.955</pos>
+         <size>0.15 0.018</size>
+      </text>
+      <text name="md_developer">
+         <pos>0.65 0.955</pos>
+         <size>0.17 0.018</size>
+      </text>
+
+      <rating name="md_rating">
+         <pos>0.88 0.85</pos>
+      </rating>
+
+		<image name="md_flag">
+			<origin>0 0.5</origin>
+			<pos>0.815 0.965</pos>
+			<maxSize>0.01 0.05</maxSize>
+			<color>FFFFFFFF</color>
+			<zIndex>150</zIndex>
+		</image>
+
+		<image name="md_manual,md_nomanual">
+			<path>./_inc/icons/book.png</path>
+			<pos>0.82 0.875</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<origin>0.5 0.5</origin>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+		</image>
+		<image name="md_nomanual">
+			<color>80808040</color>
+		</image>
+
+		<image name="md_cheevos,md_notcheevos">
+			<origin>0 1</origin>
+			<path>./_inc/icons/Contest.png</path>
+			<pos>0.814 0.945</pos>
+			<maxSize>0.02 0.02</maxSize>     
+			<color>dddddd</color>
+			<zIndex>13</zIndex>
+		</image>
+ 		
+		<image name="md_nocheevos" extra="true">
+			<origin>0 1</origin>
+			<path>./_inc/icons/Contest.png</path>
+			<pos>0.814 0.945</pos>
+			<maxSize>0.02 0.02</maxSize>     
+			<color>80808030</color>
+			<zIndex>12</zIndex>
+		</image>
+		
+		<image name="md_savestate,md_nosavestate">
+			<origin>0.5 0.5</origin>
+			<path>./_inc/icons/SaveState.png</path>
+			<pos>0.82 0.905</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+		</image>
+		<image name="md_nosavestate">
+			<color>80808030</color>
+		</image>
 	
       <imagegrid name="gamegrid">
          <pos>0.72 0</pos>
@@ -1102,9 +1218,10 @@ Tema proibido para uso comercial
          <margin>0.005 0.010</margin>
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
-	     <imageSource>marquee</imageSource>
+		 <imageSource>marquee</imageSource>
          <zIndex>8</zIndex>
       </imagegrid>
+
 	  
       <image name="arttt2t" extra="true">
          <path>./assets/overbar.png</path>
@@ -1168,7 +1285,7 @@ Tema proibido para uso comercial
 	  
       <image name="art" extra="true">
          <zIndex>5</zIndex>
-         <pos>-0.55 0</pos>
+         <pos>-0.50 0</pos>
       </image>
 
       <image name="art2" extra="true">
@@ -1176,8 +1293,12 @@ Tema proibido para uso comercial
       </image>
 
       <image name="logo">
-         <zIndex>0</zIndex>
-      </image>
+	  	 <path>./assets/logos/${system.theme}.png</path>
+		 <path>./assets/logos/${system.theme}.svg</path>
+         <pos>0.865 0.882</pos>
+         <size>0.11 0</size>
+		 <zIndex>15</zIndex>
+	  </image>
 
       <image name="md_marquee">
          <pos>0.285 0.04</pos>
@@ -1186,10 +1307,12 @@ Tema proibido para uso comercial
 
 	   <image name="md_fanart">
          <origin>0 0</origin>
-         <size>1 1</size>
-         <pos>0.15 0</pos>
-         <zIndex>5</zIndex>	
+         <size>0.9 0.9</size>
+         <pos>0.38 0</pos>
+         <zIndex>5</zIndex>
+		 <linearSmooth>true</linearSmooth>
       </image>
+
 
       <image name="md_image">
          <zIndex>4</zIndex>
@@ -1200,7 +1323,7 @@ Tema proibido para uso comercial
          <pos>2.15 0.96</pos>
          <fontSize>0.010</fontSize>
          <textColor>539ac8</textColor>
-         <fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
       </helpsystem>
    </customView>
 
@@ -1219,7 +1342,7 @@ Tema proibido para uso comercial
          <glowColor>00000016</glowColor>
          <glowSize>2</glowSize>
          <alignment>left</alignment>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
          <zIndex>36</zIndex>
       </text>
 
@@ -1232,7 +1355,7 @@ Tema proibido para uso comercial
          <glowSize>1</glowSize>
          <alignment>left</alignment>
          <lineSpacing>1.08</lineSpacing>
-         <fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
       </text>
 
   <text name="md_developer">
@@ -1242,7 +1365,7 @@ Tema proibido para uso comercial
          <color>539ac8</color>
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
-         <fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
          <alignment>left</alignment>
 
     </text>
@@ -1329,7 +1452,7 @@ Tema proibido para uso comercial
          <pos>2.15 0.96</pos>
          <fontSize>0.010</fontSize>
          <textColor>539ac8</textColor>
-         <fontPath>./assets/Circular Std Book.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
       </helpsystem>
    </customView>
      
@@ -1729,7 +1852,7 @@ Tema proibido para uso comercial
          <size>0.30 0.05</size>
          <color>F0F0F0</color>
          <fontSize>0.042</fontSize>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
          <alignment>center</alignment>
          <glowColor>00000016</glowColor>
          <glowSize>2</glowSize>
@@ -1777,7 +1900,7 @@ Tema proibido para uso comercial
          <alignment>center</alignment>
          <glowColor>00000016</glowColor>
          <glowSize>4</glowSize>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
       </text>
       <text name="md_developer">
          <color>808080ff</color>
@@ -1832,7 +1955,7 @@ Tema proibido para uso comercial
          <alignment>center</alignment>
          <glowColor>00000016</glowColor>
          <glowSize>4</glowSize>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
       </text>
 
       <text name="md_developer">
@@ -1915,7 +2038,7 @@ Tema proibido para uso comercial
          <size>0.50 0.05</size>
          <color>F0F0F0</color>
          <fontSize>0.052</fontSize>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
          <alignment>left</alignment>
@@ -1981,7 +2104,7 @@ Tema proibido para uso comercial
          <size>0.50 0.05</size>
          <color>F0F0F0</color>
          <fontSize>0.052</fontSize>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
          <alignment>left</alignment>
@@ -2062,7 +2185,7 @@ Tema proibido para uso comercial
          <size>0.50 0.05</size>
          <color>F0F0F0</color>
          <fontSize>0.052</fontSize>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
          <alignment>left</alignment>
@@ -2241,7 +2364,7 @@ Tema proibido para uso comercial
          <pos>0 0</pos>
          <size>1 1</size>
          <fontSize>0.040</fontSize>
-         <fontPath>./assets/Circular Std Black.ttf</fontPath>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
          <padding>0.1 0</padding>
       </text>
       <image name="logo">
@@ -2250,7 +2373,7 @@ Tema proibido para uso comercial
       </image>
 
      <text name="md_name">
-		<fontPath>./assets/Circular Std Black.ttf</fontPath>
+		<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
  		<fontSize>0.09</fontSize>
