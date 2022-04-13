@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>FreeJ2ME é um emulador J2ME simples com foco em jogos antigos para celular. Ele foi projetado para rodar em Windows, Linux desktop e em dispositivos que suportam Libretro e Retroarch.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PTBR">
+			<text>FreeJ2ME é um emulador J2ME simples com foco em jogos antigos para celular. Ele foi projetado para rodar em Windows, Linux desktop e em dispositivos que suportam Libretro e Retroarch.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>FreeJ2ME is a simple J2ME emulator with a focus on old mobile phone games. It was designed to run on Windows, desktop Linux, and on devices that support Libretro and Retroarch.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>FreeJ2ME es un simple emulador de J2ME que se centra en los juegos de teléfonos móviles antiguos. Fue diseñado para ejecutarse en Windows, Linux de escritorio y en dispositivos compatibles con Libretro y Retroarch.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>FreeJ2ME est un simple émulateur J2ME axé sur les anciens jeux de téléphones mobiles. Il a été conçu pour fonctionner sur Windows, Linux de bureau et sur des appareils prenant en charge Libretro et Retroarch.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>FreeJ2ME</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2017</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>recompileorg, hex007</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+	
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

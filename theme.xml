@@ -113,6 +113,8 @@ Tema proibido para uso comercial
 	<subset.MainBGColor>Cor do Fundo Principal</subset.MainBGColor>
 	<subset.tveffect>Efeito da Tela Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Fundo Padrao Vista CoinOps</subset.CoinOpsDefault>
+	<subset.syscarousel>Carrossel da Seleção de Sistemas</subset.syscarousel>
+	<subset.sysname>Nomes dos Sistemas na Seleção de Sistemas</subset.sysname>
 	<subset.ShowTopMarquee>Mostrar Marquee Superior nas Vistas CoinOps</subset.ShowTopMarquee>
   </variables>
 
@@ -177,6 +179,8 @@ Tema proibido para uso comercial
 	<subset.MainBGColor>Couleur darriere-plan principale </subset.MainBGColor>
 	<subset.tveffect>Effet decran Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Modele darriere-plan Vista CoinOps </subset.CoinOpsDefault>
+	<subset.syscarousel>Carrousel de sélection de système</subset.syscarousel>
+	<subset.sysname>Noms de système dans la sélection de système</subset.sysname>
 	<subset.ShowTopMarquee>Afficher le marquee superieur dans les vues CoinOps</subset.ShowTopMarquee>
   </variables> 
    
@@ -241,6 +245,8 @@ Tema proibido para uso comercial
 	<subset.music>Musica del Sistemas</subset.music>
 	<subset.MainBGColor>Color de Fondo Principal</subset.MainBGColor>
 	<subset.tveffect>Efecto de pantalla Vista CoinOps</subset.tveffect>
+	<subset.syscarousel>Carrusel de selección de sistema</subset.syscarousel>
+	<subset.sysname>Nombres del sistema en la selección del sistema</subset.sysname>
 	<subset.CoinOpsDefault>Fondo estandar de CoinOps Vista</subset.CoinOpsDefault>
 	<subset.ShowTopMarquee>Mostrar la marquee superior en las vistas de CoinOps</subset.ShowTopMarquee>
   </variables>

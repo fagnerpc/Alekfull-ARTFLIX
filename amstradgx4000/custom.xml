@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O GX4000 é um console de videogame fabricado pela Amstrad. Foi a tentativa de curta duração da empresa para entrar no mercado de consoles de jogos. O console foi lançado na Europa em 1990.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PTBR">
+			<text>O GX4000 é um console de videogame fabricado pela Amstrad. Foi a tentativa de curta duração da empresa para entrar no mercado de consoles de jogos. O console foi lançado na Europa em 1990.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The GX4000 is a video game console that was manufactured by Amstrad. It was the company's short-lived attempt to enter the games console market. The console was released in Europe in 1990.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La GX4000 es una consola de videojuegos fabricada por Amstrad. Fue un intento efímero de la compañía para ingresar al mercado de consolas de juegos. La consola fue lanzada en Europa en 1990.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>La GX4000 est une console de jeu vidéo fabriquée par Amstrad. C'était la tentative de courte durée de la société d'entrer sur le marché des consoles de jeux. La console est sortie en Europe en 1990.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amstrad GX4000</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Amstrad</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/coinopstv.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/coinopstv.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

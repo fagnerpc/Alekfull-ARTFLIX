@@ -3,11 +3,11 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi o primeiro console de vídeo game fabricado pela Sony, desde o seu lançamento vendeu mais de 100 milhões de unidades. Ocupa a posição de segundo console de mesa mais vendido de todos os tempos.</text>
+			<text>Foi o primeiro console de vídeo game fabricado pela Sony, desde o seu lançamento vendeu mais de 100 milhões de unidades. Considerado um marco para a indústria de games e um dos consoles mais importantes da história.</text>
 		</text>
 
 		<text name="info1" extra="true" lang="PTBR">
-			<text>Foi o primeiro console de vídeo game fabricado pela Sony, desde o seu lançamento vendeu mais de 100 milhões de unidades. Ocupa a posição de segundo console de mesa mais vendido de todos os tempos.</text>
+			<text>Foi o primeiro console de vídeo game fabricado pela Sony, desde o seu lançamento vendeu mais de 100 milhões de unidades.  Considerado um marco para a indústria de games e um dos consoles mais importantes da história.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="EN">
