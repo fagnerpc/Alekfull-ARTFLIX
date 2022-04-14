@@ -9,32 +9,36 @@
 		<text name="info1" extra="true"  lang="PTBR">
 			<text>Foi um periférico que permitia ao console de videogame de video Atari Jaguar utilizar CD-ROM como mídia de armazenamento de jogos, lançado em 1995. A unidade foi lançada na metade de 1995 por $149,95.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>It was a peripheral that allowed the Atari Jaguar video game console to use CD-ROM as a game storage medium, launched in 1995. The unit was launched in mid-1995 for $ 149.95.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Era un periférico que permitió que la consola de videojuegos Atari Jaguar usara CD-ROM como medio de almacenamiento de juegos, lanzado en 1995. La unidad se lanzó a mediados de 1995 por 149,95 dólares.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>C'était un périphérique qui permettait à la console de jeu vidéo Atari Jaguar d'utiliser le CD-ROM comme support de stockage de jeu, lancé en 1995. L'unité a été lancée à la mi-1995 pour 149,95 $.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es war ein Peripheriegerät, das es der Videospielkonsole Atari Jaguar ermöglichte, CD-ROM als Spielspeichermedium zu verwenden, das 1995 eingeführt wurde. Das Gerät wurde Mitte 1995 für 149,95 $ auf den Markt gebracht.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Atari Jaguar CD</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1995</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Atari Corporation</text>
-		</text>			
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/atarijaguar.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

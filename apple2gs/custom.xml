@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Foi o membro mais poderoso desta série produzida pela Apple Computer. Na época do seu lançamento, apresentava gráficos coloridos surpreendentes (com até 4096 cores) e som estéreo em 16 vozes.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>It was the most powerful member of this series produced by Apple Computer. At the time of its release, it featured astonishing color graphics (up to 4096 colors) and stereo sound in 16 voices.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Fue el miembro más poderoso de esta serie producida por Apple Computer. En el momento de su lanzamiento, presentaba impresionantes gráficos en color (hasta 4096 colores) y sonido estéreo en 16 voces.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>C'était le membre le plus puissant de cette série produite par Apple Computer. Au moment de sa sortie, il offrait des graphismes en couleurs étonnants (jusqu'à 4096 couleurs) et un son stéréo à 16 voix.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es war das leistungsstärkste Mitglied dieser von Apple Computer produzierten Serie. Zum Zeitpunkt seiner Veröffentlichung bot es erstaunliche Farbgrafiken (bis zu 4096 Farben) und Stereoklang in 16 Stimmen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Apple IIGS</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1986</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Apple Computer, Inc.</text>
-		</text>		
+		</text>
 	</view>
-		
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/apple2.png</path>

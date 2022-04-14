@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O Apple Macintosh foi o primeiro computador pessoal a popularizar a interface gráfica, na época um desenvolvimento revolucionário. Ele é muito utilizado para o tratamento de vídeo, imagem e som.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The Apple Macintosh was the first personal computer to popularize the graphical interface, a revolutionary development at the time. It is widely used for video, image and sound treatment.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Apple Macintosh fue la primera computadora personal en popularizar la interfaz gráfica, un desarrollo revolucionario en ese momento. Es ampliamente utilizado para video, imagen y tratamiento de sonido.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Le Macintosh Apple a été le premier ordinateur personnel à populariser l’interface graphique, un développement révolutionnaire à l’époque. Il est largement utilisé pour le traitement vidéo, image et son.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der Apple Macintosh war der erste Personal Computer, der die grafische Benutzeroberfläche populär machte, eine damals revolutionäre Entwicklung. Es wird häufig für die Video-, Bild- und Tonbearbeitung verwendet.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Apple Macintosh</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1984</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Apple Inc.</text>
-		</text>			
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/coinpc.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O LÖVE é uma estrutura para criar jogos 2D na linguagem de programação Lua. O LÖVE é totalmente gratuito e pode ser usado em qualquer coisa, desde projetos amigáveis ​​de hobby de código aberto até projetos comerciais maus e de código fechado.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>LÖVE is a framework for making 2D games in the Lua programming language. LÖVE is totally free, and can be used in anything from friendly open-source hobby projects, to evil, closed-source commercial ones.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>LÖVE es un marco para hacer juegos en 2D en el lenguaje de programación Lua. LÖVE es totalmente gratuito y se puede utilizar en cualquier cosa, desde proyectos de hobby amigables de código abierto, hasta proyectos comerciales malvados de código cerrado.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>LÖVE est un framework pour créer des jeux 2D dans le langage de programmation Lua. LÖVE est totalement gratuit et peut être utilisé dans tout, des projets de loisir open source amicaux aux projets commerciaux maléfiques et fermés.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>LÖVE ist ein Framework zum Erstellen von 2D-Spielen in der Programmiersprache Lua. LÖVE ist völlig kostenlos und kann in allem verwendet werden, von freundlichen Open-Source-Hobbyprojekten bis hin zu bösen, kommerziellen Closed-Source-Projekten.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>LOVE</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>LÖVE API</text>
-		</text>			
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

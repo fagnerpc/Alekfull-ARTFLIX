@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O SC-3000 (Sega Computer 3000) é o primeiro e único computador a ser projetado e fabricado pela Sega. Foi lançado pela primeira vez em julho de 1983 no Japão e serve como o equivalente em computador doméstico do console de videogame SG-1000 baseado em cartucho.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>SC-3000 (Sega Computer 3000) is the first and only computer to be designed and manufactured by Sega. It was first released in July of 1983 in Japan, and serves as the home computer equivalent of the SG-1000 cartridge-based video game console.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>SC-3000 (Sega Computer 3000) es la primera y única computadora diseñada y fabricada por Sega. Fue lanzado por primera vez en julio de 1983 en Japón, y sirve como el equivalente de la computadora doméstica de la consola de videojuegos basada en cartuchos SG-1000.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>SC-3000 (Sega Computer 3000) est le premier et le seul ordinateur conçu et fabriqué par Sega. Il a été publié pour la première fois en juillet 1983 au Japon et sert d'équivalent d'ordinateur domestique à la console de jeu vidéo à base de cartouches SG-1000.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>SC-3000 (Sega Computer 3000) ist der erste und einzige Computer, der von Sega entwickelt und hergestellt wurde. Es wurde erstmals im Juli 1983 in Japan veröffentlicht und dient als Heimcomputer-Äquivalent der Kassetten-basierten Videospielkonsole SG-1000.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>SC-3000</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1983</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>SEGA Corporation</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/coinopstv.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

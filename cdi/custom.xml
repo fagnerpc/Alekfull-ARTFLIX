@@ -9,29 +9,33 @@
 		<text name="info1" extra="true"  lang="PTBR">
 			<text>Philips CD-i (abreviação de Compact Disc Interactive) é um CD player interativo multimídia desenvolvido e comercializado pela Royal Philips Electronics N.V., que o apoiou de dezembro de 1991 até o final dos anos 1990.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Philips CD-i (aka Compact Disc Interactive) is an interactive multimedia CD player developed and marketed by Royal Philips Electronics N.V., who supported it from December 1991 into the late 1990s.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Philips CD-i es un reproductor de CD multimedia interactivo desarrollado y comercializado por Royal Philips Electronics N.V., que lo apoyó desde diciembre de 1991 hasta finales de la década de 1990.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Philips CD-i (abréviation de Compact Disc Interactive) est un lecteur CD multimédia interactif développé et commercialisé par Royal Philips Electronics N.V., qui l'a pris en charge de décembre 1991 à la fin des années 1990.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Philips CD-i (alias Compact Disc Interactive) ist ein interaktiver Multimedia-CD-Player, der von Royal Philips Electronics N.V. entwickelt und vermarktet wurde und von Dezember 1991 bis in die späten 1990er Jahre unterstützt wurde.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Philips CD-i</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1991</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Philips, Sony, Magnavox</text>
-		</text>			
+		</text>
 	</view>
 </theme>

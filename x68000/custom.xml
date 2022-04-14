@@ -9,31 +9,35 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O Sharp X68000 é um computador lançado exclusivamente no Japão pela Sharp Corporation. O primeiro modelo foi lançado em 1987, com um CPU 68000 da Motorola de 10 MHz, 1MB de memória RAM e sem disco rígido.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan. The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of RAM, and no hard drive.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Sharp X68000, a menudo conocida como X68K, fue una computadora personal vendida únicamente en Japón. El primer modelo se lanzó en 1987, con un microprocesador Motorola 68000 a 10 megahercios.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Sharp X68000, communément appelé X68000 ou X68k, est un ordinateur personnel de Sharp Corporation commercialisé au Japon à partir de 1987. Le premier modèle utilisait un microprocesseur Motorola 68000 à 10 MHz.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist ein von der Sharp Corporation entwickelter Heimcomputer, der erstmals 1987 auf den Markt kam und nur in Japan verkauft wurde. Das erste Modell verfügt über eine 10 MHz Motorola 68000 CPU (daher der Name), 1 MB RAM und keine Festplatte.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Sharp X68000</text>
 		</text>
 				<text name="info3" extra="true">
 			<text>1987</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Sharp Corporation</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/coinopstv.png</path>
@@ -48,5 +52,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

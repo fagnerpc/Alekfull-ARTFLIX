@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Mortal Kombat é uma franquia de mídia americana centrada em uma série de videogames, originalmente desenvolvida pela Midway Games em 1992. A série tem uma reputação de altos níveis de violência gráfica, incluindo, principalmente, seus Fatalities.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Mortal Kombat is an American media franchise centered on a series of video games, originally developed by Midway Games in 1992. The series has a reputation for high levels of graphic violence, including, most notably, its Fatalities.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Mortal Kombat es una franquicia de medios centrada en una serie de videojuegos, desarrollada originalmente por Midway Games en 1992. La serie tiene una reputación de altos niveles de violencia gráfica, incluyendo, sobre todo, sus Fatalities.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Mortal Kombat est une franchise médiatique américaine centrée sur une série de jeux vidéo, développée à l'origine par Midway Games en 1992. La série est réputée pour ses hauts niveaux de violence graphique, notamment ses Fatalities.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Mortal Kombat ist ein amerikanisches Medien-Franchise, das sich auf eine Reihe von Videospielen konzentriert, die ursprünglich 1992 von Midway Games entwickelt wurden. Die Serie ist bekannt für ein hohes Maß an grafischer Gewalt, darunter vor allem ihre Todesfälle.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Mortal Kombat</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1992</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Ed Boon, John Tobias</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

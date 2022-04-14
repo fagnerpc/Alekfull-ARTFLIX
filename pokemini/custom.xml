@@ -9,31 +9,37 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Pokemon Mini é um console portátil desenhado e fabricado pela Nintendo. É o menor sistema de jogos com cartucho intercambiável produzido pela Nintendo.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Pokémon Mini is a portable console designed and manufactured by Nintendo. It is the smallest interchangeable cartridge gaming system produced by Nintendo.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Pokémon Mini es una consola portátil diseñada y fabricada por Nintendo. Es el menor sistema de juegos con cartucho intercambiable producido por Nintendo.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Pokémon Mini est une console portable conçue et fabriquée par Nintendo. Il s'agit du plus petit système de jeu à cartouche interchangeable produit par Nintendo.</text>
 		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Pokémon Mini ist eine von Nintendo entwickelte und hergestellte tragbare Konsole. Es ist das kleinste von Nintendo produzierte Spielsystem mit Wechselkassetten.</text>
+		</text>
+
+
 				<text name="info2" extra="true">
 			<text>Pokemon Mini</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>2001</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -48,5 +54,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

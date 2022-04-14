@@ -9,29 +9,33 @@
 		<text name="info1" extra="true"  lang="PTBR">
 			<text>É um console portátil monocromático, original de Hong Kong, e foi introduzido em 1992 como concorrente do Game Boy. Foi fabricado por várias empresas com diferentes nomes em vários países do mundo como QuickShot Supervision, Travell Mate, etc.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>It is a monochrome handheld console, originally from Hong Kong, and was introduced in 1992 as a competitor to the Game Boy. It was manufactured by several companies with different names in various countries in the world such as QuickShot Supervision, Travell Mate, etc.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Es una consola portátil monocromática, originaria de Hong Kong, y fue introducida en 1992 como competidor de la Game Boy. Fue fabricada por varias empresas con diferentes nombres en varios países del mundo como QuickShot Supervision, Travell Mate, etc.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Il s'agit d'une console portable monochrome, originaire de Hong Kong, et a été introduite en 1992 en tant que concurrent de la Game Boy. Elle a été fabriquée par plusieurs sociétés de noms différents dans divers pays du monde tels que QuickShot Supervision, Travell Mate, etc.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es handelt sich um eine monochrome Handheld-Konsole, die ursprünglich aus Hongkong stammt und 1992 als Konkurrenz zum Game Boy eingeführt wurde. Es wurde von mehreren Firmen mit unterschiedlichen Namen in verschiedenen Ländern der Welt hergestellt, wie z. B. QuickShot Supervision, Travell Mate usw.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Watara Supervision</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1992</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Watara</text>
-		</text>			
+		</text>
 	</view>
 </theme>

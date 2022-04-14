@@ -9,29 +9,33 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Foi um computador doméstico lançado pela Commodore em agosto de 1982 e produzido até abril de 1994. Estima-se que foram comercializados entre 17 a 22 milhões de unidades - recorde até os dias de hoje.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Also known as the C64 or the CBM 64, is an 8-bit home computer introduced in January 1982 by Commodore International (first shown at the Consumer Electronics Show, in Las Vegas, January 7–10, 1982).</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Commodore 64 (C64, CBM 64/CBM64, C=64,C-64, VIC-64.1​) es una computadora doméstica de 8 bits desarrollada por Commodore International en agosto de 1982 a un precio inicial de 595 dólares.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Est un ordinateur personnel conçu par Commodore Business Machines Inc. Il fut la première machine vendue à plusieurs millions d'exemplaires (de 17 à 25 millions selon les estimations).</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Auch als C64 oder CBM 64 bekannt, ist ein 8-Bit-Heimcomputer, der im Januar 1982 von Commodore International eingeführt wurde (erstmals gezeigt auf der Consumer Electronics Show in Las Vegas, 7.–10. Januar 1982).</ Text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Commodore 64</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1982</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Commodore Business Machines</text>
-		</text>		
+		</text>
 	</view>
 </theme>

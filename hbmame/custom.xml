@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>MAME significa Multiple Arcade Machine Emulator - Emulador de Múltiplas Máquinas de Arcade, em português. O MAME irá reproduzir, mais ou menos fielmente, o jogo em sua máquina.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Multiple Arcade Machine Emulator is a free and open source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Multiple Arcade Machine Emulator es un emulador de código abierto y gratuito diseñado para recrear el hardware de los sistemas de juegos de arcade en software en computadoras personales modernas y otras plataformas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Multiple Arcade Machine Emulator, est un logiciel d'émulation pour PC dont le but est de reproduire fidèlement le fonctionnement des jeux et des systèmes d'arcade afin de préserver l'histoire du jeu vidéo.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Multiple Arcade Machine Emulator ist ein kostenloser Open-Source-Emulator, der entwickelt wurde, um die Hardware von Arcade-Spielsystemen in Software auf modernen PCs und anderen Plattformen nachzubilden.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Homebrew MAME</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1997</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Nicola Salmoria</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/model2.png</path>
@@ -66,6 +73,6 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
-	
+
+
 </theme>

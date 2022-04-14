@@ -9,29 +9,33 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>CPS-2 é uma placa de sistema arcade usada pela Capcom pela primeira vez em 1993 para Super Street Fighter II. Foi o sucessor do CP System e Capcom Power System Changer e foi sucedido pelo hardware do CP System III em 1996.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>CPS-2 is an arcade system board that Capcom first used in 1993 for Super Street Fighter II. It was the successor to their previous CP System and Capcom Power System Changer arcade hardware and was succeeded by the CP System III hardware in 1996.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>CPS-2 es una placa de sistema arcade que Capcom utilizó por primera vez en 1993 para Super Street Fighter II. Fue el sucesor de su hardware arcade anterior de CP System y Capcom Power System Changer y fue sucedido por el hardware CP System III en 1996.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>CPS-2 est une carte système d'arcade que Capcom a utilisée pour la première fois en 1993 pour Super Street Fighter II. Il a succédé à leur précédent matériel d'arcade CP System et Capcom Power System Changer.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>CPS-2 ist ein Arcade-Systemboard, das Capcom erstmals 1993 für Super Street Fighter II verwendete. Es war der Nachfolger der vorherigen CP System- und Capcom Power System Changer-Arcade-Hardware und wurde 1996 von der CP System III-Hardware abgelöst.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>CP System II</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1993</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Capcom</text>
-		</text>			
+		</text>
 	</view>
 </theme>

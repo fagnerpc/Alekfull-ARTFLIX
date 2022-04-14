@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O FinalBurn Alpha é um emulador de código aberto das placas Capcom modelos CPS-1, 2 e 3, além de outras placas de arcade como a do SNK Neo-Geo, Toaplan, Cave e várias outras.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Is an emulator of arcade games, that is, it takes the program code, graphics data, etc., from an original arcade game and emulates the hardware to make the game run in it's original form.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Es un emulador de juegos de arcade, es decir, toma el código del programa, los datos gráficos, etc. de un juego de arcade original y emula el hardware para hacer que el juego se ejecute en su forma original.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Final Burn Alpha est un émulateur de jeu vidéo d'arcade basé sur l'émulateur Final Burn, qui émule différents systèmes tel que le MVS, le CPS1 et CPS2, le System 16, System 18, X Board, Y Board de Sega, etc.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist ein Emulator von Arcade-Spielen, das heißt, er nimmt den Programmcode, Grafikdaten usw. von einem originalen Arcade-Spiel und emuliert die Hardware, um das Spiel in seiner ursprünglichen Form laufen zu lassen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>FB Alpha</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>FinalBurn Alpha Team</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -50,8 +54,11 @@
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/cps1.png</path>

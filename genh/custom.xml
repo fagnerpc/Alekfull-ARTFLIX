@@ -9,31 +9,35 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>É um console de video game de 16 bits da Sega que concorria diretamente com o SNES. O console fez grande sucesso na década de 1990, perdendo espaço após o surgimento e popularização da nova geração de consoles.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>It is a 16-bit video game console from Sega that competed directly with the SNES. The console was very successful in the 1990s, losing ground after the emergence and popularization of the new generation of consoles.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Es una consola de videojuego de 16 bits de Sega que compitió directamente con el SNES. La consola tuvo gran éxito en la década de 1990, perdiendo espacio después del surgimiento y popularización de la nueva generación de consolas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Il s’agit d’une console de jeux vidéo 16 bits de Sega qui est en concurrence directe avec la SNES. La console a connu un grand succès dans les années 90, perdant du terrain après l’émergence et la popularisation de la nouvelle génération de consoles.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es ist eine 16-Bit-Videospielkonsole von Sega, die direkt mit dem SNES konkurrierte. Die Konsole war in den 1990er Jahren sehr erfolgreich und verlor nach dem Aufkommen und der Popularisierung der neuen Konsolengeneration an Boden.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Genesis Hacks</text>
 		</text>
 
-	
+
 		<text name="info3" extra="true">
 			<text>1988</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>SEGA Corporation</text>
-		</text>		
+		</text>
 	</view>
 
 		<customView name="HCoinSpin">
@@ -50,5 +54,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

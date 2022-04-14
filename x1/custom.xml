@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O computador doméstico X1 (ou CZ-800C) foi o primeiro de uma bem-sucedida série de máquinas multimídia precoces vendidas no Japão entre 1982 e 1988 pela Sharp.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The X1 (or CZ-800C) home computer was the first in a successful series of early multimedia machines sold in Japan between 1982 and 1988 by Sharp.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>La computadora hogareña X1 (o CZ-800C) fue la primera de una exitosa serie de primeras máquinas multimedia vendidas en Japón entre 1982 y 1988 por Sharp.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>L'ordinateur domestique X1 (ou CZ-800C) était le premier d'une série réussie de premiers appareils multimédias vendus au Japon entre 1982 et 1988 par Sharp.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der Heimcomputer X1 (oder CZ-800C) war der erste einer erfolgreichen Serie früher Multimediageräte, die von Sharp zwischen 1982 und 1988 in Japan verkauft wurden.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Sharp X1</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1982</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Sharp Corporation</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/coinopstv.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

@@ -9,29 +9,34 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Também conhecido pela sigla PSP, é um console portátil de videogames da família PlayStation desenvolvido pela Sony Computer Entertainment. Seu principal concorrente é o Nintendo DS, console portátil da Nintendo.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>PSP is a handheld game console developed by Sony Computer Entertainment. Development of the handheld was announced during E3 2003 and it was unveiled on May 11, 2004, at a Sony press conference before E3 2004.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>PSP es una videoconsola portátil de la multinacional de origen japonés, Sony Computer Entertainment, para videojuegos y multimedia. Se trata de la primera consola portátil a nivel mundial de Sony.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>PlayStation Portable (プレイステーション・ポータブル) est la première console de jeux vidéo portable de Sony, commercialisée entre 2004 et 2014. Elle marque un tournant dans l'histoire des consoles portables.</text>
 		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>PSP ist eine Handheld-Spielekonsole, die von Sony Computer Entertainment entwickelt wurde. Die Entwicklung des Handhelds wurde während der E3 2003 angekündigt und am 11. Mai 2004 auf einer Sony-Pressekonferenz vor der E3 2004 vorgestellt.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>PlayStation Portable</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>2004</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Sony Computer Entertainment</text>
-		</text>	
+		</text>
 	</view>
 </theme>
 

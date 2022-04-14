@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Silent Hill é uma franquia de mídia de terror centrada em uma série de videogames de terror de survival horror, criada por Keiichiro Toyama, desenvolvida e publicada pela Konami. Os quatro primeiros videogames da série foram desenvolvidos pelo Team Silent.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Silent Hill is a horror media franchise centered on a series of survival horror video games, created by Keiichiro Toyama, developed and published by Konami. The first four video games in the series were developed by an internal group called Team Silent.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Silent Hill es una franquicia de medios de terror centrada en una serie de videojuegos de terror de supervivencia, creados por Keiichiro Toyama, desarrollados y publicados por Konami. Los primeros cuatro videojuegos de la serie fueron desarrollados por Team Silent.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Silent Hill est une franchise de médias d'horreur centrée sur une série de jeux vidéo d'horreur de survie, créée par Keiichiro Toyama, développée et publiée par Konami. Les quatre premiers jeux vidéo de la série ont été développés par Team Silent.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Silent Hill ist ein Horror-Medien-Franchise, das sich auf eine Reihe von Survival-Horror-Videospielen konzentriert, die von Keiichiro Toyama erstellt und von Konami entwickelt und veröffentlicht wurden. Die ersten vier Videospiele der Serie wurden von einer internen Gruppe namens Team Silent entwickelt.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Silent Hill</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1999</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Keiichiro Toyama</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

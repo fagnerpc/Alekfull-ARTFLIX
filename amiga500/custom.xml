@@ -9,33 +9,37 @@
 				<text name="info1" extra="true" lang="PTBR">
 			<text>Amiga 500, também conhecido como A500, é o primeiro computador doméstico / pessoal multimídia de baixo custo do Commodore Amiga 16/32 bits. Foi anunciado no Consumer Electronics Show de inverno e competiu contra o Atari 520ST.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Amiga 500, also known as the A500, is the first low-end Commodore Amiga 16/32-bit multimedia home/personal computer. It was announced at the winter Consumer Electronics Show and competed directly against the Atari 520ST.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Amiga 500, también conocida como A500, es la primera computadora multimedia / hogar personal Commodore Amiga de 16/32 bits de gama baja. Fue anunciado en el Winter Consumer Show de invierno y compitió contra el Atari 520ST.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Amiga 500, également connu sous le nom d'A500, est le premier ordinateur domestique / personnel multimédia Commodore Amiga 16/32 bits bas de gamme. Il a été annoncé lors du Consumer Electronics Show d'hiver et a rivalisé avec l'Atari 520ST.</text>
 		</text>
-		
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der Amiga 500, auch als A500 bekannt, ist der erste Commodore Amiga 16/32-Bit-Multimedia-Heim-/Personalcomputer der unteren Preisklasse. Es wurde auf der Winter Consumer Electronics Show angekündigt und konkurrierte direkt mit dem Atari 520ST.</text>
+		</text>
+
+
 		<text name="info2" extra="true">
 			<text>Amiga 500</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1987</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Commodore</text>
-		</text>		
+		</text>
 	</view>
-		
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/amiga.png</path>

@@ -13,30 +13,37 @@
 			Quem será o melhor jogador...
 			God Bless Retro Games!</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Take screenshots of your best games and highscores then show them to your friends.
 			Who will be the best player ...
 			God Bless Retro Games!</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Toma capturas de pantalla de tus mejores juegos y mejores puntuaciones,
 luego muéstrales a tus amigos.
 ¿Quién será el mejor jugador ...
 ¡Dios bendiga a Retro Games!</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Prenez des captures d'écran de vos meilleurs jeux et scores,
 puis montrez-les à vos amis.
 Qui sera le meilleur joueur ...
 			God Bless Retro Games !</text>
 		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Machen Sie Screenshots Ihrer besten Spiele und Highscores und zeigen Sie sie dann Ihren Freunden.
+				Wer wird der beste Spieler ...
+				Gott segne Retro-Spiele!</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Galeria de Imagens</text>
 		</text>
-		
+
 			<text name="info2" extra="true"  lang="PTBR">
 			<text>Galeria de Imagens</text>
 		</text>
@@ -49,18 +56,22 @@ Qui sera le meilleur joueur ...
 						<text name="info2" extra="true" lang="FR">
 			<text>Visionneuse d'images</text>
 		</text>
+		<text name="info2" extra="true" lang="DE">
+			<text>Bildbetrachter</text>
+		</text>
+
 		<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text></text>
 		</text>
 				<text name="info5" extra="true">
 			<text>ALEKFULL ARTFLIX</text>
-		</text>		
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -75,5 +86,5 @@ Qui sera le meilleur joueur ...
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

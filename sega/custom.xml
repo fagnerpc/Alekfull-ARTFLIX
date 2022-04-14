@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>A Sega Games Co., Ltd. é uma empresa desenvolvedora de software para Video games desde 1940, e uma antiga produtora de consoles. A companhia tem tido sucesso tanto no mercado de arcades quanto no de consoles caseiros, apesar de estar fora desse último setor desde 2001. </text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Sega Games Co., Ltd. is a software developer company for Video Games since 1940, and a former console producer. The company has been successful in both the arcade market and home console market, although it has been away from the latter sector since 2001.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Sega Games Co., Ltd. es una empresa desarrolladora de software para videojuegos desde 1940, y una antigua productora de consolas. La compañía ha tenido éxito tanto en el mercado de arcades como en el de las consolas caseras, a pesar de estar fuera de ese último sector desde 2001.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Sega Games Co., Ltd. est une société de développement de logiciels pour les jeux vidéo depuis 1940 et un ancien producteur de consoles. La société a connu du succès tant sur le marché des arcades que sur celui des consoles de salon, bien qu’elle s’éloigne de ce dernier secteur depuis 2001.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Sega Games Co., Ltd. ist seit 1940 ein Softwareentwicklungsunternehmen für Videospiele und ein ehemaliger Konsolenhersteller. Das Unternehmen war sowohl auf dem Arcade-Markt als auch auf dem Markt für Heimkonsolen erfolgreich, obwohl es sich seit 2001 von letzterem entfernt hat.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Sega</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1960</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Sega Corporation</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

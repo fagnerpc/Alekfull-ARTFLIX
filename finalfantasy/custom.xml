@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Final Fantasy é uma franquia japonesa de mídia de fantasia científica criada por Hironobu Sakaguchi e desenvolvida e de propriedade da Square Enix (anteriormente Square). A franquia se concentra em uma série de videogames de fantasia e ciência.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Final Fantasy is a Japanese science fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square Enix (formerly Square). The franchise centers on a series of fantasy and science fantasy role-playing video games.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Final Fantasy es una franquicia de medios de fantasía científica japonesa creada por Hironobu Sakaguchi, y desarrollada y propiedad de Square Enix (anteriormente Square). La franquicia se centra en una serie de videojuegos de rol de fantasía y ciencia ficción.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Final Fantasy est une franchise médiatique japonaise de science-fiction créée par Hironobu Sakaguchi, développée et détenue par Square. La franchise se concentre sur une série de jeux vidéo de jeux de rôle fantastiques et fantastiques scientifiques.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Final Fantasy ist ein japanisches Science-Fantasy-Medien-Franchise, das von Hironobu Sakaguchi entwickelt und von Square Enix (früher Square) entwickelt und besessen wird. Das Franchise konzentriert sich auf eine Reihe von Fantasy- und Science-Fantasy-Rollenspielen.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Final Fantasy</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1987</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Hironobu Sakaguchi</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

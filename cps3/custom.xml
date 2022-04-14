@@ -9,29 +9,33 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>CPS-3 é uma placa de sistema de arcade que foi usada pela primeira vez pela Capcom em 1996 com o jogo de arcade Red Earth. Foi o segundo sucessor do CP System, após o CP System II. Seria a última placa de sistema proprietária que a Capcom produziria.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>CPS-3 is an arcade system board that was first used by Capcom in 1996 with the arcade game Red Earth. It was the second successor to the CP System, following the CP System II. It would be the last proprietary system board Capcom would produce.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>CPS-3 es una placa del sistema arcade que Capcom utilizó por primera vez en 1996 con el juego arcade Red Earth. Fue el segundo sucesor CP System, después del CP System II. Sería la última placa de sistema patentada que produciría Capcom.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>CPS-3 est une carte système d'arcade qui a été utilisée pour la première fois par Capcom en 1996 avec le jeu d'arcade Red Earth. C'était le deuxième successeur du CP System II. Ce serait la dernière carte système propriétaire que Capcom produirait.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>CPS-3 ist ein Arcade-Systemboard, das erstmals 1996 von Capcom mit dem Arcade-Spiel Red Earth verwendet wurde. Es war der zweite Nachfolger des CP-Systems nach dem CP-System II. Es wäre die letzte proprietäre Systemplatine, die Capcom produzieren würde.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>CP System III</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1996</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Capcom</text>
-		</text>			
+		</text>
 	</view>
 </theme>

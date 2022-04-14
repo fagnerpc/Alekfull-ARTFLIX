@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Double Dragon é uma série de videogame beat'em up, inicialmente desenvolvida pela Technos Japan e lançada como um jogo de arcade em 1987. A série apresenta artistas marciais gêmeos, Billy e Jimmy Lee.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Double Dragon is a beat 'em up video game series initially developed by Technos Japan and released as an arcade game in 1987. The series features twin martial artists, Billy and Jimmy Lee.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Double Dragon es una serie de videojuegos beat 'em up inicialmente desarrollada por Technos Japan y lanzada como un juego arcade en 1987. La serie presenta a dos artistas marciales, Billy y Jimmy Lee.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Double Dragon est une série de jeux vidéo beat 'em up initialement développée par Technos Japan et publiée sous forme de jeu d'arcade en 1987. La série comprend des artistes martiaux jumeaux, Billy et Jimmy Lee.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Double Dragon ist eine Beat-'em-up-Videospielserie, die ursprünglich von Technos Japan entwickelt und 1987 als Arcade-Spiel veröffentlicht wurde. Die Serie zeigt die Kampfkünstler-Zwillinge Billy und Jimmy Lee.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Double Dragon</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1987</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Technos Japan</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

@@ -10,32 +10,37 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Super Famicom/ SNES  é um console de videogame de 16 bits desenvolvido pela Nintendo que foi lançado em 1990 no Japão. O console apresentou gráficos avançados e foi considerado um dos melhores consoles da história.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America.</text>
 		</text>
-				
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Es la tercera videoconsola de sobremesa de Nintendo y la sucesora de Nintendo Entertainment System (NES) en América y Europa. Fue la más exitosa y vendida de la era de los 16 bits.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Super Famicom (スーパーファミコン?) au Japon ou Super Nintendo Entertainment System, est une console de jeux vidéo 16 bits du constructeur japonais Nintendo commercialisée à partir de août 1991.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist eine von Nintendo entwickelte 16-Bit-Heimvideospielkonsole, die 1990 in Japan und Südkorea, 1991 in Nordamerika, 1992 in Europa und Australasien (Ozeanien) und 1993 in Südamerika veröffentlicht wurde.</text>
+		</text>
+
+
 		<text name="info2" extra="true">
 			<text>SNES Hacks</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>19XX</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Various</text>
-		</text>	
+		</text>
 		</view>
-		
+
 			<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/snes.png</path>
@@ -50,6 +55,6 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-		
-		
+
+
 </theme>

@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Resident Evil, conhecido no Japão como Biohazard, é uma franquia japonesa de mídia de terror criada por Shinji Mikami e Tokuro Fujiwara e de propriedade da empresa de videogames Capcom. A franquia começou com o videogame Resident Evil, lançado em 1996.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Resident Evil, known in Japan as Biohazard, is a Japanese horror media franchise created by Shinji Mikami and Tokuro Fujiwara, and owned by Capcom. The franchise began with the video game Resident Evil, released in 1996.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Resident Evil, conocido en Japón como Biohazard, es una franquicia japonesa de medios de terror creada por Shinji Mikami y Tokuro Fujiwara, y propiedad de Capcom. La franquicia comenzó con el videojuego Resident Evil, lanzado en 1996.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Resident Evil, connue au Japon sous le nom de Biohazard, est une franchise japonaise de médias d'horreur créée par Shinji Mikami et Tokuro Fujiwara, et détenue par Capcom. La franchise a commencé avec le jeu vidéo Resident Evil, sorti en 1996.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Resident Evil, in Japan als Biohazard bekannt, ist ein japanisches Horror-Medien-Franchise, das von Shinji Mikami und Tokuro Fujiwara gegründet wurde und Capcom gehört. Das Franchise begann mit dem Videospiel Resident Evil, das 1996 veröffentlicht wurde.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Resident Evil</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1996</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Shinji Mikami, Tokuro Fujiwara</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

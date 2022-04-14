@@ -9,33 +9,38 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>ScummVM é um software/máquina virtual que visa oferecer suporte para jogos antigos da Lucas Arts. Tais jogos são incompatíveis com os sistemas operacionais de hoje pois fazem exigências exóticas sobre memória.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) is a set of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMM system.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>ScummVM (Scumm Virtual Machine, máquina virtual de Scumm en español) es un programa informático que permite ejecutar las aventuras gráficas creadas originalmente para el motor SCUMM de LucasArts.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>ScummVM est une machine virtuelle qui permet de jouer aux jeux qui utilisent le système SCUMM (comme les jeux d'aventure de LucasArts) sur des plates-formes autres que celles originellement supportées par le jeu.</text>
 		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Dienstprogramm zur Skripterstellung für Maniac Mansion Virtual Machine (ScummVM) ist eine Reihe von Spiele-Engine-Nachbildungen. Ursprünglich entwickelt, um LucasArts-Abenteuerspiele zu spielen, die das SCUMM-System verwenden.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>ScummVM</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>2001</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>ScummVM Team</text>
 		</text>
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -47,9 +52,9 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/coinpc.png</path>
@@ -64,5 +69,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

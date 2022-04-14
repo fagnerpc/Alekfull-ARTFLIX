@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Castlevania é uma série de videogame de terror gótico de ação e aventura sobre caçadores de vampiros criada e desenvolvida pela Konami. Foi lançado em várias plataformas, desde os primeiros sistemas até os consoles modernos, bem como em dispositivos portáteis.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Castlevania is an action-adventure gothic horror video game series about vampire hunters created and developed by Konami. It has been released on various platforms, from early systems to modern consoles, as well as handheld devices such as mobile phones.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Castlevania es una serie de videojuegos de terror gótico de acción y aventura sobre cazadores de vampiros creada y desarrollada por Konami. Se ha lanzado en varias plataformas, desde los primeros sistemas hasta las consolas modernas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Castlevania est une série de jeux vidéo d'horreur gothique d'action-aventure sur les chasseurs de vampires créée et développée par Konami. Il a été publié sur diverses plates-formes, des premiers systèmes aux consoles modernes.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Castlevania ist eine von Konami erstellte und entwickelte Action-Adventure-Gothic-Horror-Videospielserie über Vampirjäger. Es wurde auf verschiedenen Plattformen veröffentlicht, von frühen Systemen bis hin zu modernen Konsolen sowie Handheld-Geräten wie Mobiltelefonen.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Castlevania</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1986</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Konami</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

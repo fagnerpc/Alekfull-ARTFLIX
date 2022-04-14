@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Solarus foi projetado especificamente com clássicos cult de RPG de ação em 2D, como The Legend of Zelda: A Link to the Past and Secret of Mana no Super Nintendo, ou Soleil no Sega Megadrive / Genesis.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Solarus was specifically designed with cult 2D action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana on the Super Nintendo, or Soleil on the Sega Megadrive/Genesis.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Solarus se diseñó específicamente teniendo en cuenta los clásicos de los juegos de rol de acción 2D, como The Legend of Zelda: A Link to the Past and Secret of Mana en Super Nintendo, o Soleil en Sega Megadrive / Genesis.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Solarus a été spécialement conçu pour les classiques 2D d'action-RPG cultes, tels que La légende de Zelda: un lien vers le passé et le secret de Mana sur Super Nintendo ou de Soleil sur Sega Megadrive / Genesis.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Solarus wurde speziell für kultige 2D-Action-RPG-Klassiker wie The Legend of Zelda: A Link to the Past und Secret of Mana für Super Nintendo oder Soleil für Sega Megadrive/Genesis entwickelt.</text >
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Solarus</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>2006</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Solarus Team</text>
-		</text>	
-		
+		</text>
+
 				<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -51,7 +55,7 @@
 			<text>DÉVELOPPEUR:</text>
 		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +70,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

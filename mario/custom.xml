@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Mario é uma franquia de mídia, publicada e produzida pela Nintendo, estrelando o personagem Mario. É uma franquia de videogame, com outras formas de mídia , incluindo várias séries de televisão e um longa-metragem.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Mario is a media franchise, published and produced by Nintendo, starring the fictional Italian character Mario. It is primarily a video game franchise, with the franchise's other forms of media including several television series and a feature film.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Mario es una franquicia de medios, publicada y producida por Nintendo, protagonizada por el personaje Mario. Es principalmente una franquicia de videojuegos, con otras formas de medios de la franquicia que incluyen varias series de televisión y una película.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Mario est une franchise média, publiée et produite par Nintendo, avec le personnage Mario. Il s'agit principalement d'une franchise de jeux vidéo, avec les autres formes de médias de la franchise, notamment plusieurs séries télévisées et un long métrage.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Mario ist ein von Nintendo veröffentlichtes und produziertes Medien-Franchise mit der fiktiven italienischen Figur Mario in der Hauptrolle. Es ist in erster Linie ein Videospiel-Franchise, wobei die anderen Medienformen des Franchise mehrere Fernsehserien und einen Spielfilm umfassen.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Super Mario</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1981</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Shigeru Miyamoto</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,9 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +70,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

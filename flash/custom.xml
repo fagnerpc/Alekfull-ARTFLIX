@@ -9,35 +9,39 @@
 		<text name="info1" extra="true"  lang="PTBR">
 			<text>Jogos em flash podem ser executados usando tecnologias da Web padrão ou plug-ins de navegador. A criação desses jogos geralmente envolve o uso de tecnologias da Web padrão como front-end e outras tecnologias para fornecer um back-end.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Flash games can be run using standard web technologies or browser plug-ins. The creation of such games usually involves use of standard web technologies as a frontend and other technologies to provide a backend.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Los juegos flash se pueden ejecutar utilizando tecnologías web estándar o complementos del navegador. La creación de tales juegos generalmente implica el uso de tecnologías web estándar como interfaz y otras tecnologías para proporcionar un back-end.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Les jeux Flash peuvent être exécutés à l'aide de technologies Web standard ou de plug-ins de navigateur. La création de tels jeux implique généralement l'utilisation de technologies Web standard.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Flash-Spiele können mit Standard-Webtechnologien oder Browser-Plug-Ins ausgeführt werden. Die Erstellung solcher Spiele beinhaltet normalerweise die Verwendung von Standard-Webtechnologien als Frontend und andere Technologien, um ein Backend bereitzustellen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Flash Games</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1995</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>FutureWave</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>			
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -65,5 +72,5 @@
          <path>./../assets/coinops/default.png</path>
          <zIndex>7</zIndex>
       </image>
-	</customView>	
+	</customView>
 </theme>

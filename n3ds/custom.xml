@@ -8,30 +8,34 @@
 
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O Nintendo 3DS (abreviado como 3DS) é um console portátil produzido pela Nintendo e lançado em 2011, sucessor do Nintendo DS. Tem a capacidade de produzir imagens em três dimensões sem óculos especiais.</text>
-		</text>	
-		
+		</text>
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The Nintendo 3DS (abbreviated as 3DS) is a portable console produced by Nintendo and released in 2011, successor to the Nintendo DS. It has the ability to produce three-dimensional images without special glasses.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>El Nintendo 3DS (abreviado como 3DS) es una consola portátil producida por Nintendo y lanzada en 2011, sucesor de la Nintendo DS. Tiene la capacidad de producir imágenes en tres dimensiones sin gafas especiales.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>La Nintendo 3DS (en abrégé 3DS) est une console portable produite par Nintendo et sortie en 2011, successeur de la Nintendo DS. Il a la capacité de produire des images en trois dimensions sans lunettes spéciales.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der Nintendo 3DS (abgekürzt als 3DS) ist eine tragbare Konsole, die von Nintendo produziert und 2011 als Nachfolger des Nintendo DS veröffentlicht wurde. Es hat die Fähigkeit, dreidimensionale Bilder ohne Spezialbrille zu erzeugen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Nintendo 3DS</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>2001</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
-		</text>		
+		</text>
 	</view>
 </theme>

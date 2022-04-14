@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O Xbox é um console de videogame doméstico e o primeiro da série fabricados pela Microsoft. É classificado como um console de sexta geração, competindo com o PlayStation 2 da Sony e o GameCube da Nintendo.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Xbox is a home video game console and the first installment in the Xbox series of video game consoles manufactured by Microsoft. It is classified as a sixth generation console, competing with PS2 and GameCube.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Xbox es una consola de videojuegos doméstica y la primera de la serie fabricada por Microsoft. Está clasificada como una consola de sexta generación, compitiendo con PlayStation 2 de Sony y GameCube de Nintendo.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Xbox es una consola de videojuegos doméstica y la primera de la serie fabricada por Microsoft. Está clasificada como una consola de sexta generación, compitiendo con PlayStation 2 de Sony y GameCube de Nintendo.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Xbox ist eine Videospielkonsole für den Heimgebrauch und die erste Folge der Xbox-Reihe von Videospielkonsolen, die von Microsoft hergestellt werden. Sie wird als Konsole der sechsten Generation eingestuft und konkurriert mit PS2 und GameCube.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Microsoft Xbox</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>2001</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Microsoft</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

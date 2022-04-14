@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Estrelando três sapos antropomórficos com nomes de doenças da pele em inglês, Rash, Zitz e Pimple, o jogo Battletoads original para o NES era conhecido por sua dificuldade, mas ainda recebeu um culto de seguidores gerando sequências para várias plataformas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Starring three anthropomorphic frogs named after skin diseases in English, Rash, Zitz and Pimple, the original Battletoads game for the NES was known for its difficulty, but still incorporated a cult of followers generating sequences for various platforms.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Protagonizado por tres ranas antropomórficas que llevan el nombre de enfermedades de la piel en inglés, Rash, Zitz y Pimple, el juego original de Battletoads para NES era conocido por su dificultad que generaban secuencias para varias plataformas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Mettant en vedette trois grenouilles anthropomorphes nommées d'après des maladies de la peau en anglais, Rash, Zitz et Pimple, le jeu original Battletoads pour la NES était connu pour sa difficulté à générer des séquences pour diverses plates-formes.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Mit drei anthropomorphen Fröschen, die auf Englisch nach Hautkrankheiten benannt sind, Rash, Zitz und Pimple, war das ursprüngliche Battletoads-Spiel für das NES für seinen Schwierigkeitsgrad bekannt, aber es hatte immer noch einen Kult von Anhängern, die Sequenzen für verschiedene Plattformen generierten.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Battletoads</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1991</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Rare</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,7 +53,10 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
 
 		<customView name="HCoinSpin">

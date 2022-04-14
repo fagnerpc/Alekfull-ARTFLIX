@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>A Tectoy é uma empresa brasileira de equipamentos eletrônicos de consumo, conhecida principalmente por seu trabalho na produção e comercialização de consoles e jogos eletrônicos.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Tectoy is a Brazilian company of consumer electronic equipment, known mainly for its work in the production and commercialization of consoles and electronic games.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Tectoy es una empresa brasileña de equipos electrónicos de consumo, conocida principalmente por su trabajo en la producción y comercialización de consolas y juegos electrónicos.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Tectoy est une société brésilienne de matériel électronique grand public, connue principalement pour ses travaux dans la production et la commercialisation de consoles et de jeux électroniques.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Tectoy ist ein brasilianisches Unternehmen für Unterhaltungselektronik, das hauptsächlich für seine Arbeit in der Produktion und Vermarktung von Konsolen und elektronischen Spielen bekannt ist.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Tectoy</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1987</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>TecToy S.A.</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>
