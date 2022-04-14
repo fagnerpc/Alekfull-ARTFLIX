@@ -9,29 +9,33 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O Neo Geo CD, apesar de não ter sido um sucesso de vendas, tinha uma biblioteca de jogos invejável para a época, com conversões quase perfeitas das versões de arcade.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The Neo Geo CD, though not a blockbuster, had an enviable game library for the time, with near-perfect conversions of the arcade versions.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>El Neo Geo CD, a pesar de no haber sido un éxito de ventas, tenía una biblioteca de juegos envidiable para la época, con conversiones casi perfectas de las versiones de arcade.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Le CD Neo Geo, bien que n'étant pas un blockbuster, possédait une bibliothèque de jeux enviable avec des conversions quasi-parfaites des versions arcade.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Neo Geo-CD war zwar kein Blockbuster, hatte aber für die damalige Zeit eine beneidenswerte Spielebibliothek mit nahezu perfekten Umsetzungen der Arcade-Versionen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Neo Geo CD</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1994</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>SNK Corporation</text>
-		</text>			
+		</text>
 	</view>
 </theme>

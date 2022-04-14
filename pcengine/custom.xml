@@ -9,24 +9,28 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>É um console de videogame lançado em 1987 pela NEC e Hudson Soft. Após seu lançamento no Japão e sua aceitação nesse país, foi lançado em 1988 nos Estados Unidos batizado de Turbo Grafx-16.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>TurboGrafx-16 (PC Engine) is a home video game console jointly developed by Hudson Soft and NEC Home Electronics, released in Japan on October 30, 1987 and in the United States on August 29, 1989.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>PC Engine es una videoconsola que fue lanzada primeramente en Japón por NEC el 30 de octubre de 1987. El sistema fue lanzado en el mercado norteamericano a finales de agosto de 1989 con el nombre de TurboGrafx-16.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>PC-Engine (PCエンジン, Piishii Enjin), connue sous le nom TurboGrafx-16 en Amérique du Nord, est une console de jeux vidéo 8 bits fabriquée par NEC Corporation et commercialisée à partir de 1987 au Japon.</text>
 		</text>
-		
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>TurboGrafx-16 (PC Engine) ist eine von Hudson Soft und NEC Home Electronics gemeinsam entwickelte Heimvideospielkonsole, die am 30. Oktober 1987 in Japan und am 29. August 1989 in den Vereinigten Staaten veröffentlicht wurde.</text>
+		</text>
+
+
 		<text name="info2" extra="true" lang="PTBR">
 			<text>PC Engine</text>
 		</text>
-		
+
 				<text name="info2" extra="true">
 			<text>PC Engine</text>
 		</text>
@@ -39,31 +43,43 @@
 						<text name="info2" extra="true" lang="FR">
 			<text>PC Engine</text>
 		</text>
-		
+		<text name="info2" extra="true" lang="DE">
+			<text>TurboGrafx-16</text>
+		</text>
+
 				<text name="info3" extra="true">
 			<text>1987</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>NEC Home Electronics</text>
-		</text>	
-		
+		</text>
+
 	<image name="logo" lang="EN">
 		<path>./../assets/logos/tg16.png</path>
 	</image>
-	
+
 		<image name="logo" lang="ES">
 		<path>./../assets/logos/tg16.png</path>
 	</image>
-	
+
+		<image name="logo" lang="DE">
+			<path>./../assets/logos/tg16.png</path>
+		</image>
+
+
 				<image name="sublogo" lang="EN">
 		<path>./assets/logos/tg16.png</path>
 	</image>
-	
+
 				<image name="sublogo" lang="ES">
 		<path>./assets/logos/tg16.png</path>
-	</image>	
-	
+	</image>
+
+		<image name="sublogo" lang="DE">
+			<path>./assets/logos/tg16.png</path>
+		</image>
+
 	</view>
 
 </theme>

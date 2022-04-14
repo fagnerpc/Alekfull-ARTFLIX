@@ -9,29 +9,33 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O Atari 800 foi um microcomputador desenvolvido pela Atari para o público doméstico, lançado conjuntamente com o Atari 400.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The Atari 800 was a microcomputer developed by Atari for the domestic audience, launched in conjunction with the Atari 400.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>El Atari 800 fue un microcomputador desarrollado por Atari para el público doméstico, lanzado conjuntamente con el Atari 400.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>L'Atari 800 était un micro-ordinateur développé par Atari pour le public domestique, lancé conjointement avec l'Atari 400.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der Atari 800 war ein von Atari für das heimische Publikum entwickelter Mikrocomputer, der zusammen mit dem Atari 400 auf den Markt gebracht wurde.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Atari 800</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1979</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Atari, Inc.</text>
-		</text>		
+		</text>
 	</view>
 </theme>

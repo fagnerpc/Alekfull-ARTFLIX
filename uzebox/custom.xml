@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O Uzebox é um console retro-minimalista de jogos de código aberto baseado no microcontrolador ATmega644 da Atmel. A particularidade do sistema é que ele é baseado em um kernel acionado por interrupção e não possui buffer de quadro.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The Uzebox is a retro-minimalist open source game console based on Atmel's ATmega644 microcontroller. The particularity of the system is that it's based on an interrupt driven kernel and has no frame buffer.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>El Uzebox es una consola de juegos retro-minimalista de código abierto basada en el microcontrolador ATmega644 de Atmel. La particularidad del sistema es que se basa en un núcleo controlado por interrupción y no tiene búfer de trama.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>L'Uzebox est une console de jeu open source rétro-minimaliste basée sur le microcontrôleur ATmega644 d'Atmel. La particularité du système est qu'il est basé sur un noyau piloté par interruption et n'a pas de tampon de trame.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Uzebox ist eine retro-minimalistische Open-Source-Spielekonsole, die auf Atmels Mikrocontroller ATmega644 basiert. Die Besonderheit des Systems ist, dass es auf einem Interrupt-gesteuerten Kernel basiert und keinen Framebuffer hat.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Uzebox</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Uzebox Team</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

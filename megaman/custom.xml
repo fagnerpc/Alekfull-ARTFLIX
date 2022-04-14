@@ -9,35 +9,40 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Mega Man, conhecido como Rockman no Japão, é uma franquia de videogame de ficção científica criada pela Capcom. Inicialmente lançado para o NES em 1987, foi o primeiro de uma série que se expandiu para mais de 50 jogos em vários sistemas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Mega Man, known as Rockman in Japan, is a science fiction video game franchise created by Capcom, starring a series of robot characters. Mega Man, released for the NES in 1987, was the first in a series that expanded to over 50 games on multiple systems.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Mega Man, conocido como Rockman en Japón, es una franquicia de videojuegos de ciencia ficción creada por Capcom. Mega Man, lanzado para la NES en 1987, fue el primero de una serie que se expandió a más de 50 juegos en múltiples sistemas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Mega Man, connu sous le nom de Rockman au Japon, est une franchise de jeux vidéo de science-fiction créée par Capcom. Mega Man, sorti pour la NES en 1987, était le premier d'une série qui s'est étendue à plus de 50 jeux sur plusieurs systèmes.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Mega Man, in Japan als Rockman bekannt, ist ein von Capcom entwickeltes Science-Fiction-Videospiel-Franchise mit einer Reihe von Robotercharakteren. Mega Man, das 1987 für das NES veröffentlicht wurde, war das erste einer Reihe, die auf über 50 Spiele auf mehreren Systemen angewachsen ist.</text>
+		</text>
+
+
 				<text name="info2" extra="true">
 			<text>Mega Man</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1987</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Akira Kitamura</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +54,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +74,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

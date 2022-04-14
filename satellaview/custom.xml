@@ -5,37 +5,41 @@
 
 		<text name="info1" extra="true">
 			<text>O Satellaview é um periférico que funcionava como um modem via satélite para o sistema Super Famicom da Nintendo que foi lançado em Japão em 1995.</text>
-		</text>	
+		</text>
 
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O Satellaview é um periférico que funcionava como um modem via satélite para o sistema Super Famicom da Nintendo que foi lançado em Japão em 1995.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Satellaview est un périphérique qui a servi de modem satellite pour le système Super Famicom de Nintendo sorti au Japon en 1995.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Satellaview est un périphérique qui a servi de modem satellite pour le système Super Famicom de Nintendo sorti au Japon en 1995.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Satellaview est un périphérique qui a servi de modem satellite pour le système Super Famicom de Nintendo sorti au Japon en 1995.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Satellaview ist ein Gerät, das als Satellitenmodem für Nintendos Super Famicom-System diente, das 1995 in Japan veröffentlicht wurde.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Satellaview</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1995</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
-		</text>	
+		</text>
 		</view>
-		
+
 			<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/snes.png</path>
@@ -49,5 +53,5 @@
          <path>./../assets/coinops/snes.png</path>
          <zIndex>7</zIndex>
       </image>
-	</customView>		
+	</customView>
 </theme>

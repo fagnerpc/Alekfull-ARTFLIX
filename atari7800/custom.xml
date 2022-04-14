@@ -9,28 +9,33 @@
 		<text name="info1" extra="true"  lang="PTBR">
 			<text>É um console de videogame lançado pela Atari em junho de 1986. Foi desenvolvido para substituir o Atari 5200 e restabelecer a supremacia da Atari em relação a Intellivision e Colecovision.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Is a home video game console released by the Atari Corporation in 1986. It is almost fully backward-compatible with the Atari 2600, the first console to have backward compatibility.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>La sucesora de la consola Atari 5200 o supersystem, en un intento de Atari de recuperar su supremacía en el mercado de la videoconsola frente a sus rivales locales Intellivision y Colecovision.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>L'Atari 7800 est une console de jeux vidéo 8-bit de troisième génération, conçue et commercialisée par le constructeur américain Atari. Elle est sortie début 1986 aux États-Unis.</text>
 		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Heimvideospielkonsole, die 1986 von der Atari Corporation herausgebracht wurde. Sie ist fast vollständig abwärtskompatibel mit dem Atari 2600, der ersten Konsole mit Abwärtskompatibilität.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Atari 7800</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1986</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Atari Corporation</text>
-		</text>		
+		</text>
 	</view>
 </theme>

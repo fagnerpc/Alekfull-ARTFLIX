@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Commodore Amiga é uma família de computadores de 16/32 bits fabricados pela empresa canadense Commodore Business Machines nos anos 80 e 90. Ficaram famosos pelos recursos muito a frente dos rivais IBM-PC.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Is Commodore International's third-generation Amiga computer, aimed at the home computer market. It was launched on October 21, 1992, at a base price of £399 in the United Kingdom.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>A1200 utiliza una CPU CISC Motorola MC68EC020. Es notorio que como el 68000, el 68EC020 tiene un bus de expansión de 24-bits, lo que limita a un máximo de 16 Megabytes la memoria direccionable directamente.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Amiga 1200, ou A1200, était l'ordinateur Amiga de troisième génération de Commodore International, destiné au marché familial. il sortit en octobre 1992, au prix de 399 £ au Royaume-Uni et 599 $ aux États-Unis.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist der Amiga-Computer der dritten Generation von Commodore International, der auf den Heimcomputermarkt ausgerichtet ist. Es wurde am 21. Oktober 1992 zu einem Grundpreis von 399 £ im Vereinigten Königreich eingeführt.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Amiga 1200</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1992</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Commodore International</text>
 		</text>
 	</view>
-	
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/amiga.png</path>

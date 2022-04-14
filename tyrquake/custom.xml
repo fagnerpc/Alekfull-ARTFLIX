@@ -9,33 +9,38 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Quake é um videogame de tiro em primeira pessoa desenvolvido pela id Software em 1996. É o primeiro jogo da série Quake.  No jogo, os jogadores devem encontrar o seu caminho através de vários ambientes medievais semelhantes a labirintos.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Quake is a first-person shooter video game developed by id Software and published by GT Interactive in 1996. It is the first game in the Quake series. In the game, players must find their way through various maze-like, medieval environments.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Quake es un videojuego de disparos en primera persona desarrollado por id Software en 1996. Es el primer juego de la serie Quake. En el juego, los jugadores deben encontrar su camino a través de varios entornos medievales como laberintos.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Quake est un jeu vidéo de tir à la première personne développé par id Software en 1996. C'est le premier jeu de la série Quake. Dans le jeu, les joueurs doivent trouver leur chemin à travers divers environnements médiévaux semblables à des labyrinthes.</text>
 		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Quake ist ein Ego-Shooter-Videospiel, das von id Software entwickelt und 1996 von GT Interactive veröffentlicht wurde. Es ist das erste Spiel der Quake-Reihe. Im Spiel müssen die Spieler ihren Weg durch verschiedene labyrinthartige, mittelalterliche Umgebungen finden.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>TyrQuake</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>2003</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Kevin Shanahan</text>
-		</text>	
+		</text>
 				<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -47,9 +52,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>			
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -64,5 +72,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

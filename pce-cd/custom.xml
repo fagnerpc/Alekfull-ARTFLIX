@@ -9,25 +9,29 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Possibilitado por um acessório era vendido separadamente, lançado como PC-Engine CD-ROM² no Japão em abril de 1988 e TurboGrafx-CD nos EUA, proporcionava músicas digitais, vozes e animações de melhor qualidade.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The CD-ROM² System (シーディーロムロムシステム Shī Dī Romu Romu Shisutemu, pronounced "CD-ROM-ROM") is an add-on attachment for the TurboGrafx-16 that was released in Japan on December 4, 1988.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Fue la primera consola que tenía la opción de un añadido de CD permitiendo obtener las mejoras por utilizar un sistema basado en CD: más memoria, costes más baratos y compatibilidad con Red Book.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Le CD-ROM² System a été lancé le 4 décembre 1988 au Japon (en 1990 en France7). Cette extension inclus un lecteur CD-ROM qui lit les jeux au format CD-ROM², les CD Audio et CD+G (karaoké).</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es war die erste Konsole, die die Option eines CD-Add-ons hatte, wodurch Sie die Vorteile eines CD-basierten Systems nutzen konnten: mehr Speicher, niedrigere Kosten und Red Book-Kompatibilität.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>PC Engine CD</text>
 		</text>
 					<text name="info2" extra="true" lang="PTBR">
 			<text>PC Engine CD</text>
-		</text>			
+		</text>
 
 				<text name="info2" extra="true" lang="EN">
 			<text>TurboGrafx-CD</text>
@@ -38,31 +42,45 @@
 						<text name="info2" extra="true" lang="FR">
 			<text>PC Engine CD</text>
 		</text>
-		
+		<text name="info2" extra="true" lang="DE">
+			<text>TurboGrafx-CD</text>
+		</text>
+
 				<text name="info3" extra="true">
 			<text>1988</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>NEC Home Electronics</text>
-		</text>	
-		
+		</text>
+
 	<image name="logo" lang="EN">
 		<path>./../assets/logos/tg-cd.png</path>
 	</image>
-	
+
 		<image name="logo" lang="ES">
 		<path>./../assets/logos/tg-cd.png</path>
 	</image>
 
+
+		<image name="logo" lang="DE">
+			<path>./../assets/logos/tg-cd.png</path>
+		</image>
+
 				<image name="sublogo" lang="EN">
 		<path>./assets/logos/tg-cd.png</path>
 	</image>
-	
+
 				<image name="sublogo" lang="ES">
 		<path>./assets/logos/tg-cd.png</path>
-	</image>	
+	</image>
 	</view>
+
+	<image name="sublogo" lang="DE">
+		<path>./assets/logos/tg-cd.png</path>
+	</image>
+
+
 
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
@@ -78,6 +96,6 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
-	
+
+
 </theme>

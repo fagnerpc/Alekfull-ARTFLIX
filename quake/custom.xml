@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>É um jogo de computador de tiro em primeira pessoa, criado pela Id Software e lançado em 1996. Devido à sua popularidade, ele se tornaria o primeiro jogo da série Quake, tendo sido bem recebido pelo público e crítica, levando a continuações.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>It is a first-person shooter computer game, created by Id Software and released in 1996. Due to its popularity, it would become the first game in the Quake series, having been well received by the public and critics, leading to sequels.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Es un juego de computadora de disparos en primera persona, creado por Id Software y lanzado en 1996. Debido a su popularidad, se convertiría en el primer juego de la serie, habiendo sido bien recibido por el público y la crítica, dando lugar a secuelas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Il s'agit d'un jeu de tir à la première personne sur ordinateur, créé par Id Software et sorti en 1996. En raison de sa popularité, il deviendrait le premier jeu de la série Quake, après avoir été bien accueilli par le public et la critique, menant à des suites.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es ist ein Ego-Shooter-Computerspiel, das von Id Software entwickelt und 1996 veröffentlicht wurde. Aufgrund seiner Popularität wurde es das erste Spiel in der Quake-Reihe, das von der Öffentlichkeit und Kritikern gut aufgenommen wurde, was zu Fortsetzungen.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Quake</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1996</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Id Software, John Romero</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-		
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>MSX foi o nome dado a uma arquitetura de microcomputadores criada no Japão em 1983. MSX 1 foi lançado em 1983. Possuia paleta de 16 cores e utilizava o VDP Texas Instruments TMS9918.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>MSX spawned four generations: MSX (1983), MSX2 (1985), MSX2+ (1988), and MSX TurboR (1990). The first three were 8-bit computers based on the Z80 microprocessor, while the MSX TurboR was based on a custom 16-bit R800.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>MSX es el nombre de un estándar de microordenador doméstico de 8 bits comercializado durante los años 1980 y principio de los años 1990. Fue definido por Kazuhiko Nishi y presentado el 27 de junio de 1983 en Japón.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>MSX était un standard de micro-ordinateurs à vocation domestique (grand public) d’origine japonaise, qui date des années 1980. Contrairement à la plupart des ordinateurs de l’époque, les MSX ont été produits par divers fabricants.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>MSX hat vier Generationen hervorgebracht: MSX (1983), MSX2 (1985), MSX2+ (1988) und MSX TurboR (1990). Die ersten drei waren 8-Bit-Computer, die auf dem Z80-Mikroprozessor basierten, während der MSX TurboR auf einem benutzerdefinierten 16-Bit-R800 basierte.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>MSX1</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1983</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>ASCII</text>
-		</text>				
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/msx.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

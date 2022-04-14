@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Batman é um super-herói fictício que aparece nos quadrinhos americanos publicados pela DC Comics. O personagem foi criado pelo artista Bob Kane e pelo escritor Bill Finger, e apareceu pela primeira vez em Detective Comics # 27 em 1939.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Batman is a fictional superhero appearing in American comic books published by DC Comics. The character was created by artist Bob Kane and writer Bill Finger, and first appeared in Detective Comics #27 in 1939.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Batman es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por DC Comics. El personaje fue creado por el artista Bob Kane y el escritor Bill Finger, y apareció por primera vez en Detective Comics # 27 en 1939.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Batman est un super-héros fictif apparaissant dans des bandes dessinées américaines publiées par DC Comics. Le personnage a été créé par l'artiste Bob Kane et l'écrivain Bill Finger, et est apparu pour la première fois dans Detective Comics # 27 en 1939.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Batman ist ein fiktiver Superheld, der in amerikanischen Comics erscheint, die von DC Comics herausgegeben werden. Die Figur wurde vom Künstler Bob Kane und dem Schriftsteller Bill Finger geschaffen und erschien erstmals 1939 in Detective Comics #27.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Batman</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1939</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Bob Kane, Bill Finger</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>CRIADORES:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>CRIADORES:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>AUTEURS:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ERSTELLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

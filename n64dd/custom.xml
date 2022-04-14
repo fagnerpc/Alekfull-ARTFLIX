@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Foi um periférico para o Nintendo 64. Era plugado através da EXTension Port e permitia ao N64 usar discos magnéticos proprietários de 64 MB de capacidade para aumentar a capacidade de armazenamento de dados.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>It was a peripheral for the Nintendo 64. It was plugged through the EXTension Port and allowed the N64 to use 64 MB proprietary magnetic disks to increase data storage capacity.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Era un periférico para Nintendo 64. Estaba conectado a través del puerto EXTension y permitía que el N64 usara discos magnéticos patentados de 64 MB para aumentar la capacidad de almacenamiento de datos.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>C'était un périphérique pour la Nintendo 64. Il était branché sur le port EXTension et permettait au N64 d'utiliser des disques magnétiques exclusifs de 64 Mo pour augmenter la capacité de stockage de données.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es war ein Peripheriegerät für den Nintendo 64. Es wurde über den EXTension Port angeschlossen und ermöglichte es dem N64, proprietäre 64-MB-Magnetplatten zu verwenden, um die Datenspeicherkapazität zu erhöhen.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Nintendo 64 DD</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1999</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Nintendo, Alps Electric</text>
-		</text>		
+		</text>
 	</view>
-	
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/n64.png</path>

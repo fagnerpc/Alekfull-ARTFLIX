@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Sega NAOMI 2 é uma placa de fliperama desenvolvida pela Sega e é sucessora do hardware Sega NAOMI. Foi originalmente lançado em 2000. Como usa arquitetura NAOMI semelhante (mas significativamente aprimorada), também é totalmente compatível com seu antecessor.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000. Since it uses similar NAOMI architecture (but significantly beefed up), it is also fully backwards compatible with its predecessor.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Sega NAOMI 2 es un tablero arcade desarrollado por Sega y es el sucesor del hardware Sega NAOMI. Fue lanzado originalmente en 2000. Dado que utiliza una arquitectura NAOMI similar (pero significativamente reforzada), también es totalmente compatible con su predecesor.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Sega NAOMI 2 est une carte d'arcade développée par Sega et succède au matériel Sega NAOMI. Puisqu'il utilise une architecture NAOMI similaire (mais considérablement renforcée), il est également entièrement rétrocompatible avec son prédécesseur.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Sega NAOMI 2 ist ein von Sega entwickeltes Arcade-Board und ein Nachfolger der NAOMI-Hardware von Sega. Es wurde ursprünglich im Jahr 2000 veröffentlicht. Da es eine ähnliche NAOMI-Architektur verwendet (aber erheblich aufgepeppt), ist es auch vollständig abwärtskompatibel mit seinem Vorgänger.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Sega NAOMI 2</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>2000</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>SEGA</text>
-		</text>			
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/naomi.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

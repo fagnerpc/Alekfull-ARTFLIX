@@ -9,35 +9,39 @@
 		<text name="info1" extra="true"  lang="PTBR">
 			<text>RetroBat é um conjunto de scripts Batch e Powershell escritos para configurar e iniciar facilmente o EmulationStation for Windows. Este software de interface destina-se a reunir sua coleção de ROMs e executar jogos com emuladores compatíveis, como o RetroArch.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>RetroBat is a set of Batch and Powershell scripts written to easily configure and launch EmulationStation for Windows. This frontend software is intended to gather your ROMs collection and run games with compatible emulators such as RetroArch.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>RetroBat es un conjunto de scripts de Batch y Powershell escritos para configurar e iniciar fácilmente EmulationStation para Windows. Este software de interfaz está destinado a reunir su colección de ROM y ejecutar juegos con emuladores compatibles como RetroArch.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>RetroBat est un ensemble de scripts Batch et Powershell écrits pour configurer et lancer facilement EmulationStation pour Windows. Ce logiciel frontal est destiné à rassembler votre collection de ROM et à exécuter des jeux avec des émulateurs compatibles tels que RetroArch.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>RetroBat ist eine Reihe von Batch- und Powershell-Skripten, die zum einfachen Konfigurieren und Starten von EmulationStation für Windows geschrieben wurden. Diese Frontend-Software soll Ihre ROMs-Sammlung zusammenstellen und Spiele mit kompatiblen Emulatoren wie RetroArch ausführen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>RetroBat</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Adrien Chalard "Kayl"</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,13 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>			
+		</text>
+
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -65,5 +73,5 @@
          <path>./../assets/coinops/default.png</path>
          <zIndex>7</zIndex>
       </image>
-	</customView>	
+	</customView>
 </theme>

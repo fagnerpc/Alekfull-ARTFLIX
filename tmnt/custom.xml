@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Teenage Mutant Ninja Turtles são um quarteto de ninjas tartarugas que consiste em histórias em quadrinhos, desenhos animados infantis, filmes de longa-metragem e outros produtos. Os personagens foram criados com o nome de artistas da Renascença italiana.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Teenage Mutant Ninja Turtles are a fictional superhero quartet that appear in a self-titled franchise consisting of comic books, animated children's cartoons, feature films, and other products. The characters were created with the name of Italian Renaissance artists.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Teenage Mutant Ninja Turtles son un cuarteto de superhéroes que aparecen en una franquicia homónima que consta de cómics, dibujos animados animados, largometrajes y otros productos. Los personajes fueron creados con el nombre de artistas del Renacimiento italiano.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Teenage Mutant Ninja Turtles sont un quatuor de super-héros fictifs qui apparaissent dans une franchise éponyme composée de bandes dessinées, de dessins animés, de longs métrages et d'autres produits. Les personnages ont été créés avec le nom d'artistes de la Renaissance italienne.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Teenage Mutant Ninja Turtles sind ein fiktives Superhelden-Quartett, das in einem selbstbetitelten Franchise auftritt, das aus Comics, Zeichentrickfilmen für Kinder, Spielfilmen und anderen Produkten besteht. Die Charaktere wurden mit dem Namen italienischer Renaissance-Künstler geschaffen.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>TMNT</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1984</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Kevin Eastman, Peter Laird</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>CRIADO POR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>CRIADO POR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>CRÉÉ PAR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ERSTELLT VON:</text>
+		</text>
 	</view>
-		
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

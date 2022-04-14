@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Street Fighter é uma franquia de jogos de luta desenvolvida pela Capcom. O primeiro jogo da série foi lançado em 1987, seguido por cinco outros jogos principais da série, vários spin-offs e crossovers e inúmeras aparições em várias outras mídias.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Street Fighter is a fighting game franchise developed by Capcom. The first game in the series was released in 1987, followed by five other main series games, various spin-offs and crossovers, and numerous appearances in various other media.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Street Fighter es una franquicia de juegos de lucha desarrollada por Capcom. El primer juego de la serie se lanzó en 1987, seguido de otros cinco juegos de la serie principal, varios spin-offs y crossovers, y numerosas apariciones en varios otros medios.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Street Fighter est une franchise de jeux de combat développée par Capcom. Le premier jeu de la série est sorti en 1987, suivi de cinq autres jeux de la série principale, de plusieurs spin-offs et crossovers, et de nombreuses apparitions dans divers autres médias.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Street Fighter ist ein von Capcom entwickeltes Kampfspiel-Franchise. Das erste Spiel der Serie wurde 1987 veröffentlicht, gefolgt von fünf weiteren Spielen der Hauptserie, verschiedenen Spin-offs und Crossovers sowie zahlreichen Auftritten in verschiedenen anderen Medien.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Street Fighter</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1987</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Takashi Nishiyama</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

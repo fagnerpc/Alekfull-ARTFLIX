@@ -9,35 +9,39 @@
 		<text name="info1" extra="true"  lang="PTBR">
 			<text>O Future Pinball é um simulador e editor, mas não emula o hardware encontrado em máquinas físicas de pinball. As tabelas são projetadas usando modelos 3D encontrados no editor e renderizadas usando um mecanismo 3D em tempo real.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Future Pinball is a simulator and editor, but does not emulate hardware found in physical pinball machines. Tables are designed using 3D models found within the editor, and rendered using a 3D real-time engine.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Future Pinball es un simulador y editor, pero no emula el hardware que se encuentra en las máquinas físicas de pinball. Las tablas se diseñan utilizando modelos 3D que se encuentran dentro del editor y se representan utilizando un motor 3D en tiempo real.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Future Pinball est un simulateur et un éditeur, mais n'émule pas le matériel des flippers physiques. Les tableaux sont conçus à l'aide de modèles 3D trouvés dans l'éditeur et rendus à l'aide d'un moteur 3D en temps réel.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Future Pinball ist ein Simulator und Editor, emuliert jedoch keine Hardware, die in physischen Flipperautomaten zu finden ist. Tabellen werden mithilfe von 3D-Modellen entworfen, die im Editor gefunden werden, und mithilfe einer 3D-Echtzeit-Engine gerendert.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Future Pinball</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>2005</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Christopher Leathley</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,6 +53,6 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>			
+		</text>
 	</view>
 </theme>

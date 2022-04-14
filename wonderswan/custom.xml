@@ -9,29 +9,33 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>É um console portátil lançado pela Bandai em 1999 apenas no Japão, recebeu mais duas versões com melhorias, o WonderSwan Color e o Swan Crystal, juntos todos eles venderam 3,5 milhões de unidades.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Is a handheld game console released in Japan by Bandai. It was developed by Gunpei Yokoi's company Koto Laboratory and Bandai, and was the last piece of hardware Yokoi developed before his death in 1997.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>WonderSwan (ワンダースワン) es una videoconsola portátil de 16 bits de la compañía Bandai que fue lanzada en Japón en 1999. Bandai siempre ha estado muy ligada al manga y al anime.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>WonderSwan est une console de jeux vidéo 16 bits, portable, créée par Koto Laboratory — fondé par Gunpei Yokoi — et vendue par Bandai. L'inventeur de cette console est Gunpei Yokoi, le géniteur de la Game Boy.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Handheld-Spielekonsole, die in Japan von Bandai herausgebracht wurde. Es wurde von Gunpei Yokois Firma Koto Laboratory und Bandai entwickelt und war die letzte Hardware, die Yokoi vor seinem Tod im Jahr 1997 entwickelte.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>WonderSwan</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1999</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Bandai</text>
-		</text>	
+		</text>
 	</view>
 </theme>

@@ -9,32 +9,36 @@
 		<text name="info1" extra="true"  lang="PTBR">
 			<text>Pygame é um conjunto de módulos Python projetados para escrever videogames. O Pygame adiciona funcionalidade à excelente biblioteca SDL. Isso permite que você crie jogos e programas multimídia completos na linguagem python.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Pygame is a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Pygame es un conjunto de módulos de Python diseñados para escribir videojuegos. Pygame agrega funcionalidad además de la excelente biblioteca SDL. Esto le permite crear juegos y programas multimedia con todas las funciones en el lenguaje Python.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Pygame est un ensemble de modules Python conçus pour l'écriture de jeux vidéo. Pygame ajoute des fonctionnalités en plus de l'excellente bibliothèque SDL. Cela vous permet de créer des jeux et des programmes multimédias complets en langage python.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Pygame ist eine Reihe von Python-Modulen, die zum Schreiben von Videospielen entwickelt wurden. Pygame fügt der hervorragenden SDL-Bibliothek Funktionen hinzu. Damit können Sie Spiele und Multimedia-Programme mit vollem Funktionsumfang in der Python-Sprache erstellen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>PyGame</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>2009</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Pygame Community</text>
-		</text>			
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -48,5 +52,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

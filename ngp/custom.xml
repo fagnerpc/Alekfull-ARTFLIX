@@ -9,29 +9,33 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>É um console de videogame portátil que foi lançado pela SNK no Japão, em 28 de novembro de 1998, para combater o Game Boy da Nintendo, no entanto foi fabricado por pouco tempo (pouco mais de 1 ano).</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The Neo Geo Pocket is a monochrome handheld game console released by SNK. It was the company's first handheld system and is part of the Neo Geo family. It debuted in Japan in late 1998.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Neo Geo Pocket es una consola portátil de SNK. Fue lanzada en Japón hacia 1998, y descontinuada en 1999, para dar paso a la Neo Geo Pocket Color, debido a las bajas ventas del sistema monocromo.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Neo-Geo Pocket est la première console portable de SNK. Elle est sortie au Japon fin 1998, et a été arrêtée en 1999, à cause de ventes plus faibles que prévu pour la Neo-Geo Pocket monochrome.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Das Neo Geo Pocket ist eine von SNK herausgebrachte monochrome Handheld-Spielekonsole. Es war das erste Handheld-System des Unternehmens und ist Teil der Neo Geo-Familie. Es debütierte Ende 1998 in Japan.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Neo Geo Pocket</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1998</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>SNK Corporation</text>
-		</text>			
+		</text>
 	</view>
 </theme>

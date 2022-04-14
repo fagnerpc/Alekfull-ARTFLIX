@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Metal Slug é uma série de jogos de run and gun originalmente criados pela Nazca Corporation. Os jogos se concentram no Esquadrão Peregrine Falcon, um pequeno grupo de soldados que lutam contra um exército rebelde.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Metal Slug is a series of run and gun video games originally created by Nazca Corporation. The games focus on the Peregrine Falcon Squad, a small group of soldiers who fight against a rebel army.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Metal Slug es una serie de videojuegos de run and gun creados originalmente por Nazca Corporation. Los juegos se centran en el Escuadrón Halcón Peregrino, un pequeño grupo de soldados que luchan contra un ejército rebelde.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Metal Slug est une série de jeux vidéo run and gun créés à l'origine par Nazca Corporation. Les jeux se concentrent sur le Peregrine Falcon Squad, un petit groupe de soldats qui se battent contre une armée rebelle.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Metal Slug ist eine Reihe von Run-and-Gun-Videospielen, die ursprünglich von der Nazca Corporation entwickelt wurden. Die Spiele konzentrieren sich auf das Peregrine Falcon Squad, eine kleine Gruppe von Soldaten, die gegen eine Rebellenarmee kämpfen.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Metal Slug</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1996</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Nazca Corporation</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

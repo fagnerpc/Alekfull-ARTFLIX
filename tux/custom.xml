@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Super Tux (McComb Milestone) é um jogo de computador de código aberto desenvolvido em 2D que se baseia nos primeiros jogos da série Mario, da Nintendo, e traz o Tux, mascote do Linux como atração principal.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Super Tux (McComb Milestone) is an open source computer game developed in 2D that is based on the first games in Nintendo's Mario series, and features Tux, the mascot of Linux as its main attraction.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Super Tux (McComb Milestone) es un juego de computadora de código abierto desarrollado en 2D que se basa en los primeros juegos de la serie Mario de Nintendo y presenta a Tux, la mascota de Linux, como su principal atracción.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Super Tux (McComb Milestone) est un jeu informatique open source développé en 2D qui est basé sur les premiers jeux de la série Mario de Nintendo, et met en vedette Tux, la mascotte de Linux comme attraction principale.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Super Tux (McComb Milestone) ist ein in 2D entwickeltes Open-Source-Computerspiel, das auf den ersten Spielen der Mario-Serie von Nintendo basiert und dessen Hauptattraktion Tux, das Maskottchen von Linux, ist.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Super Tux</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>2002</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Ingo Ruhnke</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-		
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

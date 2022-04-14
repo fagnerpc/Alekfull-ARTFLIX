@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Final Fight é uma série de videogames beat 'em up da Capcom, que começou com o lançamento de Final Fight em 1989. Situado na fictícia Metro City, os jogos se concentram em um grupo de vigilantes heróicos que lutam contra o controle de criminosos gangues.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Final Fight is a series of beat 'em up video games by Capcom, which began with the arcade release of Final Fight in 1989. Set in the fictional Metro City, the games focus on a group of heroic vigilantes who fights against the control of criminal gangs.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Final Fight es una serie de videojuegos beat 'em up de Capcom, que comenzó con el lanzamiento de Final Fight en 1989. Ambientados en el ficticio Metro City, los juegos se centran en un grupo de heroicos vigilantes que luchan contra el control de los criminales.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Final Fight est une série de jeux vidéo beat'em up de Capcom. Situé dans la ville fictive de Metro City, les jeux se concentrent sur un groupe de justiciers héroïques qui se bat contre le contrôle des criminels les gangs.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Final Fight ist eine Reihe von Beat 'em up-Videospielen von Capcom, die mit der Arcade-Veröffentlichung von Final Fight im Jahr 1989 begann. Die Spiele spielen in der fiktiven Metro City und konzentrieren sich auf eine Gruppe heldenhafter Bürgerwehren, die gegen die kämpfen Kontrolle krimineller Banden.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Final Fight</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1989</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Capcom</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

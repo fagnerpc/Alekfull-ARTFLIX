@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Desde 1995, vários videogames comerciais baseados em Lego, o sistema de construção produzido pelo Grupo Lego, foram lançados. Após o segundo jogo, Lego Island, desenvolvido e publicado pela Mindscape, o The Lego Group publicou jogos por conta própria com sua divisão Lego Media.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Since 1995, various commercial video games based on Lego, the construction system produced by The Lego Group, have been released. Following the second game, Lego Island, developed and published by Mindscape, The Lego Group published games on its own with its Lego Media division.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Desde 1995, se han lanzado varios videojuegos comerciales basados ​​en Lego, el sistema de construcción producido por The Lego Group. Después del segundo juego, Lego Island, desarrollado y publicado por Mindscape, The Lego Group publicó juegos por su cuenta con su división Lego Media.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Depuis 1995, divers jeux vidéo commerciaux basés sur Lego, le système de construction produit par The Lego Group, ont vu le jour. Après le deuxième jeu, Lego Island, développé et édité par Mindscape, The Lego Group a publié ses propres jeux avec sa division Lego Media.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Seit 1995 wurden verschiedene kommerzielle Videospiele auf Basis von Lego, dem von The Lego Group produzierten Bausystem, veröffentlicht. Nach dem zweiten Spiel, Lego Island, das von Mindscape entwickelt und veröffentlicht wurde, veröffentlichte die Lego Group mit ihrer Abteilung Lego Media eigene Spiele.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>LEGO Games</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1995</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Lego Interactive</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,7 +53,10 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
 
 		<customView name="HCoinSpin">

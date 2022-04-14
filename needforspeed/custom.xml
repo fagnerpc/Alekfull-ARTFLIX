@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Need for Speed ​​é uma franquia de videogame de corrida publicada pela Electronic Arts. A série gira em torno de corridas ilegais de rua e em geral encarrega os jogadores de completar vários tipos de corridas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Need for Speed is a racing video game franchise published by Electronic Arts. The series centers around illicit street racing and in general tasks players to complete various types of races while evading the local law enforcement in police pursuits.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Need for Speed ​​es una franquicia de videojuegos de carreras publicada por Electronic Arts. La serie se centra en las carreras callejeras ilícitas y, en general, en las tareas de los jugadores para completar varios tipos de carreras.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Need for Speed ​​est une franchise de jeux vidéo de course publiée par Electronic Arts. La série se concentre sur les courses de rue illicites et, en général, charge les joueurs de compléter différents types de courses.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Need for Speed ist ein Rennvideospiel-Franchise, das von Electronic Arts veröffentlicht wird. Die Serie konzentriert sich auf illegale Straßenrennen und fordert die Spieler im Allgemeinen auf, verschiedene Arten von Rennen zu absolvieren, während sie den örtlichen Strafverfolgungsbehörden bei polizeilichen Verfolgungen ausweichen.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Need for Speed</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1994</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Electronic Arts</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -65,5 +72,5 @@
          <path>./../assets/coinops/default.png</path>
          <zIndex>7</zIndex>
       </image>
-	</customView>	
+	</customView>
 </theme>

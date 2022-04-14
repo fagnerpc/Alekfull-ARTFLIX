@@ -9,22 +9,27 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Aqui está agrupado todos os jogos para 2 Jogadores de todos os sistemas disponíveis numa única lista, organizados por ordem alfabética. Você pode procurar o seu jogo favorito por diversos critérios através do sistema.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Here is grouped all games for 2 Players from all available systems in a single list, organized in alphabetical order. You can search for your favorite game by various criteria through the system.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Aquí se agrupan todos los juegos para 2 jugadores de todos los sistemas disponibles en una sola lista, organizada en orden alfabético. Puedes buscar tu juego favorito por varios criterios a través del sistema.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Voici regroupés tous les jeux pour 2 joueurs de tous les systèmes disponibles dans une seule liste, classés par ordre alphabétique. Vous pouvez rechercher votre jeu préféré selon divers critères via le système.</text>
 		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Hier sind alle Spiele für 2 Spieler aus allen verfügbaren Systemen in einer einzigen Liste in alphabetischer Reihenfolge gruppiert. Sie können Ihr Lieblingsspiel nach verschiedenen Kriterien über das System suchen.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>2 Jogadores</text>
 		</text>
-		
+
 			<text name="info2" extra="true"  lang="PTBR">
 			<text>2 Jogadores</text>
 		</text>
@@ -37,23 +42,26 @@
 						<text name="info2" extra="true" lang="FR">
 			<text>2 Joueurs</text>
 		</text>
+		<text name="info2" extra="true" lang="DE">
+			<text>2 Spieler</text>
+		</text>
 
 		<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text></text>
 		</text>
-		
+
 			<image name="logo" lang="EN">
 		<path>./assets/logos/auto-at2players-en.png</path>
 	</image>
 
 				<image name="sublogo" lang="EN">
 		<path>./assets/logos/auto-at2players-en.png</path>
-	</image>		
-		
+	</image>
+
 
 			<image name="logo" lang="ES">
 		<path>./assets/logos/auto-at2players-es.png</path>
@@ -72,12 +80,20 @@
 		<path>./assets/logos/auto-at2players-fr.png</path>
 	</image>
 
-	
+		<image name="logo" lang="DE">
+			<path>./assets/logos/auto-at2players-en.png</path>
+		</image>
+
+		<image name="sublogo" lang="DE">
+			<path>./assets/logos/auto-at2players-en.png</path>
+		</image>
+
+
 				<text name="info5" extra="true">
 			<text>ALEKFULL ARTFLIX</text>
-		</text>		
+		</text>
 	</view>
-	
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

@@ -8,30 +8,34 @@
 
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Foi um modelo de computador fabricado pela Apple Inc. no final da década de 70. O primeiro Apple II era equipado com um processador MOS Technology 6502 com um clock de 1 MHz e 4 kB de memória RAM.</text>
-		</text>		
-		
+		</text>
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products. It was introduced in 1977 by Jobs and was the first consumer product sold by Apple Computer, Inc.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Apple II fue la primera serie de microcomputadoras de producción masiva hecha por la empresa Apple Computer. El Apple II tenía una arquitectura de 8 bits basada en el procesador 6502.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Apple II (parfois orthographié Apple ][ ou Apple //) est l'un des premiers ordinateurs personnels au monde fabriqué à grande échelle1. Conçu par Steve Wozniak, commercialisé le 10 juin 1977 par Apple.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist ein 8-Bit-Heimcomputer, eines der ersten äußerst erfolgreichen massenproduzierten Mikrocomputerprodukte. Es wurde 1977 von Jobs eingeführt und war das erste Verbraucherprodukt, das von Apple Computer, Inc. verkauft wurde.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Apple II</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1977</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Apple Computer, Inc.</text>
-		</text>		
+		</text>
 	</view>
 </theme>

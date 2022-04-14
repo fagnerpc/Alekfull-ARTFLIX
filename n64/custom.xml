@@ -9,29 +9,34 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>É o terceiro console de videogame doméstico da empresa japonesa Nintendo. Lançado em 23 de junho de 1996 no Japão, contava com três títulos de lançamento: Super Mario 64, PilotWings 64 e Saikyou Habu Shogi.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The Nintendo 64 is Nintendo's third home video game console for the international market. Named for its 64-bit central processing unit, it was released in June 1996 in Japan, September 1996 in North America.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Nintendo 64 es la cuarta videoconsola de sobremesa producida por Nintendo, desarrollada para suceder a la Super Nintendo y para competir con el Saturn de Sega y la PlayStation de Sony.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Nintendo 64 (ニンテンドウ64), également connue sous les noms de code Ultra 64 lors de sa phase de développement, est une console de jeux vidéo de salon, sortie en 1996, du constructeur japonais Nintendo.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Das Nintendo 64 ist Nintendos dritte Heimvideospielkonsole für den internationalen Markt. Benannt nach seiner 64-Bit-Zentraleinheit, wurde es im Juni 1996 in Japan und im September 1996 in Nordamerika veröffentlicht.</text>
+		</text>
+
+
 				<text name="info2" extra="true">
 			<text>Nintendo 64</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1996</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
-		</text>			
+		</text>
 	</view>
 </theme>

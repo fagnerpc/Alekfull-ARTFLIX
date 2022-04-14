@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Moonlight permite que você faça stream dos jogos da sua coleção da Steam no seu Raspberry Pi. Moonlight é perfeito para jogar 'on the go' sem sacrificar o seu PC.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Moonlight allows you to stream your collection of Steam games from your NVIDIA GFE PC to your rpi. Moonlight is perfect for gameplay on the go without sacrificing the graphics quality of your gaming computer.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Moonlight le permite transmitir su colección de juegos de Steam desde su PC a su rpi. Moonlight es perfecto para el juego en cualquier lugar sin sacrificar la calidad de gráficos de tu computadora de juego.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Moonlight vous permet de diffuser votre collection de jeux Steam depuis votre PC NVIDIA GFE vers votre rpi. Moonlight est parfait pour le jeu en déplacement sans sacrifier la qualité graphique de votre ordinateur de jeu.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Moonlight ermöglicht es Ihnen, Ihre Sammlung von Steam-Spielen von Ihrem NVIDIA GFE-PC auf Ihr rpi zu streamen. Moonlight ist perfekt für unterwegs, ohne die Grafikqualität Ihres Gaming-Computers zu beeinträchtigen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Moonlight</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>2013</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Case Western Reserve University</text>
-		</text>			
+		</text>
 	</view>
-	
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

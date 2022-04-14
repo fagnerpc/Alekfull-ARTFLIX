@@ -9,12 +9,12 @@
 		<pos>0 0</pos>
 		<origin>0 0</origin>
 		<path>./../customize/images/$system.jpg</path>
-	</image> 	
+	</image>
 
 	<image name="logo">
 		<path>./../assets/logos/$system.png</path>
 	</image>
-	
+
 	   <image name="background" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
@@ -22,7 +22,7 @@
          <path>./../assets/overlay1222.png</path>
          <zIndex>41</zIndex>
       </image>
-	  
+
 	<text name="info1" extra="true">
 		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
 		<color>FFFFFF</color>
@@ -34,7 +34,7 @@
 		<glowColor>00000016</glowColor>
 		<glowSize>1</glowSize>
 		<zIndex>42</zIndex>
-      </text>	
+      </text>
 
 	<carousel name="systemcarousel">
 		<type>vertical</type>
@@ -46,7 +46,7 @@
 		<logoSize>0.2 0.2</logoSize>
 		<logoAlignment>right</logoAlignment>
 		<maxLogoCount>5</maxLogoCount>
-		<defaultTransition>instant</defaultTransition>	
+		<defaultTransition>instant</defaultTransition>
 		<zIndex>50</zIndex>
 	</carousel>
 
@@ -68,14 +68,14 @@
 		<pos>0.035 0.4</pos>
 		<zIndex>0</zIndex>
       </text>
-	
+
      <helpsystem name="help">
          <fontPath>./../_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.017</fontSize>
          <pos>0.02 0.955</pos>
          <textColor>FFFFFF</textColor>
       </helpsystem>
-  
+
 
 	<text name="info3" extra="true">
 		<fontPath>./../_inc/fonts/Circular Std Black.ttf</fontPath>
@@ -111,18 +111,22 @@
 		<text name="info5" extra="true" lang="PTBR">
 			<text>FABRICANTE:</text>
 		</text>
-		
+
 				<text name="info5" extra="true" lang="EN">
 			<text>MANUFACTURER:</text>
 		</text>
-		
+
 				<text name="info5" extra="true" lang="ES">
 			<text>FABRICANTE:</text>
 		</text>
-		
+
 				<text name="info5" extra="true" lang="FR">
 			<text>FABRICANT:</text>
 		</text>
+
+	<text name="info5" extra="true" lang="DE">
+		<text>HERSTELLER:</text>
+	</text>
 
 	<text name="info5" extra="true">
 		<fontPath>./../_inc/fonts/Circular Std Black.ttf</fontPath>
@@ -145,18 +149,22 @@
 		<text name="info6" extra="true" lang="PTBR">
 			<text>Idioma Selecionado: PT(BR)</text>
 		</text>
-		
+
 				<text name="info6" extra="true" lang="EN">
 			<text>Selected Language: EN(US)</text>
 		</text>
-		
+
 				<text name="info6" extra="true" lang="ES">
 			<text>Idioma Seleccionado: ES</text>
 		</text>
-		
+
 				<text name="info6" extra="true" lang="FR">
 			<text>Langue Choisie: FR</text>
 		</text>
+
+	<text name="info6" extra="true" lang="DE">
+		<text>Ausgewählte Sprache: DE</text>
+	</text>
 
 	<text name="info6" extra="true">
 		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
@@ -178,17 +186,21 @@
 	<text name="playbutton" extra="true" lang="PTBR">
 		<text>JOGAR AGORA</text>
 	</text>
-		
+
 	<text name="playbutton" extra="true" lang="EN">
 		<text>PLAY NOW</text>
 	</text>
-		
+
 	<text name="playbutton" extra="true" lang="ES">
 		<text>JUGAR AHORA</text>
 	</text>
-		
+
 	<text name="playbutton" extra="true" lang="FR">
 		<text>LISTE DES JEUX</text>
+	</text>
+
+	<text name="playbutton" extra="true" lang="DE">
+		<text>JETZT SPIELEN</text>
 	</text>
 
 	<text name="playbutton" extra="true">

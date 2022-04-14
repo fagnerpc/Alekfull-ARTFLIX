@@ -1,12 +1,12 @@
-PORTUGUÊS-BR
+PORTUGUï¿½S-BR
 -------------------------------------------------------------------------------
-Para acrescentar os seus próprios vídeos no tema, os adicione na pasta "videos" no formato .mp4 (até 480p nas Raspberry Pi 3 ou 4).
-Vc deverá usar o nome do sistema, todo em minúsculo.
+Para acrescentar os seus prï¿½prios vï¿½deos no tema, os adicione na pasta "videos" no formato .mp4 (atï¿½ 480p nas Raspberry Pi 3 ou 4).
+Vc deverï¿½ usar o nome do sistema, todo em minï¿½sculo.
 Exemplo:
 psx.mp4
 nes.mp4
 
-Para acrescentar imagens, as adicione na pasta "images" no formato .jpg usando o mesmo critério de nomes.
+Para acrescentar imagens, as adicione na pasta "images" no formato .jpg usando o mesmo critï¿½rio de nomes.
 Exemplo:
 psx.jpg
 nes.jpg
@@ -24,29 +24,41 @@ Example:
 psx.jpg
 nes.jpg
 -------------------------------------------------------------------------------
-ESPAÑOL
+ESPAï¿½OL
 -------------------------------------------------------------------------------
-Para agregar sus propios videos al tema, agréguelos a la carpeta "videos" en formato .mp4 (hasta 480p en Raspberry Pi 3 o 4).
-Debe usar el nombre del sistema, todo en minúsculas.
+Para agregar sus propios videos al tema, agrï¿½guelos a la carpeta "videos" en formato .mp4 (hasta 480p en Raspberry Pi 3 o 4).
+Debe usar el nombre del sistema, todo en minï¿½sculas.
 Ejemplo:
 psx.mp4
 nes.mp4
 
-Para agregar imágenes, agréguelas a la carpeta "imágenes" en formato .jpg usando los mismos criterios de nombre.
+Para agregar imï¿½genes, agrï¿½guelas a la carpeta "imï¿½genes" en formato .jpg usando los mismos criterios de nombre.
 Ejemplo:
 psx.jpg
 nes.jpg
 -------------------------------------------------------------------------------
-FRANÇAIS
+FRANï¿½AIS
 -------------------------------------------------------------------------------
-Pour ajouter vos propres vidéos au thème, ajoutez-les au dossier "vidéos" au format .mp4 (jusqu'à 480p sur Raspberry Pi 3 ou 4).
-Vous devez utiliser le nom du système, tout en minuscules.
+Pour ajouter vos propres vidï¿½os au thï¿½me, ajoutez-les au dossier "vidï¿½os" au format .mp4 (jusqu'ï¿½ 480p sur Raspberry Pi 3 ou 4).
+Vous devez utiliser le nom du systï¿½me, tout en minuscules.
 Exemple:
 psx.mp4
 nes.mp4
 
-Pour ajouter des images, ajoutez-les au dossier "images" au format .jpg en utilisant les mêmes critères de nom.
+Pour ajouter des images, ajoutez-les au dossier "images" au format .jpg en utilisant les mï¿½mes critï¿½res de nom.
 Exemple:
 psx.jpg
 nes.jpg
 -------------------------------------------------------------------------------
+DEUTSCH
+-------------------------------------------------- -----------------------------
+Um Ihre eigenen Videos zum Thema hinzuzufÃ¼gen, fÃ¼gen Sie sie im .mp4-Format (bis zu 480p auf Raspberry Pi 3 oder 4) zum Ordner â€žvideosâ€œ hinzu.
+Sie mÃ¼ssen den Systemnamen in Kleinbuchstaben verwenden.
+Beispiel:
+psx.mp4
+nes.mp4
+
+Um Bilder hinzuzufÃ¼gen, fÃ¼gen Sie sie dem Ordner â€žimagesâ€œ im .jpg-Format hinzu und verwenden Sie dieselben Namenskriterien.
+Beispiel:
+psx.jpg
+nes.jpg

@@ -9,32 +9,36 @@
 		<text name="info1" extra="true"  lang="PTBR">
 			<text>Atari Jaguar foi um console de videogame lançado pela Atari em 1993. Ele foi desenvolvido para superar o Mega Drive e o Super Nintendo em poder de processamento.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Atari Jaguar was a video game console released by Atari in 1993. It was developed to outperform Mega Drive and Super Nintendo in processing power.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Atari Jaguar fue una consola de videojuego lanzada por Atari en 1993. Fue desarrollado para superar el Mega Drive y el Super Nintendo en poder de procesamiento.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Atari Jaguar était une console de jeux vidéo lancée par Atari en 1993. Elle a été développée pour surpasser Mega Drive et Super Nintendo en termes de puissance de traitement.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Atari Jaguar war eine Videospielkonsole, die 1993 von Atari herausgebracht wurde. Sie wurde entwickelt, um Mega Drive und Super Nintendo an Rechenleistung zu übertreffen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Atari Jaguar</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1993</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Atari Corporation</text>
-		</text>			
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/atarijaguar.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

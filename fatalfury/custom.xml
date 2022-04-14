@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>A série Fatal Fury narra a ascensão de "Lone Wolf" Terry Bogard e a queda simultânea do império criminoso de Geese Howard. Como muitos outros títulos SNK da época, a primeira parcela ocorre em uma cidade americana fictícia chamada South Town.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Fatal Fury series chronicles the rise of "Lone Wolf" Terry Bogard, and the simultaneous fall of the criminal empire of Geese Howard. Like many other SNK titles of the time, the first installment takes place in a fictitious American city called South Town.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>La serie Fatal Fury narra el surgimiento de "Lone Wolf" Terry Bogard y la caída simultánea del imperio criminal de Geese Howard. Como muchos otros títulos de SNK de la época, la primera entrega tiene lugar en una ciudad estadounidense ficticia llamada South Town.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>La série Fatal Fury raconte la montée de "Lone Wolf" Terry Bogard, et la chute simultanée de l'empire criminel de Geese Howard. Comme beaucoup d'autres titres SNK de l'époque, le premier épisode se déroule dans une ville américaine fictive appelée South Town.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Serie „Fatal Fury“ zeichnet den Aufstieg von „Lone Wolf“ Terry Bogard und den gleichzeitigen Untergang des kriminellen Imperiums von Geese Howard auf. Wie viele andere SNK-Titel der damaligen Zeit spielt der erste Teil in einer fiktiven amerikanischen Stadt namens South Town.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Fatal Fury</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1991</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Takashi Nishiyama</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

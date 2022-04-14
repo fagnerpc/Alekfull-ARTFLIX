@@ -9,33 +9,37 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O NES/Famicom foi o videogame de maior sucesso comercial na sua época, ajudou a indústria de videogames a se recuperar da crise de 1983 e estabeleceu novos padrões que seriam seguidos pela indústria.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Nintendo Entertainment System it was initially released in Japan as the Family Computer. The best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>También conocida como NES,​ es una videoconsola de ocho bits perteneciente a la tercera generación en la industria de los videojuegos. Fue lanzada por Nintendo en Norteamérica, Europa y Australia entre 1985 y 1987.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>La console connut un succès mondial, ce qui aida à redynamiser l'industrie du jeu vidéo après le krach du jeu vidéo de 1983, et ce qui fixa les normes pour les consoles suivantes, du game design aux procédures de gestion.</text>
 		</text>
-		
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Das Nintendo Entertainment System wurde ursprünglich in Japan als Family Computer veröffentlicht. Das NES, die meistverkaufte Spielekonsole seiner Zeit, half dabei, die US-Videospielindustrie nach dem Videospiel-Crash von 1983 wiederzubeleben.</text>
+		</text>
+
+
 		<text name="info2" extra="true">
 			<text>Famicom</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1983</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
-		</text>			
-	</view>	
-	
+		</text>
+	</view>
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/nes.png</path>
@@ -49,6 +53,6 @@
          <path>./../assets/coinops/nes.png</path>
          <zIndex>7</zIndex>
       </image>
-	</customView>	
-	
+	</customView>
+
 </theme>

@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Samurai Shodown, conhecido no Japão como Samurai Spirits, é uma série de jogos de luta da SNK. As histórias da série acontecem no Japão do século XVIII, durante o período Sakoku ou reclusão no Japão com grande licença artística.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Samurai Shodown, known in Japan as Samurai Spirits, is a fighting game series by SNK. The stories in the series take place in 18th-century Japan, during the Sakoku or seclusion period of Japan with great artistic license.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Samurai Shodown, conocido en Japón como Samurai Spirits, es una serie de juegos de lucha de SNK. Las historias de la serie tienen lugar en el Japón del siglo XVIII, durante el período Sakoku o reclusión de Japón con gran licencia artística.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Samurai Shodown, connu au Japon sous le nom de Samurai Spirits, est une série de jeux de combat de SNK. Les histoires de la série se déroulent au Japon au XVIIIe siècle, pendant la période de Sakoku ou d'isolement du Japon avec une grande licence artistique.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Samurai Shodown, in Japan als Samurai Spirits bekannt, ist eine Kampfspielserie von SNK. Die Geschichten in der Serie spielen im Japan des 18. Jahrhunderts, während der Sakoku- oder Abgeschiedenheitszeit Japans, mit großer künstlerischer Freiheit.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Samurai Shodown</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1992</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>SNK, Yuki Enterprise</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

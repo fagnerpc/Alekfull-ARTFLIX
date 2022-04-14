@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>The Simpsons é uma série de animação e sitcom norte-americana criada por Matt Groening para a Fox Broadcasting Company. A série é uma paródia satírica do estilo de vida da classe média dos Estados Unidos (como cultura, sociedade e televisão) e aspectos da condição humana.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The Simpsons is an American sitcom and animation series created by Matt Groening for the Fox Broadcasting Company. The series is a satirical parody of America's middle class lifestyle (such as culture, society and television) and aspects of the human condition.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Los Simpson es una serie de animación y comedia de situación estadounidense creada por Matt Groening. La serie es una parodia satírica del estilo de vida de la clase media estadounidense (como la cultura, la sociedad y la televisión) y aspectos de la condición humana.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>The Simpsons est une sitcom américaine et une série d'animation créée par Matt Groening. La série est une parodie satirique du style de vie de la classe moyenne américaine (comme la culture, la société et la télévision) et des aspects de la condition humaine.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Simpsons ist eine amerikanische Sitcom und Animationsserie, die von Matt Groening für die Fox Broadcasting Company erstellt wurde. Die Serie ist eine satirische Parodie auf den Lebensstil der amerikanischen Mittelklasse (wie Kultur, Gesellschaft und Fernsehen) und Aspekte der Conditio Humana.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>The Simpsons</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1989</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Matt Groening</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>CRIADO POR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>CRIADO POR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>CRÉÉ PAR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ERSTELLT VON:</text>
+		</text>
 	</view>
-		
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

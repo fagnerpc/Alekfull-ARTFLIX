@@ -9,31 +9,35 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Mr.Boom é um core para o RetroArch baseado no clássico Bomberman na sua fase 8-bits. Ele tem suporte para 8 jogadores simultâneos e continua muito divertido, com a experiência Bomberman completa.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Mr.Boom is a core for RetroArch based on the classic Bomberman in its 8-bit phase. It has support for 8 simultaneous players and remains very fun, with the complete Bomberman experience.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Mr.Boom es un núcleo para RetroArch basado en el clásico Bomberman en su fase de 8 bits. Tiene soporte para 8 jugadores simultáneos y sigue siendo muy divertido, con la experiencia completa de Bomberman.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Mr.Boom est un noyau pour RetroArch basé sur le Bomberman classique dans sa phase 8 bits. Il prend en charge 8 joueurs simultanés et reste très amusant, avec l'expérience complète de Bomberman.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Mr.Boom ist ein Kern für RetroArch, der auf dem klassischen Bomberman in seiner 8-Bit-Phase basiert. Es bietet Unterstützung für 8 gleichzeitige Spieler und macht mit der kompletten Bomberman-Erfahrung sehr viel Spaß.</text>
 		</text>
 				<text name="info2" extra="true">
 			<text>Mr. Boom</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>VRemdy Software</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -48,5 +52,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

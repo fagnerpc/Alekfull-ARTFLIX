@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Arcade é um aparelho de jogo eletrônico instalado em estabelecimentos de entretenimento. Compõe-se de um gabinete, tubo de imagem (CRT) ou monitor, fonte de alimentação, controle(s) de jogo e sistema de jogo.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Arcade is an electronic gaming device installed in entertainment establishments. It consists of an enclosure, CRT or monitor, power supply, game controller (s) and game system.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Arcade es un dispositivo de juego electrónico instalado en establecimientos de entretenimiento. Consiste en un gabinete, CRT o monitor, fuente de alimentación, controlador (es) de juego y sistema de juego.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Arcade est un appareil de jeu électronique installé dans les établissements de divertissement. Il comprend un boîtier, un tube cathodique ou un moniteur, une alimentation, des contrôleurs de jeu et un système de jeu.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Arcade ist ein elektronisches Spielgerät, das in Unterhaltungseinrichtungen installiert ist. Es besteht aus Gehäuse, CRT oder Monitor, Netzteil, Gamecontroller(n) und Spielsystem.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Arcade</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>19XX</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Various</text>
-		</text>		
+		</text>
 	</view>
-		
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/cps1.png</path>

@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>É um software de gestão de direitos digitais criado pela Valve Corporation ou Valve L.L.C., de plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Is a digital software distribution platform, developed and published by Valve Corporation. Steam is widely known for its video game distribution; however, since May of 2008, Valve's software development kit has made it possible for any software to be uploaded to store.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Es una plataforma de distribución de software digital, desarrollada y publicada por Valve Corporation. Steam es ampliamente conocido por su distribución de videojuegos; sin embargo, desde mayo de 2008, el kit de desarrollo de software de Valve ha hecho posible cargar cualquier software en la tienda.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Est une plate-forme de distribution de logiciels numériques, développée et publiée par Valve Corporation. Steam est largement connu pour sa distribution de jeux vidéo ; cependant, depuis mai 2008, le kit de développement logiciel de Valve permet de télécharger n'importe quel logiciel dans le magasin.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist eine digitale Softwareverteilungsplattform, die von der Valve Corporation entwickelt und veröffentlicht wurde. Steam ist weithin bekannt für seinen Vertrieb von Videospielen; Seit Mai 2008 ermöglicht das Software-Entwicklungskit von Valve jedoch das Hochladen beliebiger Software in den Store.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Steam</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>2003</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Valve Corporation</text>
-		</text>			
+		</text>
 	</view>
-	
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>

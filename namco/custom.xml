@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Namco Ltd. é uma ex-desenvolvedora e editora japonesa de videogames para arcade e console doméstico, originalmente sediada em Ota, Tóquio. A Namco produziu várias franquias de sucesso comercial e crítico, incluindo Pac-Man, Tekken, Ace Combat e SoulCalibur.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Namco Ltd. is a former Japanese developer and publisher of arcade and home console video games, originally headquartered in Ōta, Tokyo. Namco produced several critically and commercially successful franchises, including Pac-Man, Tekken, Ace Combat and SoulCalibur.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Namco Ltd. es un antiguo desarrollador y editor japonés de videojuegos de videojuegos y consolas domésticas, originalmente con sede en Ōta, Tokio. Namco produjo varias franquicias de éxito crítico y comercial, incluidas Pac-Man, Tekken, Ace Combat y SoulCalibur.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Namco Ltd. est un ancien développeur et éditeur japonais de jeux vidéo d'arcade et de consoles de salon, dont le siège social était à l'origine à Ōta, Tokyo. Namco a produit plusieurs franchises à succès critique et commercial, dont Pac-Man, Tekken et SoulCalibur.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Namco Ltd. ist ein ehemaliger japanischer Entwickler und Herausgeber von Arcade- und Heimkonsolen-Videospielen, ursprünglich mit Hauptsitz in Ōta, Tokio. Namco produzierte mehrere kritisch und kommerziell erfolgreiche Franchises, darunter Pac-Man, Tekken, Ace Combat und SoulCalibur.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>NAMCO</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1955</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Masaya Nakamura</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>FUNDADOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>FUNDADOR:</text>
 		</text>
@@ -49,9 +53,12 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>FONDATEUR:</text>
-		</text>			
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -66,5 +73,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

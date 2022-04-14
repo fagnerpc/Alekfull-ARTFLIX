@@ -9,35 +9,39 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Duke Nukem é um herói americano e ícone cultural mundial que salvou repetidamente a Terra de exércitos de robôs hostis, invasores alienígenas e policiais suínos mutantes. Ele é o personagem principal de uma franquia inteira com o seu nome.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Duke Nukem is an American hero and worldwide cultural icon who has repeatedly saved Earth from armies of hostile robots, alien invaders, and mutant pig cops. He is the flagship character of an entire franchise named after him.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Duke Nukem es un héroe estadounidense que en repetidas ocasiones ha salvado la Tierra de ejércitos de robots hostiles, invasores alienígenas y policías cerdos mutantes. Es el personaje insignia de toda una franquicia que lleva su nombre.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Duke Nukem est un héros américain qui a sauvé à plusieurs reprises la Terre des armées de robots hostiles, d'envahisseurs extraterrestres et de flics cochons mutants. Il est le personnage phare de toute une franchise qui porte son nom.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Duke Nukem ist ein amerikanischer Held und eine weltweite kulturelle Ikone, der die Erde wiederholt vor Armeen feindlicher Roboter, außerirdischer Eindringlinge und mutierter Schweinepolizisten gerettet hat. Er ist das Aushängeschild einer ganzen Franchise, die nach ihm benannt ist.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Duke Nukem</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1991</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Apogee Software</text>
-		</text>	
+		</text>
 
 		<text name="info5" extra="true">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-		
+
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
@@ -49,7 +53,10 @@
 		</text>
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
-		</text>		
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
 	</view>
 
 		<customView name="HCoinSpin">

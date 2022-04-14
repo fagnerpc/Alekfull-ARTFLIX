@@ -9,32 +9,36 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>O Vectrex, que usava o processador Motorola MC68A09, era o único videogame que apresentava gráficos vetoriais em seu monitor pré-integrado ao console, ao qual era possível conectar até dois controladores.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The Vectrex is a vector display-based home video game console that was developed by Western Technologies/Smith Engineering. It was licensed and distributed first by General Consumer Electronics (GCE).</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Es una consola con pantalla integrada, blanco y negro. Una de sus innovaciones, además de tener la pantalla incluida, son los gráficos basados en vectores, en vez de los indefinidos gráficos a pixeles.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Vectrex est une console de jeux vidéo 8 bits développée par Smith Engineering et distribuée par General Consumer Electric, et plus tard par MB (Milton Bradley Company) après le rachat de GCE.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Vectrex ist eine vektorbasierte Heimvideospielkonsole, die von Western Technologies/Smith Engineering entwickelt wurde. Es wurde zuerst von General Consumer Electronics (GCE) lizenziert und vertrieben.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Vectrex</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1982</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>General Consumer Electronics</text>
-		</text>	
+		</text>
 	</view>
-	
+
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -49,5 +53,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
-	
+
 </theme>

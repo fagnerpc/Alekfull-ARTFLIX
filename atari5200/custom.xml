@@ -9,29 +9,33 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>Lançado pela Atari em 1982 para substituir o Atari 2600. Por causa dos sérios problemas com seu controle, o produto foi considerado um fracasso comercial.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Launched by Atari in 1982 to replace the Atari 2600. Because of serious problems with its control, the product was considered a commercial failure.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Lanzado por Atari en 1982 para sustituir al Atari 2600. Debido a los serios problemas con su control, el producto fue considerado un fracaso comercial.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>Lancé par Atari en 1982 pour remplacer le Atari 2600. En raison de graves problèmes de contrôle, le produit était considéré comme un échec commercial.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>1982 von Atari eingeführt, um den Atari 2600 zu ersetzen. Aufgrund schwerwiegender Probleme mit seiner Steuerung wurde das Produkt als kommerzieller Misserfolg angesehen.</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Atari 5200</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1982</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Atari, Inc.</text>
-		</text>		
+		</text>
 	</view>
 </theme>

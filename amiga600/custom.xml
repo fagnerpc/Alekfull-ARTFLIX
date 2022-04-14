@@ -9,33 +9,37 @@
 				<text name="info1" extra="true" lang="PTBR">
 			<text>Commodore Amiga é uma família de computadores de 16/32 bits fabricados pela empresa canadense Commodore Business Machines nos anos 80 e 90. Ficaram famosos pelos recursos muito a frente dos rivais IBM-PC.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>Also known as the A600, is a home computer that was introduced at the CeBIT show in March 1992. The A600 is Commodore International's final model based on the Motorola 68000 CPU.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>Amiga 600, también conocido como A600 y June Bug durante su desarrollo, fue un ordenador personal presentado en el CeBIT en Marzo de 1992 por Commodore International.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>A600, aussi nommé Amiga 600, fut le dernier ordinateur de la lignée des A500. L'A600 utilisait le processeur Motorola 68000, cadencé à 7,09 MHz (PAL) ou 7,16 MHz (NTSC).</text>
 		</text>
-		
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Auch bekannt als A600, ist ein Heimcomputer, der auf der CeBIT im März 1992 vorgestellt wurde. Der A600 ist das letzte Modell von Commodore International, das auf der Motorola 68000 CPU basiert.</text>
+		</text>
+
+
 		<text name="info2" extra="true">
 			<text>Amiga 600</text>
 		</text>
-		
+
 		<text name="info3" extra="true">
 			<text>1992</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Commodore</text>
-		</text>		
+		</text>
 	</view>
-	
+
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/amiga.png</path>

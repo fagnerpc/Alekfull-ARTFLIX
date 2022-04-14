@@ -9,30 +9,34 @@
 		<text name="info1" extra="true" lang="PTBR">
 			<text>3DO Interactive Multiplayer foi um videogame doméstico com arquitetura de 32 bits. O 3DO consiste em especificações técnicas criadas pela "3DO Company", que é uma sociedade entre 7 diferentes empresas.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="EN">
 			<text>The 3DO Interactive Multiplayer, often called simply the 3DO, is a home video game console platform developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="ES">
 			<text>3DO Interactive Multiplayer fue una línea de videoconsolas lanzada en 1993 y 1994 por Panasonic, Sanyo y Goldstar LG Electronics. El sistema fue concebido por el empresario y fundador de EA Games, Trip Hawkins.</text>
 		</text>
-		
+
 				<text name="info1" extra="true" lang="FR">
 			<text>3DO Interactive Multiplayer est initialement le nom porté par la première console de jeux vidéo développée par la société Panasonic et répondant au standard 3DO établi par The 3DO Company.</text>
 		</text>
-		
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der 3DO Interactive Multiplayer, oft einfach als 3DO bezeichnet, ist eine von The 3DO Company entwickelte Plattform für Heimvideospielkonsolen. Konzipiert vom Unternehmer und Gründer von Electronic Arts, Trip Hawkins.</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Panasonic 3DO</text>
 		</text>
-		
+
 				<text name="info3" extra="true">
 			<text>1993</text>
 		</text>
-		
+
 		<text name="info4" extra="true">
 			<text>Panasonic, Sanyo, GoldStar</text>
 		</text>
-		
+
 	</view>
 </theme>
