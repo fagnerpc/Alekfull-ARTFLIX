@@ -1,0 +1,114 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Os jogos de luta são caracterizados por combates corpo-a-corpo entre dois lutadores ou grupos de lutadores de força comparável, geralmente divididos em rodadas. Se vários jogadores estiverem envolvidos, os jogadores geralmente lutam entre si.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="PTBR">
+			<text>Os jogos de luta são caracterizados por combates corpo-a-corpo entre dois lutadores ou grupos de lutadores de força comparável, geralmente divididos em rodadas. Se vários jogadores estiverem envolvidos, os jogadores geralmente lutam entre si.</text>
+		</text>		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Fighting games are characterized by close combat between two fighters or groups of fighters of comparable strength, often broken into rounds. If multiple players are involved, players generally fight against each other.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>Los juegos de lucha se caracterizan por el combate cuerpo a cuerpo entre dos luchadores o grupos de luchadores de fuerza comparable, a menudo divididos en rondas. Si hay varios jugadores involucrados, los jugadores generalmente luchan entre sí.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>Les jeux de combat se caractérisent par des combats rapprochés entre deux combattants ou groupes de combattants de force comparable, souvent divisés en rounds. Si plusieurs joueurs sont impliqués, les joueurs se battent généralement les uns contre les autres.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Kampfspiele zeichnen sich durch Nahkämpfe zwischen zwei Kämpfern oder Gruppen von Kämpfern vergleichbarer Stärke aus, die oft in Runden unterteilt sind. Wenn mehrere Spieler beteiligt sind, kämpfen die Spieler in der Regel gegeneinander.</text>
+		</text>	
+
+		
+		<text name="info2" extra="true">
+			<text>Jogos de Luta</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="PTBR">
+			<text>Jogos de Luta</text>
+		</text>		
+		
+		<text name="info2" extra="true" lang="EN">
+			<text>Fighting Games</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ES">
+			<text>Juegos de Lucha</text>
+		</text>
+
+		<text name="info2" extra="true" lang="FR">
+			<text>Jeux de Combat</text>
+		</text>		
+
+		<text name="info2" extra="true" lang="DE">
+			<text>Kampfspiele</text>
+		</text>	
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+		
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>						
+		</text>
+					<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/auto-fight.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/auto-fight.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/auto-fight.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/auto-fight.png</path>
+		</image>
+
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

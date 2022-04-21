@@ -1,0 +1,79 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma desenvolvedora e editora britânica de videogames com sede em Southam, Inglaterra, subsidiária da empresa americana Electronic Arts. Fundada pelos irmãos Richard e David Darling em outubro de 1986, a Codemasters é um dos mais antigos estúdios de jogos britânicos.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma desenvolvedora e editora britânica de videogames com sede em Southam, Inglaterra, subsidiária da empresa americana Electronic Arts. Fundada pelos irmãos Richard e David Darling em outubro de 1986, a Codemasters é um dos mais antigos estúdios de jogos britânicos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a British video game developer and publisher based in Southam, England, which is a subsidiary of American corporation Electronic Arts. Founded by brothers Richard and David Darling in October 1986, Codemasters is one of the oldest British game studios.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es un desarrollador y editor de videojuegos británico con sede en Southam, Inglaterra, que es una subsidiaria de la corporación estadounidense Electronic Arts. Fundado por los hermanos Richard y David Darling en octubre de 1986, Codemasters es uno de los estudios de juegos británicos más antiguos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un développeur et éditeur de jeux vidéo britannique basé à Southam, en Angleterre, qui est une filiale de la société américaine Electronic Arts. Fondé par les frères Richard et David Darling en octobre 1986, Codemasters est l'un des plus anciens studios de jeux britanniques.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein britischer Entwickler und Publisher von Videospielen mit Sitz in Southam, England, der eine Tochtergesellschaft des amerikanischen Unternehmens Electronic Arts ist. Codemasters wurde im Oktober 1986 von den Brüdern Richard und David Darling gegründet und ist eines der ältesten britischen Spielestudios.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Codemasters</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Richard, David Darling</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>	
+
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

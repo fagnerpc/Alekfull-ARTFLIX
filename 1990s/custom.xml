@@ -1,0 +1,56 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A década de 1990 viu o ressurgimento dos fliperamas com o lançamento de jogos de luta de grande impacto como Streetfighter, Tekken e Mortal Kombat. Para o mercado doméstico, assistimos ao lançamento de consoles de 5ª geração, como Sony Playstation, Sega Saturn e Nintendo 64.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>A década de 1990 viu o ressurgimento dos fliperamas com o lançamento de jogos de luta de grande impacto como Streetfighter, Tekken e Mortal Kombat. Para o mercado doméstico, assistimos ao lançamento de consoles de 5ª geração, como Sony Playstation, Sega Saturn e Nintendo 64.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="EN">
+			<text>The 1990's saw the re-emergance of arcade's as heavy hitting fighting games like Streetfighter, Tekken and Mortal Kombat were released. The home market saw the release of 5th Generation consoles such as the Sony Playstation, Sega Saturn, and Nintendo 64.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="ES">
+			<text>La década de 1990 vio el resurgimiento de los arcade cuando se lanzaron juegos de lucha de gran impacto como Streetfighter, Tekken y Mortal Kombat. Para el mercado doméstico, se lanzaron consolas de quinta generación como Sony Playstation, Sega Saturn y Nintendo 64.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Les années 1990 ont vu la réémergence des jeux d'arcade avec la sortie de jeux de combat puissants comme Streetfighter, Tekken et Mortal Kombat. Pour le marché domestique, des consoles de 5e génération telles que la Playstation de Sony, la Sega Saturn et la Nintendo 64 ont été lancées.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+		    <text>In den 1990er Jahren erlebten die Arcade-Spiele ein Wiederaufleben, als knallharte Kampfspiele wie Streetfighter, Tekken und Mortal Kombat veröffentlicht wurden. Auf dem Heimatmarkt wurden Konsolen der 5. Generation wie Sony Playstation, Sega Saturn und Nintendo 64 veröffentlicht.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>1990's</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>199X</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Acclaim Entertainment, Inc. era uma editora americana de videogames com sede em Glen Cove, Nova York. Formado por ex-funcionários da Activision chamados Acclaim para que ficasse acima da Activision e Accolade (também formado por ex-funcionários da Activision) em listas alfabéticas.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Acclaim Entertainment, Inc. era uma editora americana de videogames com sede em Glen Cove, Nova York. Formado por ex-funcionários da Activision chamados Acclaim para que ficasse acima da Activision e Accolade (também formado por ex-funcionários da Activision) em listas alfabéticas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Acclaim Entertainment, Inc. was an American video game publisher based in Glen Cove, New York. Formed by former Activision employees named Acclaim so that it would be above Activision and Accolade (Also formed by former Activision employees) on alphabetical lists.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Acclaim Entertainment, Inc. era un editor de videojuegos estadounidense con sede en Glen Cove, Nueva York. Formado por ex empleados de Activision llamados Acclaim para que estuviera por encima de Activision y Accolade (también formado por ex empleados de Activision) en listas alfabéticas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Acclaim Entertainment, Inc. était un éditeur de jeux vidéo américain basé à Glen Cove, New York. Formé par d'anciens employés d'Activision nommés Acclaim afin qu'il soit au-dessus d'Activision et Accolade (également formé par d'anciens employés d'Activision) sur des listes alphabétiques.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Acclaim Entertainment, Inc. war ein amerikanischer Videospielverlag mit Sitz in Glen Cove, New York. Gegründet von ehemaligen Activision-Mitarbeitern mit dem Namen Acclaim, damit es in alphabetischen Listen über Activision und Accolade (ebenfalls von ehemaligen Activision-Mitarbeitern gegründet) steht.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Acclaim</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Gregory Fischbach</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>	
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

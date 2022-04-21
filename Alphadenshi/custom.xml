@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Começou como desenvolvedora de jogos de arcade e é mais conhecida por sua biblioteca de títulos Neo Geo, produzida em parceria com a SNK. O mais notável entre eles são seus jogos de luta e, em particular, a série World Heroes.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Começou como desenvolvedora de jogos de arcade e é mais conhecida por sua biblioteca de títulos Neo Geo, produzida em parceria com a SNK. O mais notável entre eles são seus jogos de luta e, em particular, a série World Heroes.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Began as a developer of arcade games and is best known for their library of Neo Geo titles, produced in partnership with SNK. Most notable among these are their fighting games and, in particular, the World Heroes series.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Comenzó como desarrollador de juegos de arcade y es mejor conocido por su biblioteca de títulos de Neo Geo, producidos en asociación con SNK. Entre ellos, los más notables son sus juegos de lucha y, en particular, la serie World Heroes.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>A commencé en tant que développeur de jeux d'arcade et est surtout connu pour sa bibliothèque de titres Neo Geo, produite en partenariat avec SNK. Les plus notables d'entre eux sont leurs jeux de combat et, en particulier, la série World Heroes.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Begann als Entwickler von Arcade-Spielen und ist vor allem für seine Bibliothek von Neo Geo-Titeln bekannt, die in Zusammenarbeit mit SNK produziert wurden. Am bemerkenswertesten unter diesen sind ihre Kampfspiele und insbesondere die World Heroes-Reihe.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Alpha Denshi</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>ADK Corporation</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

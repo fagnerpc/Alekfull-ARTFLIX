@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma desenvolvedora, editora, fabricante de jogos eletrônicos e distribuidora japonesa com sede em Tóquio. Subsidiária da Sega, a empresa é internacionalmente conhecida por suas séries Megami Tensei, Persona, Etrian Odyssey e Trauma Center, entre outras.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma desenvolvedora, editora, fabricante de jogos eletrônicos e distribuidora japonesa com sede em Tóquio. Subsidiária da Sega, a empresa é internacionalmente conhecida por suas séries Megami Tensei, Persona, Etrian Odyssey e Trauma Center, entre outras.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="EN">
+			<text>Is a Japanese video game developer, publisher, arcade manufacturer and distribution company based in Tokyo. A subsidiary of Sega, the company is internationally known for its Megami Tensei, Persona, Etrian Odyssey and Trauma Center series, among others.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="ES">
+			<text>Es un desarrollador, editor, fabricante de videojuegos y empresa de distribución japonesa con sede en Tokio. Una subsidiaria de Sega, la compañía es conocida internacionalmente por sus series Megami Tensei, Persona, Etrian Odyssey y Trauma Center, entre otras.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Est un développeur, éditeur, fabricant de jeux vidéo et société de distribution japonais basé à Tokyo. Filiale de Sega, la société est connue internationalement pour ses séries Megami Tensei, Persona, Etrian Odyssey et Trauma Center, entre autres.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+				<text>Ist ein japanischer Entwickler, Herausgeber, Arcade-Hersteller und Vertriebsunternehmen für Videospiele mit Sitz in Tokio. Das Unternehmen, eine Tochtergesellschaft von Sega, ist unter anderem international bekannt für seine Serien Megami Tensei, Persona, Etrian Odyssey und Trauma Center.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atlus</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Akira Nomoto</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

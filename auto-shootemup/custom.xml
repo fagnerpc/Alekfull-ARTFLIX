@@ -1,0 +1,78 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Shoot 'em up (também conhecido como shmup ou STG) é um subgênero de jogos eletrônicos de tiro. Em um shoot 'em up, o personagem do jogador se envolve em um ataque solitário, frequentemente, em uma nave espacial ou aeronaves, disparando em vários de inimigos e evitando seus ataques.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="PTBR">
+			<text>Shoot 'em up (também conhecido como shmup ou STG) é um subgênero de jogos eletrônicos de tiro. Em um shoot 'em up, o personagem do jogador se envolve em um ataque solitário, frequentemente, em uma nave espacial ou aeronaves, disparando em vários de inimigos e evitando seus ataques.</text>
+		</text>		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Shoot 'em up (also known as shmup or STG) is a subgenre of electronic shooting games. In a shoot 'em up, the player character engages in a solitary attack, often in a spaceship or aircraft, firing at various enemies and avoiding their attacks.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>Shoot 'em up (también conocido como shmup o STG) es un subgénero de los juegos de disparos electrónicos. En un juego de disparos, el personaje del jugador se involucra en un ataque solitario, a menudo en una nave espacial o un avión, disparando a varios enemigos y evitando sus ataques.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>Shoot 'em up (également connu sous le nom de shmup ou STG) est un sous-genre des jeux de tir électroniques. Dans un shoot them up, le personnage du joueur s'engage dans une attaque solitaire, souvent dans un vaisseau spatial ou un avion, tirant sur divers ennemis et évitant leurs attaques.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Shoot 'em up (auch als Shmup oder STG bekannt) ist ein Subgenre elektronischer Ballerspiele. In einem Shoot 'em up greift der Spielercharakter einsam an, oft in einem Raumschiff oder Flugzeug, schießt auf verschiedene Feinde und vermeidet ihre Angriffe.</text>
+		</text>	
+
+		
+		<text name="info2" extra="true">
+			<text>Shoot'em Up</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+		
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>						
+		</text>
+					<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

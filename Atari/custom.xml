@@ -1,0 +1,78 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi pioneira em jogos de arcade, consoles de videogame e computadores domésticos. Os produtos da empresa, como Pong e Atari 2600, ajudaram a definir a indústria de entretenimento eletrônico dos anos 1970 até meados dos anos 1980.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Foi pioneira em jogos de arcade, consoles de videogame e computadores domésticos. Os produtos da empresa, como Pong e Atari 2600, ajudaram a definir a indústria de entretenimento eletrônico dos anos 1970 até meados dos anos 1980.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Was a pioneer in arcade games, home video game consoles, and home computers. The company's products, such as Pong and the Atari 2600, helped define the electronic entertainment industry from the 1970s to the mid-1980s.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Fue pionero en los juegos de arcade, las consolas de videojuegos para el hogar y las computadoras para el hogar. Los productos de la compañía, como Pong y Atari 2600, ayudaron a definir la industria del entretenimiento electrónico desde la década de 1970 hasta mediados de la de 1980.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>A été un pionnier des jeux d'arcade, des consoles de jeux vidéo et des ordinateurs personnels. Les produits de la société, tels que Pong et l'Atari 2600, ont contribué à définir l'industrie du divertissement électronique des années 1970 au milieu des années 1980.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>War ein Pionier bei Arcade-Spielen, Heimvideospielkonsolen und Heimcomputern. Die Produkte des Unternehmens, wie Pong und der Atari 2600, halfen, die elektronische Unterhaltungsindustrie von den 1970er bis Mitte der 1980er Jahre zu definieren.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1972</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nolan Bushnell, Ted Dabney</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>	
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

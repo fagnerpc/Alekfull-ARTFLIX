@@ -1,0 +1,79 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Fundada pelo funcionário da Apple Trip Hawkins, a empresa foi pioneira no início da indústria de jogos de computador doméstico e promoveu os designers e programadores responsáveis ​​por seus jogos como "artistas de software".</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Fundada pelo funcionário da Apple Trip Hawkins, a empresa foi pioneira no início da indústria de jogos de computador doméstico e promoveu os designers e programadores responsáveis ​​por seus jogos como "artistas de software".</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Founded in May 1982 by Apple employee Trip Hawkins, the company was a pioneer of the early home computer game industry and promoted the designers and programmers responsible for its games as "software artists." </text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Fundada por el empleado de Apple, Trip Hawkins, la compañía fue pionera en la industria de los primeros juegos de computadora para el hogar y promovió a los diseñadores y programadores responsables de sus juegos como "artistas de software".</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Fondée en mai 1982 par Trip Hawkins, employé d'Apple, l'entreprise a été l'une des pionnières de l'industrie des jeux informatiques à domicile et a promu les concepteurs et programmeurs responsables de ses jeux en tant qu'"artistes logiciels".</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Das im Mai 1982 von Apple-Mitarbeiter Trip Hawkins gegründete Unternehmen war ein Pionier der frühen Heimcomputerspielindustrie und förderte die für seine Spiele verantwortlichen Designer und Programmierer als „Softwarekünstler“.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Electronic Arts</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Trip Hawkins</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>CRIADO POR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  lang="pt">
+			<text>CRIADO POR:</text>
+		</text>
+						<text name="info5" extra="true" lang="en">
+			<text>CREATED BY:</text>
+		</text>
+						<text name="info5" extra="true" lang="es">
+			<text>CRIADO POR:</text>
+		</text>
+						<text name="info5" extra="true" lang="fr">
+			<text>CRÉÉ PAR:</text>
+		</text>	
+
+						<text name="info5" extra="true" lang="de">
+			<text>ERSTELLT VON:</text>
+		</text>
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

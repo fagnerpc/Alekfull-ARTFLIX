@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi uma desenvolvedora e editora britânica de videogames, fundada em 1982, pelos ex-desenvolvedores de jogos de arcade Tim e Chris Stamper. Ultimate lançou uma série de jogos de sucesso para os computadores ZX Spectrum, Amstrad CPC, BBC Micro, MSX e Commodore 64 de 1983 até seu fechamento em 1988.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Foi uma desenvolvedora e editora britânica de videogames, fundada em 1982, pelos ex-desenvolvedores de jogos de arcade Tim e Chris Stamper. Ultimate lançou uma série de jogos de sucesso para os computadores ZX Spectrum, Amstrad CPC, BBC Micro, MSX e Commodore 64 de 1983 até seu fechamento em 1988.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Was a British video game developer and publisher, founded in 1982, by ex-arcade game developers Tim and Chris Stamper. Ultimate released a series of successful games for the ZX Spectrum, Amstrad CPC, BBC Micro, MSX and Commodore 64 computers from 1983 until its closure in 1988.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Fue un desarrollador y editor de videojuegos británico, fundado en 1982 por los ex desarrolladores de juegos de arcade Tim y Chris Stamper. Ultimate lanzó una serie de juegos exitosos para las computadoras ZX Spectrum, Amstrad CPC, BBC Micro, MSX y Commodore 64 desde 1983 hasta su cierre en 1988.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Était un développeur et éditeur de jeux vidéo britannique, fondé en 1982 par les anciens développeurs de jeux d'arcade Tim et Chris Stamper. Ultimate a sorti une série de jeux à succès pour les ordinateurs ZX Spectrum, Amstrad CPC, BBC Micro, MSX et Commodore 64 de 1983 jusqu'à sa fermeture en 1988.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>War ein britischer Entwickler und Herausgeber von Videospielen, der 1982 von den ehemaligen Arcade-Spielentwicklern Tim und Chris Stamper gegründet wurde. Ultimate veröffentlichte von 1983 bis zu seiner Schließung im Jahr 1988 eine Reihe erfolgreicher Spiele für die Computer ZX Spectrum, BBC Micro, MSX und C64.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Ultimate</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tim and Chris Stamper</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

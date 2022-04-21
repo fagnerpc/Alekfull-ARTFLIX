@@ -1,0 +1,78 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Também abreviada como DECO, era uma empresa japonesa de videogames e engenharia eletrônica. Ela esteve em operação de 1976 a 2003, e lançou 150 jogos. A sua sede ficava em Suginami, Tóquio. A sua subsidiária estado-unidense, a Data East USA, era sediada em San José.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Também abreviada como DECO, era uma empresa japonesa de videogames e engenharia eletrônica. Ela esteve em operação de 1976 a 2003, e lançou 150 jogos. A sua sede ficava em Suginami, Tóquio. A sua subsidiária estado-unidense, a Data East USA, era sediada em San José.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Also abbreviated as DECO, it was a Japanese video game and electronic engineering company. It was in operation from 1976 to 2003, and has released 150 games. Its headquarters took place in Suginami, Tokyo. Its US subsidiary, Data East USA, was headquartered in San José.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>También abreviado como DECO, era una empresa japonesa de videojuegos e ingeniería electrónica. Estuvo en funcionamiento desde 1976 hasta 2003 y ha lanzado 150 juegos. Su sede tuvo lugar en Suginami, Tokio. Su filial estadounidense, Data East USA, tenía su sede en San José.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Également abrégé en DECO, il s'agissait d'une société japonaise de jeux vidéo et d'ingénierie électronique. Il a fonctionné de 1976 à 2003 et a sorti 150 jeux. Son siège social a eu lieu à Suginami, Tokyo. Sa filiale américaine, Data East USA, avait son siège social à San José.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+				<text>Auch als DECO abgekürzt, war es ein japanisches Unternehmen für Videospiele und Elektrotechnik. Es war von 1976 bis 2003 in Betrieb und hat 150 Spiele veröffentlicht. Der Hauptsitz befand sich in Suginami, Tokio. Die US-Tochter Data East USA hatte ihren Hauptsitz in San José.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Data East</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1976</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tetsuo Fukuda</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

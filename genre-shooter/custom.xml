@@ -1,0 +1,113 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O gênero de plataforma run-and-gun foi popularizado pelo Contra da Konami. Gunstar Heroes e Metal Slug também estão entre os três exemplos populares deste estilo. Caracterizado por um foco mínimo no salto preciso da plataforma e uma grande ênfase no tiro multidirecional.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="PTBR">
+			<text>O gênero de plataforma run-and-gun foi popularizado pelo Contra da Konami. Gunstar Heroes e Metal Slug também estão entre os três exemplos populares deste estilo. Caracterizado por um foco mínimo no salto preciso da plataforma e uma grande ênfase no tiro multidirecional.</text>
+		</text>		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>The run-and-gun platform genre was popularised by Konami's Contra. Gunstar Heroes and Metal Slug are also among the top three popular examples of this style. Characterized by a minimal focus on precise platform jumping and a major emphasis on multi-directional shooting.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>El género de plataformas de correr y disparar fue popularizado por Contra de Konami. Gunstar Heroes y Metal Slug también se encuentran entre los tres ejemplos más populares de este estilo. Caracterizado por un enfoque mínimo en el salto de plataforma preciso y un mayor énfasis en disparos multidireccionales.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>Le genre de plate-forme run-and-gun a été popularisé par Contra de Konami. Gunstar Heroes et Metal Slug sont également parmi les trois exemples les plus populaires de ce style. Caractérisé par un accent minimal sur le saut de plate-forme précis et un accent majeur sur le tir multidirectionnel.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Das Run-and-Gun-Plattform-Genre wurde durch Konamis Contra populär. Gunstar Heroes und Metal Slug gehören ebenfalls zu den drei beliebtesten Beispielen dieses Stils. Gekennzeichnet durch einen minimalen Fokus auf präzises Springen von Plattformen und einen großen Schwerpunkt auf multidirektionales Schießen.</text>
+		</text>	
+
+		
+		<text name="info2" extra="true">
+			<text>Ação (Tiro em Plataforma)</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="PTBR">
+			<text>Ação (Tiro em Plataforma)</text>
+		</text>		
+		
+		<text name="info2" extra="true" lang="EN">
+			<text>Action (Platformer Shooter)</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ES">
+			<text>Acción (Platformer Shooter)</text>
+		</text>
+
+		<text name="info2" extra="true" lang="FR">
+			<text>Action (Platformer Shooter)</text>
+		</text>		
+
+		<text name="info2" extra="true" lang="DE">
+			<text>Action (Platformer Shooter)</text>
+		</text>	
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+		
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>						
+		</text>
+					<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/auto-shooter.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/auto-shooter.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/auto-shooter.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/auto-shooter.png</path>
+		</image>
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

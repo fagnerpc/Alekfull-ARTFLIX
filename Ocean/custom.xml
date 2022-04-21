@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A Ocean Software Ltd foi uma empresa britânica de desenvolvimento de software que se tornou uma das maiores desenvolvedoras e editoras de videogames da Europa nas décadas de 1980 e 1990. Ocean desenvolveu dezenas de jogos para uma variedade de sistemas e consoles de videogame.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>A Ocean Software Ltd foi uma empresa britânica de desenvolvimento de software que se tornou uma das maiores desenvolvedoras e editoras de videogames da Europa nas décadas de 1980 e 1990. Ocean desenvolveu dezenas de jogos para uma variedade de sistemas e consoles de videogame.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Ocean Software Ltd was a British software development company that became one of the biggest European video game developers and publishers of the 1980s and 1990s. Ocean developed dozens of games for a variety of systems  and video game consoles.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Ocean Software Ltd fue una empresa británica de desarrollo de software que se convirtió en uno de los desarrolladores y editores de videojuegos más grandes de Europa en las décadas de 1980 y 1990. Ocean desarrolló docenas de juegos para una variedad de sistemas y consolas de videojuegos.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Ocean Software Ltd était une société britannique de développement de logiciels qui est devenue l'un des plus grands développeurs et éditeurs de jeux vidéo européens des années 1980 et 1990. Ocean a développé des dizaines de jeux pour une variété de systèmes et de consoles de jeux vidéo.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ocean Software Ltd war ein britisches Softwareentwicklungsunternehmen, das in den 1980er und 1990er Jahren zu einem der größten europäischen Entwickler und Herausgeber von Videospielen wurde. Ocean hat Dutzende von Spielen für eine Vielzahl von Systemen und Videospielkonsolen entwickelt.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Ocean</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>David Ward, Jon Woods</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

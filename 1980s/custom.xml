@@ -1,0 +1,56 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A década de 1980 viu o surgimento de sistemas de jogos domésticos acessíveis com computadores domésticos de empresas como Sinclair e Commadore e os primeiros lançamentos de console em grande escala dos pesos pesados ​​da Sega e Nintendo.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>A década de 1980 viu o surgimento de sistemas de jogos domésticos acessíveis com computadores domésticos de empresas como Sinclair e Commadore e os primeiros lançamentos de console em grande escala dos pesos pesados ​​da Sega e Nintendo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The 1980's saw the dawn of affordable home gaming systems with home computers from the likes of Sinclair and Commodore and the first large-scale console releases from heavyweights Sega and Nintendo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La década de 1980 vio el amanecer de los sistemas de juegos domésticos asequibles con computadoras hogareñas de la talla de Sinclair y Commadore y los primeros lanzamientos de consolas a gran escala de los pesos pesados ​​Sega y Nintendo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Les années 1980 ont vu naître des systèmes de jeu à domicile abordables avec des ordinateurs personnels tels que Sinclair et Commadore et les premières versions de consoles à grande échelle des poids lourds Sega et Nintendo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>In den 1980er Jahren begannen erschwingliche Heimspielsysteme mit Heimcomputern von Sinclair und Commodore und den ersten großen Konsolenveröffentlichungen von Schwergewichten wie Sega und Nintendo.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>1980's</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>198X</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

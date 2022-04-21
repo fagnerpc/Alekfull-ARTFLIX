@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi uma desenvolvedora de jogos eletrônicos e editora com sede em Londres no Reino Unido. Desde 2009 faz parte da Square Enix Europe. A inspiração do nome vem de Eidos, nome dado por Aristóteles ao que mais tarde viria a ser descoberto como o código genético, os blocos de construção da vida.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Foi uma desenvolvedora de jogos eletrônicos e editora com sede em Londres no Reino Unido. Desde 2009 faz parte da Square Enix Europe. A inspiração do nome vem de Eidos, nome dado por Aristóteles ao que mais tarde viria a ser descoberto como o código genético, os blocos de construção da vida.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>It was a video game developer and publisher based in London, UK. Since 2009 it has been part of Square Enix Europe. The inspiration for the name comes from Eidos, the name given by Aristotle to what would later be discovered as the genetic code, the building blocks of life.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Fue un desarrollador y editor de videojuegos con sede en Londres, Reino Unido. Desde 2009 forma parte de Square Enix Europa. La inspiración para el nombre proviene de Eidos, el nombre dado por Aristóteles a lo que luego se descubriría como el código genético, los componentes básicos de la vida.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>C'était un développeur et éditeur de jeux vidéo basé à Londres, au Royaume-Uni. Depuis 2009, il fait partie de Square Enix Europe. L'inspiration pour le nom vient d'Eidos, le nom donné par Aristote à ce qui sera découvert plus tard comme le code génétique, les éléments constitutifs de la vie.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es war ein Entwickler und Herausgeber von Videospielen mit Sitz in London, Großbritannien. Seit 2009 gehört es zu Square Enix Europe. Die Inspiration für den Namen kommt von Eidos, dem Namen, den Aristoteles dem gab, was später als der genetische Code entdeckt wurde, die Bausteine ​​des Lebens.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Eidos</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Mark Strachan</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

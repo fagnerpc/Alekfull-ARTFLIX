@@ -10,6 +10,7 @@
 		<path>./../assets/logos/$system2.png</path>
 		<pos>0.02 0.2</pos>
 		<maxSize>0.34 0.16</maxSize>
+		<linearSmooth>true</linearSmooth>
 		<zIndex>42</zIndex>
 	</image>
 	

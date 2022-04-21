@@ -1,0 +1,114 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Corrida é um gênero de jogos eletrônicos em que o jogador participa de competições de corrida com qualquer tipo de veículo terrestre, inclusive motocicletas e quadriciclos. Existem alternativas de jogos com veículos aquáticos, aéreos e até espaciais.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="PTBR">
+			<text>Corrida é um gênero de jogos eletrônicos em que o jogador participa de competições de corrida com qualquer tipo de veículo terrestre, inclusive motocicletas e quadriciclos. Existem alternativas de jogos com veículos aquáticos, aéreos e até espaciais.</text>
+		</text>		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Racing is a genre of electronic games in which the player participates in racing competitions with any type of land vehicle, including motorcycles and quads. There are game alternatives with water, air and even space vehicles.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>Es un género de juegos electrónicos en el que el jugador participa en competencias de carreras con cualquier tipo de vehículo terrestre, incluidas motocicletas y quads. Hay alternativas de juego con vehículos acuáticos, aéreos e incluso espaciales.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>La course est un genre de jeux électroniques dans lequel le joueur participe à des compétitions de course avec tout type de véhicule terrestre, y compris les motos et les quads. Il existe des alternatives de jeu avec des véhicules aquatiques, aériens et même spatiaux.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Rennen sind ein Genre elektronischer Spiele, bei denen der Spieler mit jeder Art von Landfahrzeug, einschließlich Motorrädern und Quads, an Rennwettbewerben teilnimmt. Es gibt Spielalternativen mit Wasser-, Luft- und sogar Raumfahrzeugen.</text>
+		</text>	
+
+		
+		<text name="info2" extra="true">
+			<text>Jogos de Corrida</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="PTBR">
+			<text>Jogos de Corrida</text>
+		</text>		
+		
+		<text name="info2" extra="true" lang="EN">
+			<text>Racing Games</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ES">
+			<text>Juegos de Carrera</text>
+		</text>
+
+		<text name="info2" extra="true" lang="FR">
+			<text>Course Automobile</text>
+		</text>		
+
+		<text name="info2" extra="true" lang="DE">
+			<text>Rennspiele</text>
+		</text>	
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+		
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>						
+		</text>
+					<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/auto-racedriving.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/auto-racedriving.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/auto-racedriving.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/auto-racedriving.png</path>
+		</image>
+
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Vários desenvolvedores como Tamsoft, Eighting, CAVE, Gazelle e Takumi Corporation foram formados antes e após o fechamento da Toaplan, enquanto ex-membros mais tarde se juntaram a outros estúdios como Namco, Capcom, Square Enix e Taito.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Vários desenvolvedores como Tamsoft, Eighting, CAVE, Gazelle e Takumi Corporation foram formados antes e após o fechamento da Toaplan, enquanto ex-membros mais tarde se juntaram a outros estúdios como Namco, Capcom, Square Enix e Taito.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Several developers such as Tamsoft, Eighting, CAVE, Gazelle, and Takumi Corporation were formed prior to and after the closure of Toaplan, while former members later joined to other studios such as Namco, Capcom, Square Enix and Taito.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Varios desarrolladores como Tamsoft, Eighting, CAVE, Gazelle y Takumi Corporation se formaron antes y después del cierre de Toaplan, mientras que los ex miembros se unieron más tarde a otros estudios como Namco, Capcom, Square Enix y Taito.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Plusieurs développeurs tels que Tamsoft, Eighting, CAVE, Gazelle et Takumi Corporation ont été formés avant et après la fermeture de Toaplan, tandis que d'anciens membres ont ensuite rejoint d'autres studios tels que Namco, Capcom, Square Enix et Taito.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Mehrere Entwickler wie Tamsoft, Eighting, CAVE, Gazelle und Takumi Corporation wurden vor und nach der Schließung von Toaplan gegründet, während ehemalige Mitglieder später anderen Studios wie Namco, Capcom, Square Enix und Taito beitraten.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Toaplan</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1979</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Kiyoshi Motoyoshi</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

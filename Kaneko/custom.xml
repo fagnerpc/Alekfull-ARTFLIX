@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi um estúdio japones de videogames fundado em Suginami, Tóquio, Japão, por Hiroshi Kaneko. Publicou vários jogos sob sua marca e outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Foi um estúdio japones de videogames fundado em Suginami, Tóquio, Japão, por Hiroshi Kaneko. Publicou vários jogos sob sua marca e outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Was a Japanese video game publisher founded in Suginami, Tokyo, Japan by Hiroshi Kaneko. It published a number of games both under its brand and other companies, such as Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n, and the Gals Panic series.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Fue una editorial japonesa de videojuegos fundada en Suginami, Tokio, Japón por Hiroshi Kaneko. Publicó varios juegos bajo su marca y otras compañías, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n y la serie Gals Panic.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Était un éditeur de jeux vidéo japonais fondé à Suginami, Tokyo, Japon par Hiroshi Kaneko. Il a publié un certain nombre de jeux sous sa marque et d'autres sociétés, telles que Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n et la série Gals Panic.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>War ein japanischer Videospielverlag, der von Hiroshi Kaneko in Suginami, Tokio, Japan, gegründet wurde. Es veröffentlichte eine Reihe von Spielen sowohl unter seiner Marke als auch unter anderen Unternehmen, darunter Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n und die Gals Panic-Serie.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Kaneko</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Hiroshi Kaneko</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

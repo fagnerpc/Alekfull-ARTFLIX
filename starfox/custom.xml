@@ -1,0 +1,80 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um shooter de nave espacial e uma série de videogames de ação e aventura em terceira pessoa criada pela Nintendo. Os jogos seguem uma equipe de combate de animais antropomórficos chamada Star Fox, liderada pelo protagonista-chefe Fox McCloud.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É um shooter de nave espacial e uma série de videogames de ação e aventura em terceira pessoa criada pela Nintendo. Os jogos seguem uma equipe de combate de animais antropomórficos chamada Star Fox, liderada pelo protagonista-chefe Fox McCloud.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="EN">
+			<text>Is a spaceship shooter and third person action-adventure video game series created by Nintendo. The games follow a combat team of anthropomorphic animals called Star Fox, led by chief protagonist Fox McCloud.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="ES">
+			<text>Es un shooter de naves espaciales y una serie de videojuegos de acción y aventuras en tercera persona creada por Nintendo. Los juegos siguen a un equipo de combate de animales antropomórficos llamado Star Fox, dirigido por el protagonista principal Fox McCloud.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Est une série de jeux vidéo d'action-aventure à la troisième personne créée par Nintendo. Les jeux suivent une équipe de combat d'animaux anthropomorphes appelée Star Fox, dirigée par le principal protagoniste Fox McCloud.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist eine von Nintendo entwickelte Raumschiff-Shooter- und Third-Person-Action-Adventure-Videospielserie. Die Spiele folgen einem Kampfteam aus anthropomorphen Tieren namens Star Fox, angeführt von Hauptprotagonist Fox McCloud.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Star Fox</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Shigeru Miyamoto</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

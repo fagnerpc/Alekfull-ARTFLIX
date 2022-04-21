@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma divisão da Electronic Arts que desenvolve e publica videogames esportivos. Anteriormente um truque de marketing da EA, no qual eles tentavam imitar as redes esportivas da vida real, chamando a si mesmos de "EA Sports Network" (EASN) com fotos ou endossos com comentaristas reais como John Madden.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma divisão da Electronic Arts que desenvolve e publica videogames esportivos. Anteriormente um truque de marketing da EA, no qual eles tentavam imitar as redes esportivas da vida real, chamando a si mesmos de "EA Sports Network" (EASN) com fotos ou endossos com comentaristas reais como John Madden.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a division of Electronic Arts that develops and publishes sports video games. Formerly a marketing gimmick of EA, in which they tried to imitate real-life sports networks by calling themselves the "EA Sports Network" (EASN) with pictures or endorsements with real commentators such as John Madden.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una división de Electronic Arts que desarrolla y publica videojuegos deportivos. Anteriormente, un truco de marketing de EA, en el que intentaban imitar las redes deportivas de la vida real llamándose a sí mismas "EA Sports Network" (EASN) con imágenes o patrocinios con comentaristas reales como John Madden.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Est une division d'Electronic Arts qui développe et édite des jeux vidéo de sport. Anciennement un gadget marketing d'EA, dans lequel ils essayaient d'imiter les réseaux sportifs réels en se faisant appeler "EA Sports Network" (EASN) avec des images ou des mentions avec de vrais commentateurs tels que John Madden.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Abteilung von Electronic Arts, die Sportvideospiele entwickelt und veröffentlicht. Früher ein Marketing-Gag von EA, bei dem sie versuchten, echte Sportnetzwerke zu imitieren, indem sie sich "EA Sports Network" (EASN) nannten, mit Bildern oder Empfehlungen mit echten Kommentatoren wie John Madden.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>EA Sports</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1991</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Electronic Arts</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

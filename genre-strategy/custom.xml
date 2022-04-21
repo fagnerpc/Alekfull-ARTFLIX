@@ -1,0 +1,114 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um gênero onde enfatiza habilidades de pensamento e planejamento para alcançar a vitória. Os jogos enfatizam a estratégia, tática e algumas vezes desafios lógísticos. Muitos jogos também oferecem desafios econômicos e exploração.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="PTBR">
+			<text>É um gênero onde enfatiza habilidades de pensamento e planejamento para alcançar a vitória. Os jogos enfatizam a estratégia, tática e algumas vezes desafios lógísticos. Muitos jogos também oferecem desafios econômicos e exploração.</text>
+		</text>		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>It is a genre where it emphasizes thinking and planning skills to achieve victory. Games emphasize strategy, tactics, and sometimes logistical challenges. Many games also offer economic challenges and exploration.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>Es un género donde se enfatizan las habilidades de pensamiento y planificación para lograr la victoria. Los juegos enfatizan la estrategia, las tácticas y, a veces, los desafíos logísticos. Muchos juegos también ofrecen desafíos económicos y exploración.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>C'est un genre où il met l'accent sur les capacités de réflexion et de planification pour remporter la victoire. Les jeux mettent l'accent sur la stratégie, la tactique et parfois les défis logistiques. De nombreux jeux proposent également des défis économiques et de l'exploration.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es ist ein Genre, in dem Denk- und Planungsfähigkeiten betont werden, um den Sieg zu erringen. Spiele betonen Strategie, Taktik und manchmal logistische Herausforderungen. Viele Spiele bieten auch wirtschaftliche Herausforderungen und Erkundungen.</text>
+		</text>	
+
+		
+		<text name="info2" extra="true">
+			<text>Jogos de Estratégia</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="PTBR">
+			<text>Jogos de Estratégia</text>
+		</text>		
+		
+		<text name="info2" extra="true" lang="EN">
+			<text>Strategy Games</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ES">
+			<text>Juegos de Estrategia</text>
+		</text>
+
+		<text name="info2" extra="true" lang="FR">
+			<text>Jeux de Stratégie</text>
+		</text>		
+
+		<text name="info2" extra="true" lang="DE">
+			<text>Strategiespiele</text>
+		</text>	
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+		
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>						
+		</text>
+					<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/auto-strategy.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/auto-strategy.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/auto-strategy.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/auto-strategy.png</path>
+		</image>
+
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

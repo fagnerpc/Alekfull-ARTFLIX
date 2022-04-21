@@ -1,0 +1,114 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>São jogos de mesa que normalmente usam peças - movidas ou colocadas em um tabuleiro pré-marcado (superfície de jogo) e geralmente incluem elementos de jogos de mesa, cartas, role-playing e miniaturas também.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="PTBR">
+			<text>São jogos de mesa que normalmente usam peças - movidas ou colocadas em um tabuleiro pré-marcado (superfície de jogo) e geralmente incluem elementos de jogos de mesa, cartas, role-playing e miniaturas também.</text>
+		</text>		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Board games are tabletop games that typically use pieces - moved or placed on a pre-marked board (playing surface) and often include elements of table, card, role-playing, and miniatures games as well.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>Los juegos de mesa son juegos de mesa que generalmente usan piezas, movidas o colocadas en un tablero premarcado (superficie de juego) y, a menudo, también incluyen elementos de juegos de mesa, cartas, juegos de rol y miniaturas.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>Les jeux de société sont des jeux de table qui utilisent généralement des pièces - déplacées ou placées sur un plateau pré-marqué (surface de jeu) et comprennent souvent des éléments de jeux de table, de cartes, de jeux de rôle et de figurines.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Brettspiele sind Tabletop-Spiele, die typischerweise Teile verwenden – bewegt oder auf einem vormarkierten Brett (Spielfläche) platziert werden und oft auch Elemente von Tisch-, Karten-, Rollen- und Miniaturspielen enthalten.</text>
+		</text>	
+
+		
+		<text name="info2" extra="true">
+			<text>Jogos de Tabuleiro</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="PTBR">
+			<text>Jogos de Tabuleiro</text>
+		</text>		
+		
+		<text name="info2" extra="true" lang="EN">
+			<text>Board Games</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ES">
+			<text>Juegos de Mesa</text>
+		</text>
+
+		<text name="info2" extra="true" lang="FR">
+			<text>Jeux de Société</text>
+		</text>		
+
+		<text name="info2" extra="true" lang="DE">
+			<text>Brettspiele</text>
+		</text>	
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+		
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>						
+		</text>
+					<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/auto-board.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/auto-board.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/auto-board.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/auto-board.png</path>
+		</image>
+
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Nintendo Co., Ltd. é uma empresa multinacional japonesa de eletrônicos e videogames com sede em Kyoto, Japão. A empresa foi fundada em 1889 como Nintendo Karuta pelo artesão Fusajiro Yamauchi e originalmente produzia cartas de jogar hanafuda feitas à mão.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Nintendo Co., Ltd. é uma empresa multinacional japonesa de eletrônicos e videogames com sede em Kyoto, Japão. A empresa foi fundada em 1889 como Nintendo Karuta pelo artesão Fusajiro Yamauchi e originalmente produzia cartas de jogar hanafuda feitas à mão.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Nintendo Co., Ltd. is a Japanese multinational consumer electronics and video game company headquartered in Kyoto, Japan. The company was founded in 1889 as Nintendo Karuta by craftsman Fusajiro Yamauchi and originally produced handmade hanafuda playing cards.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Nintendo Co., Ltd. es una multinacional japonesa de electrónica de consumo y videojuegos con sede en Kioto, Japón. La compañía fue fundada en 1889 como Nintendo Karuta por el artesano Fusajiro Yamauchi y originalmente produjo naipes hanafuda hechos a mano.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Nintendo Co., Ltd. est une multinationale japonaise d'électronique grand public et de jeux vidéo dont le siège est à Kyoto, au Japon. La société a été fondée en 1889 sous le nom de Nintendo Karuta par l'artisan Fusajiro Yamauchi et produisait à l'origine des cartes à jouer hanafuda faites à la main.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Nintendo Co., Ltd. ist ein japanisches multinationales Unternehmen für Unterhaltungselektronik und Videospiele mit Hauptsitz in Kyoto, Japan. Das Unternehmen wurde 1889 als Nintendo Karuta vom Handwerker Fusajiro Yamauchi gegründet und produzierte ursprünglich handgefertigte Hanafuda-Spielkarten.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Nintendo</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1889</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Fusajiro Yamauchi</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

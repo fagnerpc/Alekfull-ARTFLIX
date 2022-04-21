@@ -1,0 +1,56 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A década de 1970 viu o início da era de ouro dos jogos de arcade. As máquinas de fliperama operadas por moedas tornaram-se populares, apresentando clássicos como Pac-Man, Galaxians e Space Invaders. Também é assim a chegada dos primeiros consoles domésticos, como o Atari 2600.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>A década de 1970 viu o início da era de ouro dos jogos de arcade. As máquinas de fliperama operadas por moedas tornaram-se populares, apresentando clássicos como Pac-Man, Galaxians e Space Invaders. Também é assim a chegada dos primeiros consoles domésticos, como o Atari 2600.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The 1970's saw the start of the golden age of arcade games. Coin operated arcade machines became popular featuring classics such as Pac-Man, Galaxians and Space Invaders. It also saw the arrival of the first home consoles such as the Atari 2600.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La década de 1970 vio el comienzo de la edad de oro de los juegos de arcade. Las máquinas recreativas que funcionan con monedas se hicieron populares con clásicos como Pac-Man, Galaxians y Space Invaders. También lo es la llegada de las primeras consolas domésticas como la Atari 2600.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Les années 70 ont vu le début de l'âge d'or des jeux d'arcade. Les machines d'arcade à pièces sont devenues populaires avec des classiques tels que Pac-Man, Galaxians et Space Invaders. C'est aussi le cas de l'arrivée des premières consoles de salon comme l'Atari 2600.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>In den 1970er Jahren begann das goldene Zeitalter der Arcade-Spiele. Münzbetriebene Spielautomaten wurden mit Klassikern wie Pac-Man, Galaxians und Space Invaders populär. Es sah auch die Ankunft der ersten Heimkonsolen wie dem Atari 2600.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>1970's</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>197X</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

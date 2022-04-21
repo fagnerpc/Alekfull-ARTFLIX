@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Antes de sua aquisição pela Infogrames, a GT Interactive era conhecida por publicar jogos como o original Doom, Quake, Driver, o primeiro Unreal e adquirir desenvolvedores como Reflections Interactive e Legend Entertainment.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Antes de sua aquisição pela Infogrames, a GT Interactive era conhecida por publicar jogos como o original Doom, Quake, Driver, o primeiro Unreal e adquirir desenvolvedores como Reflections Interactive e Legend Entertainment.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Prior to its acquisition by Infogrames, GT Interactive was known for publishing games such as the original Doom, Quake, Driver, the first Unreal and acquiring developers such as Reflections Interactive and Legend Entertainment.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Antes de su adquisición por parte de Infogrames, GT Interactive era conocido por publicar juegos como el Doom original, Quake, Driver, el primer Unreal y adquirir desarrolladores como Reflections Interactive y Legend Entertainment.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Avant son acquisition par Infogrames, GT Interactive était connue pour publier des jeux tels que le premier Doom, Quake, Driver, le premier Unreal et acquérir des développeurs tels que Reflections Interactive et Legend Entertainment.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Vor seiner Übernahme durch Infogrames war GT Interactive dafür bekannt, Spiele wie das ursprüngliche Doom, Quake, Driver und das erste Unreal zu veröffentlichen und Entwickler wie Reflections Interactive und Legend Entertainment zu erwerben.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>GT Interactive</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Ron Chaimowitz</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

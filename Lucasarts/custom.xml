@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A LucasArts ficou conhecida por sua linha de jogos de aventura baseados em seu motor SCUMM na década de 1990, incluindo Maniac Mansion, a série Monkey Island e vários títulos de Indiana Jones. Vários desenvolvedores de jogos influentes foram ex-alunos da LucasArts nesse período.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>A LucasArts ficou conhecida por sua linha de jogos de aventura baseados em seu motor SCUMM na década de 1990, incluindo Maniac Mansion, a série Monkey Island e vários títulos de Indiana Jones. Vários desenvolvedores de jogos influentes foram ex-alunos da LucasArts nesse período.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>LucasArts became known for its line of adventure games based on its SCUMM engine in the 1990s, including Maniac Mansion, the Monkey Island series, and several Indiana Jones titles. A number of influential game developers were alumni of LucasArts from this period.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>LucasArts se hizo conocido por su línea de juegos de aventuras basados ​​en su motor SCUMM en la década de 1990, incluidos Maniac Mansion, la serie Monkey Island y varios títulos de Indiana Jones. Varios desarrolladores de juegos influyentes fueron alumnos de LucasArts de este período.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>LucasArts s'est fait connaître pour sa gamme de jeux d'aventure basés sur son moteur SCUMM dans les années 1990, notamment Maniac Mansion, la série Monkey Island et plusieurs titres d'Indiana Jones. Un certain nombre de développeurs de jeux influents étaient d'anciens élèves de LucasArts de cette période.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>LucasArts wurde in den 1990er Jahren für seine Reihe von Abenteuerspielen bekannt, die auf seiner SCUMM-Engine basieren, darunter Maniac Mansion, die Monkey Island-Serie und mehrere Indiana Jones-Titel. Eine Reihe einflussreicher Spieleentwickler waren Absolventen von LucasArts aus dieser Zeit.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>LucasArts</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>George Lucas</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

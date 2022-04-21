@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>é uma holding francesa de videogames com sede em Paris. Suas subsidiárias incluem Atari Interactive e Atari, Inc. É a atual proprietária da marca Atari através da Atari Interactive. Em 1992, eles lançaram Alone in the Dark, um jogo de aventura de terror em 3D, para atenção internacional.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>é uma holding francesa de videogames com sede em Paris. Suas subsidiárias incluem Atari Interactive e Atari, Inc. É a atual proprietária da marca Atari através da Atari Interactive. Em 1992, eles lançaram Alone in the Dark, um jogo de aventura de terror em 3D, para atenção internacional.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a French video game holding company headquartered in Paris. Its subsidiaries include Atari Interactive and Atari, Inc. It is the current owner of the Atari brand through Atari Interactive. In 1992, they released Alone in the Dark, a 3D horror adventure game, to international attention.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es un holding francés de videojuegos con sede en París. Sus subsidiarias incluyen Atari Interactive y Atari, Inc. Es el propietario actual de la marca Atari a través de Atari Interactive. En 1992, lanzaron Alone in the Dark, un juego de aventuras de terror en 3D, que captó la atención internacional.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="FR">
+			<text>Est une holding française de jeux vidéo dont le siège est à Paris. Ses filiales comprennent Atari Interactive et Atari, Inc. Il est l'actuel propriétaire de la marque Atari via Atari Interactive. En 1992, ils ont sorti Alone in the Dark, un jeu d'aventure d'horreur en 3D, à l'attention internationale.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist eine französische Holdinggesellschaft für Videospiele mit Hauptsitz in Paris. Zu seinen Tochtergesellschaften gehören Atari Interactive und Atari, Inc. Es ist der derzeitige Eigentümer der Marke Atari durch Atari Interactive. 1992 veröffentlichten sie Alone in the Dark, ein 3D-Horror-Abenteuerspiel, das internationale Aufmerksamkeit erregte.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Infogrames</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bruno Bonnell</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FUNDADOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

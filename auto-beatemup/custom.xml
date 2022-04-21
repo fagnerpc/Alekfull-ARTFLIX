@@ -1,0 +1,78 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Beat 'em ups (também brawlers) são jogos eletrônicos baseados na luta corpo a corpo contra múltiplas ondas de inimigos. Os jogos tradicionais tomavam forma em cenários renderizados em duas dimensões com vários planos de movimentação.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="PTBR">
+			<text>Beat 'em ups (também brawlers) são jogos eletrônicos baseados na luta corpo a corpo contra múltiplas ondas de inimigos. Os jogos tradicionais tomavam forma em cenários renderizados em duas dimensões com vários planos de movimentação.</text>
+		</text>		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Beat 'em ups (also brawlers) are electronic games based on hand-to-hand combat against multiple waves of enemies. Traditional games took shape in scenarios rendered in two dimensions with multiple planes of movement.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>Los Beat 'em ups (también luchadores) son juegos electrónicos basados ​​en el combate cuerpo a cuerpo contra múltiples oleadas de enemigos. Los juegos tradicionales tomaron forma en escenarios renderizados en dos dimensiones con múltiples planos de movimiento.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>Les beat 'em ups (également brawlers) sont des jeux électroniques basés sur le combat au corps à corps contre de multiples vagues d'ennemis. Les jeux traditionnels ont pris forme dans des scénarios rendus en deux dimensions avec de multiples plans de mouvement.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Beat 'em ups (auch Brawler) sind elektronische Spiele, die auf Nahkämpfen gegen mehrere Wellen von Feinden basieren. Traditionelle Spiele nahmen in Szenarien Gestalt an, die in zwei Dimensionen mit mehreren Bewegungsebenen gerendert wurden.</text>
+		</text>	
+
+		
+		<text name="info2" extra="true">
+			<text>Beat'em Up</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+		
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>						
+		</text>
+					<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

@@ -31,6 +31,7 @@ Cada vez que marques un juego como favorito en un sistema, lo encontrarás aquí
 Chaque fois que vous marquez un jeu comme favori dans un système, vous le trouverez ici.
 Prendre plaisir !</text>
 		</text>
+ 
 		<text name="info1" extra="true" lang="DE">
 			<text>Finden Sie alle Ihre Lieblingsspiele in einem einzigen System.
 Jedes Mal, wenn Sie ein Spiel als Favorit in einem System markieren, finden Sie es hier.
@@ -66,6 +67,10 @@ Viel Spaß!</text>
 		<text name="info4" extra="true">
 			<text></text>
 		</text>
+
+			<image name="logo" lang="PT">
+		<path>./assets/logos/auto-favorites.png</path>
+	</image>
 
 			<image name="logo" lang="EN">
 		<path>./assets/logos/auto-favorites-en.png</path>

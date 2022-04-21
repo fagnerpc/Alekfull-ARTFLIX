@@ -1,0 +1,98 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Plataforma é um gênero em que o jogador corre e pula entre plataformas e obstáculos, enfrentando inimigos e coletando objetos bônus. O gênero tem seu surgimento no início dos anos 80, sendo alguns de seus exemplares mais conhecidos: Super Mario Bros., Sonic the Hedgehog, Donkey Kong.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="PTBR">
+			<text>Plataforma é um gênero em que o jogador corre e pula entre plataformas e obstáculos, enfrentando inimigos e coletando objetos bônus. O gênero tem seu surgimento no início dos anos 80, sendo alguns de seus exemplares mais conhecidos: Super Mario Bros., Sonic the Hedgehog, Donkey Kong.</text>
+		</text>		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Platform is a genre in which the player runs and jumps between platforms and obstacles, facing enemies and collecting bonus objects. The genre has its emergence in the early 80's, with some of its best known examples: Super Mario Bros., Sonic the Hedgehog, Donkey Kong.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>Plataforma es un género en el que el jugador corre y salta entre plataformas y obstáculos, enfrentándose a enemigos y recogiendo objetos de bonificación. El género tiene su surgimiento a principios de los años 80, con algunos de sus ejemplos más conocidos: Sonic the Hedgehog, Donkey Kong.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>La plate-forme est un genre dans lequel le joueur court et saute entre les plates-formes et les obstacles, affronte des ennemis et collecte des objets bonus. Le genre a fait son apparition au début des années 80, avec quelques-uns de ses exemples les plus connus : Super Mario Bros., Donkey Kong.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Plattform ist ein Genre, in dem der Spieler zwischen Plattformen und Hindernissen hin und her rennt und springt, sich Feinden stellt und Bonusobjekte sammelt. Das Genre hat seine Entstehung in den frühen 80er Jahren mit einigen seiner bekanntesten Beispiele: Super Mario Bros., Sonic the Hedgehog.</text>
+		</text>	
+
+		
+		<text name="info2" extra="true">
+			<text>Jogos de Plataforma</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="PTBR">
+			<text>Jogos de Plataforma</text>
+		</text>		
+		
+		<text name="info2" extra="true" lang="EN">
+			<text>Action (Platformer)</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ES">
+			<text>Juegos de Plataforma</text>
+		</text>
+
+		<text name="info2" extra="true" lang="FR">
+			<text>Jeux de Plateforme</text>
+		</text>		
+
+		<text name="info2" extra="true" lang="DE">
+			<text>Plattformspiele</text>
+		</text>	
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+		
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>						
+		</text>
+					<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

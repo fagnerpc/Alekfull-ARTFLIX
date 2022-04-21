@@ -1,0 +1,56 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A Activision foi formada em outubro de 1979 em Sunnyvale, Califórnia, por ex-desenvolvedores de jogos da Atari, chateados com a forma como foram tratados na Atari, para desenvolver seus próprios jogos para o popular console de videogame doméstico Atari 2600. A Activision foi a primeira desenvolvedora de videogame independente e terceirizada.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>A Activision foi formada em outubro de 1979 em Sunnyvale, Califórnia, por ex-desenvolvedores de jogos da Atari, chateados com a forma como foram tratados na Atari, para desenvolver seus próprios jogos para o popular console de videogame doméstico Atari 2600. A Activision foi a primeira desenvolvedora de videogame independente e terceirizada.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Activision was formed in October 1979 in Sunnyvale, California, by former Atari game developers, upset at how they were treated at Atari, to develop their own games for the popular Atari 2600 home video game console. Activision was the first independent, third-party, console video game developer.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Activision se formó en octubre de 1979 en Sunnyvale, California, por antiguos desarrolladores de juegos de Atari, molestos por la forma en que fueron tratados en Atari, para desarrollar sus propios juegos para la popular consola de videojuegos doméstica Atari 2600. Activision fue el primer desarrollador de videojuegos de consola independiente de terceros.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Activision a été créée en octobre 1979 à Sunnyvale, en Californie, par d'anciens développeurs de jeux Atari, contrariés par la façon dont ils ont été traités chez Atari, pour développer leurs propres jeux pour la populaire console de jeux vidéo Atari 2600. Activision a été le premier développeur de jeux vidéo sur console indépendant et tiers.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Activision wurde in Sunnyvale, Kalifornien, von ehemaligen Atari-Spieleentwicklern gegründet, die sich darüber aufregten, wie sie bei Atari behandelt wurden, um ihre eigenen Spiele für die beliebte Heimvideospielkonsole Atari 2600 zu entwickeln. Activision war der erste unabhängige Drittanbieter von Videospielen für Konsolen.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Activision</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1979</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>David Crane</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

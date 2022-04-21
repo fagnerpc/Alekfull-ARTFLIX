@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+	<view name="splash">
+		<image name="background">
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<minSize>1 1</minSize>
+			<roundCorners>0</roundCorners>
+			<linearSmooth>true</linearSmooth>
+			<color>ffffff</color>
+			<colorEnd>404040</colorEnd>
+			<gradientType>vertical</gradientType>
+			<zIndex>1</zIndex>
+		</image>
+
+		<image name="backgroundalt" extra="true">
+	    	<path>./assets/arts/gamesplash.png</path>
+			<zIndex>5</zIndex>
+		</image>
+
+		<text name="loading" extra="true">
+			<origin>0 0.5</origin>
+			<pos>0.05 0.78</pos>
+			<alignment>left</alignment>
+			<color>dddddd</color>
+			<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<glowColor>09090920</glowColor>
+			<glowSize>1</glowSize>
+			<glowOffset>1</glowOffset>
+			<text>LOADING...</text>
+			<text lang="pt">CARREGANDO...</text>
+			<text lang="fr">CHARGEMENT...</text>
+			<text lang="es">CARGANDO...</text>
+			<text lang="de">WIRD GELADEN...</text>
+			<zIndex>8</zIndex>
+		</text>
+
+		<text name="label">
+			<origin>0 0.5</origin>
+			<pos>0.05 0.88</pos>
+			<alignment>left</alignment>
+			<color>dddddd</color>
+			<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
+			<fontSize>0.072</fontSize>
+			<glowColor>09090920</glowColor>
+			<glowSize>1</glowSize>
+			<glowOffset>1</glowOffset>
+		</text>
+
+		<splash name="splash">
+			<backgroundColor>000000FF</backgroundColor>
+		</splash>
+
+	</view>
+
+</theme>

@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma franquia de videogame de tiro em primeira pessoa publicada pela Activision. Começando em 2003, primeiro se concentrou em jogos ambientados na Segunda Guerra Mundial. Com o tempo, a série viu jogos ambientados no meio da Guerra Fria, mundos futuristas e espaço sideral.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma franquia de videogame de tiro em primeira pessoa publicada pela Activision. Começando em 2003, primeiro se concentrou em jogos ambientados na Segunda Guerra Mundial. Com o tempo, a série viu jogos ambientados no meio da Guerra Fria, mundos futuristas e espaço sideral.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una franquicia de videojuegos de disparos en primera persona publicada por Activision. A partir de 2003, se centró por primera vez en juegos ambientados en la Segunda Guerra Mundial. Con el tiempo, la serie ha visto juegos ambientados en medio de la Guerra Fría, mundos futuristas y el espacio exterior.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une franchise de jeux vidéo de tir à la première personne publiée par Activision. À partir de 2003, il s'est d'abord concentré sur les jeux se déroulant pendant la Seconde Guerre mondiale. Au fil du temps, la série a vu des jeux se dérouler au milieu de la guerre froide, des mondes futuristes et de l'espace.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein Ego-Shooter-Videospiel-Franchise, das von Activision veröffentlicht wird. Es begann im Jahr 2003 und konzentrierte sich zunächst auf Spiele, die im Zweiten Weltkrieg spielen. Im Laufe der Zeit hat die Serie Spiele gesehen, die mitten im Kalten Krieg, in futuristischen Welten und im Weltraum angesiedelt sind.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Call of Duty</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2003</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Activision</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

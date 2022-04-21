@@ -1,0 +1,114 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Aqui você encontrará todos os jogos desse estilo da sua coleção alocados em um único sistema. Os jogos inclusos aqui foram selecionados automaticamente pelo sistema, de acordo com o estilo do jogo.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="PTBR">
+			<text>Aqui você encontrará todos os jogos desse estilo da sua coleção alocados em um único sistema. Os jogos inclusos aqui foram selecionados automaticamente pelo sistema, de acordo com o estilo do jogo.</text>
+		</text>		
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Here you will find all games of this style from your collection allocated in a single system. The games included here were automatically selected by the system, according to the game style.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>Aquí encontrarás todos los juegos de este estilo de tu colección asignados en un solo sistema. Los juegos incluidos aquí fueron seleccionados automáticamente por el sistema, de acuerdo con el estilo de juego.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>Vous trouverez ici tous les jeux de ce style de votre collection répartis dans un seul système. Les jeux inclus ici ont été automatiquement sélectionnés par le système, en fonction du style de jeu.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Hier finden Sie alle Spiele dieser Stilrichtung aus Ihrer Sammlung in einem System zusammengefasst. Die hier enthaltenen Spiele wurden automatisch vom System ausgewählt, je nach Spielstil.</text>
+		</text>	
+
+		
+		<text name="info2" extra="true">
+			<text>Jogos Casuais</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="PTBR">
+			<text>Jogos Casuais</text>
+		</text>		
+		
+		<text name="info2" extra="true" lang="EN">
+			<text>Casual Games</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ES">
+			<text>Juegos Casuales</text>
+		</text>
+
+		<text name="info2" extra="true" lang="FR">
+			<text>Jeux Occasionnels</text>
+		</text>		
+
+		<text name="info2" extra="true" lang="DE">
+			<text>Gelegenheitsspiele</text>
+		</text>	
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+		
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PTBR">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>						
+		</text>
+					<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/auto-casual.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/auto-casual.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/auto-casual.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/auto-casual.png</path>
+		</image>
+
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

@@ -2,7 +2,7 @@
 ALEKFULL-ARTFLIX theme by fagnerpc
 https://facebook.com/alekfull.arcade
 
-Version: 1.11 for Batocera 5.25+, Retrobat and Emuelec 3.24+
+Version: 1.2 for Batocera 5.25+, Retrobat and Emuelec 3.24+
 https://github.com/fagnerpc/Alekfull-ARTFLIX
 Artes, codigo e conceito por fagnerpc
 Tema proibido para uso comercial
@@ -32,8 +32,8 @@ Tema proibido para uso comercial
    <include subset="syscarousel" name="Wheel">./effects/carouselwheel.xml</include>
    <include subset="syscarousel" name="Vertical">./effects/carouselvert.xml</include>
    <include subset="syscarousel" name="Without Vertical Carousel" displayName="${snocarou}">./effects/wcarousel.xml</include>
-   <include subset="sysname" name="Text">./colorsets/texttitle.xml</include>
-   <include subset="sysname" name="Logo">./colorsets/logotitle.xml</include>
+   <include subset="sysname" name="Text" displayName="${systex}">./colorsets/texttitle.xml</include>
+   <include subset="sysname" name="Logo" displayName="${syslog}">./colorsets/logotitle.xml</include>
    <include subset="sysname" name="Without" displayName="${none}">./colorsets/wtitle.xml</include>
    <include subset="shader" name="Crt Full Screen" displayName="${scrtfs}">./effects/crt.xml</include>
    <include subset="shader" name="ScanLines Full Screen" displayName="${sclfs}">./effects/scanlines.xml</include>
@@ -54,36 +54,38 @@ Tema proibido para uso comercial
 
   <variables lang="pt">
     <tilesViewName>Miniaturas</tilesViewName>
-    <tilesVideoViewName>Miniaturas + Video</tilesVideoViewName>
-    <tilesVideoMarqueeViewName>Miniaturas + Video + Logos</tilesVideoMarqueeViewName>
+    <tilesVideoViewName>Miniaturas + Vídeo</tilesVideoViewName>
+    <tilesVideoMarqueeViewName>Miniaturas + Vídeo + Logos</tilesVideoMarqueeViewName>
     <basicGridName>Caixas</basicGridName>
     <basicGridDetailsName>Caixas + Detalhes</basicGridDetailsName>
-    <basicGridVideoName>Caixas + Video</basicGridVideoName>
+    <basicGridVideoName>Caixas + Vídeo</basicGridVideoName>
     <carouselViewName>Carrossel</carouselViewName>
     <carouselDefaultViewName>Carrossel Simples</carouselDefaultViewName>
     <carouselDetailsViewName>Carrossel Detalhado</carouselDetailsViewName>
     <carouselposterViewName>Carrossel Poster</carouselposterViewName>
-    <carouselDetailssViewName>Carrossel (Imagem de Fundo + Video)</carouselDetailssViewName>
-    <hartfdefViewName>Artflix (Vista Padrao)</hartfdefViewName>
-	<hspindefViewName>HSpin (Vista Padrao)</hspindefViewName>
-    <hspinfvlViewName>HSpin (Video Tela Cheio + Logos)</hspinfvlViewName>
-    <hspinfvcViewName>HSpin (Video Tela Cheio + Capas)</hspinfvcViewName>
+    <carouselDetailssViewName>Carrossel (Imagem de Fundo + Vídeo)</carouselDetailssViewName>
+    <hartfdefViewName>Artflix (Vista Padrão)</hartfdefViewName>
+	<hspindefViewName>HSpin (Vista Padrão)</hspindefViewName>
+    <hspinfvlViewName>HSpin (Vídeo Tela Cheio + Logos)</hspinfvlViewName>
+    <hspinfvcViewName>HSpin (Vídeo Tela Cheio + Capas)</hspinfvcViewName>
     <nflixxViewName>NFlix (Estatico)</nflixxViewName>
-    <nflixvideocViewName>NFlix (Video + Capa)</nflixvideocViewName>
-    <nflixvideolViewName>NFlix (Video + Logos)</nflixvideolViewName>
+    <nflixvideocViewName>NFlix (Vídeo + Capa)</nflixvideocViewName>
+    <nflixvideolViewName>NFlix (Vídeo + Logos)</nflixvideolViewName>
 	<yes>Sim</yes>
-	<no>Nao</no>
+	<no>Não</no>
     <none>Nenhum</none>
     <sysmusic>Ligado</sysmusic>
-    <nomusic>Aleatorias</nomusic>
-    <silence>Sem Musicas de Fundo</silence>
-	<default>Padrao</default>
+	<systex>Somente Texto</systex>
+	<syslog>Somente Logo</syslog>
+    <nomusic>Aleatórias</nomusic>
+    <silence>Sem Músicas de Fundo</silence>
+	<default>Padrão</default>
 	<huegreen>Verde</huegreen>
 	<huered>Vermelho</huered>
 	<hueblue>Azul</hueblue>
 	<huepurple>Roxo</huepurple>
-	<icondef>Icones Padrao</icondef>
-	<hspinadefViewName>CoinOps Padrao</hspinadefViewName>
+	<icondef>Ícones Padrão</icondef>
+	<hspinadefViewName>CoinOps Padrão</hspinadefViewName>
 	<hcoinopsdViewName>CoinOps Detalhado</hcoinopsdViewName>
 	<copstv>Somente TV</copstv>
 	<copsarc>Somente Fliperama</copsarc>
@@ -92,27 +94,27 @@ Tema proibido para uso comercial
     <scrtfs>CRT Tela Cheia</scrtfs>
     <sclfs>Scanlines Tela Cheia</sclfs>
     <scanalt>Scanlines Alternativo</scanalt>
-    <srandvideo>Videos Aleatorios</srandvideo>
-    <srandvideol>Videos Aleatorios (Logos)</srandvideol>
-    <svwheel>Fundo Video Dinamico</svwheel>
-	<svwheell>Fundo Video Dinamico (Logos)</svwheell>
-    <srandbg>Imagens de Fundo Aleatorias de Jogos</srandbg>
-	<srandbgl>Imagens de Fundo Aleatorias de Jogos (Logos)</srandbgl>
-	<srandbbg>Imagens de Fundo Aleatorias de Fanarts</srandbbg>
-	<srandbbgl>Imagens de Fundo Aleatorias de Fanarts (Logos)</srandbbgl>
-    <svrandvid>Video de Fundo Aleatorios de Jogos</svrandvid>
-	<svrandvidl>Video de Fundo Aleatorios de Jogos (Logos)</svrandvidl>
+    <srandvideo>Vídeos Aleatórios</srandvideo>
+    <srandvideol>Vídeos Aleatórios (Logos)</srandvideol>
+    <svwheel>Fundo Vídeo Dinâmico</svwheel>
+	<svwheell>Fundo Vídeo Dinâmico (Logos)</svwheell>
+    <srandbg>Imagens de Fundo Aleatórias de Jogos</srandbg>
+	<srandbgl>Imagens de Fundo Aleatórias de Jogos (Logos)</srandbgl>
+	<srandbbg>Imagens de Fundo Aleatórias de Fanarts</srandbbg>
+	<srandbbgl>Imagens de Fundo Aleatórias de Fanarts (Logos)</srandbbgl>
+    <svrandvid>Vídeo de Fundo Aleatórios de Jogos</svrandvid>
+	<svrandvidl>Vídeo de Fundo Aleatórios de Jogos (Logos)</svrandvidl>
 	<scustimg>Imagens de Fundo Customizadas</scustimg>
 	<scustimgl>Imagens de Fundo Customizadas (Logos)</scustimgl>
 	<snocarou>Sem Carrossel Vertical</snocarou>
     <subset.systemview>Vistas de Sistemas</subset.systemview>
     <subset.colorset>Imagens de Fundo</subset.colorset>
-    <subset.iconset>Icones do Menu</subset.iconset>
+    <subset.iconset>Ícones do Menu</subset.iconset>
     <subset.shader>Shaders do Tema</subset.shader>
-	<subset.music>Musicas dos Sistemas</subset.music>
+	<subset.music>Músicas dos Sistemas</subset.music>
 	<subset.MainBGColor>Cor do Fundo Principal</subset.MainBGColor>
 	<subset.tveffect>Efeito da Tela Vista CoinOps</subset.tveffect>
-	<subset.CoinOpsDefault>Fundo Padrao Vista CoinOps</subset.CoinOpsDefault>
+	<subset.CoinOpsDefault>Fundo Padrão Vista CoinOps</subset.CoinOpsDefault>
 	<subset.syscarousel>Carrossel da Seleção de Sistemas</subset.syscarousel>
 	<subset.sysname>Nomes dos Sistemas na Seleção de Sistemas</subset.sysname>
 	<subset.ShowTopMarquee>Mostrar Marquee Superior nas Vistas CoinOps</subset.ShowTopMarquee>
@@ -142,7 +144,9 @@ Tema proibido para uso comercial
 	<no>Ne Pas</no>
     <none>Aucun</none>
     <sysmusic>Active</sysmusic>
-    <nomusic>Aleatoire</nomusic>
+	<systex>Texte uniquement</systex>
+    <syslog>Logo uniquement</syslog>
+	<nomusic>Aleatoire</nomusic>
     <silence>Sans musique de fond</silence>
 	<default>Standard</default>
 	<huegreen>Vert</huegreen>
@@ -208,6 +212,8 @@ Tema proibido para uso comercial
 	<no>No</no>
     <none>Ninguno</none>
     <sysmusic>Activado</sysmusic>
+	<systex>Solo texto</systex>
+    <syslog>Solo logotipo</syslog>
     <nomusic>Aleatoro</nomusic>
     <silence>Sin Musica de Fondo</silence>
 	<default>Estandar</default>
@@ -274,6 +280,8 @@ Tema proibido para uso comercial
         <no>Nein</no>
         <none>Keine</none>
         <sysmusic>Ein</sysmusic>
+		<systex>Nur Text</systex>
+		<syslog>Nur Logo</syslog>		
         <nomusic>Zufällig</nomusic>
         <silence>Keine Hintergrundmusik</silence>
         <default>Standard</default>
@@ -390,11 +398,7 @@ Tema proibido para uso comercial
 
   <view name="grid">
       <image name="logo">
-         <!-- try png -->
          <path>./assets/logos/${system.theme}.png</path>
-         <!-- if system2 exists, take this version -->
-         <path>./${system.theme}/art/system2.svg</path>
-         <!--<pos>0.02 0.12</pos><maxSize>0.34 0.16</maxSize>-->
          <pos>0.02 0.12</pos>
          <maxSize>0.34 0.16</maxSize>
          <origin>0 0</origin>
@@ -518,7 +522,7 @@ Tema proibido para uso comercial
 		<fontSize>0.023</fontSize>
 		<lineSpacing>1</lineSpacing>
 		<size>0.21 0.03</size>
-		<pos>0.195 0.374</pos>
+		<pos>0.205 0.374</pos>
 		<glowColor>00000016</glowColor>
 		<glowSize>1</glowSize>
 		<zIndex>42</zIndex>
@@ -643,14 +647,14 @@ Tema proibido para uso comercial
          <pos>0 0</pos>
          <size>1 1</size>
          <path>./assets/overlay1222.png</path>
-         <zIndex>6</zIndex>
+         <zIndex>7</zIndex>
       </image>
 
       <text name="md_description">
 		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
 		<color>FFFFFF</color>
 		<alignment>left</alignment>
-		<fontSize>0.023</fontSize>
+		<fontSize>0.020</fontSize>
 		<lineSpacing>1</lineSpacing>
 		<size>0.35 0.0925</size>
 		<pos>0.025 0.4</pos>
@@ -669,11 +673,7 @@ Tema proibido para uso comercial
       </video>
 
       <image name="logo">
-         <!-- try png -->
          <path>./assets/logos/${system.theme}.png</path>
-         <!-- if system2 exists, take this version -->
-         <path>./${system.theme}/art/system2.svg</path>
-         <!--<pos>0.266 0.074</pos><maxSize>0.460 0.126</maxSize>-->
          <pos>0.152 0.74</pos>
          <maxSize>0.4 0.126</maxSize>
          <origin>0 0</origin>
@@ -770,7 +770,7 @@ Tema proibido para uso comercial
          <pos>0 0</pos>
          <size>1 1</size>
          <path>./assets/filter5.png</path>
-         <zIndex>6</zIndex>
+         <zIndex>7</zIndex>
       </image>
       <text name="md_description">
          <pos>0.025 0.36</pos>
@@ -792,11 +792,7 @@ Tema proibido para uso comercial
       </video>
 
       <image name="logo">
-         <!-- try png -->
          <path>./assets/logos/${system.theme}.png</path>
-         <!-- if system2 exists, take this version -->
-         <path>./${system.theme}/art/system2.svg</path>
-         <!--<pos>0.266 0.074</pos><maxSize>0.460 0.126</maxSize>-->
          <pos>0.152 0.74</pos>
          <maxSize>0.4 0.126</maxSize>
          <origin>0 0</origin>
@@ -830,7 +826,8 @@ Tema proibido para uso comercial
 
       <text name="md_publisher">
          <color>ffffff00</color>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>         <pos>0.42 0.63</pos>
+         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
+         <pos>0.42 0.63</pos>
       </text>
    </customView>
 
@@ -894,7 +891,7 @@ Tema proibido para uso comercial
          <pos>0 0</pos>
          <size>1 1</size>
          <path>./assets/filter4.png</path>
-         <zIndex>6</zIndex>
+         <zIndex>7</zIndex>
       </image>
       <text name="md_description">
          <pos>0.025 0.36</pos>
@@ -939,7 +936,8 @@ Tema proibido para uso comercial
 
       <text name="md_publisher">
          <color>ffffff00</color>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>         <pos>0.42 0.63</pos>
+         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
+         <pos>0.42 0.63</pos>
       </text>
    </customView>
 
@@ -995,7 +993,7 @@ Tema proibido para uso comercial
          <pos>0 0</pos>
          <size>1 1</size>
          <path>./assets/filter4.png</path>
-         <zIndex>6</zIndex>
+         <zIndex>7</zIndex>
       </image>
       <text name="md_description">
          <pos>0.025 0.36</pos>
@@ -1028,7 +1026,8 @@ Tema proibido para uso comercial
 
       <text name="md_developer, md_publisher">
          <color>ffffff00</color>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>         <pos>2 0</pos>
+         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
+         <pos>2 0</pos>
       </text>
    </customView>
 
@@ -1119,7 +1118,7 @@ Tema proibido para uso comercial
 	   <image name="md_fanart">
          <origin>0 0</origin>
          <size>1 1</size>
-         <pos>0.15 0</pos>
+         <pos>0.45 0</pos>
          <zIndex>5</zIndex>
       </image>
 
@@ -1205,7 +1204,7 @@ Tema proibido para uso comercial
       </text>
       <text name="md_players">
          <pos>0.65 0.895</pos>
-         <size>0.15 0.018</size>
+         <size>0.038 0.023</size>
          <color>dddddd</color>
 		 <fontSize>0.033</fontSize>
          <glowColor>00000040</glowColor>
@@ -1384,7 +1383,7 @@ Tema proibido para uso comercial
 	   <image name="md_fanart">
          <origin>0 0</origin>
          <size>0.9 0.9</size>
-         <pos>0.38 0</pos>
+         <pos>0.45 0</pos>
          <zIndex>5</zIndex>
 		 <linearSmooth>true</linearSmooth>
       </image>
