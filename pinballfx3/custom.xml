@@ -1,0 +1,52 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Pinball FX3 é o maior e mais comunitário jogo de pinball de sempre. As competições multijogadores, os torneios criados pelos utilizadores e os jogos da liga proporcionam inúmeras oportunidades de enfrentares outros jogadores.</text>
+        </text>
+        <text name="info1" extra="true" lang="PTBR">
+            <text>Pinball FX3 é o maior e mais comunitário jogo de pinball de sempre. As competições multijogadores, os torneios criados pelos utilizadores e os jogos da liga proporcionam inúmeras oportunidades de enfrentares outros jogadores.</text>
+        </text>
+        <text name="info1" extra="true" lang="EN">
+            <text>Pinball FX3 is the BIGGEST, most COMMUNITY-focused pinball game ever created. Advanced multiplayer features including matchups, user-generated tournaments and league play create endless opportunity for pinball competition.</text>
+        </text>
+        <text name="info1" extra="true" lang="ES">
+            <text>Pinball FX3 es el juego de pinball más GRANDE y centrado en la COMUNIDAD que existe. Las características multijugador avanzadas (emparejamientos, torneos generados por usuarios y ligas) crean opciones infinitas para la competición.</text>
+        </text>
+        <text name="info1" extra="true" lang="FR">
+            <text>Pinball FX3 est le jeu de flipper le plus COMMUNAUTAIRE jamais créé. Les options multijoueur avancées incluent des duels, des tournois proposés par les joueurs et des parties de ligue, pour des heures infinies de jeu compétitif.</text>
+        </text>
+        <text name="info1" extra="true" lang="DE">
+            <text>Pinball FX3 ist das GRÖSSTE auf die COMMUNITY fokussierte Flipperspiel, das es ja gab. Fortgeschrittene Multiplayer-Funktionen wie Matchups, vom Benutzer erstellte Turniere und Ligaspiel sorgen für endlose Möglichkeiten im Flipperwettbewerb.</text>
+        </text>
+
+        <text name="info2" extra="true">
+            <text>PinballFX3</text>
+        </text>
+
+        <text name="info3" extra="true">
+            <text>1980</text>
+        </text>
+
+        <text name="info4" extra="true">
+            <text>Zen Studios</text>
+        </text>
+    </view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>
