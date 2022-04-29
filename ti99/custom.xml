@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O TI-99/4 e o TI-99/4A foram computadores domésticos lançados pela Texas Instruments em 1979 e 1981, respectivamente. Baseado no microprocessador Texas Instruments TMS9900 originalmente usado em minicomputadores, o TI-99/4 foi o primeiro computador doméstico de 16 bits.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>O TI-99/4 e o TI-99/4A foram computadores domésticos lançados pela Texas Instruments em 1979 e 1981, respectivamente. Baseado no microprocessador Texas Instruments TMS9900 originalmente usado em minicomputadores, o TI-99/4 foi o primeiro computador doméstico de 16 bits.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The TI-99/4 and TI-99/4A were home computers released by Texas Instruments in 1979 and 1981, respectively. Based on the Texas Instruments TMS9900 microprocessor originally used in minicomputers, the TI-99/4 was the first 16-bit home computer.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La TI-99/4 y la TI-99/4A fueron computadoras domésticas lanzadas por Texas Instruments en 1979 y 1981, respectivamente. Basado en el microprocesador Texas Instruments TMS9900 utilizado originalmente en minicomputadoras, la TI-99/4 fue la primera computadora doméstica de 16 bits.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Les TI-99/4 et TI-99/4A étaient des ordinateurs personnels commercialisés par Texas Instruments en 1979 et 1981, respectivement. Basé sur le microprocesseur Texas Instruments TMS9900 utilisé à l'origine dans les mini-ordinateurs, le TI-99/4 a été le premier ordinateur domestique 16 bits.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Der TI-99/4 und der TI-99/4A waren Heimcomputer, die 1979 bzw. 1981 von Texas Instruments herausgebracht wurden. Basierend auf dem Mikroprozessor TMS9900 von Texas Instruments, der ursprünglich in Minicomputern verwendet wurde, war der TI-99/4 der erste 16-Bit-Heimcomputer.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>TI-99/4A</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Texas Instruments</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

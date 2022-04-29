@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>DevilutionX é uma porta de origem do Diablo e Hellfire que se esforça para simplificar a execução do jogo, enquanto fornece melhorias no motor, correções de bugs e alguns recursos opcionais de qualidade de vida.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>DevilutionX é uma porta de origem do Diablo e Hellfire que se esforça para simplificar a execução do jogo, enquanto fornece melhorias no motor, correções de bugs e alguns recursos opcionais de qualidade de vida.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>DevilutionX is a source port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bug fixes, and some optional quality of life features.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>DevilutionX es un puerto de origen de Diablo y Hellfire que se esfuerza por simplificar la ejecución del juego al tiempo que proporciona mejoras en el motor, corrección de errores y algunas características opcionales de calidad de vida.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>DevilutionX est un port source de Diablo et Hellfire qui s'efforce de simplifier l'exécution du jeu tout en offrant des améliorations du moteur, des corrections de bugs et certaines fonctionnalités optionnelles de qualité de vie.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>DevilutionX</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>DevilutionX Team</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

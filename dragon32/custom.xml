@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Dragon 32 foi um computador doméstico produzido na década de 1980. O Dragon 32 era muito similar ao TRS-80 Color Computer (CoCo) da Tandy e foi criado especialmente para o mercado europeu pela Mettoy/Dragon Data Ltda., estabelecida em Port Talbot, País de Gales.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>O Dragon 32 foi um computador doméstico produzido na década de 1980. O Dragon 32 era muito similar ao TRS-80 Color Computer (CoCo) da Tandy e foi criado especialmente para o mercado europeu pela Mettoy/Dragon Data Ltda., estabelecida em Port Talbot, País de Gales.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The Dragon 32 was a home computer produced in the 1980s. The Dragon 32 was very similar to Tandy's TRS-80 Color Computer (CoCo) and was created especially for the European market by Mettoy/Dragon Data Ltd., based in Port Talbot. , Wales.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>El Dragon 32 fue un ordenador doméstico producido en la década de 1980. El Dragon 32 era muy similar al TRS-80 Color Computer (CoCo) de Tandy y fue creado especialmente para el mercado europeo por Mettoy/Dragon Data Ltd., con sede en Port Talbot. , Gales.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Le Dragon 32 était un ordinateur domestique produit dans les années 1980. Le Dragon 32 était très similaire à l'ordinateur couleur TRS-80 (CoCo) de Tandy et a été créé spécialement pour le marché européen par Mettoy/Dragon Data Ltd., basé à Port Talbot. Pays de Galles.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Der Dragon 32 war ein in den 1980er Jahren hergestellter Heimcomputer, der dem TRS-80 Color Computer (CoCo) von Tandy sehr ähnlich war und speziell für den europäischen Markt von Mettoy/Dragon Data Ltd. mit Sitz in Port Talbot entwickelt wurde. Wales.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Dragon 32</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Dragon Data</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

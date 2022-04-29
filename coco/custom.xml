@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Também chamado Tandy Color Computer (ou tão somente CoCo) foi um computador doméstico, lançado em 1980. O objetivo inicial deste projeto, denominado "Green Thumb", era produzir um terminal de videotexto de baixo custo para ser usado por pessoas ligadas ao campo.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Também chamado Tandy Color Computer (ou tão somente CoCo) foi um computador doméstico, lançado em 1980. O objetivo inicial deste projeto, denominado "Green Thumb", era produzir um terminal de videotexto de baixo custo para ser usado por pessoas ligadas ao campo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>RadioShack's TRS-80 Color Computer was a home computer, launched in 1980. The initial objective of this project, called "Green Thumb", was to produce a low-cost videotext terminal for be used by people connected to the field.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La computadora a color TRS-80 de RadioShack fue una computadora doméstica, lanzada en 1980. El objetivo inicial de este proyecto, llamado "Green Thumb", era producir un terminal de videotexto de bajo costo para ser utilizado por personas vinculadas al campo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>L'ordinateur couleur TRS-80 de RadioShack était un ordinateur domestique, lancé en 1980. L'objectif initial de ce projet, appelé "Green Thumb", était de produire un terminal vidéotexte à faible coût à utiliser par des personnes liées au terrain.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Der TRS-80-Farbcomputer von RadioShack war ein Heimcomputer, der 1980 auf den Markt kam. Das ursprüngliche Ziel dieses Projekts mit dem Namen "Green Thumb" war die Herstellung eines kostengünstigen Videotext-Terminals zur Verwendung von Leuten, die mit dem Feld verbunden sind.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>TRS-80</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tandy Corporation</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

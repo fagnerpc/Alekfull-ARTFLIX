@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Casio PV-1000 é um console de videogame doméstico de terceira geração fabricado pela Casio e lançado no Japão em 1983. Foi descontinuado menos de um ano após o lançamento. A Casio não conseguiu alcançar uma participação de mercado significativa.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Casio PV-1000 é um console de videogame doméstico de terceira geração fabricado pela Casio e lançado no Japão em 1983. Foi descontinuado menos de um ano após o lançamento. A Casio não conseguiu alcançar uma participação de mercado significativa.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Casio PV-1000 is a third-generation home video game console manufactured by Casio and released in Japan in 1983. It was discontinued less than a year after release. Casio failed to achieve a significant market share.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Casio PV-1000 es una consola de videojuegos doméstica de tercera generación fabricada por Casio y lanzada en Japón en 1983. Se suspendió menos de un año después del lanzamiento. Casio no logró una participación de mercado significativa.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Casio PV-1000 est une console de jeu vidéo domestique de troisième génération fabriquée par Casio et sortie au Japon en 1983. Elle a été abandonnée moins d'un an après sa sortie. Casio n'a pas réussi à obtenir une part de marché significative.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Casio PV-1000 ist eine Heimvideospielkonsole der dritten Generation, die von Casio hergestellt und 1983 in Japan veröffentlicht wurde. Sie wurde weniger als ein Jahr nach der Veröffentlichung eingestellt. Casio gelang es nicht, einen nennenswerten Marktanteil zu erreichen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>PV-1000</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Casio</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

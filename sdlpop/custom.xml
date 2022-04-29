@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>SDLPoP é uma port de código aberto do Prince of Persia que roda nativamente em Windows e Linux. É baseado em uma desmontagem da versão DOS e usa SDL.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>SDLPoP é uma port de código aberto do Prince of Persia que roda nativamente em Windows e Linux. É baseado em uma desmontagem da versão DOS e usa SDL.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>SDLPoP is an open-source port of Prince of Persia that runs natively on Windows and Linux. It is based on a disassembly of the DOS version, and uses SDL.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>SDLPoP es un puerto de código abierto de Prince of Persia que se ejecuta de forma nativa en Windows y Linux. Se basa en un desmontaje de la versión DOS y utiliza SDL.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>SDLPoP est un port open-source de Prince of Persia qui s'exécute nativement sur Windows et Linux. Il est basé sur un désassemblage de la version DOS, et utilise SDL.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>SDLPoP ist eine Open-Source-Portierung von Prince of Persia, die nativ auf Windows und Linux läuft. Es basiert auf einer Disassemblierung der DOS-Version und verwendet SDL.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>SDLPoP</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NagyD</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

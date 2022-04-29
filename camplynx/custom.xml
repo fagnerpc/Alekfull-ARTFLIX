@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Era um computador doméstico britânico de 8 bits que foi lançado pela primeira vez no início de 1983 como um modelo de 48 kB. Vários modelos estavam disponíveis com 48 kB, 96 kB ou 128 kB de RAM. John Shireff projetou o hardware e Davis Jansons o firmware.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Era um computador doméstico britânico de 8 bits que foi lançado pela primeira vez no início de 1983 como um modelo de 48 kB. Vários modelos estavam disponíveis com 48 kB, 96 kB ou 128 kB de RAM. John Shireff projetou o hardware e Davis Jansons o firmware.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Was an 8-bit British home computer that was first released in early 1983 as a 48 kB model. Several models were available with 48 kB, 96 kB or 128 kB RAM. John Shireff designed the hardware and Davis Jansons the firmware.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Fue una computadora doméstica británica de 8 bits que se lanzó por primera vez a principios de 1983 como un modelo de 48 kB. Varios modelos estaban disponibles con 48 kB, 96 kB o 128 kB de RAM. John Shireff diseñó el hardware y Davis Jansons el firmware.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Était un ordinateur domestique britannique 8 bits qui a été lancé pour la première fois au début de 1983 en tant que modèle de 48 ko. Plusieurs modèles étaient disponibles avec 48 ko, 96 ko ou 128 ko de RAM. John Shireff a conçu le matériel et Davis Jansons le firmware.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>War ein britischer 8-Bit-Heimcomputer, der erstmals Anfang 1983 als 48-kB-Modell veröffentlicht wurde. Mehrere Modelle waren mit 48 kB, 96 kB oder 128 kB RAM erhältlich. John Shireff entwarf die Hardware und Davis Jansons die Firmware.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Camputers Lynx</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Camputers</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi um computador doméstico, uma tentativa da Coleco de aproveitar o sucesso do vídeo-game ColecoVision. O Adam (cujo nome, representava a esperança da Coleco em "morder" uma fatia do mercado da Apple) não foi bem sucedido, em parte por causa de problemas no início de sua produção.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Foi um computador doméstico, uma tentativa da Coleco de aproveitar o sucesso do vídeo-game ColecoVision. O Adam (cujo nome, representava a esperança da Coleco em "morder" uma fatia do mercado da Apple) não foi bem sucedido, em parte por causa de problemas no início de sua produção.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>It was a home computer, an attempt by Coleco to capitalize on the success of the ColecoVision video game. The Adam (whose name, representing Coleco's hope to "bite" a share of Apple's market) was not successful, in part because of problems early in its production.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Era una computadora doméstica, un intento de Coleco de capitalizar el éxito del videojuego ColecoVision. El Adam (cuyo nombre, que representa la esperanza de Coleco de "morder" una parte del mercado de Apple) no tuvo éxito, en parte debido a problemas al principio de su producción.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>C'était un ordinateur personnel, une tentative de Coleco de capitaliser sur le succès du jeu vidéo ColecoVision. L'Adam (dont le nom, représentant l'espoir de Coleco de "mordre" une part du marché d'Apple) n'a pas réussi, en partie à cause de problèmes au début de sa production.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Es war ein Heimcomputer, ein Versuch von Coleco, aus dem Erfolg des ColecoVision-Videospiels Kapital zu schlagen. Der Adam war nicht erfolgreich, teilweise aufgrund von Problemen zu Beginn seiner Produktion.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Coleco Adam</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Coleco</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de videogame doméstico educacional de sexta geração fabricado e lançado pela VTech. Os títulos estão disponíveis em cartuchos ROM chamados "Smartridges", para reproduzir a natureza educacional do sistema.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É um console de videogame doméstico educacional de sexta geração fabricado e lançado pela VTech. Os títulos estão disponíveis em cartuchos ROM chamados "Smartridges", para reproduzir a natureza educacional do sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a sixth-generation educational home video game console manufactured and released by VTech. Titles are available on ROM cartridges called "Smartridges", to play off the system's educational nature.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una consola de videojuegos doméstica educativa de sexta generación fabricada y lanzada por VTech. Los títulos están disponibles en cartuchos ROM llamados "Smartridges", para aprovechar la naturaleza educativa del sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une console de jeu vidéo domestique éducative de sixième génération fabriquée et commercialisée par VTech. Les titres sont disponibles sur des cartouches ROM appelées "Smartridges", pour jouer sur la nature éducative du système.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine von VTech hergestellte und veröffentlichte Heimvideospielkonsole der sechsten Generation. Titel sind auf ROM-Kassetten namens "Smartridges" verfügbar, um den pädagogischen Charakter des Systems auszuspielen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>V.Smile</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>VTech</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

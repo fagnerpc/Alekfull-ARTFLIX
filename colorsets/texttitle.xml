@@ -16,6 +16,12 @@
 		<glowSize>1</glowSize>
 		<zIndex>42</zIndex>
       </text>
+	  
+	 <image name="sublogo" extra="true">
+		<zIndex>0</zIndex>
+		<pos>2 2</pos>
+	</image>
+	  
    </view>
 
 </theme>

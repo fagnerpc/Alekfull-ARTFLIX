@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Originalmente vendido no Japão como Pyūta (ぴゅう太) e no Reino Unido como Grandstand Tutor, é um computador doméstico produzido pelo fabricante de brinquedos japonês Tomy. Era arquitetonicamente semelhante, mas não idêntico, ao Texas Instruments TI-99/4A.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Originalmente vendido no Japão como Pyūta (ぴゅう太) e no Reino Unido como Grandstand Tutor, é um computador doméstico produzido pelo fabricante de brinquedos japonês Tomy. Era arquitetonicamente semelhante, mas não idêntico, ao Texas Instruments TI-99/4A.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Originally sold in Japan as the Pyūta (ぴゅう太) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99/4A.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Vendido originalmente en Japón como Pyūta (ぴゅう太) y en el Reino Unido como Grandstand Tutor, es un ordenador doméstico producido por el fabricante de juguetes japonés Tomy. Era arquitectónicamente similar, pero no idéntico, al Texas Instruments TI-99/4A.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Vendu à l'origine au Japon sous le nom de Pyūta (ぴ ゅ う 太) et au Royaume-Uni sous le nom de Grandstand Tutor , est un ordinateur domestique produit par le fabricant de jouets japonais Tomy . Il était architecturalement similaire, mais pas identique, au Texas Instruments TI-99 / 4A.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ursprünglich in Japan als Pyūta (ぴゅう太) und in Großbritannien als Grandstand Tutor verkauft, ist ein Heimcomputer des japanischen Spielzeugherstellers Tomy. Es war architektonisch ähnlich, aber nicht identisch mit dem Texas Instruments TI-99/4A.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Tomy Tutor</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tomy, Matsushita</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

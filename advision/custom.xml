@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi um console de videogame lançado pela Entex Industries. O monitor, os controles do jogo e o hardware do computador são todos contidos em uma única unidade portátil. O monitor LED pode exibir apenas pixels vermelhos.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Foi um console de videogame lançado pela Entex Industries. O monitor, os controles do jogo e o hardware do computador são todos contidos em uma única unidade portátil. O monitor LED pode exibir apenas pixels vermelhos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>It was a video game console released by Entex Industries. The monitor, game controls and computer hardware are all contained in a single handheld unit. The LED monitor can only display red pixels.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Era una consola de videojuegos lanzada por Entex Industries. El monitor, los controles del juego y el hardware de la computadora están todos contenidos en una sola unidad portátil. El monitor LED solo puede mostrar píxeles rojos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>C'était une console de jeux vidéo publiée par Entex Industries. Le moniteur, les commandes de jeu et le matériel informatique sont tous contenus dans une seule unité portable. Le moniteur LED ne peut afficher que des pixels rouges.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Es war eine Videospielkonsole, die von Entex Industries veröffentlicht wurde. Der Monitor, die Spielsteuerung und die Computerhardware sind alle in einer einzigen tragbaren Einheit enthalten. Der LED-Monitor kann nur rote Pixel darstellen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Adventure Vision</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Entex Industries</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

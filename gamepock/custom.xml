@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Também é conhecido como Pokekon e foi um dos poucos sistemas verdadeiramente portáteis a serem lançados no início dos anos 80, precedendo o Game Boy em 5 anos. O sistema foi um fracasso no Japão e, como resultado, apenas 5 jogos foram feitos para ele.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Também é conhecido como Pokekon e foi um dos poucos sistemas verdadeiramente portáteis a serem lançados no início dos anos 80, precedendo o Game Boy em 5 anos. O sistema foi um fracasso no Japão e, como resultado, apenas 5 jogos foram feitos para ele.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>It is also known as Pokekon and was one of the very few truly handheld systems to be released in the early 1980s, preceding the Game Boy by 5 years. The system was a bust in Japan, and as a result, only 5 games were made for it.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>También se conoce como Pokekon y fue uno de los pocos sistemas verdaderamente portátiles que se lanzó a principios de la década de 1980, precediendo a Game Boy por 5 años. El sistema fue un fracaso en Japón y, como resultado, solo se crearon 5 juegos para él.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Il est également connu sous le nom de Pokekon et était l'un des très rares systèmes véritablement portables à être sorti au début des années 1980, précédant le Game Boy de 5 ans. Le système a fait faillite au Japon et, par conséquent, seuls 5 jeux ont été conçus pour lui.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Es ist auch als Pokekon bekannt und war eines der wenigen echten Handheld-Systeme, das in den frühen 1980er Jahren veröffentlicht wurde, fünf Jahre vor dem Game Boy. Das System war in Japan ein Reinfall, und als Ergebnis wurden nur 5 Spiele dafür gemacht.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Game Pocket Computer</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Epoch Co.</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

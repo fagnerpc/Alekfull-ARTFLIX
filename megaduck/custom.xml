@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Também conhecido como Cougar Boy, é um console de videogame portátil desenvolvido e fabricado pela Welbeck Holdings, com sede em Hong Kong, por meio de sua divisão Timlex International. Foi comercializado sob várias marcas diferentes em todo o mundo.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Também conhecido como Cougar Boy, é um console de videogame portátil desenvolvido e fabricado pela Welbeck Holdings, com sede em Hong Kong, por meio de sua divisão Timlex International. Foi comercializado sob várias marcas diferentes em todo o mundo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Also known as Cougar Boy, is a handheld game console that was developed and manufactured by Hong Kong-based Welbeck Holdings through its Timlex International division, and released in 1993. It was marketed under various different brands worldwide.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>También conocida como Cougar Boy, es una consola de juegos portátil que fue desarrollada y fabricada por Welbeck Holdings, con sede en Hong Kong, a través de su división Timlex International. Se comercializó bajo varias marcas diferentes en todo el mundo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Également connue sous le nom de Cougar Boy, est une console de jeu portable qui a été développée et fabriquée par Welbeck Holdings, basée à Hong Kong, via sa division Timlex International. Il était commercialisé sous différentes marques dans le monde.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Auch bekannt als Cougar Boy, ist eine tragbare Spielkonsole, die von der in Hongkong ansässigen Welbeck Holdings über ihre Timlex International-Abteilung entwickelt und hergestellt wurde. Es wurde weltweit unter verschiedenen Marken vertrieben.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Mega Duck</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Welbeck Holdings</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

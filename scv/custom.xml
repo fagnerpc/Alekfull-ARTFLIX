@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um videogame feito pela Epoch Co. e lançado no Japão em 17 de julho de 1984, e na Europa no final de 1984. Um sucessor do Cassette Vision, ele competia com o Family Computer da Nintendo e o SG-1000 da Sega linha no Japão.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É um videogame feito pela Epoch Co. e lançado no Japão em 17 de julho de 1984, e na Europa no final de 1984. Um sucessor do Cassette Vision, ele competia com o Family Computer da Nintendo e o SG-1000 da Sega linha no Japão.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a home video game console made by Epoch Co. and released in Japan on July 17, 1984, and in Europe, specifically France, later in 1984. A successor to the Cassette Vision, it competed with Nintendo's Family Computer and Sega's SG-1000 line in Japan.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>es una videoconsola doméstica fabricada por Epoch Co. y lanzada en Japón el 17 de julio de 1984 y en Europa, específicamente Francia, más tarde en 1984. Sucesora de Cassette Vision, compitió con Family Computer de Nintendo y SG-1000 de Sega. línea en Japón.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une console de jeu vidéo domestique fabriquée par Epoch Co. et sortie au Japon le 17 juillet 1984, et en Europe, plus précisément en France, plus tard en 1984. Successeur de la Cassette Vision, elle a concurrencé le Family Computer de Nintendo et le SG-1000 de Sega ligne au Japon.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine von Epoch Co. hergestellte Heimvideospielkonsole, die am 17. Juli 1984 in Japan und später im Jahr 1984 in Europa, insbesondere Frankreich, veröffentlicht wurde. Als Nachfolger der Cassette Vision konkurrierte sie mit Nintendos Family Computer und Segas SG-1000 Linie in Japan.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Super Cassette Vision</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Epoch Co.</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É considerado melhor do que o console dominante na época, o Atari 2600, mas perdeu sua posição com o advento do Atari 5200 e o ColecoVision. O sistema de jogos era composto por 51 jogos únicos e 10 variações.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É considerado melhor do que o console dominante na época, o Atari 2600, mas perdeu sua posição com o advento do Atari 5200 e o ColecoVision. O sistema de jogos era composto por 51 jogos únicos e 10 variações.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>It is considered better than the dominant console at the time, the Atari 2600, but it lost its position with the advent of the Atari 5200 and ColecoVision. The game system consisted of 51 unique games and 10 variations.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Se considera mejor que la consola dominante en ese momento, la Atari 2600, pero perdió su posición con la llegada de la Atari 5200 y ColecoVision. El sistema de juego constaba de 51 juegos únicos y 10 variaciones.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Elle est considérée comme meilleure que la console dominante à l'époque, l'Atari 2600, mais elle a perdu sa place avec l'avènement de l'Atari 5200 et de ColecoVision. Le système de jeu se composait de 51 jeux uniques et de 10 variantes.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Sie gilt als besser als die damals dominierende Konsole Atari 2600, verlor aber mit dem Aufkommen von Atari 5200 und ColecoVision ihre Position. Das Spielsystem bestand aus 51 einzigartigen Spielen und 10 Variationen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>APF-MP1000</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Emerson Radio Corp</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

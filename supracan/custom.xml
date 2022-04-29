@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de videogame doméstico lançado exclusivamente em Taiwan em 1995 pela Funtech/Dunhuang Technology. Ele é baseado no microchip Motorola 68000, que também é usado no Sega Genesis e no Neo Geo.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É um console de videogame doméstico lançado exclusivamente em Taiwan em 1995 pela Funtech/Dunhuang Technology. Ele é baseado no microchip Motorola 68000, que também é usado no Sega Genesis e no Neo Geo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology. It is based around the Motorola 68000 microchip, which is also used in the Sega Genesis and Neo Geo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una consola de videojuegos para el hogar lanzada exclusivamente en Taiwán en 1995 por Funtech/Dunhuang Technology. Se basa en el microchip Motorola 68000, que también se utiliza en Sega Genesis y Neo Geo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une console de jeu vidéo domestique sortie exclusivement à Taïwan en 1995 par Funtech/Dunhuang Technology. Il est basé sur la puce Motorola 68000, qui est également utilisée dans Sega Genesis et Neo Geo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Heimvideospielkonsole, die 1995 von Funtech/Dunhuang Technology exklusiv in Taiwan herausgebracht wurde. Es basiert auf dem Mikrochip Motorola 68000, der auch im Sega Genesis und Neo Geo verwendet wird.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Super A'Can</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Funtech</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

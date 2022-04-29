@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O desenvolvimento do sistema começou em 1976 e um protótipo foi demonstrado na Consumer Electronics Show de janeiro de 1977. Uma série de problemas atrasou as versões de produção até dezembro de 1977, quando o TRS-80 e o Apple II já haviam iniciado as entregas.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>O desenvolvimento do sistema começou em 1976 e um protótipo foi demonstrado na Consumer Electronics Show de janeiro de 1977. Uma série de problemas atrasou as versões de produção até dezembro de 1977, quando o TRS-80 e o Apple II já haviam iniciado as entregas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Development of the system began in 1976 and a prototype was demonstrated at the January 1977 Consumer Electronics Show. A series of problems delayed production versions until December 1977, by which time the TRS-80 and Apple II had already begun deliveries.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>El desarrollo del sistema comenzó en 1976 y se demostró un prototipo en el Consumer Electronics Show de enero de 1977. Una serie de problemas retrasó las versiones de producción hasta diciembre de 1977, momento en el que el TRS-80 y el Apple II ya habían comenzado las entregas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Le développement du système a commencé en 1976 et un prototype a été présenté au Consumer Electronics Show de janvier 1977. Une série de problèmes a retardé les versions de production jusqu'en décembre 1977, date à laquelle le TRS-80 et l'Apple II avaient déjà commencé les livraisons.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Die Entwicklung des Systems begann 1976 und ein Prototyp wurde auf der Consumer Electronics Show im Januar 1977 vorgeführt. Eine Reihe von Problemen verzögerte die Produktionsversionen bis Dezember 1977, als der TRS-80 und der Apple II bereits mit der Auslieferung begonnen hatten.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Commodore PET</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1977</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

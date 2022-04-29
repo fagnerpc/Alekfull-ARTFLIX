@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um periférico que permite jogar cartuchos de Game Boy em um console Super Nintendo Entertainment System. É compatível com os mesmos cartuchos do Game Boy original: a GB Camera, e cartuchos GBC dual-mode.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É um periférico que permite jogar cartuchos de Game Boy em um console Super Nintendo Entertainment System. É compatível com os mesmos cartuchos do Game Boy original: a GB Camera, e cartuchos GBC dual-mode.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console. Is compatible with the same cartridges as the original Game Boy: the GB Camera, and dual-mode GBC cartridges.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es un periférico que permite reproducir cartuchos de Game Boy en una consola Super Nintendo Entertainment System. Es compatible con los mismos cartuchos que la Game Boy original: la cámara GB y los cartuchos GBC de modo dual.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un périphérique qui permet de jouer aux cartouches Game Boy sur une console Super Nintendo Entertainment System. Est compatible avec les mêmes cartouches que la Game Boy d'origine : la caméra GB et les cartouches GBC bi-mode.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein Peripheriegerät, mit dem Game Boy-Cartridges auf einer SNES System-Konsole abgespielt werden können. Ist mit den gleichen Cartridges wie der ursprüngliche Game Boy kompatibel: die GB-Kamera und Dual-Mode-GBC-Cartridges.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Super Game Boy</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

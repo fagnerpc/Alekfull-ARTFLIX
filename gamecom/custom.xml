@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de jogos portátil de quinta geração. Foi o primeiro console de videogame a incluir uma tela sensível ao toque e o primeiro console portátil a incluir conectividade com a Internet. O Game.com vendeu menos de 300.000 unidades.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É um console de jogos portátil de quinta geração. Foi o primeiro console de videogame a incluir uma tela sensível ao toque e o primeiro console portátil a incluir conectividade com a Internet. O Game.com vendeu menos de 300.000 unidades.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a fifth-generation handheld game console. It was the first video game console to include a touchscreen and the first handheld console to include Internet connectivity. The Game.com sold fewer than 300,000 units and was discontinued in 2000 because of poor sales.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una videoconsola portátil de quinta generación. Fue la primera consola de videojuegos en incluir una pantalla táctil y la primera consola portátil en incluir conectividad a Internet. Game.com vendió menos de 300.000 unidades y se suspendió en 2000 debido a las bajas ventas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une console de jeu portable de cinquième génération. C'était la première console de jeu vidéo à inclure un écran tactile et la première console portable à inclure une connectivité Internet. Le Game.com a vendu moins de 300 000 unités et a été abandonné en 2000 en raison de mauvaises ventes.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Handheld-Spielekonsole der fünften Generation. Es war die erste Videospielkonsole mit Touchscreen und die erste Handheld-Konsole mit Internetverbindung. The Game.com verkaufte weniger als 300.000 Einheiten und wurde im Jahr 2000 wegen schlechter Verkaufszahlen eingestellt.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Game.com</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1997</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tiger Electronics</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

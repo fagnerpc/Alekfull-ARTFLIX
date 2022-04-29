@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>MESS (Multiple Emulator Super System) é um emulador para muitos jogos de consoles e sistemas de computador, com base no núcleo do MAME, um emulador de jogos tipo arcade.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>MESS (Multiple Emulator Super System) é um emulador para muitos jogos de consoles e sistemas de computador, com base no núcleo do MAME, um emulador de jogos tipo arcade.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>MESS (Multiple Emulator Super System) is an emulator for many console games and computer systems, based on the core of MAME, an arcade-like game emulator.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>MESS (Multiple Emulator Super System) es un emulador para muchos juegos de consola y sistemas informáticos, basado en el núcleo de MAME, un emulador de juegos tipo arcade.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>MESS (Multiple Emulator Super System) est un émulateur pour de nombreux jeux de console et systèmes informatiques, basé sur le noyau de MAME, un émulateur de jeu de type arcade.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>MESS (Multiple Emulator Super System) ist ein Emulator für viele Konsolenspiele und Computersysteme, basierend auf dem Kern von MAME, einem Arcade-ähnlichen Spieleemulator.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>MESS</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>MESS Team</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

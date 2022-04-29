@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Xash3D FWGS é um fork do Xash3D Engine, compatível com o mecanismo GoldSrc. Permite jogar Half-Life pronto para uso e muitas modificações baseadas em Half-Life.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>O Xash3D FWGS é um fork do Xash3D Engine, compatível com o mecanismo GoldSrc. Permite jogar Half-Life pronto para uso e muitas modificações baseadas em Half-Life.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Xash3D FWGS is a fork of Xash3D Engine, which compatible with GoldSrc engine. Allows play Half-Life out-of-the-box and many Half-Life based modifications.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Xash3D FWGS es una bifurcación de Xash3D Engine, que es compatible con el motor GoldSrc. Permite jugar Half-Life listo para usar y muchas modificaciones basadas en Half-Life.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Xash3D FWGS est un fork du moteur Xash3D, compatible avec le moteur GoldSrc. Permet de jouer à Half-Life prêt à l'emploi et à de nombreuses modifications basées sur Half-Life.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Xash3D FWGS ist ein Fork der Xash3D Engine, die mit der GoldSrc-Engine kompatibel ist. Ermöglicht das sofortige Spielen von Half-Life und viele auf Half-Life basierende Modifikationen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Xash3D FWGS</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Unkle Mike</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

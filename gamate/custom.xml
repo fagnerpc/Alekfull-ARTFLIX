@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de jogos portátil fabricado pela Bit Corporation em 1990 e lançado na Austrália, algumas partes da Europa, Ásia, Argentina e EUA. O Gamate parece ser o primeiro dos muitos consoles portáteis lançados em reação ao sucesso do Game Boy da Nintendo.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É um console de jogos portátil fabricado pela Bit Corporation em 1990 e lançado na Austrália, algumas partes da Europa, Ásia, Argentina e EUA. O Gamate parece ser o primeiro dos muitos consoles portáteis lançados em reação ao sucesso do Game Boy da Nintendo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a handheld game console manufactured by Bit Corporation in the early 1990s, and released in Australia, some parts of Europe, Asia, Argentina, and the USA. The Gamate appears to be the first of the many handheld consoles released in reaction to the success of Nintendo's Game Boy.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una consola de juegos portátil fabricada por Bit Corporation en 1990 y lanzada en Australia, algunas partes de Europa, Asia, Argentina y EE. UU. Gamate parece ser la primera de las muchas consolas portátiles lanzadas como reacción al éxito de Game Boy de Nintendo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une console de jeu portable fabriquée par Bit Corporation au début des années 1990. La Gamate semble être la première des nombreuses consoles portables lancées en réaction au succès de la Game Boy de Nintendo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Handheld-Spielekonsole, die Anfang der 1990er Jahre von der Bit Corporation hergestellt wurde. Der Gamate scheint die erste der vielen Handheld-Konsolen zu sein, die als Reaktion auf den Erfolg von Nintendos Game Boy herausgebracht wurden.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Gamate</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bit Corporation</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

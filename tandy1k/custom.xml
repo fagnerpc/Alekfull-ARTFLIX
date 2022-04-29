@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Tandy 1000 é o primeiro de uma linha de sistemas de computadores domésticos semelhantes ao IBM PC produzidos pela Tandy Corporation para venda em suas cadeias de lojas Radio Shack e Radio Shack Computer Center.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>O Tandy 1000 é o primeiro de uma linha de sistemas de computadores domésticos semelhantes ao IBM PC produzidos pela Tandy Corporation para venda em suas cadeias de lojas Radio Shack e Radio Shack Computer Center.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The Tandy 1000 is the first in a line of IBM PC workalike home computer systems produced by the Tandy Corporation for sale in its Radio Shack and Radio Shack Computer Center chains of stores.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>El Tandy 1000 es el primero de una línea de sistemas informáticos domésticos similares a PC de IBM producidos por Tandy Corporation para la venta en sus cadenas de tiendas Radio Shack y Radio Shack Computer Center.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Le Tandy 1000 est le premier d'une gamme de systèmes informatiques domestiques IBM PC produits par Tandy Corporation pour la vente dans ses chaînes de magasins Radio Shack et Radio Shack Computer Center.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Der Tandy 1000 ist der erste in einer Reihe von IBM-PC-ähnlichen Heimcomputersystemen, die von der Tandy Corporation zum Verkauf in ihren Ladenketten Radio Shack und Radio Shack Computer Center hergestellt werden.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Tandy 1000</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tandy Corporation</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

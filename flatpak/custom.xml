@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Flatpak, anteriormente conhecido como xdg-app, é um utilitário para implantação de software e gerenciamento de pacotes para Linux. Ele é anunciado como oferecendo um ambiente de sandbox no qual os usuários podem executar o software aplicativo isoladamente do resto do sistema.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Flatpak, anteriormente conhecido como xdg-app, é um utilitário para implantação de software e gerenciamento de pacotes para Linux. Ele é anunciado como oferecendo um ambiente de sandbox no qual os usuários podem executar o software aplicativo isoladamente do resto do sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Flatpak, formerly known as xdg-app, is a utility for software deployment and package management for Linux. It is advertised as offering a sandbox environment in which users can run application software in isolation from the rest of the system.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Flatpak, anteriormente conocido como xdg-app, es una utilidad para la implementación de software y la gestión de paquetes para Linux. Se anuncia que ofrece un entorno de espacio aislado en el que los usuarios pueden ejecutar el software de la aplicación de forma aislada del resto del sistema.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Flatpak, anciennement connu sous le nom de xdg-app, est un utilitaire de déploiement de logiciels et de gestion de packages pour Linux. Il est annoncé comme offrant un environnement sandbox dans lequel les utilisateurs peuvent exécuter des logiciels d'application isolément du reste du système.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Flatpak, früher bekannt als xdg-app, ist ein Dienstprogramm für die Softwarebereitstellung und Paketverwaltung für Linux. Es wird damit beworben, dass es eine Sandbox-Umgebung bietet, in der Benutzer Anwendungssoftware isoliert vom Rest des Systems ausführen können.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Flatpak</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2015</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Flatpak Team</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

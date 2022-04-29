@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>ECWolf é um port do código-fonte de Wolfenstein 3D, Spear of Destiny e Super 3D Noah's Ark baseado no código-base de Wolf4SDL. ECWolf extrai uma quantidade substancial de código do ZDoom e visa fornecer uma ampla gama de recursos de edição de mod sem a necessidade de modificar o código-fonte.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>ECWolf é um port do código-fonte de Wolfenstein 3D, Spear of Destiny e Super 3D Noah's Ark baseado no código-base de Wolf4SDL. ECWolf extrai uma quantidade substancial de código do ZDoom e visa fornecer uma ampla gama de recursos de edição de mod sem a necessidade de modificar o código-fonte.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base. ECWolf pulls a substantial amount of code from ZDoom and aims to provide a wide array of mod editing capabilities without the need to modify the source code.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>ECWolf es un puerto de origen avanzado para Wolfenstein 3D, Spear of Destiny y Super 3D Noah's Ark basado en el código base Wolf4SDL. ECWolf extrae una cantidad sustancial de código de ZDoom y tiene como objetivo proporcionar una amplia gama de capacidades de edición de mods sin la necesidad de modificar el código fuente.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>ECWolf est un port source avancé pour Wolfenstein 3D, Spear of Destiny et Super 3D Noah's Ark basé sur la base de code Wolf4SDL. ECWolf extrait une quantité substantielle de code de ZDoom et vise à fournir un large éventail de capacités d'édition de mod sans avoir besoin de modifier le code source.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>ECWolf ist eine fortschrittliche Quellportierung für Wolfenstein 3D die auf der Codebasis von Wolf4SDL basiert. ECWolf bezieht eine beträchtliche Menge an Code aus ZDoom und zielt darauf ab, eine breite Palette von Mod-Bearbeitungsfunktionen bereitzustellen, ohne dass der Quellcode geändert werden muss.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>ECWolf</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2012</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Blzut3</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

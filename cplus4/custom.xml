@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um computador doméstico lançado pela Commodore International em 1984. O nome "Plus/4" refere-se à suíte de escritório residente em ROM de quatro aplicativos; foi anunciado como "o computador de produtividade com software embutido".</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É um computador doméstico lançado pela Commodore International em 1984. O nome "Plus/4" refere-se à suíte de escritório residente em ROM de quatro aplicativos; foi anunciado como "o computador de produtividade com software embutido".</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a home computer released by Commodore International in 1984. The "Plus/4" name refers to the four-application ROM resident office suite; it was billed as "the productivity computer with software built-in."</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una computadora doméstica lanzada por Commodore International en 1984. El nombre "Plus/4" se refiere a la suite de oficina residente en ROM de cuatro aplicaciones; fue catalogado como "la computadora de productividad con software incorporado".</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un ordinateur personnel publié par Commodore International en 1984. Le nom "Plus / 4" fait référence à la suite bureautique résidente ROM à quatre applications; il a été présenté comme "l'ordinateur de productivité avec logiciel intégré".</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein Heimcomputer, der 1984 von Commodore International herausgebracht wurde. Der Name „Plus/4“ bezieht sich auf die Resident Office Suite mit vier Anwendungen im ROM; es wurde als "der Produktivitätscomputer mit integrierter Software" in Rechnung gestellt.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Commodore Plus/4</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore Business Machines</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

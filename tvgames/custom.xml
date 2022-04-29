@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Aqui estão reunidos jogos que podem ser jogados em smart tv em seus sistemas operacionais. Jogos simples e complexos de várias épocas e desenvolvedoras.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Aqui estão reunidos jogos que podem ser jogados em smart tv em seus sistemas operacionais. Jogos simples e complexos de várias épocas e desenvolvedoras.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Here are gathered games that can be played on smart tv on their operating systems. Simple and complex games from various eras and developers.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Aquí se recopilan juegos que se pueden jugar en smart tv en sus sistemas operativos. Juegos simples y complejos de varias épocas y desarrolladores.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Voici des jeux rassemblés qui peuvent être joués sur smart tv sur leurs systèmes d'exploitation. Des jeux simples et complexes de différentes époques et développeurs.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Hier sind Spiele gesammelt, die auf Smart TV auf ihren Betriebssystemen gespielt werden können. Einfache und komplexe Spiele aus verschiedenen Epochen und Entwicklern.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>TV Games</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

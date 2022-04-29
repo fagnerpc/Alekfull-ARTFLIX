@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de jogos portátil projetado para competir com o Nintendo Game Boy. Na Alemanha, foi comercializado pela própria Hartung, enquanto no Reino Unido foi lançado como Systema 2000 pela já bem estabelecida fabricante de jogos baratos de LCD Systema.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É um console de jogos portátil projetado para competir com o Nintendo Game Boy. Na Alemanha, foi comercializado pela própria Hartung, enquanto no Reino Unido foi lançado como Systema 2000 pela já bem estabelecida fabricante de jogos baratos de LCD Systema.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a handheld game console designed to compete with the Nintendo Game Boy. In Germany, it was marketed by Hartung itself, while in the UK it was released as the Systema 2000 by the already well-established maker of cheap LCD games Systema.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una videoconsola portátil diseñada para competir con la Nintendo Game Boy. En Alemania, fue comercializado por el propio Hartung, mientras que en el Reino Unido fue lanzado como Systema 2000 por el ya bien establecido fabricante de juegos LCD baratos Systema.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une console de jeu portable conçue pour rivaliser avec la Nintendo Game Boy. En Allemagne, il a été commercialisé par Hartung lui-même, tandis qu'au Royaume-Uni, il a été lancé sous le nom de Systema 2000 par le fabricant déjà bien établi de jeux LCD bon marché Systema.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>In Deutschland wurde es von Hartung selbst vermarktet, während es in Großbritannien als Systema 2000 von dem bereits etablierten Hersteller billiger LCD-Spiele Systema herausgebracht wurde.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Game Master</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Hartung</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>
