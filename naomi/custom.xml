@@ -24,10 +24,26 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Die NAOMI (New Arcade Operation Machine Idea) ist der Nachfolger des Sega Model 3. Sega stellte NAOMI erstmals öffentlich auf der Amusement Machine Show 1998 vor.</text>
+		</text> 
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
 		</text>
 
 		<text name="info2" extra="true">
 			<text>Sega Naomi</text>
+		</text>  
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>世嘉Naomi</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>世嘉Naomi</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -35,7 +51,7 @@
 		</text>
 
 		<text name="info4" extra="true">
-			<text>SEGA</text>
+			<text>SEGA Corporation</text>
 		</text>
 
 	<image name="sublogo">

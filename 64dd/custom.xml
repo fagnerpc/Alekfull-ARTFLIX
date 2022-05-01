@@ -24,10 +24,26 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Es war ein Peripheriegerät für den Nintendo 64. Es wurde über den EXTension Port angeschlossen und ermöglichte es dem N64, proprietäre 64-MB-Magnetplatten zu verwenden, um die Datenspeicherkapazität zu erhöhen.</text>
+		</text>  
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
 		</text>
 
-				<text name="info2" extra="true">
+		<text name="info2" extra="true">
 			<text>Nintendo 64 DD</text>
+		</text> 
+    
+		<text name="info2" extra="true" "ZH">
+			<text>任天堂 64 DD</text>
+		</text>
+    
+		<text name="info2" extra="true" "TW">
+			<text>任天堂 64 DD</text>
 		</text>
 
 				<text name="info3" extra="true">
@@ -36,7 +52,16 @@
 
 		<text name="info4" extra="true">
 			<text>Nintendo, Alps Electric</text>
+		</text> 
+    
+		<text name="info4" extra="true" "ZH">
+			<text>任天堂, Alps Electric</text>
 		</text>
+    
+		<text name="info4" extra="true" "TW">
+			<text>任天堂, Alps Electric</text>
+		</text>    
+    
 	</view>
 
 	<customView name="HCoinSpin">

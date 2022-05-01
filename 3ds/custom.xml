@@ -24,10 +24,26 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Der Nintendo 3DS (abgekürzt als 3DS) ist eine tragbare Konsole, die von Nintendo produziert und 2011 als Nachfolger des Nintendo DS veröffentlicht wurde. Es hat die Fähigkeit, dreidimensionale Bilder ohne Spezialbrille zu erzeugen.</text>
+		</text>   
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
 		</text>
 
 		<text name="info2" extra="true">
 			<text>Nintendo 3DS</text>
+		</text>
+    
+    <text name="info2" extra="true" lang="ZH">
+			<text>任天堂3DS</text>
+		</text>  
+    
+    <text name="info2" extra="true" lang="TW">
+			<text>任天堂3DS</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -37,5 +53,14 @@
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
 		</text>
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>
+		</text>
+    
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>
+		</text>        
+    
 	</view>
 </theme>

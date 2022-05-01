@@ -25,17 +25,42 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Der 3DO Interactive Multiplayer, oft einfach als 3DO bezeichnet, ist eine von The 3DO Company entwickelte Plattform für Heimvideospielkonsolen. Konzipiert vom Unternehmer und Gründer von Electronic Arts, Trip Hawkins.</text>
 		</text>
-
-				<text name="info2" extra="true">
-			<text>Panasonic 3DO</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
 		</text>
 
-				<text name="info3" extra="true">
+		<text name="info2" extra="true">
+			<text>Panasonic 3DO</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>松下3DO</text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>松下3DO</text>
+		</text>
+
+		<text name="info3" extra="true">
 			<text>1993</text>
 		</text>
 
 		<text name="info4" extra="true">
 			<text>Panasonic, Sanyo, GoldStar</text>
+		</text>        
+    
+    <text name="info4" extra="ZH">
+			<text>松下, 三洋, GoldStar</text>
+		</text>
+    
+    <text name="info4" extra="TW">
+			<text>松下, 三洋, GoldStar</text>
 		</text>
 
 	</view>

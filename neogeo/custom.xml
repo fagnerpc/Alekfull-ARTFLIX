@@ -24,6 +24,14 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Neo Geo ist eine Familie von Videospielhardware, die von SNK entwickelt wurde. Die Marke, die von 1990 bis 2004 auf dem Markt war, entstand mit der Veröffentlichung eines Arcade-Systems, dem MVS, und seinem Gegenstück für die Heimkonsole, dem Neo Geo AES.</text>
+		</text>      
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
 		</text>
 
 		<text name="info2" extra="true">
