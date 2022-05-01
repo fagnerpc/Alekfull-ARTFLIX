@@ -140,6 +140,14 @@
 	<text name="info5" extra="true" lang="DE">
 		<text>HERSTELLER:</text>
 	</text>
+  
+     <text name="info5" extra="true" lang="ZH">
+			<text>生产商:</text>
+		</text>
+    
+    <text name="info5" extra="true" lang="TW">
+			<text>生產商:</text>
+		</text>
 
 	<text name="info5" extra="true">
 		<fontPath>./../_inc/fonts/Circular Std Black.ttf</fontPath>
@@ -177,7 +185,15 @@
 
 	<text name="info6" extra="true" lang="DE">
 		<text>Ausgewählte Sprache: DE</text>
-	</text>
+	</text>       
+  
+    <text name="info6" extra="true" lang="ZH">
+		  <text>当前选择语言: 中文(中国)</text>
+	  </text>
+    
+    <text name="info6" extra="true" lang="TW">
+		  <text>當前選擇語言: 中文(台灣)</text>
+	  </text>
 
 	<text name="info6" extra="true">
 		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
@@ -214,6 +230,14 @@
 
 	<text name="playbutton" extra="true" lang="DE">
 		<text>JETZT SPIELEN</text>
+	</text> 
+  
+    <text name="playbutton" extra="true" lang="ZH">
+		<text>现在游玩</text>
+	</text>
+  
+  	<text name="playbutton" extra="true" lang="TW">
+		<text>立即游玩</text>
 	</text>
 
 	<text name="playbutton" extra="true">
