@@ -26,9 +26,24 @@
 			<text>Media-Player-Software ist eine Art von Anwendungssoftware zum Abspielen von Multimedia-Computerdateien wie Audio- und Videodateien. Media-Player zeigen üblicherweise Standard-Mediensteuerungssymbole an, die von physischen Geräten wie Tonbandgeräten und CD-Playern bekannt sind.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>媒体播放器软件是一种用于播放多媒体计算机文件（如音频和视频文件）的应用软件。媒体播放器通常显示从物理设备（如磁带录音机和 CD 播放器）已知的标准媒体控制图标。</text>
+		</text> 
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>媒體播放器軟件是一種用於播放多媒體計算機文件（如音頻和視頻文件）的應用軟件。媒體播放器通常顯示從物理設備（如磁帶錄音機和 CD 播放器）已知的標準媒體控製圖標。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Media Player</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text>媒体播放器</text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text>媒體播放器</text>
 		</text>
 
 		<text name="info3" extra="true">

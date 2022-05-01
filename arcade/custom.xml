@@ -27,11 +27,11 @@
 		</text>    
     
     <text name="info1" extra="true" lang="ZH">
-			<text></text>
+			<text>Arcade 是安装在娱乐场所的电子游戏设备。它由外壳、CRT 或显示器、电源、游戏控制器和游戏系统组成。</text>
 		</text>
     
     <text name="info1" extra="true" lang="TW">
-			<text></text>
+			<text>Arcade 是安裝在娛樂場所的電子遊戲設備。它由外殼、CRT 或顯示器、電源、遊戲控制器和遊戲系統組成。</text>
 		</text>
 
 		<text name="info2" extra="true">
@@ -47,7 +47,7 @@
 		</text>
 
 		<text name="info3" extra="true">
-			<text>19XX-20XX</text>
+			<text>19XX</text>
 		</text>
 
 		<text name="info4" extra="true">

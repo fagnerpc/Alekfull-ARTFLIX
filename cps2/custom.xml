@@ -25,6 +25,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>CPS-2 ist ein Arcade-Systemboard, das Capcom erstmals 1993 für Super Street Fighter II verwendete. Es war der Nachfolger der vorherigen CP System- und Capcom Power System Changer-Arcade-Hardware und wurde 1996 von der CP System III-Hardware abgelöst.</text>
 		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>CPS-2是Capcom在1993年首次用于超级街头霸王2的街机系统板。它是他们之前的CP System和 Capcom Power System Changer街机硬件的继任者，并于1996年由CP System III硬件接替。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>CPS-2是Capcom在1993年首次用於超級街頭霸王2的街機系統板。它是他們之前的CP System和 Capcom Power System Changer街機硬件的繼任者，並於1996年由CP System III硬件接替。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>CP System II</text>

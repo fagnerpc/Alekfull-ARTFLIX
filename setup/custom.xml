@@ -27,17 +27,25 @@
 		</text>
     
     <text name="info1" extra="true" lang="ZH">
-			<text></text>
+			<text>除了可以访问各种功能的脚本之外，您还可以在这里编辑系统设置、更改颜色选项和模拟器。</text>
 		</text>
     
     <text name="info1" extra="true" lang="TW">
-			<text></text>
+			<text>除了可以訪問各種功能的腳本之外，您還可以在這裡編輯系統設置、更改顏色選項和模擬器。</text>
 		</text>
 
 		<text name="info2" extra="true">
 			<text>Setup</text>
 		</text>
 
+		<text name="info2" extra="true" lang="ZH">
+			<text>设置</text>
+		</text>            
+
+		<text name="info2" extra="true" lang="TW">
+			<text>設置</text>
+		</text> 
+    
 		<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>

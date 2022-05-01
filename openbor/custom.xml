@@ -27,11 +27,11 @@
 		</text>   
     
     <text name="info1" extra="true" lang="ZH">
-			<text></text>
+			<text>OpenBOR（Open Beats of Rage）是Beats of Rage引擎的开源延续。尽管Beats of Rage旨在成为一款独立游戏，但游戏内元素和引擎的模块化设计意味着最终用户能够更换资产。</text>
 		</text>
     
     <text name="info1" extra="true" lang="TW">
-			<text></text>
+			<text>OpenBOR（Open Beats of Rage）是Beats of Rage引擎的開源延續。儘管Beats of Rage旨在成為一款獨立遊戲，但遊戲內元素和引擎的模塊化設計意味著最終用戶能夠更換資產。</text>
 		</text>
 
 		<text name="info2" extra="true">
