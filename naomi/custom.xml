@@ -24,10 +24,26 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Die NAOMI (New Arcade Operation Machine Idea) ist der Nachfolger des Sega Model 3. Sega stellte NAOMI erstmals öffentlich auf der Amusement Machine Show 1998 vor.</text>
+		</text> 
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>NAOMI全称New Arcade Operation Machine Idea。NAOMI这个名字是世嘉研发负责人Hisashi Suzuki为纪念英国模特Naomi-Campbell而选择的。1998年发布，价格仅为Model3的三分之一。与Dreamcast共享架构，但具有额外的主、图形和声音内存（分别为 32、16 和 8 兆字节）</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>NAOMI全称New Arcade Operation Machine Idea。NAOMI這個名字是世嘉研發負責人Hisashi Suzuki為紀念英國模特Naomi-Campbell而選擇的。1998年發布，價格僅為Model3的三分之一。與Dreamcast共享架構，但具有額外的主、圖形和聲音內存（分別為 32、16 和 8 兆字節）</text>
 		</text>
 
 		<text name="info2" extra="true">
 			<text>Sega Naomi</text>
+		</text>  
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>世嘉Naomi</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>世嘉Naomi</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -35,7 +51,7 @@
 		</text>
 
 		<text name="info4" extra="true">
-			<text>SEGA</text>
+			<text>SEGA Corporation</text>
 		</text>
 
 	<image name="sublogo">

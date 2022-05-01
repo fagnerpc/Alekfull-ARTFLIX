@@ -36,6 +36,18 @@ Prendre plaisir !</text>
 			<text>Finden Sie alle Ihre Lieblingsspiele in einem einzigen System.
 Jedes Mal, wenn Sie ein Spiel als Favorit in einem System markieren, finden Sie es hier.
 Viel Spaß!</text>
+		</text> 
+    
+    				<text name="info1" extra="true" lang="ZH">
+			<text>在一个系统中查找所有您最喜欢的游戏。
+每次您在系统中将游戏标记为收藏时，您都会在此处找到它。
+享受吧！</text>
+		</text>
+
+    				<text name="info1" extra="true" lang="TW">
+			<text>在一個系統中查找所有您最喜歡的遊戲。
+每次您在系統中將游戲標記為收藏時，您都會在此處找到它。
+享受吧！</text>
 		</text>
 
 				<text name="info2" extra="true">
@@ -59,6 +71,13 @@ Viel Spaß!</text>
 			<text>Favoriten</text>
 		</text>
 
+						<text name="info2" extra="true" lang="ZH">
+			<text>收藏</text>
+		</text>
+
+						<text name="info2" extra="true" lang="TW">
+			<text>收藏</text>
+		</text>
 
 		<text name="info3" extra="true">
 			<text>20XX</text>
@@ -105,6 +124,22 @@ Viel Spaß!</text>
 		<image name="sublogo" lang="DE">
 			<path>./assets/logos/auto-favorites-en.png</path>
 		</image>
+
+			<image name="logo" lang="ZH">
+		<path>./assets/logos/auto-favorites-en.png</path>
+	</image>
+
+				<image name="sublogo" lang="ZH">
+		<path>./assets/logos/auto-favorites-en.png</path>
+	</image>
+
+			<image name="logo" lang="TW">
+		<path>./assets/logos/auto-favorites-en.png</path>
+	</image>
+
+				<image name="sublogo" lang="TW">
+		<path>./assets/logos/auto-favorites-en.png</path>
+	</image>
 
 				<text name="info5" extra="true">
 			<text>ALEKFULL ARTFLIX</text>

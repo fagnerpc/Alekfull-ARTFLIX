@@ -24,10 +24,26 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>The Dreamcast ist eine Heimvideospielkonsole, die von Sega am 27. November 1998 in Japan und am 9. September 1999 in Nordamerika herausgebracht wurde. Es war die erste der sechsten Generation von Videospielkonsolen.</text>
+		</text>    
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>Dreamcast是世嘉于1998年11月27日在日本、1999年9月9日在北美和1999年10月14日在欧洲发布的家用视频游戏机。它是第六代视频游戏机中的第一款，Dreamcast是世嘉的最后一款家用游戏机，2001年的停产标志着该公司在游戏机市场的18年结束。</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>Dreamcast是世嘉於1998年11月27日在日本、1999年9月9日在北美和1999年10月14日在歐洲發布的家用視頻遊戲機。它是第六代視頻遊戲機中的第一款，Dreamcast是世嘉的最後一款家用遊戲機，2001年的停產標誌著該公司在遊戲機市場的18年結束。</text>
 		</text>
 
 		<text name="info2" extra="true">
 			<text>Sega Dreamcast</text>
+		</text> 
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>世嘉Dreamcast</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>世嘉Dreamcast</text>
 		</text>
 
 		<text name="info3" extra="true">

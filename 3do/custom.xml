@@ -25,17 +25,42 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Der 3DO Interactive Multiplayer, oft einfach als 3DO bezeichnet, ist eine von The 3DO Company entwickelte Plattform für Heimvideospielkonsolen. Konzipiert vom Unternehmer und Gründer von Electronic Arts, Trip Hawkins.</text>
 		</text>
-
-				<text name="info2" extra="true">
-			<text>Panasonic 3DO</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>3DO Interactive Multiplayer，也称为 3DO System 或简称 3DO，是由 3DO 公司开发的家用视频游戏机。3DO 不是公司自己制造的主机，而是一系列规格，松下于 1993 年生产了第一批型号，1994 年 GoldStar（现为 LG 电子）和三洋公司于 1995 年发布了硬件的进一步版本。</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>3DO Interactive Multiplayer，也稱為 3DO System 或簡稱 3DO，是由 3DO 公司開發的家用視頻遊戲機。3DO 不是公司自己製造的主机，而是一系列規格。松下於 1993 年生產了第一批型號，1994 年 GoldStar（現為 LG 電子）和三洋公司於 1995 年發布了硬件的進一步版本。</text>
 		</text>
 
-				<text name="info3" extra="true">
+		<text name="info2" extra="true">
+			<text>Panasonic 3DO</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>松下3DO</text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>松下3DO</text>
+		</text>
+
+		<text name="info3" extra="true">
 			<text>1993</text>
 		</text>
 
 		<text name="info4" extra="true">
 			<text>Panasonic, Sanyo, GoldStar</text>
+		</text>        
+    
+    <text name="info4" extra="ZH">
+			<text>松下, 三洋, GoldStar</text>
+		</text>
+    
+    <text name="info4" extra="TW">
+			<text>松下, 三洋, GoldStar</text>
 		</text>
 
 	</view>

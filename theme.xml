@@ -323,8 +323,141 @@ Tema proibido para uso comercial
         <subset.sysname>Systemnamen in Systemauswahl</subset.sysname>
         <subset.CoinOpsDefault>Standardhintergrund von CoinOps-Ansichten</subset.CoinOpsDefault>
         <subset.ShowTopMarquee>Zeige oberstes Laufband in CoinOps-Ansichten</subset.ShowTopMarquee>
-    </variables>
+    </variables> 
+    
+<variables lang="ZH">
+    <tilesViewName>缩略图</tilesViewName>
+    <tilesVideoViewName>缩略图 + 视频</tilesVideoViewName>
+    <tilesVideoMarqueeViewName>缩略图 + 视频 + 标志</tilesVideoMarqueeViewName>
+    <basicGridName>盒子</basicGridName>
+    <basicGridDetailsName>盒子 + 细节</basicGridDetailsName>
+    <basicGridVideoName>盒子 + 视频</basicGridVideoName>
+    <carouselViewName>轮播</carouselViewName>
+    <carouselDefaultViewName>简单轮播</carouselDefaultViewName>
+    <carouselDetailsViewName>详细轮播</carouselDetailsViewName>
+    <carouselposterViewName>轮播海报</carouselposterViewName>
+    <carouselDetailssViewName>轮播（背景图片+视频）</carouselDetailssViewName>
+    <hartfdefViewName>Artflix (标准视图)</hartfdefViewName>
+    <hspindefViewName>HSpin (标准视图)</hspindefViewName>
+    <hspinfvlViewName>HSpin (全屏视频+徽标)</hspinfvlViewName>
+    <hspinfvcViewName>HSpin (全屏视频+封面)</hspinfvcViewName>
+    <nflixxViewName>NFlix (静止)</nflixxViewName>
+    <nflixvideocViewName>NFlix (视频+封面)</nflixvideocViewName>
+    <nflixvideolViewName>NFlix (视频 + 标志)</nflixvideolViewName>
+    <yes>是</yes>
+    <no>否</no>
+    <none>无</none>
+    <sysmusic>Active</sysmusic>
+    <systex>纯文本</systex>
+    <syslog>仅徽标</syslog>
+    <nomusic>随机的</nomusic>
+    <silence>没有背景音乐</silence>
+    <default>默认</default>
+    <huegreen>绿</huegreen>
+    <huered>红</huered>
+    <hueblue>蓝</hueblue>
+    <huepurple>紫</huepurple>
+    <icondef>图标 标准</icondef>
+    <hspinadefViewName>CoinOps 标准</hspinadefViewName>
+    <hcoinopsdViewName>CoinOps 详细</hcoinopsdViewName>
+    <copstv>仅限电视</copstv>
+    <copsarc>仅限街机</copsarc>
+    <svhsgl>VHS Glitch (响亮)</svhsgl>
+    <scrtgl>CRT Glitch (响亮)</scrtgl>
+    <scrtfs>CRT 全屏</scrtfs>
+    <sclfs>Scanlines 全屏</sclfs>
+    <srandvideo>随机视频</srandvideo>
+    <srandvideol>随机视频 (Logos)</srandvideol>
+    <svwheel>动态视频背景</svwheel>
+    <svwheell>动态视频背景 (Logos)</svwheell>
+    <srandbg>随机游戏壁纸</srandbg>
+    <srandbgl>随机游戏壁纸 (Logos)</srandbgl>
+    <srandbbg>随机同人作品壁纸</srandbbg>
+    <srandbbgl>随机同人作品壁纸 (Logos)</srandbbgl>
+    <svrandvid>随机视频游戏背景</svrandvid>
+    <svrandvidl>随机视频游戏背景(Logos)</svrandvidl>
+    <scustimg>自定义背景图片</scustimg>
+    <scustimgl>自定义背景图片(Logos)</scustimgl>
+    <snocarou>无垂直轮播</snocarou>
+    <subset.systemview>系统视图</subset.systemview>
+    <subset.colorset>背景图片</subset.colorset>
+    <subset.iconset>菜单图标</subset.iconset>
+    <subset.shader>主题着色器</subset.shader>
+    <subset.music>系统音乐</subset.music>
+    <subset.MainBGColor>主背景色 </subset.MainBGColor>
+    <subset.tveffect>Vista CoinOps 屏幕效果</subset.tveffect>
+    <subset.CoinOpsDefault>Vista CoinOps 背景模板</subset.CoinOpsDefault>
+    <subset.syscarousel>系统选择轮播</subset.syscarousel>
+    <subset.sysname>系统选择中的系统名称</subset.sysname>
+    <subset.ShowTopMarquee>在 CoinOps 视图中显示顶部选取框</subset.ShowTopMarquee>
+  </variables>
 
+  <variables lang="TW">
+    <tilesViewName>縮略圖</tilesViewName>
+    <tilesVideoViewName>縮略圖 + 視頻</tilesVideoViewName>
+    <tilesVideoMarqueeViewName>縮略圖 + 視頻 + 標誌</tilesVideoMarqueeViewName>
+    <basicGridName>包裝盒</basicGridName>
+    <basicGridDetailsName>包裝盒 + 細節</basicGridDetailsName>
+    <basicGridVideoName>包裝盒 + 視頻</basicGridVideoName>
+    <carouselViewName>輪播</carouselViewName>
+    <carouselDefaultViewName>簡單輪播</carouselDefaultViewName>
+    <carouselDetailsViewName>詳細輪播</carouselDetailsViewName>
+    <carouselposterViewName>輪播海報</carouselposterViewName>
+    <carouselDetailssViewName>輪播（背景圖片+視頻）</carouselDetailssViewName>
+    <hartfdefViewName>Artflix (標準視圖)</hartfdefViewName>
+    <hspindefViewName>HSpin (標準視圖)</hspindefViewName>
+    <hspinfvlViewName>HSpin (全屏視頻+徽標)</hspinfvlViewName>
+    <hspinfvcViewName>HSpin (全屏視頻+封面)</hspinfvcViewName>
+    <nflixxViewName>NFlix (靜止)</nflixxViewName>
+    <nflixvideocViewName>NFlix (視頻+封面)</nflixvideocViewName>
+    <nflixvideolViewName>NFlix (視頻 + 標誌)</nflixvideolViewName>
+    <yes>是</yes>
+    <no>否</no>
+    <none>無</none>
+    <sysmusic>Active</sysmusic>
+    <systex>純文本</systex>
+    <syslog>僅徽標</syslog>
+    <nomusic>隨機的</nomusic>
+    <silence>靜音</silence>
+    <default>默認</default>
+    <huegreen>綠</huegreen>
+    <huered>紅</huered>
+    <hueblue>藍</hueblue>
+    <huepurple>紫</huepurple>
+    <icondef>圖標 標準</icondef>
+    <hspinadefViewName>CoinOps 標準</hspinadefViewName>
+    <hcoinopsdViewName>CoinOps 詳細</hcoinopsdViewName>
+    <copstv>僅限電視</copstv>
+    <copsarc>僅限街機</copsarc>
+    <svhsgl>VHS Glitch (響亮)</svhsgl>
+    <scrtgl>CRT Glitch (響亮)</scrtgl>
+    <scrtfs>CRT 全屏</scrtfs>
+    <sclfs>Scanlines 全屏</sclfs>
+    <srandvideo>隨機視頻</srandvideo>
+    <srandvideol>隨機視頻 (Logos)</srandvideol>
+    <svwheel>動態視頻背景</svwheel>
+    <svwheell>動態視頻背景 (Logos)</svwheell>
+    <srandbg>隨機遊戲壁紙</srandbg>
+    <srandbgl>隨機遊戲壁紙 (Logos)</srandbgl>
+    <srandbbg>隨機同人作品壁紙</srandbbg>
+    <srandbbgl>隨機同人作品壁紙 (Logos)</srandbbgl>
+    <svrandvid>隨機視頻遊戲背景</svrandvid>
+    <svrandvidl>隨機視頻遊戲背景(Logos)</svrandvidl>
+    <scustimg>自定義背景圖片</scustimg>
+    <scustimgl>自定義背景圖片(Logos)</scustimgl>
+    <snocarou>無垂直輪播</snocarou>
+    <subset.systemview>系統視圖</subset.systemview>
+    <subset.colorset>背景圖片</subset.colorset>
+    <subset.iconset>菜單圖標</subset.iconset>
+    <subset.shader>主題着色器</subset.shader>
+    <subset.music>系統音樂</subset.music>
+    <subset.MainBGColor>主背景色 </subset.MainBGColor>
+    <subset.tveffect>Vista CoinOps 屏幕效果</subset.tveffect>
+    <subset.CoinOpsDefault>Vista CoinOps 背景模闆</subset.CoinOpsDefault>
+    <subset.syscarousel>系統選擇輪播</subset.syscarousel>
+    <subset.sysname>系統選擇中的系統名稱</subset.sysname>
+    <subset.ShowTopMarquee>在 CoinOps 視圖中顯示頂部選取框</subset.ShowTopMarquee>
+  </variables>
 
 <feature supported="carousel">
    <view name="system">
@@ -545,7 +678,15 @@ Tema proibido para uso comercial
 		</text>
     <text name="info6" extra="true" lang="DE">
         <text>Ausgewählte Sprache: DE</text>
-    </text>
+    </text>   
+    
+    <text name="info6" extra="true" lang="ZH">
+		  <text>当前选择语言: 中文(中国)</text>
+	  </text>
+    
+    <text name="info6" extra="true" lang="TW">
+		  <text>當前選擇語言: 中文(台灣)</text>
+	  </text>
 
 	<text name="info6" extra="true">
 		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
@@ -591,7 +732,16 @@ Tema proibido para uso comercial
 	</text>
     <text name="playbutton" extra="true" lang="DE">
         <text>JETZT SPIELEN</text>
-    </text>
+    </text> 
+       
+  <text name="playbutton" extra="true" lang="ZH">
+		<text>现在游玩</text>
+	</text>
+  
+  	<text name="playbutton" extra="true" lang="TW">
+		<text>立即游玩</text>
+	</text>
+
 
 	<text name="playbutton" extra="true">
 		<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>

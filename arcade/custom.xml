@@ -24,10 +24,26 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Arcade ist ein elektronisches Spielgerät, das in Unterhaltungseinrichtungen installiert ist. Es besteht aus Gehäuse, CRT oder Monitor, Netzteil, Gamecontroller(n) und Spielsystem.</text>
+		</text>    
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>Arcade 是安装在娱乐场所的电子游戏设备。它由外壳、CRT 或显示器、电源、游戏控制器和游戏系统组成。</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>Arcade 是安裝在娛樂場所的電子遊戲設備。它由外殼、CRT 或顯示器、電源、遊戲控制器和遊戲系統組成。</text>
 		</text>
 
-				<text name="info2" extra="true">
+		<text name="info2" extra="true">
 			<text>Arcade</text>
+		</text> 
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>街机</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>街機</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -37,6 +53,15 @@
 		<text name="info4" extra="true">
 			<text>Various</text>
 		</text>
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>各厂商</text>
+		</text>
+    
+		<text name="info4" extra="true" lang="TW">
+			<text>各廠商</text>
+		</text>    
+    
 	</view>
 
 	<customView name="HCoinSpin">

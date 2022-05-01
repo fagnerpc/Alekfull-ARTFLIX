@@ -24,10 +24,27 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Es war ein Peripheriegerät für den Nintendo 64. Es wurde über den EXTension Port angeschlossen und ermöglichte es dem N64, proprietäre 64-MB-Magnetplatten zu verwenden, um die Datenspeicherkapazität zu erhöhen.</text>
+		</text>  
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>
+64DD是任天堂为任天堂64游戏机开发的磁性软盘驱动器外设。它于 1995 年宣布，在任天堂 64 于 1996 年推出之前，经过多次延迟后于 1999 年 12 月 13 日在日本发布。“64”指的是任天堂 64 控制台和磁盘的 64MB 存储容量，而“DD” " 是“磁盘驱动器”或“动态驱动器”的缩写。</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>64DD是任天堂為任天堂64遊戲機開發的磁性軟盤驅動器外設。它於 1995 年宣布，在任天堂 64 於 1996 年推出之前，經過多次延遲後於 1999 年 12 月 13 日在日本發布。“64”指的是任天堂 64 控制台和磁盤的 64MB 存儲容量，而“DD” " 是“磁盤驅動器”或“動態驅動器”的縮寫。</text>
 		</text>
 
-				<text name="info2" extra="true">
+		<text name="info2" extra="true">
 			<text>Nintendo 64 DD</text>
+		</text> 
+    
+		<text name="info2" extra="true" "ZH">
+			<text>任天堂 64 DD</text>
+		</text>
+    
+		<text name="info2" extra="true" "TW">
+			<text>任天堂 64 DD</text>
 		</text>
 
 				<text name="info3" extra="true">
@@ -36,7 +53,16 @@
 
 		<text name="info4" extra="true">
 			<text>Nintendo, Alps Electric</text>
+		</text> 
+    
+		<text name="info4" extra="true" "ZH">
+			<text>任天堂, Alps Electric</text>
 		</text>
+    
+		<text name="info4" extra="true" "TW">
+			<text>任天堂, Alps Electric</text>
+		</text>    
+    
 	</view>
 
 	<customView name="HCoinSpin">

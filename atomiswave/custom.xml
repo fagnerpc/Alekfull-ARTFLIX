@@ -26,7 +26,15 @@
 			<text>Atomiswave ist eine Arcade-Karte, die 2003 von der Sammy Corporation herausgebracht wurde und auf den technischen Spezifikationen von Sega Dreamcast basiert (also etwas niedriger als Sega NAOMI in technischer Hinsicht).</text>
 		</text>
 
-				<text name="info2" extra="true">
+    <text name="info1" extra="true" lang="ZH">
+			<text>Atomiswave是Sammyn的定制街机系统板和机柜。它基于世嘉的Dreamcast主机，与NAOMI有相似之处，因为它使用可互换的游戏卡带，以及用于更改控制方案的可拆卸模块（包括双操纵杆、双光枪和方向盘），但不像NAOMI，与 Dreamcast 相比，Atomiswave没有扩展RAM。</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>Atomiswave是Sammy的定製街機系統板和機櫃。它基於世嘉的Dreamcast主机，與NAOMI有相似之處，因為它使用可互換的遊戲卡帶，以及用於更改控製方案的可拆卸模塊（包括雙操縱桿、雙光槍和方向盤），但不像NAOMI，與 Dreamcast 相比，Atomiswave沒有擴展RAM。</text>
+		</text>
+
+		<text name="info2" extra="true">
 			<text>Atomiswave</text>
 		</text>
 

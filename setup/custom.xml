@@ -25,17 +25,41 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Hier können Sie Systemeinstellungen bearbeiten, Farboptionen und Emulatoren ändern sowie Zugriff auf Skripte verschiedener Funktionalitäten haben. Um eine Option zu verlassen, verlassen Sie das Spiel wie ein normales Spiel.</text>
 		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>除了可以访问各种功能的脚本之外，您还可以在这里编辑系统设置、更改颜色选项和模拟器。</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>除了可以訪問各種功能的腳本之外，您還可以在這裡編輯系統設置、更改顏色選項和模擬器。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Setup</text>
 		</text>
 
+		<text name="info2" extra="true" lang="ZH">
+			<text>设置</text>
+		</text>            
+
+		<text name="info2" extra="true" lang="TW">
+			<text>設置</text>
+		</text> 
+    
 		<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>
 
 		<text name="info4" extra="true">
 			<text>Various</text>
+		</text>
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>各类人士</text>
+		</text>
+    
+		<text name="info4" extra="true" lang="TW">
+			<text>各類人士</text>
 		</text>
 
 		<text name="info5" extra="true">
@@ -45,7 +69,7 @@
 				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" lang="EN">
+		<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
 						<text name="info5" extra="true" lang="ES">
@@ -57,6 +81,14 @@
 		<text name="info5" extra="true" lang="DE">
 			<text>ENTWICKLER:</text>
 		</text>
+		<text name="info5" extra="true" lang="ZH">
+			<text>开发者:</text>
+		</text>
+    <text name="info5" extra="true" lang="TW">
+			<text>開發者:</text>
+		</text>    
+    
+    
 	</view>
 
 		<customView name="HCoinSpin">

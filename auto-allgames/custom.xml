@@ -10,7 +10,7 @@
 			<text>Aqui está agrupado todos os jogos de todos os sistemas disponíveis numa única lista, organizados por ordem alfabética. Você pode procurar o seu jogo favorito por diversos critérios e filtros através do sistema.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+	  <text name="info1" extra="true" lang="EN">
 			<text>Here is grouped all games from all available systems in a single list, organized in alphabetical order. You can search for your favorite game by various criteria and filters through the system.</text>
 		</text>
 
@@ -24,6 +24,14 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Hier sind alle Spiele aller verfügbaren Systeme in einer einzigen Liste in alphabetischer Reihenfolge gruppiert. Sie können Ihr Lieblingsspiel nach verschiedenen Kriterien und Filtern im System suchen.</text>
+		</text>
+
+	  <text name="info1" extra="true" lang="ZH">
+			<text>这里将所有可用系统中的所有游戏分组在一个列表中，按字母顺序排列。您可以通过系统通过各种标准和过滤器搜索您喜欢的游戏。</text>
+		</text>   
+    
+	  <text name="info1" extra="true" lang="TW">
+			<text>這裡將所有可用系統中的所有遊戲分組在一個列表中，按字母順序排列。您可以通過系統通過各種標準和過濾器搜索您喜歡的遊戲。</text>
 		</text>
 
 				<text name="info2" extra="true">
@@ -44,6 +52,14 @@
 		</text>
 		<text name="info2" extra="true" lang="DE">
 			<text>Alle Spiele</text>
+		</text>       
+    
+						<text name="info2" extra="true" lang="ZH">
+			<text>全部游戏</text>
+		</text>
+
+						<text name="info2" extra="true" lang="TW">
+			<text>全部游戲</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -84,6 +100,21 @@
 			<path>./assets/logos/auto-allgames-en.png</path>
 		</image>
 
+			<image name="logo" lang="ZH">
+		<path>./assets/logos/auto-allgames-en.png</path>
+	</image>
+
+	<image name="sublogo" lang="ZH">
+		<path>./assets/logos/auto-allgames-en.png</path>
+	</image>
+
+			<image name="logo" lang="TW">
+		<path>./assets/logos/auto-allgames-en.png</path>
+	</image>
+
+				<image name="sublogo" lang="TW">
+		<path>./assets/logos/auto-allgames-en.png</path>
+	</image>
 
 		<text name="info4" extra="true">
 			<text></text>

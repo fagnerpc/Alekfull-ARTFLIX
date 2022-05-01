@@ -24,6 +24,14 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>OpenBOR (Open Beats of Rage) ist eine Open-Source-Fortsetzung der Beats of Rage-Engine. Obwohl Beats of Rage als eigenständiges Spiel gedacht war, bedeutete das modulare Design der Spielelemente und der Engine, dass Endbenutzer Assets ersetzen konnten.</text>
+		</text>   
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>OpenBOR（Open Beats of Rage）是Beats of Rage引擎的开源延续。尽管Beats of Rage旨在成为一款独立游戏，但游戏内元素和引擎的模块化设计意味着最终用户能够更换资产。</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>OpenBOR（Open Beats of Rage）是Beats of Rage引擎的開源延續。儘管Beats of Rage旨在成為一款獨立遊戲，但遊戲內元素和引擎的模塊化設計意味著最終用戶能夠更換資產。</text>
 		</text>
 
 		<text name="info2" extra="true">
@@ -42,7 +50,7 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+	  <text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">
@@ -51,8 +59,14 @@
 						<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" lang="FR">
+		<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
+		</text>      
+		<text name="info5" extra="true" lang="ZH">
+			<text>开发者:</text>
+		</text>    
+		<text name="info5" extra="true" lang="TW">
+			<text>開發者:</text>
 		</text>
 	</view>
 
