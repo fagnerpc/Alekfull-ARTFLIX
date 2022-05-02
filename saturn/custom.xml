@@ -25,10 +25,27 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Sega Saturn ist eine 32-Bit-Videospielkonsole, die erstmals von Sega am 22. November 1994 in Japan, am 11. Mai 1995 in Nordamerika, am 30. August 1995 in Brasilien und am 8. Juli in Europa eingeführt wurde.</text>
 		</text>
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>世嘉土星是世嘉于 1994 年 11 月 22 日在日本、1995 年 5 月 11 日在北美、1995 年 8 月 30 日在巴西和 7 月 8 日在欧洲首次推出的 32 位视频游戏机。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>世嘉土星是世嘉於 1994 年 11 月 22 日在日本、1995 年 5 月 11 日在北美、1995 年 8 月 30 日在巴西和 7 月 8 日在歐洲首次推出的 32 位視頻遊戲機。</text>
+		</text>    
+    
 
 		<text name="info2" extra="true">
 			<text>Sega Saturn</text>
-		</text>
+		</text> 
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>世嘉土星</text>
+		</text>     
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>世嘉土星</text>
+		</text>    
 
 				<text name="info3" extra="true">
 			<text>1994</text>
@@ -36,6 +53,15 @@
 
 		<text name="info4" extra="true">
 			<text>Sega Corporation</text>
-		</text>
+		</text> 
+
+		<text name="info4" extra="true" lang="ZH">
+			<text>世嘉</text>
+		</text> 
+
+		<text name="info4" extra="true" lang="TW">
+			<text>世嘉</text>
+		</text>     
+
 	</view>
 </theme>

@@ -25,9 +25,25 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Xbox 360 ist eine von Microsoft entwickelte Heimvideospielkonsole. Es ist die zweite Konsole der Xbox-Serie. Es konkurrierte mit Sonys PlayStation 3 und Nintendos Wii als Teil der siebten Generation von Videospielkonsolen.</text>
 		</text>
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>Xbox360是微软开发的家用视频游戏机。它是Xbox系列中的第二款游戏机。作为第七代视频游戏机的一部分，它与索尼的PlayStation3和任天堂的Wii竞争。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>Xbox360是微軟開發的家用視頻遊戲機。它是Xbox系列中的第二款遊戲機。作為第七代視頻遊戲機的一部分，它與索尼的PlayStation3和任天堂的Wii競爭。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Microsoft Xbox 360</text>
+		</text>    
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>微软Xbox360</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>微軟Xbox360</text>
 		</text>
 
 				<text name="info3" extra="true">
@@ -36,7 +52,17 @@
 
 		<text name="info4" extra="true">
 			<text>Microsoft</text>
-		</text>
+		</text>    
+    
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>微软</text>
+		</text> 
+    
+		<text name="info4" extra="true" lang="TW">
+			<text>微軟</text>
+		</text>    
+    
 	</view>
 
 		<customView name="HCoinSpin">

@@ -24,11 +24,27 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Es ist eine von Sony Interactive Entertainment produzierte Konsole. Es wurde am 4. März 2000 in Japan veröffentlicht. Nach einem langsamen ersten Jahr hat sich die PlayStation 2 zur meistverkauften Konsole der Geschichte entwickelt.</text>
+		</text>  
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>它是索尼互动娱乐公司出品的游戏机。2000年3月4日在日本上映。在经历了缓慢的第一年之后，PlayStation2已经成长为历史上最畅销的游戏机。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>它是索尼互動娛樂公司出品的遊戲機。2000年3月4日在日本上映。在經歷了緩慢的第一年之後，PlayStation2已經成長為歷史上最暢銷的遊戲機。</text>
 		</text>
 
 		<text name="info2" extra="true">
 			<text>Sony PlayStation 2</text>
+		</text> 
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>索尼PlayStation2</text>
 		</text>
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>索尼PlayStation2</text>
+		</text>   
 
 				<text name="info3" extra="true">
 			<text>2000</text>
@@ -36,6 +52,15 @@
 
 		<text name="info4" extra="true">
 			<text>Sony Computer Entertainment</text>
-		</text>
+		</text>  
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>索尼电脑娱乐</text>
+		</text> 
+    
+		<text name="info4" extra="true" lang="TW">
+			<text>索尼電腦娛樂</text>
+		</text>    
+    
 	</view>
 </theme>

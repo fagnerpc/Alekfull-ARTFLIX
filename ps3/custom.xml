@@ -24,18 +24,44 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Es ist eine von Sony Computer Entertainment entwickelte Videospielkonsole. Es ist der Nachfolger von PlayStation 2. Es wurde am 11. November 2006 in Japan, am 17. November 2006 in Nordamerika und am 23. März 2007 in Europa und Ozeanien veröffentlicht.</text>
+		</text>    
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>它是由索尼电脑娱乐公司开发的视频游戏机。它是 PlayStation2的继任者。它于2006年11月11日在日本发布，2006 年 11 月 17 日在北美发布，2007 年 3 月 23 日在欧洲和大洋洲发布。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>它是由索尼電腦娛樂公司開發的視頻遊戲機。它是 PlayStation2的繼任者。它於2006年11月11日在日本發布，2006 年 11 月 17 日在北美發布，2007 年 3 月 23 日在歐洲和大洋洲發布。</text>
 		</text>
 
 		<text name="info2" extra="true">
 			<text>Sony PlayStation 3</text>
+		</text>      
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>索尼PlayStation3</text>
 		</text>
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>索尼PlayStation3</text>
+		</text>   
 
-				<text name="info3" extra="true">
+		<text name="info3" extra="true">
 			<text>2006</text>
-		</text>
+		</text>    
 
 		<text name="info4" extra="true">
 			<text>Sony Computer Entertainment</text>
-		</text>
+		</text> 
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>索尼电脑娱乐</text>
+		</text> 
+    
+		<text name="info4" extra="true" lang="TW">
+			<text>索尼電腦娛樂</text>
+		</text>       
+    
+    
 	</view>
 </theme>
