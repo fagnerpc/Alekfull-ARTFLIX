@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma variante japonesa do PC, construída pela Fujitsu de fevereiro de 1989 ao verão de 1997. Começou como uma variante de PC proprietária destinada a aplicativos de multimídia e jogos de PC.</text>
+			<text>Is a Japanese variant of PC, built by Fujitsu from February 1989 to the summer of 1997. It started as a proprietary PC variant intended for multimedia applications and games, but later became more compatible with IBM PC compatibles.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É uma variante japonesa do PC, construída pela Fujitsu de fevereiro de 1989 ao verão de 1997. Começou como uma variante de PC proprietária destinada a aplicativos de multimídia e jogos de PC.</text>
 		</text>
 

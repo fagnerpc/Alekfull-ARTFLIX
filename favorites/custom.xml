@@ -3,12 +3,12 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Encontre todos os seus jogos favoritos em um único sistema.
-Toda vez que marcar um jogo como favorito em um sistema, você o encontrará aqui.
-Aproveite!</text>
+			<text>Find all your favorites games in a single system.
+Every time you mark a game as favorites in a system, you will find it here.
+Enjoy!</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Encontre todos os seus jogos favoritos em um único sistema.
 Toda vez que marcar um jogo como favorito em um sistema, você o encontrará aqui.
 Aproveite!</text>
@@ -51,10 +51,10 @@ Viel Spaß!</text>
 		</text>
 
 				<text name="info2" extra="true">
-			<text>Favoritos</text>
+			<text>Favorites</text>
 		</text>
 
-				<text name="info2" extra="true"  lang="PTBR">
+				<text name="info2" extra="true"  lang="PT">
 			<text>Favoritos</text>
 		</text>
 						<text name="info2" extra="true" lang="EN">

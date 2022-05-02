@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É o sucessor do Game Boy da Nintendo. O portátil foi lançado no dia 21 de outubro de 1998 no Japão. Ele apresenta uma tela colorida, e é ligeiramente mais grosso e alto do que o Game Boy Pocket.</text>
+			<text>Is a handheld game console manufactured by Nintendo, which was released on October 21, 1998 in Japan and was released in November of the same year in international markets. It is the successor of the Game Boy.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É o sucessor do Game Boy da Nintendo. O portátil foi lançado no dia 21 de outubro de 1998 no Japão. Ele apresenta uma tela colorida, e é ligeiramente mais grosso e alto do que o Game Boy Pocket.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Street Fighter é uma franquia de jogos de luta desenvolvida pela Capcom. O primeiro jogo da série foi lançado em 1987, seguido por cinco outros jogos principais da série, vários spin-offs e crossovers e inúmeras aparições em várias outras mídias.</text>
+			<text>Street Fighter is a fighting game franchise developed by Capcom. The first game in the series was released in 1987, followed by five other main series games, various spin-offs and crossovers, and numerous appearances in various other media.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Street Fighter é uma franquia de jogos de luta desenvolvida pela Capcom. O primeiro jogo da série foi lançado em 1987, seguido por cinco outros jogos principais da série, vários spin-offs e crossovers e inúmeras aparições em várias outras mídias.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

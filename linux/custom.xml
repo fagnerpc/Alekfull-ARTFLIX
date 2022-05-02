@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Linux é um termo popularmente empregado para se referir a sistemas operacionais que utilizam o Kernel Linux. O kernel foi desenvolvido pelo programador finlandês Linus Torvalds, inspirado no sistema Minix.</text>
+			<text>Linux is a family of open source Unix-like operating systems based on the Linux kernel,an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Linux é um termo popularmente empregado para se referir a sistemas operacionais que utilizam o Kernel Linux. O kernel foi desenvolvido pelo programador finlandês Linus Torvalds, inspirado no sistema Minix.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

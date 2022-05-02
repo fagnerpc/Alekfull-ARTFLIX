@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Double Dragon é uma série de videogame beat'em up, inicialmente desenvolvida pela Technos Japan e lançada como um jogo de arcade em 1987. A série apresenta artistas marciais gêmeos, Billy e Jimmy Lee.</text>
+			<text>Double Dragon is a beat 'em up video game series initially developed by Technos Japan and released as an arcade game in 1987. The series features twin martial artists, Billy and Jimmy Lee.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Double Dragon é uma série de videogame beat'em up, inicialmente desenvolvida pela Technos Japan e lançada como um jogo de arcade em 1987. A série apresenta artistas marciais gêmeos, Billy e Jimmy Lee.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

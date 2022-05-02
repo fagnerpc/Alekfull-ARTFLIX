@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Batman é um super-herói fictício que aparece nos quadrinhos americanos publicados pela DC Comics. O personagem foi criado pelo artista Bob Kane e pelo escritor Bill Finger, e apareceu pela primeira vez em Detective Comics # 27 em 1939.</text>
+			<text>Batman is a fictional superhero appearing in American comic books published by DC Comics. The character was created by artist Bob Kane and writer Bill Finger, and first appeared in Detective Comics #27 in 1939.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Batman é um super-herói fictício que aparece nos quadrinhos americanos publicados pela DC Comics. O personagem foi criado pelo artista Bob Kane e pelo escritor Bill Finger, e apareceu pela primeira vez em Detective Comics # 27 em 1939.</text>
 		</text>
 
@@ -42,7 +42,7 @@
 			<text>CRIADORES:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>CRIADORES:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

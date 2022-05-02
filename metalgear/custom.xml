@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Metal Gear é uma série de videogames furtivos de ação e aventura criados por Hideo Kojima e desenvolvidos e publicados pela Konami. A série é creditada por ser pioneira e popularizar videogames furtivos e "videogames cinematográficos".</text>
+			<text>Metal Gear is a series of action-adventure stealth video games created by Hideo Kojima and developed and published by Konami. The series is credited for pioneering and popularizing stealth video games and "cinematic video games".</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Metal Gear é uma série de videogames furtivos de ação e aventura criados por Hideo Kojima e desenvolvidos e publicados pela Konami. A série é creditada por ser pioneira e popularizar videogames furtivos e "videogames cinematográficos".</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

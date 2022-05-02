@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um videogame feito pela Epoch Co. e lançado no Japão em 17 de julho de 1984, e na Europa no final de 1984. Um sucessor do Cassette Vision, ele competia com o Family Computer da Nintendo e o SG-1000 da Sega linha no Japão.</text>
+			<text>Is a home video game console made by Epoch Co. and released in Japan on July 17, 1984, and in Europe, specifically France, later in 1984. A successor to the Cassette Vision, it competed with Nintendo's Family Computer and Sega's SG-1000 line in Japan.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um videogame feito pela Epoch Co. e lançado no Japão em 17 de julho de 1984, e na Europa no final de 1984. Um sucessor do Cassette Vision, ele competia com o Family Computer da Nintendo e o SG-1000 da Sega linha no Japão.</text>
 		</text>
 		
@@ -15,7 +15,7 @@
 		</text>
 		
 				<text name="info1" extra="true" lang="ES">
-			<text>es una videoconsola doméstica fabricada por Epoch Co. y lanzada en Japón el 17 de julio de 1984 y en Europa, específicamente Francia, más tarde en 1984. Sucesora de Cassette Vision, compitió con Family Computer de Nintendo y SG-1000 de Sega. línea en Japón.</text>
+			<text>Es una videoconsola doméstica fabricada por Epoch Co. y lanzada en Japón el 17 de julio de 1984 y en Europa, específicamente Francia, más tarde en 1984. Sucesora de Cassette Vision, compitió con Family Computer de Nintendo y SG-1000 de Sega. línea en Japón.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="FR">

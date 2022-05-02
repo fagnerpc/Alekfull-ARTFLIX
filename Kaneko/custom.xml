@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi um estúdio japones de videogames fundado em Suginami, Tóquio, Japão, por Hiroshi Kaneko. Publicou vários jogos sob sua marca e outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic.</text>
+			<text>Was a Japanese video game publisher founded in Suginami, Tokyo, Japan by Hiroshi Kaneko. It published a number of games both under its brand and other companies, such as Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n, and the Gals Panic series.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Foi um estúdio japones de videogames fundado em Suginami, Tóquio, Japão, por Hiroshi Kaneko. Publicou vários jogos sob sua marca e outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

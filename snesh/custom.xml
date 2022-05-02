@@ -2,12 +2,11 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-
 		<text name="info1" extra="true">
-			<text>Super Famicom/ SNES  é um console de videogame de 16 bits desenvolvido pela Nintendo que foi lançado em 1990 no Japão. O console apresentou gráficos avançados e foi considerado um dos melhores consoles da história.</text>
+			<text>Is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Super Famicom/ SNES  é um console de videogame de 16 bits desenvolvido pela Nintendo que foi lançado em 1990 no Japão. O console apresentou gráficos avançados e foi considerado um dos melhores consoles da história.</text>
 		</text>
 

@@ -3,15 +3,15 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Sega NAOMI (sigla para New Arcade Operation Machine Idea, em português Nova ideia em operação de máquina arcade) é uma placa de arcade baseada na tecnologia utilizada no Sega Dreamcast.</text>
+			<text>The NAOMI (New Arcade Operation Machine Idea) is the successor to the Sega Model 3. Sega first demonstrated NAOMI publicly at the 1998 Amusement Machine Show.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Sega NAOMI (sigla para New Arcade Operation Machine Idea, em português Nova ideia em operação de máquina arcade) é uma placa de arcade baseada na tecnologia utilizada no Sega Dreamcast.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="EN">
-			<text>The NAOMI (New Arcade Operation Machine Idea) is the successor to the Sega Model 3. Sega first demonstrated NAOMI publicly at the 1998 Amusement Machine Show. </text>
+			<text>The NAOMI (New Arcade Operation Machine Idea) is the successor to the Sega Model 3. Sega first demonstrated NAOMI publicly at the 1998 Amusement Machine Show.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="ES">

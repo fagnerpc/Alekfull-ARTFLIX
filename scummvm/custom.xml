@@ -2,11 +2,11 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-		<text name="info1" extra="true">
-			<text>ScummVM é um software/máquina virtual que visa oferecer suporte para jogos antigos da Lucas Arts. Tais jogos são incompatíveis com os sistemas operacionais de hoje pois fazem exigências exóticas sobre memória.</text>
+				<text name="info1" extra="true">
+			<text>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) is a set of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMM system.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>ScummVM é um software/máquina virtual que visa oferecer suporte para jogos antigos da Lucas Arts. Tais jogos são incompatíveis com os sistemas operacionais de hoje pois fazem exigências exóticas sobre memória.</text>
 		</text>
 
@@ -38,10 +38,10 @@
 			<text>ScummVM Team</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

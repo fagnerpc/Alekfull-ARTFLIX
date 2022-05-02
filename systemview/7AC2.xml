@@ -121,7 +121,7 @@
 			<text>FABRICANTE:</text>
 		</text>
 
-		<text name="info5" extra="true" lang="PTBR">
+		<text name="info5" extra="true" lang="PT">
 			<text>FABRICANTE:</text>
 		</text>
 
@@ -164,10 +164,10 @@
 
 
 		<text name="info6" extra="true">
-			<text>Idioma Selecionado: PT(BR)</text>
+			<text>Selected Language: EN(US)</text>
 		</text>
 
-		<text name="info6" extra="true" lang="PTBR">
+		<text name="info6" extra="true" lang="PT">
 			<text>Idioma Selecionado: PT(BR)</text>
 		</text>
 
@@ -209,10 +209,10 @@
       </text>
 
 	<text name="playbutton" extra="true">
-		<text>JOGAR AGORA</text>
+		<text>PLAY NOW</text>
 	</text>
 
-	<text name="playbutton" extra="true" lang="PTBR">
+	<text name="playbutton" extra="true" lang="PT">
 		<text>JOGAR AGORA</text>
 	</text>
 

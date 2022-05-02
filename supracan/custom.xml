@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame doméstico lançado exclusivamente em Taiwan em 1995 pela Funtech/Dunhuang Technology. Ele é baseado no microchip Motorola 68000, que também é usado no Sega Genesis e no Neo Geo.</text>
+			<text>Is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology. It is based around the Motorola 68000 microchip, which is also used in the Sega Genesis and Neo Geo.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um console de videogame doméstico lançado exclusivamente em Taiwan em 1995 pela Funtech/Dunhuang Technology. Ele é baseado no microchip Motorola 68000, que também é usado no Sega Genesis e no Neo Geo.</text>
 		</text>
 		

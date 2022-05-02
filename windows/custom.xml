@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Wine é uma camada de compatibilidade para sistemas operativos UNIX que tem como objetivo a execução de aplicações desenvolvidas para ambientes Windows nativamente em outros sistemas operacionais.</text>
+			<text>Wine is a compatibility layer for UNIX operating systems that aims to implement the Microsoft Windows API. Thus, in theory, Wine allows the execution of applications developed for Windows on other operating systems.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Wine é uma camada de compatibilidade para sistemas operativos UNIX que tem como objetivo a execução de aplicações desenvolvidas para ambientes Windows nativamente em outros sistemas operacionais.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

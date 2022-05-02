@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Mortal Kombat é uma franquia de mídia americana centrada em uma série de videogames, originalmente desenvolvida pela Midway Games em 1992. A série tem uma reputação de altos níveis de violência gráfica, incluindo, principalmente, seus Fatalities.</text>
+			<text>Mortal Kombat is an American media franchise centered on a series of video games, originally developed by Midway Games in 1992. The series has a reputation for high levels of graphic violence, including, most notably, its Fatalities.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Mortal Kombat é uma franquia de mídia americana centrada em uma série de videogames, originalmente desenvolvida pela Midway Games em 1992. A série tem uma reputação de altos níveis de violência gráfica, incluindo, principalmente, seus Fatalities.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

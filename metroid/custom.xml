@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Metroid é uma franquia de jogos de ação e ficção científica criada pela Nintendo. Metroid segue o caçador de recompensas espacial Samus Aran, que protege a galáxia dos Piratas Espaciais e suas tentativas de aproveitar o poder das criaturas parasitas Metroid.</text>
+			<text>Metroid is a science fiction action game franchise created by Nintendo. Metroid follows space-faring bounty hunter Samus Aran, who protects the galaxy from the Space Pirates and their attempts to harness the power of the parasitic Metroid creatures.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Metroid é uma franquia de jogos de ação e ficção científica criada pela Nintendo. Metroid segue o caçador de recompensas espacial Samus Aran, que protege a galáxia dos Piratas Espaciais e suas tentativas de aproveitar o poder das criaturas parasitas Metroid.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

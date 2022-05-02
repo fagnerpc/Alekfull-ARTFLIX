@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Nintendo Co., Ltd. é uma empresa multinacional japonesa de eletrônicos e videogames com sede em Kyoto, Japão. A empresa foi fundada em 1889 como Nintendo Karuta pelo artesão Fusajiro Yamauchi e originalmente produzia cartas de jogar hanafuda feitas à mão.</text>
+			<text>Nintendo Co., Ltd. is a Japanese multinational consumer electronics and video game company headquartered in Kyoto, Japan. The company was founded in 1889 as Nintendo Karuta by craftsman Fusajiro Yamauchi and originally produced handmade hanafuda playing cards.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Nintendo Co., Ltd. é uma empresa multinacional japonesa de eletrônicos e videogames com sede em Kyoto, Japão. A empresa foi fundada em 1889 como Nintendo Karuta pelo artesão Fusajiro Yamauchi e originalmente produzia cartas de jogar hanafuda feitas à mão.</text>
 		</text>
 		
@@ -42,7 +42,7 @@
 			<text>FUNDADOR:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

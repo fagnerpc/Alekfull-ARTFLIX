@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Duke Nukem é um herói americano e ícone cultural mundial que salvou repetidamente a Terra de exércitos de robôs hostis, invasores alienígenas e policiais suínos mutantes. Ele é o personagem principal de uma franquia inteira com o seu nome.</text>
+			<text>Duke Nukem is an American hero and worldwide cultural icon who has repeatedly saved Earth from armies of hostile robots, alien invaders, and mutant pig cops. He is the flagship character of an entire franchise named after him.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Duke Nukem é um herói americano e ícone cultural mundial que salvou repetidamente a Terra de exércitos de robôs hostis, invasores alienígenas e policiais suínos mutantes. Ele é o personagem principal de uma franquia inteira com o seu nome.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

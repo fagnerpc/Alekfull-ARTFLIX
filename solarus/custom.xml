@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Solarus foi projetado especificamente com clássicos cult de RPG de ação em 2D, como The Legend of Zelda: A Link to the Past and Secret of Mana no Super Nintendo, ou Soleil no Sega Megadrive / Genesis.</text>
+			<text>Solarus was specifically designed with cult 2D action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana on the Super Nintendo, or Soleil on the Sega Megadrive/Genesis.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Solarus foi projetado especificamente com clássicos cult de RPG de ação em 2D, como The Legend of Zelda: A Link to the Past and Secret of Mana no Super Nintendo, ou Soleil no Sega Megadrive / Genesis.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 				<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">
@@ -59,20 +59,5 @@
 			<text>ENTWICKLER:</text>
 		</text>
 	</view>
-
-		<customView name="HCoinSpin">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
-
-
-	<customView name="CoinOps Details">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
 
 </theme>

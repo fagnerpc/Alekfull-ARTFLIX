@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O ResidualVM foi originalmente projetado para jogar jogos de aventura da LucasArts que usam o mecanismo de jogo GrimE. Em 26 de maio de 2009, o ResidualVM foi adaptado para suportar vários mecanismos. O mecanismo Sprint da Presto Studios agora também é recriado no ResidualVM.</text>
+			<text>ResidualVM was originally designed to play LucasArts adventure games that use the GrimE game engine. On May 26, 2009, ResidualVM was adapted so that it could support multiple engines. The Sprint engine from Presto Studios is now recreated in ResidualVM as well.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O ResidualVM foi originalmente projetado para jogar jogos de aventura da LucasArts que usam o mecanismo de jogo GrimE. Em 26 de maio de 2009, o ResidualVM foi adaptado para suportar vários mecanismos. O mecanismo Sprint da Presto Studios agora também é recriado no ResidualVM.</text>
 		</text>
 
@@ -38,10 +38,10 @@
 			<text>James Brown</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

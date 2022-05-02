@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Sinclair ZX81, lançado pela Sinclair Research em 1981, veio em sequência ao ZX80. Foi o primeiro computador doméstico no mundo vendido abaixo de US$ 100 (sob a forma de "kit").</text>
+			<text>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to ZX80.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Sinclair ZX81, lançado pela Sinclair Research em 1981, veio em sequência ao ZX80. Foi o primeiro computador doméstico no mundo vendido abaixo de US$ 100 (sob a forma de "kit").</text>
 		</text>
 

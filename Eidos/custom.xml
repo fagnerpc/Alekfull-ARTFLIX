@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi uma desenvolvedora de jogos eletrônicos e editora com sede em Londres no Reino Unido. Desde 2009 faz parte da Square Enix Europe. A inspiração do nome vem de Eidos, nome dado por Aristóteles ao que mais tarde viria a ser descoberto como o código genético, os blocos de construção da vida.</text>
+			<text>It was a video game developer and publisher based in London, UK. Since 2009 it has been part of Square Enix Europe. The inspiration for the name comes from Eidos, the name given by Aristotle to what would later be discovered as the genetic code, the building blocks of life.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Foi uma desenvolvedora de jogos eletrônicos e editora com sede em Londres no Reino Unido. Desde 2009 faz parte da Square Enix Europe. A inspiração do nome vem de Eidos, nome dado por Aristóteles ao que mais tarde viria a ser descoberto como o código genético, os blocos de construção da vida.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

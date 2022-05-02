@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>È um console de videogame produzido pela empresa japonesa Nintendo. Sucessor do Nintendo 64, seu codinome durante a produção era Project Dolphin e seu código de modelo é DOL-001 (referência a Dolphin).</text>
+			<text>Is a home video game console released by Nintendo in Japan and North America in -01 and Europe and Australia in 2002. The sixth generation console is the successor to the N64 and competed with PS2 and Xbox.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>È um console de videogame produzido pela empresa japonesa Nintendo. Sucessor do Nintendo 64, seu codinome durante a produção era Project Dolphin e seu código de modelo é DOL-001 (referência a Dolphin).</text>
 		</text>
 

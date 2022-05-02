@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Mario é uma franquia de mídia, publicada e produzida pela Nintendo, estrelando o personagem Mario. É uma franquia de videogame, com outras formas de mídia , incluindo várias séries de televisão e um longa-metragem.</text>
+			<text>Mario is a media franchise, published and produced by Nintendo, starring the fictional Italian character Mario. It is primarily a video game franchise, with the franchise's other forms of media including several television series and a feature film.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Mario é uma franquia de mídia, publicada e produzida pela Nintendo, estrelando o personagem Mario. É uma franquia de videogame, com outras formas de mídia , incluindo várias séries de televisão e um longa-metragem.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

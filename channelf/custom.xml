@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Fairchild Channel F foi o primeiro videogame da segunda geração de consoles de jogos, além de ser também o primeiro realmente programável.</text>
+			<text>Fairchild Channel F was the first video game of the second generation of game consoles, besides being also the first one really programmable.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Fairchild Channel F foi o primeiro videogame da segunda geração de consoles de jogos, além de ser também o primeiro realmente programável.</text>
 		</text>
 

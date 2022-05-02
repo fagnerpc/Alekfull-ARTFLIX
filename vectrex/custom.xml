@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Vectrex, que usava o processador Motorola MC68A09, era o único videogame que apresentava gráficos vetoriais em seu monitor pré-integrado ao console, ao qual era possível conectar até dois controladores.</text>
+			<text>The Vectrex is a vector display-based home video game console that was developed by Western Technologies/Smith Engineering. It was licensed and distributed first by General Consumer Electronics (GCE).</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Vectrex, que usava o processador Motorola MC68A09, era o único videogame que apresentava gráficos vetoriais em seu monitor pré-integrado ao console, ao qual era possível conectar até dois controladores.</text>
 		</text>
 
@@ -38,20 +38,5 @@
 			<text>General Consumer Electronics</text>
 		</text>
 	</view>
-
-		<customView name="HCoinSpin">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
-
-
-	<customView name="CoinOps Details">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
 
 </theme>

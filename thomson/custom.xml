@@ -2,11 +2,11 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-		<text name="info1" extra="true">
-			<text>O Thomson TO8 é um computador caseiro produzido pela empresa francesa Thomson SA em 1986. Substituiu seu antecessor, o Thomson TO7/70 enquanto continuou totalmente compatível.</text>
+				<text name="info1" extra="true">
+			<text>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986. It replaces its predecessor, the Thomson TO7/70 while remaining essentially fully compatible.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Thomson TO8 é um computador caseiro produzido pela empresa francesa Thomson SA em 1986. Substituiu seu antecessor, o Thomson TO7/70 enquanto continuou totalmente compatível.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Commodore Amiga é uma família de computadores de 16/32 bits fabricados pela empresa canadense Commodore Business Machines nos anos 80 e 90. Ficaram famosos pelos recursos muito a frente dos rivais IBM-PC.</text>
+			<text>Is Commodore International's third-generation Amiga computer, aimed at the home computer market. It was launched on October 21, 1992, at a base price of £399 in the United Kingdom.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Commodore Amiga é uma família de computadores de 16/32 bits fabricados pela empresa canadense Commodore Business Machines nos anos 80 e 90. Ficaram famosos pelos recursos muito a frente dos rivais IBM-PC.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Visual Pinball é uma engine open source e freeware para mesas de pinball e jogos similares. O software é composto por um editor e a própria parte do simulador. Também é capaz de operar com o Visual PinMAME, um emulador para imagens de ROM de máquinas reais de pinball.</text>
+			<text>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games. The software is composed of an editor and the simulator part itself. Also able to operate with Visual PinMAME, an emulator for ROM images from real pinball machines.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Visual Pinball é uma engine open source e freeware para mesas de pinball e jogos similares. O software é composto por um editor e a própria parte do simulador. Também é capaz de operar com o Visual PinMAME, um emulador para imagens de ROM de máquinas reais de pinball.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

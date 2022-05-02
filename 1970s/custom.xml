@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>A década de 1970 viu o início da era de ouro dos jogos de arcade. As máquinas de fliperama operadas por moedas tornaram-se populares, apresentando clássicos como Pac-Man, Galaxians e Space Invaders. Também é assim a chegada dos primeiros consoles domésticos, como o Atari 2600.</text>
+			<text>The 1970's saw the start of the golden age of arcade games. Coin operated arcade machines became popular featuring classics such as Pac-Man, Galaxians and Space Invaders. It also saw the arrival of the first home consoles such as the Atari 2600.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>A década de 1970 viu o início da era de ouro dos jogos de arcade. As máquinas de fliperama operadas por moedas tornaram-se populares, apresentando clássicos como Pac-Man, Galaxians e Space Invaders. Também é assim a chegada dos primeiros consoles domésticos, como o Atari 2600.</text>
 		</text>
 		

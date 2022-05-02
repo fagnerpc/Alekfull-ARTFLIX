@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Tandy 1000 é o primeiro de uma linha de sistemas de computadores domésticos semelhantes ao IBM PC produzidos pela Tandy Corporation para venda em suas cadeias de lojas Radio Shack e Radio Shack Computer Center.</text>
+			<text>The Tandy 1000 is the first in a line of IBM PC workalike home computer systems produced by the Tandy Corporation for sale in its Radio Shack and Radio Shack Computer Center chains of stores.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>O Tandy 1000 é o primeiro de uma linha de sistemas de computadores domésticos semelhantes ao IBM PC produzidos pela Tandy Corporation para venda em suas cadeias de lojas Radio Shack e Radio Shack Computer Center.</text>
 		</text>
 		

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um gênero onde enfatiza habilidades de pensamento e planejamento para alcançar a vitória. Os jogos enfatizam a estratégia, tática e algumas vezes desafios lógísticos. Muitos jogos também oferecem desafios econômicos e exploração.</text>
+			<text>It is a genre where it emphasizes thinking and planning skills to achieve victory. Games emphasize strategy, tactics, and sometimes logistical challenges. Many games also offer economic challenges and exploration.</text>
 		</text>
 		
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um gênero onde enfatiza habilidades de pensamento e planejamento para alcançar a vitória. Os jogos enfatizam a estratégia, tática e algumas vezes desafios lógísticos. Muitos jogos também oferecem desafios econômicos e exploração.</text>
 		</text>		
 
@@ -31,7 +31,7 @@
 			<text>Jogos de Estratégia</text>
 		</text>
 		
-		<text name="info2" extra="true" lang="PTBR">
+		<text name="info2" extra="true" lang="PT">
 			<text>Jogos de Estratégia</text>
 		</text>		
 		
@@ -60,10 +60,10 @@
 		</text>		
 		
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

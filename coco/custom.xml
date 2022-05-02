@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Também chamado Tandy Color Computer (ou tão somente CoCo) foi um computador doméstico, lançado em 1980. O objetivo inicial deste projeto, denominado "Green Thumb", era produzir um terminal de videotexto de baixo custo para ser usado por pessoas ligadas ao campo.</text>
+			<text>RadioShack's TRS-80 Color Computer was a home computer, launched in 1980. The initial objective of this project, called "Green Thumb", was to produce a low-cost videotext terminal for be used by people connected to the field.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Também chamado Tandy Color Computer (ou tão somente CoCo) foi um computador doméstico, lançado em 1980. O objetivo inicial deste projeto, denominado "Green Thumb", era produzir um terminal de videotexto de baixo custo para ser usado por pessoas ligadas ao campo.</text>
 		</text>
 		

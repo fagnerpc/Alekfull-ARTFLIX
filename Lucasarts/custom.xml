@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>A LucasArts ficou conhecida por sua linha de jogos de aventura baseados em seu motor SCUMM na década de 1990, incluindo Maniac Mansion, a série Monkey Island e vários títulos de Indiana Jones. Vários desenvolvedores de jogos influentes foram ex-alunos da LucasArts nesse período.</text>
+			<text>LucasArts became known for its line of adventure games based on its SCUMM engine in the 1990s, including Maniac Mansion, the Monkey Island series, and several Indiana Jones titles. A number of influential game developers were alumni of LucasArts from this period.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>A LucasArts ficou conhecida por sua linha de jogos de aventura baseados em seu motor SCUMM na década de 1990, incluindo Maniac Mansion, a série Monkey Island e vários títulos de Indiana Jones. Vários desenvolvedores de jogos influentes foram ex-alunos da LucasArts nesse período.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

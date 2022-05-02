@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Pygame é um conjunto de módulos Python projetados para escrever videogames. O Pygame adiciona funcionalidade à excelente biblioteca SDL. Isso permite que você crie jogos e programas multimídia completos na linguagem python.</text>
+			<text>Pygame is a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Pygame é um conjunto de módulos Python projetados para escrever videogames. O Pygame adiciona funcionalidade à excelente biblioteca SDL. Isso permite que você crie jogos e programas multimídia completos na linguagem python.</text>
 		</text>
 

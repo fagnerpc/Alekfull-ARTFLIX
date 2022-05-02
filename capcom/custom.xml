@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma desenvolvedora e publicadora japonesa de jogos eletrônicos sediada em Osaka. Ela é conhecida por ter criado franquias multimilionárias, tais como Resident Evil, Street Fighter, Mega-Man, Devil May Cry, Dino Crisis e Onimusha.</text>
+			<text>Is a Japanese video game developer and publisher known for creating numerous multi-million selling game franchises, including Mega Man, Street Fighter, Resident Evil, Devil May Cry, Onimusha, Dino Crisis, Dead Rising, Sengoku Basara, Ghosts 'n Goblins.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É uma desenvolvedora e publicadora japonesa de jogos eletrônicos sediada em Osaka. Ela é conhecida por ter criado franquias multimilionárias, tais como Resident Evil, Street Fighter, Mega-Man, Devil May Cry, Dino Crisis e Onimusha.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Commodore 16 é um computador doméstico fabricado pela Commodore International com uma CPU 7501 ou 8501 compatível com 6502, lançada em 1984 e destinada a ser um computador básico para substituir o VIC-20. Teve algum sucesso na Europa.</text>
+			<text>Commodore 16 is a home computer made by Commodore International with a 6502-compatible 7501 or 8501 CPU, released in 1984 and intended to be an entry-level computer to replace the VIC-20. It enjoyed some success in certain European countries.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Commodore 16 é um computador doméstico fabricado pela Commodore International com uma CPU 7501 ou 8501 compatível com 6502, lançada em 1984 e destinada a ser um computador básico para substituir o VIC-20. Teve algum sucesso na Europa.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O desenvolvimento do sistema começou em 1976 e um protótipo foi demonstrado na Consumer Electronics Show de janeiro de 1977. Uma série de problemas atrasou as versões de produção até dezembro de 1977, quando o TRS-80 e o Apple II já haviam iniciado as entregas.</text>
+			<text>Development of the system began in 1976 and a prototype was demonstrated at the January 1977 Consumer Electronics Show. A series of problems delayed production versions until December 1977, by which time the TRS-80 and Apple II had already begun deliveries.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>O desenvolvimento do sistema começou em 1976 e um protótipo foi demonstrado na Consumer Electronics Show de janeiro de 1977. Uma série de problemas atrasou as versões de produção até dezembro de 1977, quando o TRS-80 e o Apple II já haviam iniciado as entregas.</text>
 		</text>
 		

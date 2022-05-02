@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um computador doméstico/pessoal produzido pela Atari Corporation e vendido entre 1985 e o início da década de 1990. Oficialmente, ST significava "Sixteen/Thirty-two" ("Dezesseis/Trinta e dois").</text>
+			<text>Is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The initial ST model, the 520ST, saw limited release in April–June 1985 and was widely available in July.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um computador doméstico/pessoal produzido pela Atari Corporation e vendido entre 1985 e o início da década de 1990. Oficialmente, ST significava "Sixteen/Thirty-two" ("Dezesseis/Trinta e dois").</text>
 		</text>
 

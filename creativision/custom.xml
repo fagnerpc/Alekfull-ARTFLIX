@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um computador híbrido e console de videogame doméstico lançado pela VTech em 1982. A unidade híbrida era semelhante em conceito a computadores como o APF Imagination Machine, que anteciparam a tendência dos consoles de videogame se tornarem mais computadores low-end.</text>
+			<text>Is a hybrid computer and home video game console released by VTech in 1982. The hybrid unit was similar in concept to computers such as the APF Imagination Machine, all of which anticipated the trend of video game consoles becoming more like low-end computers.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um computador híbrido e console de videogame doméstico lançado pela VTech em 1982. A unidade híbrida era semelhante em conceito a computadores como o APF Imagination Machine, que anteciparam a tendência dos consoles de videogame se tornarem mais computadores low-end.</text>
 		</text>
 		

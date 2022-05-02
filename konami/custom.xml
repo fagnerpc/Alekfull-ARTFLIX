@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Konami é um conglomerado japonês de entretenimento e jogos de azar. Opera como distribuidor de produtos (que produz e distribui anime, tokusatsu, caça-níqueis,e máquinas de pachinko), desenvolvedor de videogame e empresa editora.</text>
+			<text>Konami is a Japanese entertainment and gambling conglomerate. It operates as a product distributor (which produces and distributes trading cards, anime, tokusatsu, slot machines, pachinko machines and arcade cabinets), video game developer and publisher company.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Konami é um conglomerado japonês de entretenimento e jogos de azar. Opera como distribuidor de produtos (que produz e distribui anime, tokusatsu, caça-níqueis,e máquinas de pachinko), desenvolvedor de videogame e empresa editora.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-		<text name="info5" extra="true"  lang="PTBR">
+		<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 		<text name="info5" extra="true" lang="EN">

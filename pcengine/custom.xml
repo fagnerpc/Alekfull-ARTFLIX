@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame lançado em 1987 pela NEC e Hudson Soft. Após seu lançamento no Japão e sua aceitação nesse país, foi lançado em 1988 nos Estados Unidos batizado de Turbo Grafx-16.</text>
+			<text>TurboGrafx-16 (PC Engine) is a home video game console jointly developed by Hudson Soft and NEC Home Electronics, released in Japan on October 30, 1987 and in the United States on August 29, 1989.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um console de videogame lançado em 1987 pela NEC e Hudson Soft. Após seu lançamento no Japão e sua aceitação nesse país, foi lançado em 1988 nos Estados Unidos batizado de Turbo Grafx-16.</text>
 		</text>
 
@@ -27,7 +27,7 @@
 		</text>
 
 
-		<text name="info2" extra="true" lang="PTBR">
+		<text name="info2" extra="true" lang="PT">
 			<text>PC Engine</text>
 		</text>
 

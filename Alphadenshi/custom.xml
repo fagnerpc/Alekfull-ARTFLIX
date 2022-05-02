@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Começou como desenvolvedora de jogos de arcade e é mais conhecida por sua biblioteca de títulos Neo Geo, produzida em parceria com a SNK. O mais notável entre eles são seus jogos de luta e, em particular, a série World Heroes.</text>
+			<text>Began as a developer of arcade games and is best known for their library of Neo Geo titles, produced in partnership with SNK. Most notable among these are their fighting games and, in particular, the World Heroes series.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Começou como desenvolvedora de jogos de arcade e é mais conhecida por sua biblioteca de títulos Neo Geo, produzida em parceria com a SNK. O mais notável entre eles são seus jogos de luta e, em particular, a série World Heroes.</text>
 		</text>
 		

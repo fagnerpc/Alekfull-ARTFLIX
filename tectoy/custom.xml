@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>A Tectoy é uma empresa brasileira de equipamentos eletrônicos de consumo, conhecida principalmente por seu trabalho na produção e comercialização de consoles e jogos eletrônicos.</text>
+			<text>Tectoy is a Brazilian company of consumer electronic equipment, known mainly for its work in the production and commercialization of consoles and electronic games.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>A Tectoy é uma empresa brasileira de equipamentos eletrônicos de consumo, conhecida principalmente por seu trabalho na produção e comercialização de consoles e jogos eletrônicos.</text>
 		</text>
 

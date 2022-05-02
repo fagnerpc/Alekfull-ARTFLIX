@@ -2,11 +2,11 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-				<text name="info1" extra="true">
-			<text>Commodore Amiga é uma família de computadores de 16/32 bits fabricados pela empresa canadense Commodore Business Machines nos anos 80 e 90. Ficaram famosos pelos recursos muito a frente dos rivais IBM-PC.</text>
+		<text name="info1" extra="true">
+			<text>Also known as the A600, is a home computer that was introduced at the CeBIT show in March 1992. The A600 is Commodore International's final model based on the Motorola 68000 CPU.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="PTBR">
+				<text name="info1" extra="true" lang="PT">
 			<text>Commodore Amiga é uma família de computadores de 16/32 bits fabricados pela empresa canadense Commodore Business Machines nos anos 80 e 90. Ficaram famosos pelos recursos muito a frente dos rivais IBM-PC.</text>
 		</text>
 

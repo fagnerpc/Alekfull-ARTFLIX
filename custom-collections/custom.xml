@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Estão organizadas aqui todas as Coleções Customizadas de jogos de franquias, estilos, empresas e sistemas específicos. Você pode fazer a sua própria coleção através do sistema, selecionando seus jogos favoritos.</text>
+			<text>All Custom Collections of games of franchises, styles, companies and specific systems are organized here. You can make your own collection through the system by selecting your favorite games.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Estão organizadas aqui todas as Coleções Customizadas de jogos de franquias, estilos, empresas e sistemas específicos.  Você pode fazer a sua própria coleção através do sistema, selecionando seus jogos favoritos.</text>
 		</text>
 
@@ -26,10 +26,10 @@
 			<text>Alle benutzerdefinierten Sammlungen von Spielen von Franchises, Stilen, Firmen und spezifischen Systemen sind hier organisiert. Sie können Ihre eigene Sammlung über das System erstellen, indem Sie Ihre Lieblingsspiele auswählen.</text>
 		</text>
 				<text name="info2" extra="true">
-			<text>Coleção Customizada</text>
+			<text>Custom Collections</text>
 		</text>
 
-			<text name="info2" extra="true"  lang="PTBR">
+			<text name="info2" extra="true"  lang="PT">
 			<text>Coleção Customizada</text>
 		</text>
 						<text name="info2" extra="true" lang="EN">

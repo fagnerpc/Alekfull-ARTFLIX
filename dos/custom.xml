@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O DOS, sigla para Disk Operating System ou sistema operacional em disco é um acrónimo para vários sistemas operativos intimamente relacionados que dominaram o mercado para compatíveis IBM PC entre 1981 e 1995.</text>
+			<text>DOS, acronyme de Disk Operating System ou de système d’exploitation de disques, est un acronyme pour plusieurs systèmes d’exploitation étroitement liés qui ont dominé le marché des PC compatibles IBM entre 1981 et 1995.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O DOS, sigla para Disk Operating System ou sistema operacional em disco é um acrónimo para vários sistemas operativos intimamente relacionados que dominaram o mercado para compatíveis IBM PC entre 1981 e 1995.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

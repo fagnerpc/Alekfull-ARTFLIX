@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Atomiswave é uma placa de arcade lançada pela Sammy Corporation em 2003, baseado nas especificações técnicas do Sega Dreamcast (portanto, em termos técnicos, levemente inferior à Sega NAOMI).</text>
+			<text>Atomiswave is an arcade card released by Sammy Corporation in 2003, based on the Sega Dreamcast technical specifications (thus slightly lower than Sega NAOMI in technical terms).</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Atomiswave é uma placa de arcade lançada pela Sammy Corporation em 2003, baseado nas especificações técnicas do Sega Dreamcast (portanto, em termos técnicos, levemente inferior à Sega NAOMI).</text>
 		</text>
 

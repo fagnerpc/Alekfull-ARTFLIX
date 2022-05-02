@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>São jogos de mesa que normalmente usam peças - movidas ou colocadas em um tabuleiro pré-marcado (superfície de jogo) e geralmente incluem elementos de jogos de mesa, cartas, role-playing e miniaturas também.</text>
+			<text>Board games are tabletop games that typically use pieces - moved or placed on a pre-marked board (playing surface) and often include elements of table, card, role-playing, and miniatures games as well.</text>
 		</text>
 		
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>São jogos de mesa que normalmente usam peças - movidas ou colocadas em um tabuleiro pré-marcado (superfície de jogo) e geralmente incluem elementos de jogos de mesa, cartas, role-playing e miniaturas também.</text>
 		</text>		
 
@@ -31,7 +31,7 @@
 			<text>Jogos de Tabuleiro</text>
 		</text>
 		
-		<text name="info2" extra="true" lang="PTBR">
+		<text name="info2" extra="true" lang="PT">
 			<text>Jogos de Tabuleiro</text>
 		</text>		
 		
@@ -60,10 +60,10 @@
 		</text>		
 		
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

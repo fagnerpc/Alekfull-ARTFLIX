@@ -3,44 +3,61 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Media player é um tipo de aplicativo para reproduzir arquivos multimídia, como arquivos de áudio e vídeo. Os players de mídia geralmente exibem ícones de controle de mídia padrão conhecidos de dispositivos físicos, como CD players.</text>
+			<text>Tecmo Co., Ltd. was a Japanese video game company founded in 1967. Its headquarters were in Kudankita, Chiyoda, Tokyo. Tecmo is known for the Star Force, Dead or Alive, Fatal Frame, Ninja Gaiden and Rygar series.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Tecmo Co., Ltd. era uma empresa japonesa de videogame fundada em 1967. Sua sede era em Kudankita, Chiyoda, Tóquio. Tecmo é conhecido pelas séries Star Force, Dead or Alive, Fatal Frame, Ninja Gaiden e Rygar.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="EN">
-			<text>Media player software is a type of application software for playing multimedia files like audio and video files. Media players commonly display standard media control icons known from physical devices such as tape recorders and CD players.</text>
+			<text>Tecmo Co., Ltd. was a Japanese video game company founded in 1967. Its headquarters were in Kudankita, Chiyoda, Tokyo. Tecmo is known for the Star Force, Dead or Alive, Fatal Frame, Ninja Gaiden and Rygar series.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="ES">
-			<text>Media Player es un tipo de software de aplicación para reproducir archivos multimedia como archivos de audio y video. Los reproductores multimedia suelen mostrar iconos de control multimedia conocidos desde dispositivos físicos, como reproductores de CD.</text>
+			<text>Tecmo Co., Ltd. fue una empresa japonesa de videojuegos fundada en 1967. Su sede estaba en Kudankita, Chiyoda, Tokio. Tecmo es conocido por las series Star Force, Dead or Alive, Fatal Frame, Ninja Gaiden y Rygar.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="FR">
-			<text>Est un type de logiciel d'application pour lire des fichiers multimédias comme des fichiers audio et vidéo. Les lecteurs multimédias affichent généralement des icônes de contrôle multimédia standard connues des périphériques physiques tels que les lecteurs de CD.</text>
+			<text>Tecmo Co., Ltd. était une société japonaise de jeux vidéo fondée en 1967. Son siège social était à Kudankita, Chiyoda, Tokyo. Tecmo est connu pour les séries Star Force, Dead or Alive, Fatal Frame, Ninja Gaiden et Rygar.</text>
 		</text>
 
 		<text name="info1" extra="true" lang="DE">
-			<text>Media-Player-Software ist eine Art von Anwendungssoftware zum Abspielen von Multimediadateien wie Audio- und Videodateien. Media-Player zeigen üblicherweise Standard-Mediensteuerungssymbole an, die von physischen Geräten wie Tonbandgeräten und CD-Playern bekannt sind.</text>
+			<text>Tecmo Co., Ltd. war ein japanisches Videospielunternehmen, das 1967 gegründet wurde. Der Hauptsitz befand sich in Kudankita, Chiyoda, Tokio. Tecmo ist bekannt für die Serien Star Force, Dead or Alive, Fatal Frame, Ninja Gaiden und Rygar.</text>
 		</text>
 
 		<text name="info2" extra="true">
-			<text>Media Player</text>
+			<text>Tecmo</text>
 		</text>
 
 		<text name="info3" extra="true">
-			<text>20XX</text>
+			<text>1967</text>
 		</text>
 
 		<text name="info4" extra="true">
-			<text></text>
+			<text>Yoshihito Kakihara</text>
 		</text>
 
 		<text name="info5" extra="true">
-			<text>ALEKFULL ARTFLIX</text>
+			<text>DEVELOPER:</text>
 		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+
 	</view>
 
 		<customView name="HCoinSpin">

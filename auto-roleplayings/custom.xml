@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>RPG é um gênero de videogame em que o jogador controla as ações de um personagem (ou vários membros do grupo) imerso em algum mundo bem definido, geralmente envolvendo alguma forma de desenvolvimento do personagem por meio de estatísticas de registro.</text>
+			<text>Role-playing game is a video game genre where the player controls the actions of a character (or several party members) immersed in some well-defined world, usually involving some form of character development by way of recording statistics.</text>
 		</text>
 		
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>RPG é um gênero de videogame em que o jogador controla as ações de um personagem (ou vários membros do grupo) imerso em algum mundo bem definido, geralmente envolvendo alguma forma de desenvolvimento do personagem por meio de estatísticas de registro.</text>
 		</text>		
 
@@ -28,10 +28,10 @@
 
 		
 		<text name="info2" extra="true">
-			<text>Jogos de RPG</text>
+			<text>RPG Games</text>
 		</text>
 		
-		<text name="info2" extra="true" lang="PTBR">
+		<text name="info2" extra="true" lang="PT">
 			<text>Jogos de RPG</text>
 		</text>		
 		
@@ -60,10 +60,10 @@
 		</text>		
 		
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

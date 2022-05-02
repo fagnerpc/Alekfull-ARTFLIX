@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>MSX foi o nome dado a uma arquitetura de microcomputadores criada no Japão em 1983, que definia um padrão para os desenvolvedores de hardware. Foi desenvolvido por Kazuhiko Nishi, vice-presidente da ASCII.</text>
+			<text>MSX spawned four generations: MSX, MSX2, MSX2+, and MSX TurboR. The first three were 8-bit computers based on the Z80 microprocessor, while the MSX TurboR was based on a custom 16-bit R800 microprocessor.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>MSX foi o nome dado a uma arquitetura de microcomputadores criada no Japão em 1983, que definia um padrão para os desenvolvedores de hardware. Foi desenvolvido por Kazuhiko Nishi, vice-presidente da ASCII.</text>
 		</text>
 

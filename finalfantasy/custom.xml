@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Final Fantasy é uma franquia japonesa de mídia de fantasia científica criada por Hironobu Sakaguchi e desenvolvida e de propriedade da Square Enix (anteriormente Square). A franquia se concentra em uma série de videogames de fantasia e ciência.</text>
+			<text>Final Fantasy is a Japanese science fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square Enix (formerly Square). The franchise centers on a series of fantasy and science fantasy role-playing video games.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Final Fantasy é uma franquia japonesa de mídia de fantasia científica criada por Hironobu Sakaguchi e desenvolvida e de propriedade da Square Enix (anteriormente Square). A franquia se concentra em uma série de videogames de fantasia e ciência.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma desenvolvedora, editora, fabricante de jogos eletrônicos e distribuidora japonesa com sede em Tóquio. Subsidiária da Sega, a empresa é internacionalmente conhecida por suas séries Megami Tensei, Persona, Etrian Odyssey e Trauma Center, entre outras.</text>
+			<text>Is a Japanese video game developer, publisher, arcade manufacturer and distribution company based in Tokyo. A subsidiary of Sega, the company is internationally known for its Megami Tensei, Persona, Etrian Odyssey and Trauma Center series, among others.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É uma desenvolvedora, editora, fabricante de jogos eletrônicos e distribuidora japonesa com sede em Tóquio. Subsidiária da Sega, a empresa é internacionalmente conhecida por suas séries Megami Tensei, Persona, Etrian Odyssey e Trauma Center, entre outras.</text>
 		</text>
 		

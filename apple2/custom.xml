@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi um modelo de computador fabricado pela Apple Inc. no final da década de 70. O primeiro Apple II era equipado com um processador MOS Technology 6502 com um clock de 1 MHz e 4 kB de memória RAM.</text>
+			<text>Is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products. It was introduced in 1977 by Jobs and was the first consumer product sold by Apple Computer, Inc.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Foi um modelo de computador fabricado pela Apple Inc. no final da década de 70. O primeiro Apple II era equipado com um processador MOS Technology 6502 com um clock de 1 MHz e 4 kB de memória RAM.</text>
 		</text>
 

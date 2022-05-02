@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Estrelando três sapos antropomórficos com nomes de doenças da pele em inglês, Rash, Zitz e Pimple, o jogo Battletoads original para o NES era conhecido por sua dificuldade, mas ainda recebeu um culto de seguidores gerando sequências para várias plataformas.</text>
+			<text>Starring three anthropomorphic frogs named after skin diseases in English, Rash, Zitz and Pimple, the original Battletoads game for the NES was known for its difficulty, but still incorporated a cult of followers generating sequences for various platforms.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Estrelando três sapos antropomórficos com nomes de doenças da pele em inglês, Rash, Zitz e Pimple, o jogo Battletoads original para o NES era conhecido por sua dificuldade, mas ainda recebeu um culto de seguidores gerando sequências para várias plataformas.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

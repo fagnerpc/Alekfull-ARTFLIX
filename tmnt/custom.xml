@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Teenage Mutant Ninja Turtles são um quarteto de ninjas tartarugas que consiste em histórias em quadrinhos, desenhos animados infantis, filmes de longa-metragem e outros produtos. Os personagens foram criados com o nome de artistas da Renascença italiana.</text>
+			<text>Teenage Mutant Ninja Turtles are a fictional superhero quartet that appear in a self-titled franchise consisting of comic books, animated children's cartoons, feature films, and other products. The characters were created with the name of Italian Renaissance artists.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Teenage Mutant Ninja Turtles são um quarteto de ninjas tartarugas que consiste em histórias em quadrinhos, desenhos animados infantis, filmes de longa-metragem e outros produtos. Os personagens foram criados com o nome de artistas da Renascença italiana.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>CRIADO POR:</text>
+			<text>CREATED BY:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>CRIADO POR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

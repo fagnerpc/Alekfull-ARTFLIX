@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um jogo de computador de tiro em primeira pessoa, criado pela Id Software e lançado em 1996. Devido à sua popularidade, ele se tornaria o primeiro jogo da série Quake, tendo sido bem recebido pelo público e crítica, levando a continuações.</text>
+			<text>It is a first-person shooter computer game, created by Id Software and released in 1996. Due to its popularity, it would become the first game in the Quake series, having been well received by the public and critics, leading to sequels.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um jogo de computador de tiro em primeira pessoa, criado pela Id Software e lançado em 1996. Devido à sua popularidade, ele se tornaria o primeiro jogo da série Quake, tendo sido bem recebido pelo público e crítica, levando a continuações.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

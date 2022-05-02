@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Você foi o melhor na sua época nos jogos Mega Drive ou SNES? Quer provar? Use emuladores modificados e você receberá conquistas conforme joga! Seu progresso será monitorado para que você possa completar todos os seus clássicos favoritos em 100%.</text>
+			<text>Were you the greatest in your day at Mega Drive or SNES games? Wanna prove it? Use modified emulators and you will be awarded achievements as you play! Your progress will be tracked so you can complete all your favourite classics to 100%.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Você foi o melhor na sua época nos jogos Mega Drive ou SNES? Quer provar? Use emuladores modificados e você receberá conquistas conforme joga! Seu progresso será monitorado para que você possa completar todos os seus clássicos favoritos em 100%..</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

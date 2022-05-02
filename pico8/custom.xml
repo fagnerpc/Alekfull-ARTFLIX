@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma máquina virtual e motor de jogo criado pela Lexaloffle Games. Ele é projetado para imitar um "console de videogame de fantasia, emulando as severas limitações de hardware dos consoles de videogame no início dos anos 1980.</text>
+			<text>Is a virtual machine and game engine created by Lexaloffle Games. It is designed to mimic a "fantasy video game console, by emulating the harsh hardware limitations of the video game consoles around the early 1980s.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É uma máquina virtual e motor de jogo criado pela Lexaloffle Games. Ele é projetado para imitar um "console de videogame de fantasia, emulando as severas limitações de hardware dos consoles de videogame no início dos anos 1980.</text>
 		</text>
 

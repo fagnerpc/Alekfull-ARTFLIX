@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Sistema destinado a jogos multiplayer do Game Boy Advance. Utilizando o Cabo Game Link era possível a interação multiplayer com várias gerações do GameBoy e até o GameCube.</text>
+			<text>Is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Sistema destinado a jogos multiplayer do Game Boy Advance. Utilizando o Cabo Game Link era possível a interação multiplayer com várias gerações do GameBoy e até o GameCube.</text>
 		</text>
 

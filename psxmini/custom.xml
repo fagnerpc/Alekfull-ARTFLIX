@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O PlayStation Classic é um console de videogame dedicado da Sony Interactive Entertainment que emula os jogos originalmente lançados no console PlayStation de 1994. Foi anunciado em setembro de 2018 no TGS e lançado no 24º aniversário do lançamento do original.</text>
+			<text>PlayStation Classic is a dedicated video game console by Sony Interactive Entertainment that emulates games originally released on its 1994 PlayStation console. It was announced in September 2018 at the TGS, and released on the 24th anniversary of the release of the original.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O PlayStation Classic é um console de videogame dedicado da Sony Interactive Entertainment que emula os jogos originalmente lançados no console PlayStation de 1994. Foi anunciado em setembro de 2018 no TGS e lançado no 24º aniversário do lançamento do original.</text>
 		</text>
 

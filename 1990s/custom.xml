@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>A década de 1990 viu o ressurgimento dos fliperamas com o lançamento de jogos de luta de grande impacto como Streetfighter, Tekken e Mortal Kombat. Para o mercado doméstico, assistimos ao lançamento de consoles de 5ª geração, como Sony Playstation, Sega Saturn e Nintendo 64.</text>
+			<text>The 1990's saw the re-emergance of arcade's as heavy hitting fighting games like Streetfighter, Tekken and Mortal Kombat were released. The home market saw the release of 5th Generation consoles such as the Sony Playstation, Sega Saturn, and Nintendo 64.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>A década de 1990 viu o ressurgimento dos fliperamas com o lançamento de jogos de luta de grande impacto como Streetfighter, Tekken e Mortal Kombat. Para o mercado doméstico, assistimos ao lançamento de consoles de 5ª geração, como Sony Playstation, Sega Saturn e Nintendo 64.</text>
 		</text>
 		

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Sega 32x é um acessório para o console da Sega, o Mega Drive, Genesis Na América do Norte. O acessório deveria ser inserido na entrada de cartucho do Mega Drive, recebendo cartuchos próprios ou do Mega Drive.</text>
+			<text>The 32X is an add-on for the Sega Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Genesis and serve as a transitional console into the 32-bit.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Sega 32x é um acessório para o console da Sega, o Mega Drive, Genesis Na América do Norte. O acessório deveria ser inserido na entrada de cartucho do Mega Drive, recebendo cartuchos próprios ou do Mega Drive.</text>
 		</text>
 
@@ -30,7 +30,7 @@
 			<text>Sega 32X</text>
 		</text>
 
-		<text name="info2" extra="true" lang="PTBR">
+		<text name="info2" extra="true" lang="PT">
 			<text>Sega 32X</text>
 		</text>
 						<text name="info2" extra="true" lang="EN">

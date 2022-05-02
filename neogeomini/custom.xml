@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Neo Geo Mini é um fliperama em miniatura contendo 40 títulos de jogos da empresa. O aparelho possui uma tela de 3.5 polegadas, controle embutido e saída HDMI. Além do controle próprio, pode-se usar os controles do Neo Geo CD adaptados.</text>
+			<text>Neo Geo Mini is a miniature arcade containing 40 company game titles. The device has a 3.5 inch screen, built-in control and HDMI output. In addition to your own control, you can use the Neo Geo CD controls, adapted for the miniature console.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Neo Geo Mini é um fliperama em miniatura contendo 40 títulos de jogos da empresa. O aparelho possui uma tela de 3.5 polegadas, controle embutido e saída HDMI. Além do controle próprio, pode-se usar os controles do Neo Geo CD adaptados.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Também conhecido pela sigla PSP, é um console portátil de videogames da família PlayStation desenvolvido pela Sony Computer Entertainment. Seu principal concorrente é o Nintendo DS, console portátil da Nintendo.</text>
+			<text>PSP is a handheld game console developed by Sony Computer Entertainment. Development of the handheld was announced during E3 2003 and it was unveiled on May 11, 2004, at a Sony press conference before E3 2004.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Também conhecido pela sigla PSP, é um console portátil de videogames da família PlayStation desenvolvido pela Sony Computer Entertainment. Seu principal concorrente é o Nintendo DS, console portátil da Nintendo.</text>
 		</text>
 

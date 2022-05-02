@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma série de videogames que apresenta as aventuras de um gorila chamado Donkey Kong, concebido por Shigeru Miyamoto em 1981. A franquia consiste principalmente em dois gêneros de jogos, mas também inclui títulos adicionais de vários gêneros.</text>
+			<text>Is a series of video games featuring the adventures of a gorilla character called Donkey Kong, conceived by Shigeru Miyamoto in 1981. The franchise consists mainly of two game genres, but also includes additional spin-off titles of various genres.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É uma série de videogames que apresenta as aventuras de um gorila chamado Donkey Kong, concebido por Shigeru Miyamoto em 1981. A franquia consiste principalmente em dois gêneros de jogos, mas também inclui títulos adicionais de vários gêneros.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

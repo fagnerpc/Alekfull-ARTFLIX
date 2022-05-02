@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Aqui você encontrará todos os jogos desse estilo da sua coleção alocados em um único sistema. Os jogos inclusos aqui foram selecionados automaticamente pelo sistema, de acordo com o estilo do jogo.</text>
+			<text>Here you will find all games of this style from your collection allocated in a single system. The games included here were automatically selected by the system, according to the game style.</text>
 		</text>
 		
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Aqui você encontrará todos os jogos desse estilo da sua coleção alocados em um único sistema. Os jogos inclusos aqui foram selecionados automaticamente pelo sistema, de acordo com o estilo do jogo.</text>
 		</text>		
 
@@ -31,7 +31,7 @@
 			<text>Esportes com Animais</text>
 		</text>
 		
-		<text name="info2" extra="true" lang="PTBR">
+		<text name="info2" extra="true" lang="PT">
 			<text>Esportes com Animais</text>
 		</text>		
 		
@@ -60,10 +60,10 @@
 		</text>		
 		
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

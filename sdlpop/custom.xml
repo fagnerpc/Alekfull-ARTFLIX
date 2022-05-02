@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>SDLPoP é uma port de código aberto do Prince of Persia que roda nativamente em Windows e Linux. É baseado em uma desmontagem da versão DOS e usa SDL.</text>
+			<text>SDLPoP is an open-source port of Prince of Persia that runs natively on Windows and Linux. It is based on a disassembly of the DOS version, and uses SDL.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>SDLPoP é uma port de código aberto do Prince of Persia que roda nativamente em Windows e Linux. É baseado em uma desmontagem da versão DOS e usa SDL.</text>
 		</text>
 		

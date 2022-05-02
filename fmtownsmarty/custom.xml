@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame de quinta geração lançado em 1993 pela Fujitsu, exclusivamente para o mercado japonês. É considerado o primeiro videogame doméstico baseado em CD de 32 bits, embora tenha um barramento de dados de 16 bits, assim como o Commodore CDTV e Sega CD.</text>
+			<text>Is a fifth-generation home video game console released in 1993 by Fujitsu, exclusively for the Japanese market. It is often claimed to be the first 32-bit CD-based home video game system, although it has a 16-bit data bus, just like the earlier Commodore CDTV and Sega CD.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um console de videogame de quinta geração lançado em 1993 pela Fujitsu, exclusivamente para o mercado japonês. É considerado o primeiro videogame doméstico baseado em CD de 32 bits, embora tenha um barramento de dados de 16 bits, assim como o Commodore CDTV e Sega CD.</text>
 		</text>
 		

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O computador doméstico X1 (ou CZ-800C) foi o primeiro de uma bem-sucedida série de máquinas multimídia precoces vendidas no Japão entre 1982 e 1988 pela Sharp.</text>
+			<text>The X1 (or CZ-800C) home computer was the first in a successful series of early multimedia machines sold in Japan between 1982 and 1988 by Sharp.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O computador doméstico X1 (ou CZ-800C) foi o primeiro de uma bem-sucedida série de máquinas multimídia precoces vendidas no Japão entre 1982 e 1988 pela Sharp.</text>
 		</text>
 

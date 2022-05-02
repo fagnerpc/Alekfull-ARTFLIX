@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Xbox é um console de videogame doméstico e o primeiro da série fabricados pela Microsoft. É classificado como um console de sexta geração, competindo com o PlayStation 2 da Sony e o GameCube da Nintendo.</text>
+			<text>Xbox is a home video game console and the first installment in the Xbox series of video game consoles manufactured by Microsoft. It is classified as a sixth generation console, competing with PS2 and GameCube.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Xbox é um console de videogame doméstico e o primeiro da série fabricados pela Microsoft. É classificado como um console de sexta geração, competindo com o PlayStation 2 da Sony e o GameCube da Nintendo.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Super Tux (McComb Milestone) é um jogo de computador de código aberto desenvolvido em 2D que se baseia nos primeiros jogos da série Mario, da Nintendo, e traz o Tux, mascote do Linux como atração principal.</text>
+			<text>Super Tux (McComb Milestone) is an open source computer game developed in 2D that is based on the first games in Nintendo's Mario series, and features Tux, the mascot of Linux as its main attraction.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Super Tux (McComb Milestone) é um jogo de computador de código aberto desenvolvido em 2D que se baseia nos primeiros jogos da série Mario, da Nintendo, e traz o Tux, mascote do Linux como atração principal.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

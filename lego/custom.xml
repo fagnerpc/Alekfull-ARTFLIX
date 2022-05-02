@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Desde 1995, vários videogames comerciais baseados em Lego, o sistema de construção produzido pelo Grupo Lego, foram lançados. Após o segundo jogo, Lego Island, desenvolvido e publicado pela Mindscape, o The Lego Group publicou jogos por conta própria com sua divisão Lego Media.</text>
+			<text>Since 1995, various commercial video games based on Lego, the construction system produced by The Lego Group, have been released. Following the second game, Lego Island, developed and published by Mindscape, The Lego Group published games on its own with its Lego Media division.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Desde 1995, vários videogames comerciais baseados em Lego, o sistema de construção produzido pelo Grupo Lego, foram lançados. Após o segundo jogo, Lego Island, desenvolvido e publicado pela Mindscape, o The Lego Group publicou jogos por conta própria com sua divisão Lego Media.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

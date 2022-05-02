@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É considerado melhor do que o console dominante na época, o Atari 2600, mas perdeu sua posição com o advento do Atari 5200 e o ColecoVision. O sistema de jogos era composto por 51 jogos únicos e 10 variações.</text>
+			<text>It is considered better than the dominant console at the time, the Atari 2600, but it lost its position with the advent of the Atari 5200 and ColecoVision. The game system consisted of 51 unique games and 10 variations.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É considerado melhor do que o console dominante na época, o Atari 2600, mas perdeu sua posição com o advento do Atari 5200 e o ColecoVision. O sistema de jogos era composto por 51 jogos únicos e 10 variações.</text>
 		</text>
 		

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Acclaim Entertainment, Inc. era uma editora americana de videogames com sede em Glen Cove, Nova York. Formado por ex-funcionários da Activision chamados Acclaim para que ficasse acima da Activision e Accolade (também formado por ex-funcionários da Activision) em listas alfabéticas.</text>
+			<text>Acclaim Entertainment, Inc. was an American video game publisher based in Glen Cove, New York. Formed by former Activision employees named Acclaim so that it would be above Activision and Accolade (Also formed by former Activision employees) on alphabetical lists.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Acclaim Entertainment, Inc. era uma editora americana de videogames com sede em Glen Cove, Nova York. Formado por ex-funcionários da Activision chamados Acclaim para que ficasse acima da Activision e Accolade (também formado por ex-funcionários da Activision) em listas alfabéticas.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

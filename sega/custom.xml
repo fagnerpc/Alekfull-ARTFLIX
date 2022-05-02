@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>A Sega Games Co., Ltd. é uma empresa desenvolvedora de software para Video games desde 1940, e uma antiga produtora de consoles. A companhia tem tido sucesso tanto no mercado de arcades quanto no de consoles caseiros, apesar de estar fora desse último setor desde 2001. </text>
+			<text>Sega Games Co., Ltd. is a software developer company for Video Games since 1940, and a former console producer. The company has been successful in both the arcade market and home console market, although it has been away from the latter sector since 2001.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>A Sega Games Co., Ltd. é uma empresa desenvolvedora de software para Video games desde 1940, e uma antiga produtora de consoles. A companhia tem tido sucesso tanto no mercado de arcades quanto no de consoles caseiros, apesar de estar fora desse último setor desde 2001. </text>
 		</text>
 

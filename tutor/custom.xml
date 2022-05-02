@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Originalmente vendido no Japão como Pyūta (ぴゅう太) e no Reino Unido como Grandstand Tutor, é um computador doméstico produzido pelo fabricante de brinquedos japonês Tomy. Era arquitetonicamente semelhante, mas não idêntico, ao Texas Instruments TI-99/4A.</text>
+			<text>Originally sold in Japan as the Pyūta (ぴゅう太) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99/4A.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Originalmente vendido no Japão como Pyūta (ぴゅう太) e no Reino Unido como Grandstand Tutor, é um computador doméstico produzido pelo fabricante de brinquedos japonês Tomy. Era arquitetonicamente semelhante, mas não idêntico, ao Texas Instruments TI-99/4A.</text>
 		</text>
 		

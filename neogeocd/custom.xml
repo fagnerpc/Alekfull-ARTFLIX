@@ -3,10 +3,11 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Neo Geo CD, apesar de não ter sido um sucesso de vendas, tinha uma biblioteca de jogos invejável para a época, com conversões quase perfeitas das versões de arcade.</text>
+			<text>The Neo Geo CD, though not a blockbuster, had an enviable game library for the time, with near-perfect conversions of the arcade versions.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+
+		<text name="info1" extra="true" lang="PT">
 			<text>O Neo Geo CD, apesar de não ter sido um sucesso de vendas, tinha uma biblioteca de jogos invejável para a época, com conversões quase perfeitas das versões de arcade.</text>
 		</text>
 

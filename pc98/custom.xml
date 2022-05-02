@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>PC-98 (PC98) é um acrônimo referente à série de computadores NEC PC-9801. Foi fabricado em 1982, o primeiro da série de computadores pessoais PC-98 de 16 e 32 bit.</text>
+			<text>PC-98 (PC98) is an acronym for the NEC PC-9801 computer series, a personal computer model of Japanese origin. It was manufactured in 1982, the first in the series of PC-98 personal computers of 16 and 32 bit.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>PC-98 (PC98) é um acrônimo referente à série de computadores NEC PC-9801. Foi fabricado em 1982, o primeiro da série de computadores pessoais PC-98 de 16 e 32 bit.</text>
 		</text>
 

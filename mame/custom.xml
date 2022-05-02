@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>MAME significa Multiple Arcade Machine Emulator - Emulador de Múltiplas Máquinas de Arcade, em português. O MAME irá reproduzir, mais ou menos fielmente, o jogo em sua máquina.</text>
+			<text>Multiple Arcade Machine Emulator is a free and open source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>MAME significa Multiple Arcade Machine Emulator - Emulador de Múltiplas Máquinas de Arcade, em português. O MAME irá reproduzir, mais ou menos fielmente, o jogo em sua máquina.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

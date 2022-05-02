@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Os jogos de luta são caracterizados por combates corpo-a-corpo entre dois lutadores ou grupos de lutadores de força comparável, geralmente divididos em rodadas. Se vários jogadores estiverem envolvidos, os jogadores geralmente lutam entre si.</text>
+			<text>Fighting games are characterized by close combat between two fighters or groups of fighters of comparable strength, often broken into rounds. If multiple players are involved, players generally fight against each other.</text>
 		</text>
 		
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Os jogos de luta são caracterizados por combates corpo-a-corpo entre dois lutadores ou grupos de lutadores de força comparável, geralmente divididos em rodadas. Se vários jogadores estiverem envolvidos, os jogadores geralmente lutam entre si.</text>
 		</text>		
 
@@ -28,10 +28,10 @@
 
 		
 		<text name="info2" extra="true">
-			<text>Jogos de Luta</text>
+			<text>Fighting Games</text>
 		</text>
 		
-		<text name="info2" extra="true" lang="PTBR">
+		<text name="info2" extra="true" lang="PT">
 			<text>Jogos de Luta</text>
 		</text>		
 		
@@ -60,10 +60,10 @@
 		</text>		
 		
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

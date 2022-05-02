@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Kodi (anteriormente XBMC) é um aplicativo de software para media player gratuito e de código aberto desenvolvido pela XBMC Foundation, um consórcio de tecnologia sem fins lucrativos. O Kodi está disponível para vários sistemas operacionais e dispositivos.</text>
+			<text>Kodi (formerly XBMC) is a free and open-source media player software application developed by the XBMC Foundation, a non-profit technology consortium. Kodi is available for multiple operating systems and hardware platforms.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Kodi (anteriormente XBMC) é um aplicativo de software para media player gratuito e de código aberto desenvolvido pela XBMC Foundation, um consórcio de tecnologia sem fins lucrativos. O Kodi está disponível para vários sistemas operacionais e dispositivos.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

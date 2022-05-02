@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um shooter de nave espacial e uma série de videogames de ação e aventura em terceira pessoa criada pela Nintendo. Os jogos seguem uma equipe de combate de animais antropomórficos chamada Star Fox, liderada pelo protagonista-chefe Fox McCloud.</text>
+			<text>Is a spaceship shooter and third person action-adventure video game series created by Nintendo. The games follow a combat team of anthropomorphic animals called Star Fox, led by chief protagonist Fox McCloud.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um shooter de nave espacial e uma série de videogames de ação e aventura em terceira pessoa criada pela Nintendo. Os jogos seguem uma equipe de combate de animais antropomórficos chamada Star Fox, liderada pelo protagonista-chefe Fox McCloud.</text>
 		</text>
 		
@@ -42,7 +42,7 @@
 			<text>DESENVOLVEDOR:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

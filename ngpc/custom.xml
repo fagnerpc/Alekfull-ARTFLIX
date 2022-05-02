@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Tecnicamente, o Neo Geo Pocket Color é igual ao Neo Geo Pocket tradicional, sendo as únicas diferenças o ecrã, as cores e a possibilidade de ser ligado ao Dreamcast, da Sega. O console foi descontinuado em 2001.</text>
+			<text>The Neo Geo Pocket Color (also stylized as NEOGEOPOCKET COLOR, often abbreviated NGPC), is a 16-bit color handheld video game console manufactured by SNK. It is a successor to SNK's monochrome Neo Geo Pocket.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Tecnicamente, o Neo Geo Pocket Color é igual ao Neo Geo Pocket tradicional, sendo as únicas diferenças o ecrã, as cores e a possibilidade de ser ligado ao Dreamcast, da Sega. O console foi descontinuado em 2001.</text>
 		</text>
 

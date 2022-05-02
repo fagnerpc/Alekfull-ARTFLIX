@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Nintendo Switch é um console de videogame desenvolvido pela Nintendo. É um console híbrido que pode ser usado como console doméstico e dispositivo portátil. Como console da oitava geração, o Switch compete com o Xbox One e o PlayStation 4.</text>
+			<text>Nintendo Switch is a video game console developed by Nintendo. It is a hybrid console that can be used as a home console and portable device. As an eighth-generation console, the Switch competes with Xbox One and PlayStation 4.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Nintendo Switch é um console de videogame desenvolvido pela Nintendo. É um console híbrido que pode ser usado como console doméstico e dispositivo portátil. Como console da oitava geração, o Switch compete com o Xbox One e o PlayStation 4.</text>
 		</text>
 

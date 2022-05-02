@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Sonic the Hedgehog é uma série de videogames japonesa e franquia de mídia criada e de propriedade da Sega. A franquia segue Sonic, um ouriço azul que luta contra o malvado Doctor Eggman, um cientista louco.</text>
+			<text>Sonic the Hedgehog is a Japanese video game series and media franchise created and owned by Sega. The franchise follows Sonic, a blue hedgehog who battles the evil Doctor Eggman, a mad scientist.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Sonic the Hedgehog é uma série de videogames japonesa e franquia de mídia criada e de propriedade da Sega. A franquia segue Sonic, um ouriço azul que luta contra o malvado Doctor Eggman, um cientista louco.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

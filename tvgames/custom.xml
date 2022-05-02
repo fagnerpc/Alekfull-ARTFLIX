@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Aqui estão reunidos jogos que podem ser jogados em smart tv em seus sistemas operacionais. Jogos simples e complexos de várias épocas e desenvolvedoras.</text>
+			<text>Here are gathered games that can be played on smart tv on their operating systems. Simple and complex games from various eras and developers.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Aqui estão reunidos jogos que podem ser jogados em smart tv em seus sistemas operacionais. Jogos simples e complexos de várias épocas e desenvolvedoras.</text>
 		</text>
 		

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Jogos em flash podem ser executados usando tecnologias da Web padrão ou plug-ins de navegador. A criação desses jogos geralmente envolve o uso de tecnologias da Web padrão como front-end e outras tecnologias para fornecer um back-end.</text>
+			<text>Flash games can be run using standard web technologies or browser plug-ins. The creation of such games usually involves use of standard web technologies as a frontend and other technologies to provide a backend.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Jogos em flash podem ser executados usando tecnologias da Web padrão ou plug-ins de navegador. A criação desses jogos geralmente envolve o uso de tecnologias da Web padrão como front-end e outras tecnologias para fornecer um back-end.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

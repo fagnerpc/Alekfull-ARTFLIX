@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Além de tela colorida, ele possui uma memória de 512kbit, que permite a criação de jogos mais complexos. A Bandai conseguiu uma parceria com a Square, que lançou títulos como os remakes de Final Fantasy I, II e IV.</text>
+			<text>WonderSwan Color and SwanCrystal were officially supported until being discontinued by Bandai in 2003. During its lifespan, no variation of the WonderSwan was released outside of Japan.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Além de tela colorida, ele possui uma memória de 512kbit, que permite a criação de jogos mais complexos. A Bandai conseguiu uma parceria com a Square, que lançou títulos como os remakes de Final Fantasy I, II e IV.</text>
 		</text>
 

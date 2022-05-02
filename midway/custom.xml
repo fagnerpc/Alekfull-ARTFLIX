@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Midway Games Inc. (anteriormente Midway Manufacturing) era uma desenvolvedora e editora americana de videogames. As franquias da Midway incluíam Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n e NFL Blitz.</text>
+			<text>Midway Games Inc. (formerly Midway Manufacturing and commonly known as simply Midway) was an American video game developer and publisher. Midway's franchises included Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n, and NFL Blitz.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Midway Games Inc. (anteriormente Midway Manufacturing) era uma desenvolvedora e editora americana de videogames. As franquias da Midway incluíam Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n e NFL Blitz.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

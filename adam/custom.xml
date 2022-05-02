@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi um computador doméstico, uma tentativa da Coleco de aproveitar o sucesso do vídeo-game ColecoVision. O Adam (cujo nome, representava a esperança da Coleco em "morder" uma fatia do mercado da Apple) não foi bem sucedido, em parte por causa de problemas no início de sua produção.</text>
+			<text>It was a home computer, an attempt by Coleco to capitalize on the success of the ColecoVision video game. The Adam (whose name, representing Coleco's hope to "bite" a share of Apple's market) was not successful, in part because of problems early in its production.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Foi um computador doméstico, uma tentativa da Coleco de aproveitar o sucesso do vídeo-game ColecoVision. O Adam (cujo nome, representava a esperança da Coleco em "morder" uma fatia do mercado da Apple) não foi bem sucedido, em parte por causa de problemas no início de sua produção.</text>
 		</text>
 		

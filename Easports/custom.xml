@@ -2,11 +2,11 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-		<text name="info1" extra="true">
-			<text>É uma divisão da Electronic Arts que desenvolve e publica videogames esportivos. Anteriormente um truque de marketing da EA, no qual eles tentavam imitar as redes esportivas da vida real, chamando a si mesmos de "EA Sports Network" (EASN) com fotos ou endossos com comentaristas reais como John Madden.</text>
+		<text name="info1" extra="true" lang="EN">
+			<text>Is a division of Electronic Arts that develops and publishes sports video games. Formerly a marketing gimmick of EA, in which they tried to imitate real-life sports networks by calling themselves the "EA Sports Network" (EASN) with pictures or endorsements with real commentators such as John Madden.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É uma divisão da Electronic Arts que desenvolve e publica videogames esportivos. Anteriormente um truque de marketing da EA, no qual eles tentavam imitar as redes esportivas da vida real, chamando a si mesmos de "EA Sports Network" (EASN) com fotos ou endossos com comentaristas reais como John Madden.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

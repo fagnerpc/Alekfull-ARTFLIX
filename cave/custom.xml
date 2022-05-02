@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>CAVE é uma empresa de videogame japonesa. Eles são conhecidos principalmente por seus "bullet hell" shoot 'em ups; de 1995 a 2013, o CAVE foi um dos desenvolvedores de shoot 'em up mais prolíficos do mercado japonês.</text>
+			<text>CAVE is a Japanese video game company founded in 1994. They are known primarily for their "bullet hell" shoot 'em ups; from 1995 up to 2013, CAVE was one of the most prolific shoot 'em up developers in the Japanese market.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>CAVE é uma empresa de videogame japonesa. Eles são conhecidos principalmente por seus "bullet hell" shoot 'em ups; de 1995 a 2013, o CAVE foi um dos desenvolvedores de shoot 'em up mais prolíficos do mercado japonês.</text>
 		</text>
 

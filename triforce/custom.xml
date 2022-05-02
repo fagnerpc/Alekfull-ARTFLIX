@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Triforce é uma placa de arcade desenvolvida em conjunto pela Nintendo, Namco e Sega, anunciado em 19 de fevereiro de 2002. O nome é uma referência à série de jogos Zelda e simboliza o envolvimento das três companhias no projeto. O sistema é baseado no GameCube.</text>
+			<text>Triforce is an arcade card developed jointly by Nintendo, Namco and Sega, announced on February 19, 2002. The name is a reference to the Zelda game series and symbolizes the involvement of the three companies in the project. The system is based on the GameCube.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Triforce é uma placa de arcade desenvolvida em conjunto pela Nintendo, Namco e Sega, anunciado em 19 de fevereiro de 2002. O nome é uma referência à série de jogos Zelda e simboliza o envolvimento das três companhias no projeto. O sistema é baseado no GameCube.</text>
 		</text>
 

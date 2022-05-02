@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um computador doméstico lançado pela Commodore International em 1984. O nome "Plus/4" refere-se à suíte de escritório residente em ROM de quatro aplicativos; foi anunciado como "o computador de produtividade com software embutido".</text>
+			<text>Is a home computer released by Commodore International in 1984. The "Plus/4" name refers to the four-application ROM resident office suite; it was billed as "the productivity computer with software built-in."</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um computador doméstico lançado pela Commodore International em 1984. O nome "Plus/4" refere-se à suíte de escritório residente em ROM de quatro aplicativos; foi anunciado como "o computador de produtividade com software embutido".</text>
 		</text>
 		

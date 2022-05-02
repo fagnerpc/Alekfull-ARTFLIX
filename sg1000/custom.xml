@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi um console de videogame da terceira geração lançado pela Sega em 1983. O console de 8 bits não alcançou muito sucesso, porém, seu sucessor, o Master System, alcançou um grande sucesso no mercado dos games.</text>
+			<text>Also known as the Sega Computer Video Game SG-1000, is a home video game console manufactured by Sega and released in Japan, Australia, and other regions. It was Sega's first entry into the home video games.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Foi um console de videogame da terceira geração lançado pela Sega em 1983. O console de 8 bits não alcançou muito sucesso, porém, seu sucessor, o Master System, alcançou um grande sucesso no mercado dos games.</text>
 		</text>
 
@@ -38,20 +38,5 @@
 			<text>SEGA Corporation</text>
 		</text>
 	</view>
-
-		<customView name="HCoinSpin">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/coinopstv.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
-
-
-	<customView name="CoinOps Details">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/coinopstv.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
 
 </theme>

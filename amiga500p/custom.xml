@@ -2,11 +2,11 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-				<text name="info1" extra="true">
-			<text>Commodore Amiga 500 Plus é uma versão aprimorada do computador Amiga 500 original. Foi notável por apresentar novas versões do Kickstart e Workbench e por algumas pequenas melhorias nos chips personalizados.</text>
+		<text name="info1" extra="true">
+			<text>Commodore Amiga 500 Plus (often A500 Plus or simply A500+) is an enhanced version of the original Amiga 500 computer. It was notable for introducing new versions of Kickstart and Workbench, and for some minor improvements in the custom chips.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="PTBR">
+				<text name="info1" extra="true" lang="PT">
 			<text>Commodore Amiga 500 Plus é uma versão aprimorada do computador Amiga 500 original. Foi notável por apresentar novas versões do Kickstart e Workbench e por algumas pequenas melhorias nos chips personalizados.</text>
 		</text>
 

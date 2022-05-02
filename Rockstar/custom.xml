@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma publisher e desenvolvedora americana de videogames com sede na cidade de Nova York. A empresa foi fundada em dezembro de 1998 como subsidiária da Take-Two Interactive, usando os ativos que a Take-Two havia adquirido anteriormente da BMG Interactive.</text>
+			<text>Is an American video game publisher based in New York City. The company was established in December 1998 as a subsidiary of Take-Two Interactive, using the assets Take-Two had previously acquired from BMG Interactive.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É uma publisher e desenvolvedora americana de videogames com sede na cidade de Nova York. A empresa foi fundada em dezembro de 1998 como subsidiária da Take-Two Interactive, usando os ativos que a Take-Two havia adquirido anteriormente da BMG Interactive.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

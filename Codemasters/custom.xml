@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma desenvolvedora e editora britânica de videogames com sede em Southam, Inglaterra, subsidiária da empresa americana Electronic Arts. Fundada pelos irmãos Richard e David Darling em outubro de 1986, a Codemasters é um dos mais antigos estúdios de jogos britânicos.</text>
+			<text>Is a British video game developer and publisher based in Southam, England, which is a subsidiary of American corporation Electronic Arts. Founded by brothers Richard and David Darling in October 1986, Codemasters is one of the oldest British game studios.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É uma desenvolvedora e editora britânica de videogames com sede em Southam, Inglaterra, subsidiária da empresa americana Electronic Arts. Fundada pelos irmãos Richard e David Darling em outubro de 1986, a Codemasters é um dos mais antigos estúdios de jogos britânicos.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

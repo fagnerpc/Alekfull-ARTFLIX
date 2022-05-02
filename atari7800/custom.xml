@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame lançado pela Atari em junho de 1986. Foi desenvolvido para substituir o Atari 5200 e restabelecer a supremacia da Atari em relação a Intellivision e Colecovision.</text>
+			<text>Is a home video game console released by the Atari Corporation in 1986. It is almost fully backward-compatible with the Atari 2600, the first console to have backward compatibility.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um console de videogame lançado pela Atari em junho de 1986. Foi desenvolvido para substituir o Atari 5200 e restabelecer a supremacia da Atari em relação a Intellivision e Colecovision.</text>
 		</text>
 

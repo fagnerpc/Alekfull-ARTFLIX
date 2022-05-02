@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O CP System (CPS1 para abreviar) é uma placa de sistema arcade desenvolvida pela Capcom que executava o software do jogo armazenado em cartuchos ROM removíveis. Mais de duas dúzias de títulos de fliperama foram lançados para o CPS-1.</text>
+			<text>CP System (CPS1 for short) is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges. More than two dozen arcade titles were released for CPS-1, before Capcom shifted game development.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O CP System (CPS1 para abreviar) é uma placa de sistema arcade desenvolvida pela Capcom que executava o software do jogo armazenado em cartuchos ROM removíveis. Mais de duas dúzias de títulos de fliperama foram lançados para o CPS-1.</text>
 		</text>
 

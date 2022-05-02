@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>A Ocean Software Ltd foi uma empresa britânica de desenvolvimento de software que se tornou uma das maiores desenvolvedoras e editoras de videogames da Europa nas décadas de 1980 e 1990. Ocean desenvolveu dezenas de jogos para uma variedade de sistemas e consoles de videogame.</text>
+			<text>Ocean Software Ltd was a British software development company that became one of the biggest European video game developers and publishers of the 1980s and 1990s. Ocean developed dozens of games for a variety of systems  and video game consoles.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>A Ocean Software Ltd foi uma empresa britânica de desenvolvimento de software que se tornou uma das maiores desenvolvedoras e editoras de videogames da Europa nas décadas de 1980 e 1990. Ocean desenvolveu dezenas de jogos para uma variedade de sistemas e consoles de videogame.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

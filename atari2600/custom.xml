@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Considerado um símbolo cultural dos anos 80, foi um fenômeno de vendas no Brasil entre os anos de 1984 a 1986 e seus jogos permanecem na memória de muitos que viveram a juventude naquela época.</text>
+			<text>Is a home video game console by Atari, Inc. Released on September 11, 1977, it is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Considerado um símbolo cultural dos anos 80, foi um fenômeno de vendas no Brasil entre os anos de 1984 a 1986 e seus jogos permanecem na memória de muitos que viveram a juventude naquela época.</text>
 		</text>
 

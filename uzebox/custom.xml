@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Uzebox é um console retro-minimalista de jogos de código aberto baseado no microcontrolador ATmega644 da Atmel. A particularidade do sistema é que ele é baseado em um kernel acionado por interrupção e não possui buffer de quadro.</text>
+			<text>The Uzebox is a retro-minimalist open source game console based on Atmel's ATmega644 microcontroller. The particularity of the system is that it's based on an interrupt driven kernel and has no frame buffer.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Uzebox é um console retro-minimalista de jogos de código aberto baseado no microcontrolador ATmega644 da Atmel. A particularidade do sistema é que ele é baseado em um kernel acionado por interrupção e não possui buffer de quadro.</text>
 		</text>
 

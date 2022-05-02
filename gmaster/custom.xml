@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de jogos portátil projetado para competir com o Nintendo Game Boy. Na Alemanha, foi comercializado pela própria Hartung, enquanto no Reino Unido foi lançado como Systema 2000 pela já bem estabelecida fabricante de jogos baratos de LCD Systema.</text>
+			<text>Is a handheld game console designed to compete with the Nintendo Game Boy. In Germany, it was marketed by Hartung itself, while in the UK it was released as the Systema 2000 by the already well-established maker of cheap LCD games Systema.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um console de jogos portátil projetado para competir com o Nintendo Game Boy. Na Alemanha, foi comercializado pela própria Hartung, enquanto no Reino Unido foi lançado como Systema 2000 pela já bem estabelecida fabricante de jogos baratos de LCD Systema.</text>
 		</text>
 		

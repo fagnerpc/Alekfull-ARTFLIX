@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Jogos de PC, também conhecidos como jogos de computador ou jogos de computador pessoal, são jogos projetados para serem jogados no PC ao invés de um hardware dedicado ou máquina arcade.</text>
+			<text>PC games, also known as computer games or personal computer games, are video games played on a personal computer rather than a dedicated video game console or arcade machine.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Jogos de PC, também conhecidos como jogos de computador ou jogos de computador pessoal, são jogos projetados para serem jogados no PC ao invés de um hardware dedicado ou máquina arcade.</text>
 		</text>
 

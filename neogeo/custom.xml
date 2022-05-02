@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Neo Geo é uma família da hardware de videogames desenvolvido pela SNK. A marca originou-se com a liberação de um sistema arcade, o Neo Geo MVS e sua contraparte de console doméstico, o Neo Geo AES.</text>
+			<text>Neo Geo is a family of video game hardware developed by SNK. On the market from 1990 to 2004, the brand originated with the release of an arcade system, the MVS and its home console counterpart, the Neo Geo AES.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Neo Geo é uma família da hardware de videogames desenvolvido pela SNK. A marca originou-se com a liberação de um sistema arcade, o Neo Geo MVS e sua contraparte de console doméstico, o Neo Geo AES.</text>
 		</text>
 

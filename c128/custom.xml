@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Também conhecido como C128, é o último computador doméstico de 8 bits lançado comercialmente pela Commodore Business Machines (CBM). Introduzido em janeiro de 1985, apareceu três anos após seu antecessor, o bestselling C64.</text>
+			<text>Also known as the C128, is the last 8-bit home computer that was commercially released by Commodore Business Machines (CBM). Introduced in January 1985, it appeared three years after its predecessor, the bestselling C64.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Também conhecido como C128, é o último computador doméstico de 8 bits lançado comercialmente pela Commodore Business Machines (CBM). Introduzido em janeiro de 1985, apareceu três anos após seu antecessor, o bestselling C64.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Dance Dance Revolution, ou DDR (também chamado de Dancing Stage na Europa), é uma franquia de videogames musicais produzida pela Konami e lançado inicialmente para arcades em setembro de 1998 no Japão, após ser exibida na Tokyo Game Show no início do ano.</text>
+			<text>Dance Dance Revolution, or DDR (also called Dancing Stage in Europe), is a music video game franchise produced by Konami and initially launched for arcades in September 1998 in Japan, after being shown at the Tokyo Game Show earlier in the year.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Dance Dance Revolution, ou DDR (também chamado de Dancing Stage na Europa), é uma franquia de videogames musicais produzida pela Konami e lançado inicialmente para arcades em setembro de 1998 no Japão, após ser exibida na Tokyo Game Show no início do ano.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

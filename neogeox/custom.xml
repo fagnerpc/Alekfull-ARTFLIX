@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Neo Geo X é um console de videogame portátil desenvolvido e licenciado pela SNK Playmore e fabricado pela Tommo. Foi lançado em 18 de dezembro de 2012. É o retorno do console Neo Geo criado na década de noventa.</text>
+			<text>Neo Geo X (NGX) is a handheld video game console manufactured by Tommo, licensed by SNK Playmore. It is the first Neo Geo system to be released since the discontinuation of the brand in 2004.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Neo Geo X é um console de videogame portátil desenvolvido e licenciado pela SNK Playmore e fabricado pela Tommo. Foi lançado em 18 de dezembro de 2012. É o retorno do console Neo Geo criado na década de noventa.</text>
 		</text>
 

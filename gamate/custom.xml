@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de jogos portátil fabricado pela Bit Corporation em 1990 e lançado na Austrália, algumas partes da Europa, Ásia, Argentina e EUA. O Gamate parece ser o primeiro dos muitos consoles portáteis lançados em reação ao sucesso do Game Boy da Nintendo.</text>
+			<text>Is a handheld game console manufactured by Bit Corporation in the early 1990s, and released in Australia, some parts of Europe, Asia, Argentina, and the USA. The Gamate appears to be the first of the many handheld consoles released in reaction to the success of Nintendo's Game Boy.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um console de jogos portátil fabricado pela Bit Corporation em 1990 e lançado na Austrália, algumas partes da Europa, Ásia, Argentina e EUA. O Gamate parece ser o primeiro dos muitos consoles portáteis lançados em reação ao sucesso do Game Boy da Nintendo.</text>
 		</text>
 		

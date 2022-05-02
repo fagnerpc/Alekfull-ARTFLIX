@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Vários desenvolvedores lançaram o código-fonte para muitos de seus títulos clássicos, permitindo que eles sejam nativos para muitas plataformas alternativas, incluindo o Linux.</text>
+			<text>Several developers have released the source code to many of their legacy titles, allowing them to be run as native applications on many alternative platforms, including Linux.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Vários desenvolvedores lançaram o código-fonte para muitos de seus títulos clássicos, permitindo que eles sejam nativos para muitas plataformas alternativas, incluindo o Linux.</text>
 		</text>
 

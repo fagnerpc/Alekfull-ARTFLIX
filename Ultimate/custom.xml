@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi uma desenvolvedora e editora britânica de videogames, fundada em 1982, pelos ex-desenvolvedores de jogos de arcade Tim e Chris Stamper. Ultimate lançou uma série de jogos de sucesso para os computadores ZX Spectrum, Amstrad CPC, BBC Micro, MSX e Commodore 64 de 1983 até seu fechamento em 1988.</text>
+			<text>Was a British video game developer and publisher, founded in 1982, by ex-arcade game developers Tim and Chris Stamper. Ultimate released a series of successful games for the ZX Spectrum, Amstrad CPC, BBC Micro, MSX and Commodore 64 computers from 1983 until its closure in 1988.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Foi uma desenvolvedora e editora britânica de videogames, fundada em 1982, pelos ex-desenvolvedores de jogos de arcade Tim e Chris Stamper. Ultimate lançou uma série de jogos de sucesso para os computadores ZX Spectrum, Amstrad CPC, BBC Micro, MSX e Commodore 64 de 1983 até seu fechamento em 1988.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

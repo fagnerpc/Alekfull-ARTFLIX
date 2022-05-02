@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Taito Corporation é uma empresa japonesa especializada em videogames, brinquedos, fliperamas e centros de jogos, com sede em Shinjuku, Tóquio. A empresa foi fundada por Michael Kogan em 1953 como a Taito Trading Company, importando vodka, máquinas de venda automática e jukeboxes para o Japão.</text>
+			<text>Taito Corporation is a Japanese company that specializes in video games, toys, arcade cabinets and game centers, based in Shinjuku, Tokyo. The company was founded by Michael Kogan in 1953 as the Taito Trading Company, importing vodka, vending machines and jukeboxes into Japan.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Taito Corporation é uma empresa japonesa especializada em videogames, brinquedos, fliperamas e centros de jogos, com sede em Shinjuku, Tóquio. A empresa foi fundada por Michael Kogan em 1953 como a Taito Trading Company, importando vodka, máquinas de venda automática e jukeboxes para o Japão.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

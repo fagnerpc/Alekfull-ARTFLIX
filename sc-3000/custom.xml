@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>SC-3000 (Sega Computer 3000) é o primeiro e único computador a ser projetado e fabricado pela Sega. Foi lançado pela primeira vez em julho de 1983 no Japão e serve como o equivalente em computador doméstico do console de videogame SG-1000 baseado em cartucho.</text>
+			<text>SC-3000 (Sega Computer 3000) is the first and only computer to be designed and manufactured by Sega. It was first released in July of 1983 in Japan, and serves as the home computer equivalent of the SG-1000 cartridge-based video game console.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O SC-3000 (Sega Computer 3000) é o primeiro e único computador a ser projetado e fabricado pela Sega. Foi lançado pela primeira vez em julho de 1983 no Japão e serve como o equivalente em computador doméstico do console de videogame SG-1000 baseado em cartucho.</text>
 		</text>
 

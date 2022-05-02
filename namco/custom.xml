@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Namco Ltd. é uma ex-desenvolvedora e editora japonesa de videogames para arcade e console doméstico, originalmente sediada em Ota, Tóquio. A Namco produziu várias franquias de sucesso comercial e crítico, incluindo Pac-Man, Tekken, Ace Combat e SoulCalibur.</text>
+			<text>Namco Ltd. is a former Japanese developer and publisher of arcade and home console video games, originally headquartered in Ōta, Tokyo. Namco produced several critically and commercially successful franchises, including Pac-Man, Tekken, Ace Combat and SoulCalibur.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Namco Ltd. é uma ex-desenvolvedora e editora japonesa de videogames para arcade e console doméstico, originalmente sediada em Ota, Tóquio. A Namco produziu várias franquias de sucesso comercial e crítico, incluindo Pac-Man, Tekken, Ace Combat e SoulCalibur.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Era um computador doméstico britânico de 8 bits que foi lançado pela primeira vez no início de 1983 como um modelo de 48 kB. Vários modelos estavam disponíveis com 48 kB, 96 kB ou 128 kB de RAM. John Shireff projetou o hardware e Davis Jansons o firmware.</text>
+			<text>Was an 8-bit British home computer that was first released in early 1983 as a 48 kB model. Several models were available with 48 kB, 96 kB or 128 kB RAM. John Shireff designed the hardware and Davis Jansons the firmware.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Era um computador doméstico britânico de 8 bits que foi lançado pela primeira vez no início de 1983 como um modelo de 48 kB. Vários modelos estavam disponíveis com 48 kB, 96 kB ou 128 kB de RAM. John Shireff projetou o hardware e Davis Jansons o firmware.</text>
 		</text>
 		

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Silent Hill é uma franquia de mídia de terror centrada em uma série de videogames de survival horror, criada por Keiichiro Toyama, desenvolvida e publicada pela Konami. Os quatro primeiros videogames da série foram desenvolvidos pelo Team Silent.</text>
+			<text>Silent Hill is a horror media franchise centered on a series of survival horror video games, created by Keiichiro Toyama, developed and published by Konami. The first four video games in the series were developed by an internal group called Team Silent.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Silent Hill é uma franquia de mídia de terror centrada em uma série de videogames de terror de survival horror, criada por Keiichiro Toyama, desenvolvida e publicada pela Konami. Os quatro primeiros videogames da série foram desenvolvidos pelo Team Silent.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

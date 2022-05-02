@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O M.U.G.E.N (também conhecido como Mugen, MUGEN) é um mecanismo de jogo de luta 2D freeware desenvolvido por Elecbyte. O conteúdo é criado pela comunidade e milhares de lutadores, originais e de ficção popular, foram criados.</text>
+			<text>M.U.G.E.N (also known as Mugen, MUGEN) is a freeware 2D fighting game engine designed by Elecbyte. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>O M.U.G.E.N (também conhecido como Mugen, MUGEN) é um mecanismo de jogo de luta 2D freeware desenvolvido por Elecbyte. O conteúdo é criado pela comunidade e milhares de lutadores, originais e de ficção popular, foram criados.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

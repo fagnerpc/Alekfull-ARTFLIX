@@ -2,9 +2,8 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-
-		<text name="info1" extra="true" lang="PTBR">
-			<text>O SNES é o segundo home console da Nintendo. O console apresentou gráficos avançados e recursos de som em comparação com outros consoles na época. Considerado um dos melhores consoles da história.</text>
+		<text name="info1" extra="true">
+			<text>Is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America.</text>
 		</text>
 
 		<text name="info1" extra="true">

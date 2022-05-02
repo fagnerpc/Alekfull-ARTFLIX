@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma série de microcomputadores e periféricos associados desenhados e construídos pela Acorn Computers Ltd para o BBC Computer Literacy Project (um projeto de educação por computador) operado pela British Broadcasting Corporation.</text>
+			<text>It is a series of microcomputers and associated peripherals designed and built by Acorn Computers Ltd for the BBC Computer Literacy Project (a computer education project) operated by the British Broadcasting Corporation.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É uma série de microcomputadores e periféricos associados desenhados e construídos pela Acorn Computers Ltd para o BBC Computer Literacy Project (um projeto de educação por computador) operado pela British Broadcasting Corporation.</text>
 		</text>
 		

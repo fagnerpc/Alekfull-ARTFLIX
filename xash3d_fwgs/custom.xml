@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Xash3D FWGS é um fork do Xash3D Engine, compatível com o mecanismo GoldSrc. Permite jogar Half-Life pronto para uso e muitas modificações baseadas em Half-Life.</text>
+			<text>Xash3D FWGS is a fork of Xash3D Engine, which compatible with GoldSrc engine. Allows play Half-Life out-of-the-box and many Half-Life based modifications.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>O Xash3D FWGS é um fork do Xash3D Engine, compatível com o mecanismo GoldSrc. Permite jogar Half-Life pronto para uso e muitas modificações baseadas em Half-Life.</text>
 		</text>
 		

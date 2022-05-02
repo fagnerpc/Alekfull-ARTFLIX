@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Grand Theft Auto (GTA) é uma série de jogos de ação e aventura criados por David Jones e Mike Dailly. A maioria dos jogos da série se passa em locais fictícios modelados em cidades, geralmente Liberty City, Vice City ou San Andreas.</text>
+			<text>Grand Theft Auto (GTA) is a series of action-adventure games created by David Jones and Mike Dailly. Most games in the series are set in fictional locales modelled on cities, usually either Liberty City, Vice City or San Andreas.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Grand Theft Auto (GTA) é uma série de jogos de ação e aventura criados por David Jones e Mike Dailly. A maioria dos jogos da série se passa em locais fictícios modelados em cidades, geralmente Liberty City, Vice City ou San Andreas.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

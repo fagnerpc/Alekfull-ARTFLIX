@@ -662,9 +662,9 @@ Tema proibido para uso comercial
       </text>
 
 		<text name="info6" extra="true">
-			<text>Idioma Selecionado: PT(BR)</text>
+			<text>Selected Language: EN(US)</text>
 		</text>
-		<text name="info6" extra="true" lang="PTBR">
+		<text name="info6" extra="true" lang="PT">
 			<text>Idioma Selecionado: PT(BR)</text>
 		</text>
 		<text name="info6" extra="true" lang="EN">
@@ -716,9 +716,9 @@ Tema proibido para uso comercial
       </text>
 
 	<text name="playbutton" extra="true">
-		<text>JOGAR AGORA</text>
+		<text>PLAY NOW</text>
 	</text>
-	<text name="playbutton" extra="true" lang="PTBR">
+	<text name="playbutton" extra="true" lang="PT">
 		<text>JOGAR AGORA</text>
 	</text>
 	<text name="playbutton" extra="true" lang="EN">

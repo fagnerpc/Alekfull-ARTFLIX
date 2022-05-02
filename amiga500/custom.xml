@@ -3,10 +3,10 @@
 
 	<view name="system">
 				<text name="info1" extra="true">
-			<text>Amiga 500, também conhecido como A500, é o primeiro computador doméstico / pessoal multimídia de baixo custo do Commodore Amiga 16/32 bits. Foi anunciado no Consumer Electronics Show de inverno e competiu contra o Atari 520ST.</text>
+			<text>Amiga 500, also known as the A500, is the first low-end Commodore Amiga 16/32-bit multimedia home/personal computer. It was announced at the winter Consumer Electronics Show and competed directly against the Atari 520ST.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="PTBR">
+				<text name="info1" extra="true" lang="PT">
 			<text>Amiga 500, também conhecido como A500, é o primeiro computador doméstico / pessoal multimídia de baixo custo do Commodore Amiga 16/32 bits. Foi anunciado no Consumer Electronics Show de inverno e competiu contra o Atari 520ST.</text>
 		</text>
 

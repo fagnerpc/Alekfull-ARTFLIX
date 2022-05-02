@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>MESS (Multiple Emulator Super System) é um emulador para muitos jogos de consoles e sistemas de computador, com base no núcleo do MAME, um emulador de jogos tipo arcade.</text>
+			<text>MESS (Multiple Emulator Super System) is an emulator for many console games and computer systems, based on the core of MAME, an arcade-like game emulator.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>MESS (Multiple Emulator Super System) é um emulador para muitos jogos de consoles e sistemas de computador, com base no núcleo do MAME, um emulador de jogos tipo arcade.</text>
 		</text>
 		

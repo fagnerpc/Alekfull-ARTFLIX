@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Sega Model 3 é uma placa de arcade lançada pela Sega em 1996. Foi o último produto da parceria da Sega com a Lockheed Martin, usando a divisão Real3D para projetar o processador gráfico. Entre os jogos mais conhecidos encontram-se Virtua Fighter 3 e Sega Rally 2.</text>
+			<text>Sega Model 3 is an arcade card launched by Sega in 1996. It was the last product of Sega's partnership with Lockheed Martin, using the Real3D division to design the graphics processor. Among the best known games are Virtua Fighter 3 and Sega Rally 2.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Sega Model 3 é uma placa de arcade lançada pela Sega em 1996. Foi o último produto da parceria da Sega com a Lockheed Martin, usando a divisão Real3D para projetar o processador gráfico. Entre os jogos mais conhecidos encontram-se Virtua Fighter 3 e Sega Rally 2.</text>
 		</text>
 

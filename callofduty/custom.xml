@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma franquia de videogame de tiro em primeira pessoa publicada pela Activision. Começando em 2003, primeiro se concentrou em jogos ambientados na Segunda Guerra Mundial. Com o tempo, a série viu jogos ambientados no meio da Guerra Fria, mundos futuristas e espaço sideral.</text>
+			<text>Is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É uma franquia de videogame de tiro em primeira pessoa publicada pela Activision. Começando em 2003, primeiro se concentrou em jogos ambientados na Segunda Guerra Mundial. Com o tempo, a série viu jogos ambientados no meio da Guerra Fria, mundos futuristas e espaço sideral.</text>
 		</text>
 		

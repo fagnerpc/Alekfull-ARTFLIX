@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Além de rodar todos os jogos do PC Engine, rodava jogos feitos exclusivamente para ele. Porém, somente 5 jogos foram lançados (1941: Counter Attack, Aldynes, Battle Ace, Ghouls'n Ghosts e Madō King Granzort).</text>
+			<text>The PC Engine SuperGrafx (PCエンジンスーパーグラフィックス), is a video game console by NEC Home Electronics, released exclusively in Japan. It is an upgraded version of the PC Engine, released two years prior.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Além de rodar todos os jogos do PC Engine, rodava jogos feitos exclusivamente para ele. Porém, somente 5 jogos foram lançados (1941: Counter Attack, Aldynes, Battle Ace, Ghouls'n Ghosts e Madō King Granzort).</text>
 		</text>
 

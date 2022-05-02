@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Sistema destinado a biblioteca de mídias encontradas de todos os jogos, organizados de forma crescente (ou da forma que preferir).</text>
+			<text>System destined to the library of media found from all games, organized in an increasing way (or in the way you prefer).</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Sistema destinado a biblioteca de mídias encontradas de todos os jogos, organizados de forma crescente (ou da forma que preferir).</text>
 		</text>
 

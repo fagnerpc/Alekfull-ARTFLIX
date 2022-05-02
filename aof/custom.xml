@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Art of Fighting é uma trilogia de videogame de luta lançada para a plataforma Neo Geo no início dos anos 90. Foi a segunda franquia de jogos de luta criada pela SNK, seguindo a série Fatal Fury e é ambientada no mesmo universo fictício de um prequel.</text>
+			<text>Art of Fighting is a fighting video game trilogy that were released for the Neo Geo platform in the early 1990s. It was the second fighting game franchise created by SNK, following the Fatal Fury series and is set in the same fictional universe as a prequel.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Art of Fighting é uma trilogia de videogame de luta lançada para a plataforma Neo Geo no início dos anos 90. Foi a segunda franquia de jogos de luta criada pela SNK, seguindo a série Fatal Fury e é ambientada no mesmo universo fictício de um prequel.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

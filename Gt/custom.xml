@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Antes de sua aquisição pela Infogrames, a GT Interactive era conhecida por publicar jogos como o original Doom, Quake, Driver, o primeiro Unreal e adquirir desenvolvedores como Reflections Interactive e Legend Entertainment.</text>
+			<text>Prior to its acquisition by Infogrames, GT Interactive was known for publishing games such as the original Doom, Quake, Driver, the first Unreal and acquiring developers such as Reflections Interactive and Legend Entertainment.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Antes de sua aquisição pela Infogrames, a GT Interactive era conhecida por publicar jogos como o original Doom, Quake, Driver, o primeiro Unreal e adquirir desenvolvedores como Reflections Interactive e Legend Entertainment.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

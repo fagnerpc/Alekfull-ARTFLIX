@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Future Pinball é um simulador e editor, mas não emula o hardware encontrado em máquinas físicas de pinball. As tabelas são projetadas usando modelos 3D encontrados no editor e renderizadas usando um mecanismo 3D em tempo real.</text>
+			<text>Future Pinball is a simulator and editor, but does not emulate hardware found in physical pinball machines. Tables are designed using 3D models found within the editor, and rendered using a 3D real-time engine.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>O Future Pinball é um simulador e editor, mas não emula o hardware encontrado em máquinas físicas de pinball. As tabelas são projetadas usando modelos 3D encontrados no editor e renderizadas usando um mecanismo 3D em tempo real.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

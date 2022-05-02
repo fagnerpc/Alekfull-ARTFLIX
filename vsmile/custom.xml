@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame doméstico educacional de sexta geração fabricado e lançado pela VTech. Os títulos estão disponíveis em cartuchos ROM chamados "Smartridges", para reproduzir a natureza educacional do sistema.</text>
+			<text>Is a sixth-generation educational home video game console manufactured and released by VTech. Titles are available on ROM cartridges called "Smartridges", to play off the system's educational nature.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um console de videogame doméstico educacional de sexta geração fabricado e lançado pela VTech. Os títulos estão disponíveis em cartuchos ROM chamados "Smartridges", para reproduzir a natureza educacional do sistema.</text>
 		</text>
 		

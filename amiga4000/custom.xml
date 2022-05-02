@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Amiga 4000, ou A4000, é o sucessor dos computadores A2000 e A3000. Existem dois modelos: o A4000 / 040 lançado em outubro de 1992 com uma CPU Motorola 68040 e o A4000 / 030 lançado em abril de 1993 com um Motorola 68EC030.</text>
+			<text>Amiga 4000, or A4000, is the successor of the A2000 and A3000 computers. There are two models: the A4000/040 released in October 1992 with a Motorola 68040 CPU, and the A4000/030 released in April 1993 with a Motorola 68EC030.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Amiga 4000, ou A4000, é o sucessor dos computadores A2000 e A3000. Existem dois modelos: o A4000 / 040 lançado em outubro de 1992 com uma CPU Motorola 68040 e o A4000 / 030 lançado em abril de 1993 com um Motorola 68EC030.</text>
 		</text>
 

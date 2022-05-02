@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O APF Microcomputer System é um console de videogame doméstico baseado em cartucho de 8 bits de segunda geração lançado pela APF Electronics Inc. com seis cartuchos. O console é frequentemente referido como M-1000 ou MP-1000.</text>
+			<text>APF Microcomputer System is a second generation 8-bit cartridge-based home video game console released in October 1978 by APF Electronics Inc. with six cartridges. The console is often referred to M-1000 or MP-1000.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>O APF Microcomputer System é um console de videogame doméstico baseado em cartucho de 8 bits de segunda geração lançado pela APF Electronics Inc. com seis cartuchos. O console é frequentemente referido como M-1000 ou MP-1000.</text>
 		</text>
 		

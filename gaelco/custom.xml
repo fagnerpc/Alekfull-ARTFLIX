@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Gabinete Electrónico Consultivo, mais conhecida como Gaelco, S.A., é uma empresa espanhola que desenvolve e publica jogos de arcade e videogames. A partir de 2007, a Gaelco desenvolve máquinas eletrônicas de dardo sob o nome de "Gaelco Darts".</text>
+			<text>Gabinete Electrónico Consultivo, better known as Gaelco, S.A., is a Spanish company that develops and publishes arcade games and video games. As of 2007, Gaelco develops electronic dart machines under the name of "Gaelco Darts".</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Gabinete Electrónico Consultivo, mais conhecida como Gaelco, S.A., é uma empresa espanhola que desenvolve e publica jogos de arcade e videogames. A partir de 2007, a Gaelco desenvolve máquinas eletrônicas de dardo sob o nome de "Gaelco Darts".</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

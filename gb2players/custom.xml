@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Game Boy é o segundo portátil da Nintendo, criado após a linha Game & Watch lançada em 1980. Junto ao Game Boy Color, venderam impressionantes 118,69 milhões de unidades.</text>
+			<text>Is an 8-bit handheld game console which was developed and manufactured by Nintendo. It is the first handheld console in the Game Boy line and was created and published by team led by Gunpei Yokoi at the time.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Game Boy é o segundo portátil da Nintendo, criado após a linha Game & Watch lançada em 1980. Junto ao Game Boy Color, venderam impressionantes 118,69 milhões de unidades.</text>
 		</text>
 

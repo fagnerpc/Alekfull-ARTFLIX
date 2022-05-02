@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi um periférico para o Nintendo 64. Era plugado através da EXTension Port e permitia ao N64 usar discos magnéticos proprietários de 64 MB de capacidade para aumentar a capacidade de armazenamento de dados.</text>
+			<text>It was a peripheral for the Nintendo 64. It was plugged through the EXTension Port and allowed the N64 to use 64 MB proprietary magnetic disks to increase data storage capacity.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Foi um periférico para o Nintendo 64. Era plugado através da EXTension Port e permitia ao N64 usar discos magnéticos proprietários de 64 MB de capacidade para aumentar a capacidade de armazenamento de dados.</text>
 		</text>
 

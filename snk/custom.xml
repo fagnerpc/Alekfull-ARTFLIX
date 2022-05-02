@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>A SNK Corporation é uma empresa japonesa de hardware e software de videogame. É o sucessor da empresa Shin Nihon Kikaku e atualmente possui a marca de videogames SNK e a plataforma de videogame Neo Geo.</text>
+			<text>SNK Corporation  is a Japanese video game hardware and software company. It is the successor to the company Shin Nihon Kikaku and presently owns the SNK video game brand and the Neo Geo video game platform.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>A SNK Corporation é uma empresa japonesa de hardware e software de videogame. É o sucessor da empresa Shin Nihon Kikaku e atualmente possui a marca de videogames SNK e a plataforma de videogame Neo Geo.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

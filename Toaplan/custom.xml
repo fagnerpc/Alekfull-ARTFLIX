@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Vários desenvolvedores como Tamsoft, Eighting, CAVE, Gazelle e Takumi Corporation foram formados antes e após o fechamento da Toaplan, enquanto ex-membros mais tarde se juntaram a outros estúdios como Namco, Capcom, Square Enix e Taito.</text>
+			<text>Several developers such as Tamsoft, Eighting, CAVE, Gazelle, and Takumi Corporation were formed prior to and after the closure of Toaplan, while former members later joined to other studios such as Namco, Capcom, Square Enix and Taito.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Vários desenvolvedores como Tamsoft, Eighting, CAVE, Gazelle e Takumi Corporation foram formados antes e após o fechamento da Toaplan, enquanto ex-membros mais tarde se juntaram a outros estúdios como Namco, Capcom, Square Enix e Taito.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

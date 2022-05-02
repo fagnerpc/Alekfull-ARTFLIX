@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Need for Speed ​​é uma franquia de videogame de corrida publicada pela Electronic Arts. A série gira em torno de corridas ilegais de rua e em geral encarrega os jogadores de completar vários tipos de corridas.</text>
+			<text>Need for Speed is a racing video game franchise published by Electronic Arts. The series centers around illicit street racing and in general tasks players to complete various types of races while evading the local law enforcement in police pursuits.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Need for Speed ​​é uma franquia de videogame de corrida publicada pela Electronic Arts. A série gira em torno de corridas ilegais de rua e em geral encarrega os jogadores de completar vários tipos de corridas.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

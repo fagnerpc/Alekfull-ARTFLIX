@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Possibilitado por um acessório era vendido separadamente, lançado como PC-Engine CD-ROM² no Japão em abril de 1988 e TurboGrafx-CD nos EUA, proporcionava músicas digitais, vozes e animações de melhor qualidade.</text>
+			<text>The CD-ROM² System (シーディーロムロムシステム Shī Dī Romu Romu Shisutemu, pronounced "CD-ROM-ROM") is an add-on attachment for the TurboGrafx-16 that was released in Japan on December 4, 1988.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Possibilitado por um acessório era vendido separadamente, lançado como PC-Engine CD-ROM² no Japão em abril de 1988 e TurboGrafx-CD nos EUA, proporcionava músicas digitais, vozes e animações de melhor qualidade.</text>
 		</text>
 
@@ -29,7 +29,7 @@
 				<text name="info2" extra="true">
 			<text>PC Engine CD</text>
 		</text>
-					<text name="info2" extra="true" lang="PTBR">
+					<text name="info2" extra="true" lang="PT">
 			<text>PC Engine CD</text>
 		</text>
 

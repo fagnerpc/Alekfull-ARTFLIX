@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Os jogos principais da série seguem os eventos do Torneio King of Iron Fist, organizado pela Mishima Zaibatsu, onde os jogadores controlam uma infinidade de personagens para vencer o torneio; o conflito entre a família Mishima serve como o foco principal do enredo da série.</text>
+			<text>The main games in the series follow the events of the King of Iron Fist Tournament, hosted by the Mishima Zaibatsu, where players control a plethora of characters to win the tournament; the conflict between the Mishima family serves as the main focus of the series' plot.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Os jogos principais da série seguem os eventos do Torneio King of Iron Fist, organizado pela Mishima Zaibatsu, onde os jogadores controlam uma infinidade de personagens para vencer o torneio; o conflito entre a família Mishima serve como o foco principal do enredo da série.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>CRIADO POR:</text>
+			<text>CREATED BY:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>CRIADO POR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

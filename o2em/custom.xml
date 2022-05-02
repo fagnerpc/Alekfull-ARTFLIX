@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi um console de vídeo games bastante popular nos anos 70 e 80. O console foi criado em 1978 pela empresa Magnavox / Philips como evolução do console da Magnavox anterior, o Magnavox Odyssey.</text>
+			<text>The Magnavox Odyssey², also known as Philips Odyssey² is a second generation home video game console released in 1978. It was sold in Europe as the Philips Videopac G7000, in Brazil as the Philips Odyssey.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Foi um console de vídeo games bastante popular nos anos 70 e 80. O console foi criado em 1978 pela empresa Magnavox / Philips como evolução do console da Magnavox anterior, o Magnavox Odyssey.</text>
 		</text>
 

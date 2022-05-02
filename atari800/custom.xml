@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Atari 800 foi um microcomputador desenvolvido pela Atari para o público doméstico, lançado conjuntamente com o Atari 400.</text>
+			<text>The Atari 800 was a microcomputer developed by Atari for the domestic audience, launched in conjunction with the Atari 400.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Atari 800 foi um microcomputador desenvolvido pela Atari para o público doméstico, lançado conjuntamente com o Atari 400.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma linha de consoles portáteis produzida pela Nintendo entre 1980 e 1991, criado pelo designer Gunpei Yokoi. Foi a segunda linha de aparelhos de jogos eletrônicos da Nintendo (a primeira foi o Color TV Game).</text>
+			<text>Is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game & Watch features a single game to be played on an LCD screen in addition to a clock.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É uma linha de consoles portáteis produzida pela Nintendo entre 1980 e 1991, criado pelo designer Gunpei Yokoi. Foi a segunda linha de aparelhos de jogos eletrônicos da Nintendo (a primeira foi o Color TV Game).</text>
 		</text>
 
@@ -38,4 +38,20 @@
 			<text>Nintendo</text>
 		</text>
 	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/gameandwatch.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/gameandwatch.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+	
 </theme>

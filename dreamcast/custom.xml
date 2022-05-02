@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi o último console de videogames da Sega e o sucessor do Sega Saturn. Era o console mais avançado de sua época e o mais completo de sua geração quando lançado.</text>
+			<text>The Dreamcast is a home video game console released by Sega on November 27, 1998 in Japan, September 9, 1999 in North America. It was the first in the sixth generation of video game consoles.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Foi o último console de videogames da Sega e o sucessor do Sega Saturn. Era o console mais avançado de sua época e o mais completo de sua geração quando lançado.</text>
 		</text>
 

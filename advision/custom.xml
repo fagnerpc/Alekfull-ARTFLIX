@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi um console de videogame lançado pela Entex Industries. O monitor, os controles do jogo e o hardware do computador são todos contidos em uma única unidade portátil. O monitor LED pode exibir apenas pixels vermelhos.</text>
+			<text>It was a video game console released by Entex Industries. The monitor, game controls and computer hardware are all contained in a single handheld unit. The LED monitor can only display red pixels.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Foi um console de videogame lançado pela Entex Industries. O monitor, os controles do jogo e o hardware do computador são todos contidos em uma única unidade portátil. O monitor LED pode exibir apenas pixels vermelhos.</text>
 		</text>
 		

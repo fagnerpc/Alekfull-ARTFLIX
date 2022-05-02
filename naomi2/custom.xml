@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Sega NAOMI 2 é uma placa de fliperama desenvolvida pela Sega e é sucessora do hardware Sega NAOMI. Foi originalmente lançado em 2000. Como usa arquitetura NAOMI semelhante (mas significativamente aprimorada), também é totalmente compatível com seu antecessor.</text>
+			<text>Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000. Since it uses similar NAOMI architecture (but significantly beefed up), it is also fully backwards compatible with its predecessor.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Sega NAOMI 2 é uma placa de fliperama desenvolvida pela Sega e é sucessora do hardware Sega NAOMI. Foi originalmente lançado em 2000. Como usa arquitetura NAOMI semelhante (mas significativamente aprimorada), também é totalmente compatível com seu antecessor.</text>
 		</text>
 

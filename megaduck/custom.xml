@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Também conhecido como Cougar Boy, é um console de videogame portátil desenvolvido e fabricado pela Welbeck Holdings, com sede em Hong Kong, por meio de sua divisão Timlex International. Foi comercializado sob várias marcas diferentes em todo o mundo.</text>
+			<text>Also known as Cougar Boy, is a handheld game console that was developed and manufactured by Hong Kong-based Welbeck Holdings through its Timlex International division, and released in 1993. It was marketed under various different brands worldwide.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Também conhecido como Cougar Boy, é um console de videogame portátil desenvolvido e fabricado pela Welbeck Holdings, com sede em Hong Kong, por meio de sua divisão Timlex International. Foi comercializado sob várias marcas diferentes em todo o mundo.</text>
 		</text>
 		

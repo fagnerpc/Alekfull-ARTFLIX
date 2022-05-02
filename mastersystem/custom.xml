@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame de 8-bits produzido pela Sega. Lançado inicialmente no Japão em 1986, com o nome Sega Mark III, ele enfrentou grandes dificuldades devido à forte concorrência do NES da Nintendo.</text>
+			<text>The Master System is a third-generation home video game console that was manufactured by Sega. It was originally released in 1985 as the Sega Mark III in Japan. After being redesigned prior to its North American launch.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um console de videogame de 8-bits produzido pela Sega. Lançado inicialmente no Japão em 1986, com o nome Sega Mark III, ele enfrentou grandes dificuldades devido à forte concorrência do NES da Nintendo.</text>
 		</text>
 

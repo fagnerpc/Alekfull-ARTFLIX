@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O TI-99/4 e o TI-99/4A foram computadores domésticos lançados pela Texas Instruments em 1979 e 1981, respectivamente. Baseado no microprocessador Texas Instruments TMS9900 originalmente usado em minicomputadores, o TI-99/4 foi o primeiro computador doméstico de 16 bits.</text>
+			<text>The TI-99/4 and TI-99/4A were home computers released by Texas Instruments in 1979 and 1981, respectively. Based on the Texas Instruments TMS9900 microprocessor originally used in minicomputers, the TI-99/4 was the first 16-bit home computer.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>O TI-99/4 e o TI-99/4A foram computadores domésticos lançados pela Texas Instruments em 1979 e 1981, respectivamente. Baseado no microprocessador Texas Instruments TMS9900 originalmente usado em minicomputadores, o TI-99/4 foi o primeiro computador doméstico de 16 bits.</text>
 		</text>
 		

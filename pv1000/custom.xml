@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Casio PV-1000 é um console de videogame doméstico de terceira geração fabricado pela Casio e lançado no Japão em 1983. Foi descontinuado menos de um ano após o lançamento. A Casio não conseguiu alcançar uma participação de mercado significativa.</text>
+			<text>Casio PV-1000 is a third-generation home video game console manufactured by Casio and released in Japan in 1983. It was discontinued less than a year after release. Casio failed to achieve a significant market share.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Casio PV-1000 é um console de videogame doméstico de terceira geração fabricado pela Casio e lançado no Japão em 1983. Foi descontinuado menos de um ano após o lançamento. A Casio não conseguiu alcançar uma participação de mercado significativa.</text>
 		</text>
 		

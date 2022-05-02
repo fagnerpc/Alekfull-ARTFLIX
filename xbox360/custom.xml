@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Xbox 360 é um console de videogame doméstico desenvolvido pela Microsoft. É o segundo console da série Xbox. Competiu com o PlayStation 3 da Sony e o Wii da Nintendo como parte da sétima geração de consoles de videogame.</text>
+			<text>Xbox 360 is a home video game console developed by Microsoft. It is the second console in the Xbox series. It competed with Sony's PlayStation 3 and Nintendo's Wii as part of the seventh generation of video game consoles.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Xbox 360 é um console de videogame doméstico desenvolvido pela Microsoft. É o segundo console da série Xbox. Competiu com o PlayStation 3 da Sony e o Wii da Nintendo como parte da sétima geração de consoles de videogame.</text>
 		</text>
 

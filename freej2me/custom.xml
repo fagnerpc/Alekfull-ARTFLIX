@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>FreeJ2ME é um emulador J2ME simples com foco em jogos antigos para celular. Ele foi projetado para rodar em Windows, Linux desktop e em dispositivos que suportam Libretro e Retroarch.</text>
+			<text>FreeJ2ME is a simple J2ME emulator with a focus on old mobile phone games. It was designed to run on Windows, desktop Linux, and on devices that support Libretro and Retroarch.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>FreeJ2ME é um emulador J2ME simples com foco em jogos antigos para celular. Ele foi projetado para rodar em Windows, Linux desktop e em dispositivos que suportam Libretro e Retroarch.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

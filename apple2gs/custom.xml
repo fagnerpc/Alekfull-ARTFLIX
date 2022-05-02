@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi o membro mais poderoso desta série produzida pela Apple Computer. Na época do seu lançamento, apresentava gráficos coloridos surpreendentes (com até 4096 cores) e som estéreo em 16 vozes.</text>
+			<text>It was the most powerful member of this series produced by Apple Computer. At the time of its release, it featured astonishing color graphics (up to 4096 colors) and stereo sound in 16 voices.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Foi o membro mais poderoso desta série produzida pela Apple Computer. Na época do seu lançamento, apresentava gráficos coloridos surpreendentes (com até 4096 cores) e som estéreo em 16 vozes.</text>
 		</text>
 

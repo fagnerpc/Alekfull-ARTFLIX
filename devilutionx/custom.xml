@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>DevilutionX é uma porta de origem do Diablo e Hellfire que se esforça para simplificar a execução do jogo, enquanto fornece melhorias no motor, correções de bugs e alguns recursos opcionais de qualidade de vida.</text>
+			<text>DevilutionX is a source port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bug fixes, and some optional quality of life features.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>DevilutionX é uma porta de origem do Diablo e Hellfire que se esforça para simplificar a execução do jogo, enquanto fornece melhorias no motor, correções de bugs e alguns recursos opcionais de qualidade de vida.</text>
 		</text>
 		

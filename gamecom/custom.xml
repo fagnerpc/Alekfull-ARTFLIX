@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de jogos portátil de quinta geração. Foi o primeiro console de videogame a incluir uma tela sensível ao toque e o primeiro console portátil a incluir conectividade com a Internet. O Game.com vendeu menos de 300.000 unidades.</text>
+			<text>Is a fifth-generation handheld game console. It was the first video game console to include a touchscreen and the first handheld console to include Internet connectivity. The Game.com sold fewer than 300,000 units and was discontinued in 2000 because of poor sales.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um console de jogos portátil de quinta geração. Foi o primeiro console de videogame a incluir uma tela sensível ao toque e o primeiro console portátil a incluir conectividade com a Internet. O Game.com vendeu menos de 300.000 unidades.</text>
 		</text>
 		

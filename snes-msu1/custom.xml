@@ -2,12 +2,11 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-
 		<text name="info1" extra="true">
-			<text>O MSU-1 é um chip addon de cartucho (semelhante ao chip SuperFx) que permite muitos aprimoramentos nos jogos SNES, incluindo, entre outros, vídeo em movimento total e som com qualidade de CD, adicionando até 4 GB de armazenamento para conteúdo extra.</text>
+			<text>MSU-1 is a cartridge addon chip (similar to the SuperFx chip) that allows for many enhancements to SNES games including, but not limited to, full-motion video and CD quality sound by adding up to 4GB of storage for extra content.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O MSU-1 é um chip addon de cartucho (semelhante ao chip SuperFx) que permite muitos aprimoramentos nos jogos SNES, incluindo, entre outros, vídeo em movimento total e som com qualidade de CD, adicionando até 4 GB de armazenamento para conteúdo extra.</text>
 		</text>
 

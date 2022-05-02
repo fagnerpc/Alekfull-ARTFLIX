@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O SuFami Turbo, muitas vezes comparado ao Aladdin Deck Enhancer, é um acessório lançado pela Bandai para o sistema Super Famicom da Nintendo e foi lançado em 1996.</text>
+			<text>The SuFami Turbo, often compared to the Aladdin Deck Enhancer, is an accessory released by Bandai for Nintendo's Super Famicom system and was released in 1996.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O SuFami Turbo, muitas vezes comparado ao Aladdin Deck Enhancer, é um acessório lançado pela Bandai para o sistema Super Famicom da Nintendo e foi lançado em 1996.</text>
 		</text>
 
@@ -38,20 +38,5 @@
 			<text>Bandai</text>
 		</text>
 	</view>
-
-		<customView name="HCoinSpin">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/snes.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
-
-
-	<customView name="CoinOps Details">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/snes.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
 
 </theme>

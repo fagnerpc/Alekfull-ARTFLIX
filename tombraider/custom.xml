@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Tomb Raider é uma franquia que se originou com uma série de videogames de ação e aventura criada pela empresa britânica de jogos Core Design. Anteriormente de propriedade da Eidos Interactive, a franquia se concentra na arqueóloga britânica fictícia Lara Croft.</text>
+			<text>Tomb Raider is a media franchise that originated with an action-adventure video game series created by British gaming company Core Design. Formerly owned by Eidos Interactive, the franchise focuses on fictional British archaeologist Lara Croft.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Tomb Raider é uma franquia que se originou com uma série de videogames de ação e aventura criada pela empresa britânica de jogos Core Design. Anteriormente de propriedade da Eidos Interactive, a franquia se concentra na arqueóloga britânica fictícia Lara Croft.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

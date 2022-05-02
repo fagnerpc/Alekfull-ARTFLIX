@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Aqui está agrupado todos os jogos para 4 Jogadores de todos os sistemas disponíveis numa única lista, organizados por ordem alfabética. Você pode procurar o seu jogo favorito por diversos critérios através do sistema.</text>
+			<text>Here is grouped all games for 4 Players from all available systems in a single list, organized in alphabetical order. You can search for your favorite game by various criteria through the system.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Aqui está agrupado todos os jogos para 4 Jogadores de todos os sistemas disponíveis numa única lista, organizados por ordem alfabética. Você pode procurar o seu jogo favorito por diversos critérios através do sistema.</text>
 		</text>
 
@@ -27,10 +27,10 @@
 		</text>
 
 				<text name="info2" extra="true">
-			<text>4 Jogadores</text>
+			<text>4 Players</text>
 		</text>
 
-			<text name="info2" extra="true"  lang="PTBR">
+			<text name="info2" extra="true"  lang="PT">
 			<text>4 Jogadores</text>
 		</text>
 						<text name="info2" extra="true" lang="EN">

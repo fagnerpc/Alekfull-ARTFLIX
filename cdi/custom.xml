@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Philips CD-i (abreviação de Compact Disc Interactive) é um CD player interativo multimídia desenvolvido e comercializado pela Royal Philips Electronics N.V., que o apoiou de dezembro de 1991 até o final dos anos 1990.</text>
+			<text>Philips CD-i (aka Compact Disc Interactive) is an interactive multimedia CD player developed and marketed by Royal Philips Electronics N.V., who supported it from December 1991 into the late 1990s.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Philips CD-i (abreviação de Compact Disc Interactive) é um CD player interativo multimídia desenvolvido e comercializado pela Royal Philips Electronics N.V., que o apoiou de dezembro de 1991 até o final dos anos 1990.</text>
 		</text>
 

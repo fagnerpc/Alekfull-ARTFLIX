@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Fundada pelo funcionário da Apple Trip Hawkins, a empresa foi pioneira no início da indústria de jogos de computador doméstico e promoveu os designers e programadores responsáveis ​​por seus jogos como "artistas de software".</text>
+			<text>Founded in May 1982 by Apple employee Trip Hawkins, the company was a pioneer of the early home computer game industry and promoted the designers and programmers responsible for its games as "software artists." </text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Fundada pelo funcionário da Apple Trip Hawkins, a empresa foi pioneira no início da indústria de jogos de computador doméstico e promoveu os designers e programadores responsáveis ​​por seus jogos como "artistas de software".</text>
 		</text>
 		
@@ -39,7 +39,7 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>CRIADO POR:</text>
+			<text>CREATED BY:</text>
 		</text>
 		
 				<text name="info5" extra="true"  lang="pt">

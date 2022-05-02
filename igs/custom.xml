@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É uma placa de sistema arcade lançada em 1997 pela empresa taiwanesa IGS. O PGM foi desenvolvido para competir com o sistema Neo Geo MVS da SNK em Taiwan. Foi sucedido pelo PGM2 em 2007 e pelo PGM3 em 2012.</text>
+			<text>Is an arcade system board released in 1997 by the Taiwan company IGS. The PGM was developed in order to compete with the likes of SNK's Neo Geo MVS system in Taiwan. It was succeeded by PGM2 in 2007, and PGM3 in 2012.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É uma placa de sistema arcade lançada em 1997 pela empresa taiwanesa IGS. O PGM foi desenvolvido para competir com o sistema Neo Geo MVS da SNK em Taiwan. Foi sucedido pelo PGM2 em 2007 e pelo PGM3 em 2012.</text>
 		</text>
 		

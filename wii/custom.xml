@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame doméstico produzido pela Nintendo e lançado em 2006. É um videogame da sétima geração e o quinto console da Nintendo. Seus principais concorrentes são o Xbox 360 e o Playstation 3.</text>
+			<text>Is a home video game console released by Nintendo on November 19, 2006. As a seventh-generation console, the Wii competed with Microsoft's Xbox 360 and Sony's PlayStation 3.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um console de videogame doméstico produzido pela Nintendo e lançado em 2006. É um videogame da sétima geração e o quinto console da Nintendo. Seus principais concorrentes são o Xbox 360 e o Playstation 3.</text>
 		</text>
 

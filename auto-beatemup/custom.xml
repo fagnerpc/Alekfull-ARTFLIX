@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Beat 'em ups (também brawlers) são jogos eletrônicos baseados na luta corpo a corpo contra múltiplas ondas de inimigos. Os jogos tradicionais tomavam forma em cenários renderizados em duas dimensões com vários planos de movimentação.</text>
+			<text>Beat 'em ups (also brawlers) are electronic games based on hand-to-hand combat against multiple waves of enemies. Traditional games took shape in scenarios rendered in two dimensions with multiple planes of movement.</text>
 		</text>
 		
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Beat 'em ups (também brawlers) são jogos eletrônicos baseados na luta corpo a corpo contra múltiplas ondas de inimigos. Os jogos tradicionais tomavam forma em cenários renderizados em duas dimensões com vários planos de movimentação.</text>
 		</text>		
 
@@ -40,10 +40,10 @@
 		</text>		
 		
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

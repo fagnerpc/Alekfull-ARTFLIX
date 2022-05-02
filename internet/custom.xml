@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Internet é o sistema global de redes de computadores interconectadas que usa o conjunto de protocolos da Internet (TCP / IP) para se comunicar entre redes e dispositivos. É uma rede que consiste em redes privadas, públicas, acadêmicas, comerciais e governamentais.</text>
+			<text>Internet is the global system of interconnected computer networks that uses the protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business, and government networks.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Internet é o sistema global de redes de computadores interconectadas que usa o conjunto de protocolos da Internet (TCP / IP) para se comunicar entre redes e dispositivos. É uma rede que consiste em redes privadas, públicas, acadêmicas, comerciais e governamentais.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

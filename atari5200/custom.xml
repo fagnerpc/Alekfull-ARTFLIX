@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Lançado pela Atari em 1982 para substituir o Atari 2600. Por causa dos sérios problemas com seu controle, o produto foi considerado um fracasso comercial.</text>
+			<text>Launched by Atari in 1982 to replace the Atari 2600. Because of serious problems with its control, the product was considered a commercial failure.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Lançado pela Atari em 1982 para substituir o Atari 2600. Por causa dos sérios problemas com seu controle, o produto foi considerado um fracasso comercial.</text>
 		</text>
 

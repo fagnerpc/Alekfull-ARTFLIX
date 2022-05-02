@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame portátil, de 8 bits, desenvolvido e produzido pela Sega. Fazia parte da denominada 4ª geração de consolas e surgiu em resposta ao portátil da Nintendo, o Game Boy.</text>
+			<text>Is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um console de videogame portátil, de 8 bits, desenvolvido e produzido pela Sega. Fazia parte da denominada 4ª geração de consolas e surgiu em resposta ao portátil da Nintendo, o Game Boy.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Media player é um tipo de aplicativo para reproduzir arquivos de computador multimídia, como arquivos de áudio e vídeo. Os players de mídia geralmente exibem ícones de controle de mídia padrão conhecidos de dispositivos físicos, como gravadores e CD players.</text>
+			<text>Media player software is a type of application software for playing multimedia computer files like audio and video files. Media players commonly display standard media control icons known from physical devices such as tape recorders and CD players.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Media player é um tipo de aplicativo para reproduzir arquivos de computador multimídia, como arquivos de áudio e vídeo. Os players de mídia geralmente exibem ícones de controle de mídia padrão conhecidos de dispositivos físicos, como gravadores e CD players.</text>
 		</text>
 

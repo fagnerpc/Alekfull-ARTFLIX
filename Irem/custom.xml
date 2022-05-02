@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Irem é conhecido internacionalmente por três jogos de arcade da década de 1980: Moon Patrol (1982), o primeiro beat 'em up, Kung-Fu Master (1984) e o shooter de rolagem R-Type (1987). Irem tem sido popular no Japão com jogos como Photoboy para o PC Engine e In the Hunt para arcades.</text>
+			<text>Is known internationally for three 1980s arcade games: Moon Patrol (1982), the earliest beat 'em up, Kung-Fu Master (1984), and the scrolling shooter R-Type (1987). Irem has been popular in Japan with games like Photoboy for the PC Engine and In the Hunt for arcades.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Irem é conhecido internacionalmente por três jogos de arcade da década de 1980: Moon Patrol (1982), o primeiro beat 'em up, Kung-Fu Master (1984) e o shooter de rolagem R-Type (1987). Irem tem sido popular no Japão com jogos como Photoboy para o PC Engine e In the Hunt para arcades.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 				<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

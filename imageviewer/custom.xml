@@ -2,13 +2,13 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-		<text name="info1" extra="true">
-			<text>Tire screenshots dos seus melhores jogos e highscores depois mostre aos seus amigos.
-			Quem será o melhor jogador...
-			God Bless Retro Games!</text>
+				<text name="info1" extra="true">
+			<text>Take screenshots of your best games and highscores then show them to your friends.
+Who will be the best player ...
+God Bless Retro Games!</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Tire screenshots dos seus melhores jogos e highscores depois mostre aos seus amigos.
 			Quem será o melhor jogador...
 			God Bless Retro Games!</text>
@@ -16,8 +16,8 @@
 
 				<text name="info1" extra="true" lang="EN">
 			<text>Take screenshots of your best games and highscores then show them to your friends.
-			Who will be the best player ...
-			God Bless Retro Games!</text>
+Who will be the best player ...
+God Bless Retro Games!</text>
 		</text>
 
 				<text name="info1" extra="true" lang="ES">
@@ -36,15 +36,15 @@ Qui sera le meilleur joueur ...
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Machen Sie Screenshots Ihrer besten Spiele und Highscores und zeigen Sie sie dann Ihren Freunden.
-				Wer wird der beste Spieler ...
-				Gott segne Retro-Spiele!</text>
+Wer wird der beste Spieler ...
+Gott segne Retro-Spiele!</text>
 		</text>
 
 				<text name="info2" extra="true">
-			<text>Galeria de Imagens</text>
+			<text>Image Viewer</text>
 		</text>
 
-			<text name="info2" extra="true"  lang="PTBR">
+			<text name="info2" extra="true"  lang="PT">
 			<text>Galeria de Imagens</text>
 		</text>
 						<text name="info2" extra="true" lang="EN">

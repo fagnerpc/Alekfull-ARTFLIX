@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console portátil lançado em agosto de 1995 e se tornou o maior fracasso da Nintendo. Com um processador de 32 bits e duas telas no formato de um óculos apoiado sobre um tripé, pouco móvel para um 'portátil'.</text>
+			<text>Is a 32-bit table-top video game console developed and manufactured by Nintendo. Released in 1995, it was marketed as the first console capable of displaying stereoscopic 3D graphics.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um console portátil lançado em agosto de 1995 e se tornou o maior fracasso da Nintendo. Com um processador de 32 bits e duas telas no formato de um óculos apoiado sobre um tripé, pouco móvel para um 'portátil'.</text>
 		</text>
 

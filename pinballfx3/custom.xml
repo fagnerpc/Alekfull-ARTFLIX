@@ -3,9 +3,9 @@
 
     <view name="system">
         <text name="info1" extra="true">
-            <text>Pinball FX3 é o maior e mais comunitário jogo de pinball de sempre. As competições multijogadores, os torneios criados pelos utilizadores e os jogos da liga proporcionam inúmeras oportunidades de enfrentares outros jogadores.</text>
+            <text>Pinball FX3 is the BIGGEST, most COMMUNITY-focused pinball game ever created. Advanced multiplayer features including matchups, user-generated tournaments and league play create endless opportunity for pinball competition.</text>
         </text>
-        <text name="info1" extra="true" lang="PTBR">
+        <text name="info1" extra="true" lang="PT">
             <text>Pinball FX3 é o maior e mais comunitário jogo de pinball de sempre. As competições multijogadores, os torneios criados pelos utilizadores e os jogos da liga proporcionam inúmeras oportunidades de enfrentares outros jogadores.</text>
         </text>
         <text name="info1" extra="true" lang="EN">

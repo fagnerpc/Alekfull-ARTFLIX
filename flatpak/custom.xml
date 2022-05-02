@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Flatpak, anteriormente conhecido como xdg-app, é um utilitário para implantação de software e gerenciamento de pacotes para Linux. Ele é anunciado como oferecendo um ambiente de sandbox no qual os usuários podem executar o software aplicativo isoladamente do resto do sistema.</text>
+			<text>Flatpak, formerly known as xdg-app, is a utility for software deployment and package management for Linux. It is advertised as offering a sandbox environment in which users can run application software in isolation from the rest of the system.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Flatpak, anteriormente conhecido como xdg-app, é um utilitário para implantação de software e gerenciamento de pacotes para Linux. Ele é anunciado como oferecendo um ambiente de sandbox no qual os usuários podem executar o software aplicativo isoladamente do resto do sistema.</text>
 		</text>
 		

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Também abreviada como DECO, era uma empresa japonesa de videogames e engenharia eletrônica. Ela esteve em operação de 1976 a 2003, e lançou 150 jogos. A sua sede ficava em Suginami, Tóquio. A sua subsidiária estado-unidense, a Data East USA, era sediada em San José.</text>
+			<text>Also abbreviated as DECO, it was a Japanese video game and electronic engineering company. It was in operation from 1976 to 2003, and has released 150 games. Its headquarters took place in Suginami, Tokyo. Its US subsidiary, Data East USA, was headquartered in San José.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Também abreviada como DECO, era uma empresa japonesa de videogames e engenharia eletrônica. Ela esteve em operação de 1976 a 2003, e lançou 150 jogos. A sua sede ficava em Suginami, Tóquio. A sua subsidiária estado-unidense, a Data East USA, era sediada em San José.</text>
 		</text>
 		
@@ -39,10 +39,10 @@
 		</text>	
 
 		<text name="info5" extra="true">
-			<text>FUNDADOR:</text>
+			<text>FOUNDER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>FUNDADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

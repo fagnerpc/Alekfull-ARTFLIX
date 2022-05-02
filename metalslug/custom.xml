@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Metal Slug é uma série de jogos de run and gun originalmente criados pela Nazca Corporation. Os jogos se concentram no Esquadrão Peregrine Falcon, um pequeno grupo de soldados que lutam contra um exército rebelde.</text>
+			<text>Metal Slug is a series of run and gun video games originally created by Nazca Corporation. The games focus on the Peregrine Falcon Squad, a small group of soldiers who fight against a rebel army.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Metal Slug é uma série de jogos de run and gun originalmente criados pela Nazca Corporation. Os jogos se concentram no Esquadrão Peregrine Falcon, um pequeno grupo de soldados que lutam contra um exército rebelde.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi um console de vídeo games bastante popular nos anos 70 e 80. O console foi criado em 1978 pela empresa Magnavox / Philips como evolução do console da Magnavox anterior, o Magnavox Odyssey.</text>
+			<text>The Magnavox Odyssey², also known as Philips Odyssey² is a second generation home video game console released in 1978. It was sold in Europe as the Philips Videopac G7000, in Brazil as the Philips Odyssey.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Foi um console de vídeo games bastante popular nos anos 70 e 80. O console foi criado em 1978 pela empresa Magnavox / Philips como evolução do console da Magnavox anterior, o Magnavox Odyssey.</text>
 		</text>
 
@@ -27,7 +27,7 @@
 		</text>
 
 		<text name="info2" extra="true">
-			<text>Odyssey²</text>
+			<text>Odyssey</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -37,11 +37,28 @@
 		<text name="info4" extra="true">
 			<text>Magnavox</text>
 		</text>
+		
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/odyssey2.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/odyssey2.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/odyssey2.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/odyssey2.png</path>
+		</image>
+		
 	</view>
 
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
-         <path>./../assets/coinops/coinopstv.png</path>
+         <path>./../assets/coinops/odyssey2.png</path>
          <zIndex>7</zIndex>
       </image>
 	</customView>
@@ -49,7 +66,7 @@
 
 	<customView name="CoinOps Details">
       <image name="art3" extra="true">
-         <path>./../assets/coinops/coinopstv.png</path>
+         <path>./../assets/coinops/odyssey2.png</path>
          <zIndex>7</zIndex>
       </image>
 	</customView>

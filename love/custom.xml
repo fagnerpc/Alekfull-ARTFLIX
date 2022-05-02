@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O LÖVE é uma estrutura para criar jogos 2D na linguagem de programação Lua. O LÖVE é totalmente gratuito e pode ser usado em qualquer coisa, desde projetos amigáveis ​​de hobby de código aberto até projetos comerciais maus e de código fechado.</text>
+			<text>LÖVE is a framework for making 2D games in the Lua programming language. LÖVE is totally free, and can be used in anything from friendly open-source hobby projects, to evil, closed-source commercial ones.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O LÖVE é uma estrutura para criar jogos 2D na linguagem de programação Lua. O LÖVE é totalmente gratuito e pode ser usado em qualquer coisa, desde projetos amigáveis ​​de hobby de código aberto até projetos comerciais maus e de código fechado.</text>
 		</text>
 

@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Apple Macintosh foi o primeiro computador pessoal a popularizar a interface gráfica, na época um desenvolvimento revolucionário. Ele é muito utilizado para o tratamento de vídeo, imagem e som.</text>
+			<text>The Apple Macintosh was the first personal computer to popularize the graphical interface, a revolutionary development at the time. It is widely used for video, image and sound treatment.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Apple Macintosh foi o primeiro computador pessoal a popularizar a interface gráfica, na época um desenvolvimento revolucionário. Ele é muito utilizado para o tratamento de vídeo, imagem e som.</text>
 		</text>
 

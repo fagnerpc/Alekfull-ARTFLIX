@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um periférico que permite jogar cartuchos de Game Boy em um console Super Nintendo Entertainment System. É compatível com os mesmos cartuchos do Game Boy original: a GB Camera, e cartuchos GBC dual-mode.</text>
+			<text>Is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console. Is compatible with the same cartridges as the original Game Boy: the GB Camera, and dual-mode GBC cartridges.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>É um periférico que permite jogar cartuchos de Game Boy em um console Super Nintendo Entertainment System. É compatível com os mesmos cartuchos do Game Boy original: a GB Camera, e cartuchos GBC dual-mode.</text>
 		</text>
 		

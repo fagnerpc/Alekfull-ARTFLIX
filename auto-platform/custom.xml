@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Plataforma é um gênero em que o jogador corre e pula entre plataformas e obstáculos, enfrentando inimigos e coletando objetos bônus. O gênero tem seu surgimento no início dos anos 80, sendo alguns de seus exemplares mais conhecidos: Super Mario Bros., Sonic the Hedgehog, Donkey Kong.</text>
+			<text>Platform is a genre in which the player runs and jumps between platforms and obstacles, facing enemies and collecting bonus objects. The genre has its emergence in the early 80's, with some of its best known examples: Super Mario Bros., Sonic the Hedgehog, Donkey Kong.</text>
 		</text>
 		
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Plataforma é um gênero em que o jogador corre e pula entre plataformas e obstáculos, enfrentando inimigos e coletando objetos bônus. O gênero tem seu surgimento no início dos anos 80, sendo alguns de seus exemplares mais conhecidos: Super Mario Bros., Sonic the Hedgehog, Donkey Kong.</text>
 		</text>		
 
@@ -28,10 +28,10 @@
 
 		
 		<text name="info2" extra="true">
-			<text>Jogos de Plataforma</text>
+			<text>Action (Platformer)</text>
 		</text>
 		
-		<text name="info2" extra="true" lang="PTBR">
+		<text name="info2" extra="true" lang="PT">
 			<text>Jogos de Plataforma</text>
 		</text>		
 		
@@ -60,10 +60,10 @@
 		</text>		
 		
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

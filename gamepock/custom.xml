@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Também é conhecido como Pokekon e foi um dos poucos sistemas verdadeiramente portáteis a serem lançados no início dos anos 80, precedendo o Game Boy em 5 anos. O sistema foi um fracasso no Japão e, como resultado, apenas 5 jogos foram feitos para ele.</text>
+			<text>It is also known as Pokekon and was one of the very few truly handheld systems to be released in the early 1980s, preceding the Game Boy by 5 years. The system was a bust in Japan, and as a result, only 5 games were made for it.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>Também é conhecido como Pokekon e foi um dos poucos sistemas verdadeiramente portáteis a serem lançados no início dos anos 80, precedendo o Game Boy em 5 anos. O sistema foi um fracasso no Japão e, como resultado, apenas 5 jogos foram feitos para ele.</text>
 		</text>
 		

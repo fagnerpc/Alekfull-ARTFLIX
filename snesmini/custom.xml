@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de videogame doméstico lançado pela Nintendo, que emula o Super NES. O console, sucessor da NES Classic Edition, vem com 21 títulos Super NES pré-instalados, incluindo o primeiro lançamento oficial de Star Fox 2.</text>
+			<text>Is a dedicated home video game console released by Nintendo, which emulates the Super NES. The console, a successor to the NES Classic Edition, comes with twenty-one Super NES titles pre-installed, including the first official release of Star Fox 2.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um console de videogame doméstico lançado pela Nintendo, que emula o Super NES. O console, sucessor da NES Classic Edition, vem com 21 títulos Super NES pré-instalados, incluindo o primeiro lançamento oficial de Star Fox 2.</text>
 		</text>
 

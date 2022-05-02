@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>The Legend of Zelda é uma franquia de jogos de ação e aventura criada pelos designers de jogos japoneses Shigeru Miyamoto e Takashi Tezuka. A série foi expandida para incluir 19 jogos em todos os consoles da Nintendo.</text>
+			<text>The Legend of Zelda is an action-adventure game franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka. Developed and published by Nintendo. The series has expanded to include 19 entries on all of Nintendo's consoles.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>The Legend of Zelda é uma franquia de jogos de ação e aventura criada pelos designers de jogos japoneses Shigeru Miyamoto e Takashi Tezuka. A série foi expandida para incluir 19 jogos em todos os consoles da Nintendo.</text>
 		</text>
 
@@ -35,14 +35,14 @@
 		</text>
 
 		<text name="info4" extra="true">
-			<text>Shigeru Miyamoto, Takashi Tezuka</text>
+			<text>Miyamoto, Tezuka</text>
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

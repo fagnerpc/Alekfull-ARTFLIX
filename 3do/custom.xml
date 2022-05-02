@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>3DO Interactive Multiplayer foi um videogame doméstico com arquitetura de 32 bits. O 3DO consiste em especificações técnicas criadas pela "3DO Company", que é uma sociedade entre 7 diferentes empresas.</text>
+			<text>The 3DO Interactive Multiplayer, often called simply the 3DO, is a home video game console platform developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>3DO Interactive Multiplayer foi um videogame doméstico com arquitetura de 32 bits. O 3DO consiste em especificações técnicas criadas pela "3DO Company", que é uma sociedade entre 7 diferentes empresas.</text>
 		</text>
 

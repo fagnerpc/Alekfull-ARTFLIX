@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Mega Man, conhecido como Rockman no Japão, é uma franquia de videogame de ficção científica criada pela Capcom. Inicialmente lançado para o NES em 1987, foi o primeiro de uma série que se expandiu para mais de 50 jogos em vários sistemas.</text>
+			<text>Mega Man, known as Rockman in Japan, is a science fiction video game franchise created by Capcom, starring a series of robot characters. Mega Man, released for the NES in 1987, was the first in a series that expanded to over 50 games on multiple systems.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Mega Man, conhecido como Rockman no Japão, é uma franquia de videogame de ficção científica criada pela Capcom. Inicialmente lançado para o NES em 1987, foi o primeiro de uma série que se expandiu para mais de 50 jogos em vários sistemas.</text>
 		</text>
 
@@ -40,10 +40,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

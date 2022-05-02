@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Quake é um videogame de tiro em primeira pessoa desenvolvido pela id Software em 1996. É o primeiro jogo da série Quake.  No jogo, os jogadores devem encontrar o seu caminho através de vários ambientes medievais semelhantes a labirintos.</text>
+			<text>Quake is a first-person shooter video game developed by id Software and published by GT Interactive in 1996. It is the first game in the Quake series. In the game, players must find their way through various maze-like, medieval environments.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Quake é um videogame de tiro em primeira pessoa desenvolvido pela id Software em 1996. É o primeiro jogo da série Quake.  No jogo, os jogadores devem encontrar o seu caminho através de vários ambientes medievais semelhantes a labirintos.</text>
 		</text>
 
@@ -38,10 +38,10 @@
 			<text>Kevin Shanahan</text>
 		</text>
 				<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

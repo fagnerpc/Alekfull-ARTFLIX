@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É um console de video game de 16 bits da Sega que concorria diretamente com o SNES. O console fez grande sucesso na década de 1990, perdendo espaço após o surgimento e popularização da nova geração de consoles.</text>
+			<text>It is a 16-bit video game console from Sega that competed directly with the SNES. The console was very successful in the 1990s, losing ground after the emergence and popularization of the new generation of consoles.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>É um console de video game de 16 bits da Sega que concorria diretamente com o SNES. O console fez grande sucesso na década de 1990, perdendo espaço após o surgimento e popularização da nova geração de consoles.</text>
 		</text>
 

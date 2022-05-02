@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Resident Evil, conhecido no Japão como Biohazard, é uma franquia japonesa de mídia de terror criada por Shinji Mikami e Tokuro Fujiwara e de propriedade da empresa de videogames Capcom. A franquia começou com o videogame Resident Evil, lançado em 1996.</text>
+			<text>Resident Evil, known in Japan as Biohazard, is a Japanese horror media franchise created by Shinji Mikami and Tokuro Fujiwara, and owned by Capcom. The franchise began with the video game Resident Evil, released in 1996.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Resident Evil, conhecido no Japão como Biohazard, é uma franquia japonesa de mídia de terror criada por Shinji Mikami e Tokuro Fujiwara e de propriedade da empresa de videogames Capcom. A franquia começou com o videogame Resident Evil, lançado em 1996.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

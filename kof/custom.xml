@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>KOF é uma série de jogos de luta da SNK que começaram com o lançamento de The King of Fighters '94. A série foi desenvolvida originalmente para o hardware de arcade Neo Geo MVS da SNK, até 2004, quando a SNK a retirou em favor da placa de arcade Atomiswave.</text>
+			<text>KOF is a series of fighting games by SNK that began with the release of The King of Fighters '94. The series was developed originally for SNK's Neo Geo MVS arcade hardware, until 2004, when SNK retired it in favor of the Atomiswave arcade board.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>KOF é uma série de jogos de luta da SNK que começaram com o lançamento de The King of Fighters '94. A série foi desenvolvida originalmente para o hardware de arcade Neo Geo MVS da SNK, até 2004, quando a SNK a retirou em favor da placa de arcade Atomiswave.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

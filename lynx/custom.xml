@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Foi um console de videogame portátil produzido pela Atari, lançado em 1989, sendo o primeiro a apresentar tela colorida. Fazendo parte dos videogames de quarta geração, concorreu com o Game Boy da Nintendo.</text>
+			<text>Is a 16-bit handheld game console that was released by Atari Corporation in September 1989 in North America, and in Europe and Japan in 1990. It was the world's first handheld electronic game with a color LCD.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Foi um console de videogame portátil produzido pela Atari, lançado em 1989, sendo o primeiro a apresentar tela colorida. Fazendo parte dos videogames de quarta geração, concorreu com o Game Boy da Nintendo.</text>
 		</text>
 

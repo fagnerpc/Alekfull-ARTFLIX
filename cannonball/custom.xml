@@ -2,11 +2,11 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-		<text name="info1" extra="true">
-			<text>CannonBall é um motor de jogo aprimorado para o jogo de arcade OutRun. Isso torna possível fazer melhorias adequadas para plataformas modernas, incluindo uma taxa de quadros mais alta e suporte a widescreen.</text>
+		<text name="info1" extra="true" lang="EN">
+			<text>CannonBall is an souped up game engine for the OutRun arcade game. This makes it possible to make improvements suitable for modern platforms, including a higher frame-rate and widescreen support.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>CannonBall é um motor de jogo aprimorado para o jogo de arcade OutRun. Isso torna possível fazer melhorias adequadas para plataformas modernas, incluindo uma taxa de quadros mais alta e suporte a widescreen.</text>
 		</text>
 

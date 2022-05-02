@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>A década de 1980 viu o surgimento de sistemas de jogos domésticos acessíveis com computadores domésticos de empresas como Sinclair e Commadore e os primeiros lançamentos de console em grande escala dos pesos pesados ​​da Sega e Nintendo.</text>
+			<text>The 1980's saw the dawn of affordable home gaming systems with home computers from the likes of Sinclair and Commodore and the first large-scale console releases from heavyweights Sega and Nintendo.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>A década de 1980 viu o surgimento de sistemas de jogos domésticos acessíveis com computadores domésticos de empresas como Sinclair e Commadore e os primeiros lançamentos de console em grande escala dos pesos pesados ​​da Sega e Nintendo.</text>
 		</text>
 		

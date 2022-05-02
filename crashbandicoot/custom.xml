@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Crash Bandicoot é uma franquia de videogames de plataforma. A série foi criada por Andy Gavin e Jason Rubin durante seu mandato na Naughty Dog para a Universal Interactive Studios e foi originalmente publicada pela Sony Computer Entertainment.</text>
+			<text>Crash Bandicoot is a franchise of platform video games. The series was created by Andy Gavin and Jason Rubin during their tenure at Naughty Dog for Universal Interactive Studios and was originally published by Sony Computer Entertainment.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Crash Bandicoot é uma franquia de videogames de plataforma. A série foi criada por Andy Gavin e Jason Rubin durante seu mandato na Naughty Dog para a Universal Interactive Studios e foi originalmente publicada pela Sony Computer Entertainment.</text>
 		</text>
 
@@ -39,10 +39,10 @@
 		</text>
 
 		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
+			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PTBR">
+				<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">

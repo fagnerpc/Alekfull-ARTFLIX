@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>O Sharp X68000 é um computador lançado exclusivamente no Japão pela Sharp Corporation. O primeiro modelo foi lançado em 1987, com um CPU 68000 da Motorola de 10 MHz, 1MB de memória RAM e sem disco rígido.</text>
+			<text>Is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan. The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of RAM, and no hard drive.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>O Sharp X68000 é um computador lançado exclusivamente no Japão pela Sharp Corporation. O primeiro modelo foi lançado em 1987, com um CPU 68000 da Motorola de 10 MHz, 1MB de memória RAM e sem disco rígido.</text>
 		</text>
 
@@ -37,20 +37,5 @@
 			<text>Sharp Corporation</text>
 		</text>
 	</view>
-
-		<customView name="HCoinSpin">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/coinopstv.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
-
-
-	<customView name="CoinOps Details">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/coinopstv.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
 
 </theme>

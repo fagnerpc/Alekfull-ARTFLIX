@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Era um periférico que se ligava ao Mega Drive e disponibilizava assim a execução de jogos gravados em CD, novidade para a época. O acessório poderia ser acoplado a um 32X para alguns jogos.</text>
+			<text>The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Sega Genesis video game console designed and produced by Sega.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PTBR">
+		<text name="info1" extra="true" lang="PT">
 			<text>Era um periférico que se ligava ao Mega Drive e disponibilizava assim a execução de jogos gravados em CD, novidade para a época. O acessório poderia ser acoplado a um 32X para alguns jogos.</text>
 		</text>
 
@@ -31,7 +31,7 @@
 			<text>Sega CD</text>
 		</text>
 
-		<text name="info2" extra="true"  lang="PTBR">
+		<text name="info2" extra="true"  lang="PT">
 			<text>Sega CD</text>
 		</text>
 						<text name="info2" extra="true" lang="EN">

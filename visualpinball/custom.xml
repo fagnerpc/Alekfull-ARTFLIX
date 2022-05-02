@@ -1,0 +1,94 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games. The software is composed of an editor and the simulator part itself. Also able to operate with Visual PinMAME, an emulator for ROM images from real pinball machines.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Visual Pinball é uma engine open source e freeware para mesas de pinball e jogos similares. O software é composto por um editor e a própria parte do simulador. Também é capaz de operar com o Visual PinMAME, um emulador para imagens de ROM de máquinas reais de pinball.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games. The software is composed of an editor and the simulator part itself. Also able to operate with Visual PinMAME, an emulator for ROM images from real pinball machines.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Visual Pinball es un motor de videojuegos gratuito disponible y gratuito para mesas de pinball y juegos similares. El software está compuesto por un editor y la parte del simulador en sí. También puede funcionar con Visual PinMAME.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Visual Pinball est un moteur de jeu vidéo gratuit et disponible pour les tables de flipper et les jeux similaires. Le logiciel est composé d'un éditeur et de la partie simulateur elle-même. Également capable de fonctionner avec Visual PinMAME.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Visual Pinball ist eine kostenlose und quelloffene Videospiel-Engine für Flippertische und ähnliche Spiele. Die Software besteht aus einem Editor und dem eigentlichen Simulatorteil. Kann auch mit Visual PinMAME, einem Emulator für ROM-Images von echten Flipperautomaten, betrieben werden.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Visual Pinball</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Randy Davis</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+		
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/vpinball.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/vpinball.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/vpinball.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/vpinball.png</path>
+		</image>
+		
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>
