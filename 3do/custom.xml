@@ -55,11 +55,11 @@
 			<text>Panasonic, Sanyo, GoldStar</text>
 		</text>        
     
-    <text name="info4" extra="ZH">
+    <text name="info4" extra="true" lang="ZH">
 			<text>松下, 三洋, GoldStar</text>
 		</text>
     
-    <text name="info4" extra="TW">
+    <text name="info4" extra="true" lang="TW">
 			<text>松下, 三洋, GoldStar</text>
 		</text>
 

@@ -3,27 +3,27 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Here are gathered games that can be played on smart tv on their operating systems. Simple and complex games from various eras and developers.</text>
+			<text>Plug It In & Play TV Games interactive products are a series of game devices produced by Jakks Pacific. When connected to a television set via RCA connector cables, the user is able to play a pre-defined selection of video games.</text>
 		</text>
 
 		<text name="info1" extra="true"  lang="PT">
-			<text>Aqui estão reunidos jogos que podem ser jogados em smart tv em seus sistemas operacionais. Jogos simples e complexos de várias épocas e desenvolvedoras.</text>
+			<text>Os produtos interativos Plug It In & Play TV Games são uma série de dispositivos produzidos pela Jakks Pacific. Quando conectado a uma televisão através de cabos conectores RCA, o usuário pode jogar uma seleção pré-definida de videogames.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="EN">
-			<text>Here are gathered games that can be played on smart tv on their operating systems. Simple and complex games from various eras and developers.</text>
+			<text>Plug It In & Play TV Games interactive products are a series of game devices produced by Jakks Pacific. When connected to a television set via RCA connector cables, the user is able to play a pre-defined selection of video games.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="ES">
-			<text>Aquí se recopilan juegos que se pueden jugar en smart tv en sus sistemas operativos. Juegos simples y complejos de varias épocas y desarrolladores.</text>
+			<text>Los productos interactivos Plug It In & Play TV Games son una serie de dispositivos de juego producidos por Jakks Pacific. Cuando se conecta a un televisor a través de cables con conector RCA, el usuario puede jugar una selección predefinida de videojuegos.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="FR">
-			<text>Voici des jeux rassemblés qui peuvent être joués sur smart tv sur leurs systèmes d'exploitation. Des jeux simples et complexes de différentes époques et développeurs.</text>
+			<text>Les produits interactifs Plug It In & Play TV Games sont une série d'appareils de jeu produits par Jakks Pacific. Lorsqu'il est connecté à un téléviseur via des câbles de connexion RCA, l'utilisateur peut jouer à une sélection prédéfinie de jeux vidéo.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="DE">
-			<text>Hier sind Spiele gesammelt, die auf Smart TV auf ihren Betriebssystemen gespielt werden können. Einfache und komplexe Spiele aus verschiedenen Epochen und Entwicklern.</text>
+			<text>Plug It In & Play Interaktive TV-Spiele sind eine Reihe von Spielgeräten, die von Jakks Pacific hergestellt werden. Bei Anschluss an ein Fernsehgerät über RCA-Verbindungskabel kann der Benutzer eine vordefinierte Auswahl an Videospielen spielen.</text>
 		</text>
 
 		
@@ -32,11 +32,11 @@
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>20XX</text>
+			<text>2002</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Various</text>
+			<text>Jakks Pacific</text>
 		</text>			
 	</view>
 	

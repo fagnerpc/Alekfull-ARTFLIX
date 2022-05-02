@@ -37,11 +37,28 @@
 		<text name="info4" extra="true">
 			<text>Thomson SA</text>
 		</text>
+		
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/to8.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/to8.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/to8.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/to8.png</path>
+		</image>
+		
 	</view>
 
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
-         <path>./../assets/coinops/coinopstv.png</path>
+         <path>./../assets/coinops/to8.png</path>
          <zIndex>7</zIndex>
       </image>
 	</customView>
@@ -49,7 +66,7 @@
 
 	<customView name="CoinOps Details">
       <image name="art3" extra="true">
-         <path>./../assets/coinops/coinopstv.png</path>
+         <path>./../assets/coinops/to8.png</path>
          <zIndex>7</zIndex>
       </image>
 	</customView>
