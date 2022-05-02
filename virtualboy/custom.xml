@@ -24,6 +24,15 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Ist eine von Nintendo entwickelte und hergestellte 32-Bit-Tabletop-Videospielkonsole. Es wurde 1995 veröffentlicht und als erste Konsole vermarktet, die stereoskopische 3D-Grafiken anzeigen kann.</text>
+		</text>  
+    
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>由任天堂开发和制造的32位桌面视频游戏机。 它于1995年发布，是第一款能够显示立体3D图形的主机。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="ZW">
+			<text>由任天堂開發和製造的32位桌面視頻遊戲機。 它於1995年發布，是第一款能夠顯示立體3D圖形的主機。</text>
 		</text>
 
 		<text name="info2" extra="true">
@@ -35,7 +44,16 @@
 		</text>
 
 		<text name="info4" extra="true">
-			<text>Nintendo</text>
-		</text>
+			<text>Nintendo</text>      
+		</text>  
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>      
+    </text>   
+      
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>              
+		</text>       
+    
 	</view>
 </theme>

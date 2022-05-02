@@ -11,7 +11,7 @@
 		</text>
 
 				<text name="info1" extra="true" lang="EN">
-			<text>Is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America.</text>
+			<text>a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="ES">
@@ -26,8 +26,24 @@
 			<text>Ist eine von Nintendo entwickelte 16-Bit-Heimvideospielkonsole, die 1990 in Japan und Südkorea, 1991 in Nordamerika, 1992 in Europa und Australasien (Ozeanien) und 1993 in Südamerika veröffentlicht wurde.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>由任天堂开发的16位家用视频游戏机，于1991年在北美发布，1992年在欧洲和大洋洲发布，1993年在南美发布。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="ZW">
+			<text>由任天堂開發的16位家用視頻遊戲機，於1991年在北美發布，1992年在歐洲和大洋洲發布，1993年在南美發布。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Super Nintendo</text>
+		</text>     
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>超级任天堂</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>超級任天堂</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -35,7 +51,15 @@
 		</text>
 
 		<text name="info4" extra="true">
-			<text>Nintendo</text>
+			<text>Nintendo</text>  
+		</text>   
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>任天堂</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>任天堂</text>
 		</text>
 
 		</view>

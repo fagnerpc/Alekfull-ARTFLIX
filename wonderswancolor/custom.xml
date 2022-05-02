@@ -24,6 +24,14 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>WonderSwan Color und SwanCrystal wurden offiziell unterstützt, bis sie 2003 von Bandai eingestellt wurden. Während seiner Lebensdauer wurde keine Variante des WonderSwan außerhalb Japans veröffentlicht.</text>
+		</text>    
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>WonderSwan Color和SwanCrystal一直受到官方支持，直到2003年被万代停产。在其生命週期内，WonderSwan的任何变体都没有在日本以外地区发布。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="ZW">
+			<text>WonderSwan Color和SwanCrystal一直受到官方支持，直到2003年被萬代停產。在其生命週期內，WonderSwan的任何變體都沒有在日本以外地區發布。</text>
 		</text>
 
 		<text name="info2" extra="true">
@@ -36,6 +44,15 @@
 
 		<text name="info4" extra="true">
 			<text>Bandai</text>
+		</text> 
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>万代</text>
 		</text>
+    
+		<text name="info4" extra="true" lang="ZW">
+			<text>萬代</text>
+		</text>      
+    
 	</view>
 </theme>

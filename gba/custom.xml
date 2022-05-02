@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001.</text>
+			<text>É um console portátil desenvolvido e fabricado pela Nintendo. É o sucessor do Game Boy Color, e um dos últimos produtos da linha. Seu codinome durante o processo de desenvolvimento foi Advance Game Boy.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PT">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>É um console portátil desenvolvido e fabricado pela Nintendo. É o sucessor do Game Boy Color, e um dos últimos produtos da linha. Seu codinome durante o processo de desenvolvimento foi Advance Game Boy.</text>
 		</text>
 
@@ -24,9 +24,17 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Ist eine tragbare 32-Bit-Videospielkonsole, die von Nintendo als Nachfolger des Game Boy Color entwickelt, hergestellt und vermarktet wird. Es wurde am 21. März 2001 in Japan und am 11. Juni 2001 in Nordamerika veröffentlicht.</text>
+		</text>     
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>是由任天堂作为 Game Boy Color 的继任者开发、制造和销售的 32 位手持视频游戏机。 它于 2001 年 3 月 21 日在日本发行，2001 年 6 月 11 日在北美发行。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="ZW">
+			<text>是由任天堂作為 Game Boy Color 的繼任者開發、製造和銷售的 32 位手持視頻遊戲機。 它於 2001 年 3 月 21 日在日本發行，2001 年 6 月 11 日在北美發行。</text>
 		</text>
 
-				<text name="info2" extra="true">
+		<text name="info2" extra="true">
 			<text>Game Boy Advance</text>
 		</text>
 
@@ -37,5 +45,14 @@
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
 		</text>
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>      
+    </text>   
+      
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>              
+		</text>       
+    
 	</view>
 </theme>

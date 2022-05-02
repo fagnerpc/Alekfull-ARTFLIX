@@ -24,6 +24,14 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Ist eine 8-Bit-Handheld-Spielekonsole der vierten Generation, die von Sega am 6. Oktober 1990 in Japan, im April 1991 in ganz Nordamerika und Europa und 1992 in Australien veröffentlicht wurde.</text>
+		</text>       
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>世嘉于1990年10月6日在日本、1991年4月在北美和欧洲以及1992年在澳大利亚发布的8位第四代掌上游戏机。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>世嘉於1990年10月6日在日本、1991年4月在北美和歐洲以及1992年在澳大利亞發布的8位第四代掌上游戲機。</text>
 		</text>
 
 		<text name="info2" extra="true">
@@ -36,6 +44,15 @@
 
 		<text name="info4" extra="true">
 			<text>SEGA Corporation</text>
-		</text>
+		</text>  
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>世嘉</text>      
+    </text>   
+      
+		<text name="info4" extra="true" lang="TW">
+			<text>世嘉</text>              
+		</text>       
+    
 	</view>
 </theme>

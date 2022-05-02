@@ -26,6 +26,14 @@
 			<text>Ist eine Handheld-Spielekonsole, die in Japan von Bandai herausgebracht wurde. Es wurde von Gunpei Yokois Firma Koto Laboratory und Bandai entwickelt und war die letzte Hardware, die Yokoi vor seinem Tod im Jahr 1997 entwickelte.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>是万代在日本发售的掌上游戏机。它由横井军平的公司江东研究所和万代开发，是横井在1997年去世前开发的最后一块硬件。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>是萬代在日本發售的掌上游戲機。它由橫井軍平的公司江東研究所和萬代開發，是橫井在1997年去世前開發的最後一塊硬件。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>WonderSwan</text>
 		</text>
@@ -36,6 +44,15 @@
 
 		<text name="info4" extra="true">
 			<text>Bandai</text>
+		</text> 
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>万代</text>
 		</text>
+    
+		<text name="info4" extra="true" lang="ZW">
+			<text>萬代</text>
+		</text>    
+    
 	</view>
 </theme>
