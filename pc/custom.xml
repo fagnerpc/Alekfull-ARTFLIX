@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>PC games, also known as computer games or personal computer games, are video games played on a personal computer rather than a dedicated video game console or arcade machine.</text>
+			<text>Jogos de PC, também conhecidos como jogos de computador ou jogos de computador pessoal, são jogos projetados para serem jogados no PC ao invés de um hardware dedicado ou máquina arcade.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PT">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>Jogos de PC, também conhecidos como jogos de computador ou jogos de computador pessoal, são jogos projetados para serem jogados no PC ao invés de um hardware dedicado ou máquina arcade.</text>
 		</text>
 
@@ -24,10 +24,26 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>PC-Spiele, auch bekannt als Computerspiele oder PC-Spiele, sind Videospiele, die auf einem PC und nicht auf einer dedizierten Videospielkonsole oder einem Arcade-Automaten gespielt werden.</text>
+		</text> 
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>PC游戏，也称为电脑游戏或个人电脑游戏，是在个人电脑上玩的视频游戏，而不是专用的视频游戏机或街机。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>PC遊戲，也稱為電腦遊戲或個人電腦遊戲，是在個人電腦上玩的視頻遊戲，而不是專用的視頻遊戲機或街機。</text>
 		</text>
 
 		<text name="info2" extra="true">
 			<text>PC</text>
+		</text>  
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text>电脑</text>
+		</text> 
+    
+		<text name="info2" extra="true" lang="TW">
+			<text>電腦</text>
 		</text>
 
 				<text name="info3" extra="true">

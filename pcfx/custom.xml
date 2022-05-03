@@ -2,11 +2,11 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-				<text name="info1" extra="true">
-			<text>It is a 32-bit home console made by NEC. It is the successor to PC Engine, known as TurboGrafx-16 in North America.</text>
+		<text name="info1" extra="true">
+			<text>É um console doméstico de 32 bits feito pela NEC. É o sucessor do PC Engine, conhecido como TurboGrafx-16 na América do Norte.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PT">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>É um console doméstico de 32 bits feito pela NEC. É o sucessor do PC Engine, conhecido como TurboGrafx-16 na América do Norte.</text>
 		</text>
 
@@ -24,6 +24,14 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Es ist eine 32-Bit-Heimkonsole von NEC. Es ist der Nachfolger von PC Engine, in Nordamerika als TurboGrafx-16 bekannt.</text>
+		</text>  
+    
+		<text name="info1" extra="true" lang="ZH">
+			<text>是NEC制造的32位家用主机。 它是PC Engine的继任者，在北美被称为TurboGrafx-16。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>它是NEC製造的32位家用主機。 它是PC Engine的繼任者，在北美被稱為TurboGrafx-16。</text>
 		</text>
 
 		<text name="info2" extra="true">
@@ -36,7 +44,16 @@
 
 		<text name="info4" extra="true">
 			<text>NEC Home Electronics</text>
+		</text>   
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>NEC家庭电子</text>
 		</text>
+    
+		<text name="info4" extra="true" lang="TW">
+			<text>NEC家庭電子</text>
+		</text>
+    
 	</view>
 
 		<customView name="HCoinSpin">

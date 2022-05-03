@@ -3,15 +3,15 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>DOS, acronyme de Disk Operating System ou de système d’exploitation de disques, est un acronyme pour plusieurs systèmes d’exploitation étroitement liés qui ont dominé le marché des PC compatibles IBM entre 1981 et 1995.</text>
+			<text>O DOS, sigla para Disk Operating System ou sistema operacional em disco é um acrónimo para vários sistemas operativos intimamente relacionados que dominaram o mercado para compatíveis IBM PC entre 1981 e 1995.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PT">
+		<text name="info1" extra="true" lang="PTBR">
 			<text>O DOS, sigla para Disk Operating System ou sistema operacional em disco é um acrónimo para vários sistemas operativos intimamente relacionados que dominaram o mercado para compatíveis IBM PC entre 1981 e 1995.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="EN">
-			<text>DOS, acronyme de Disk Operating System ou de système d’exploitation de disques, est un acronyme pour plusieurs systèmes d’exploitation étroitement liés qui ont dominé le marché des PC compatibles IBM entre 1981 et 1995.</text>
+			<text>DOS, an acronym for Disk Operating System or Disk Operating System, is an acronym for several closely related operating systems that dominated the IBM-compatible PC market between 1981 and 1995.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="ES">
@@ -26,6 +26,14 @@
 			<text>DOS, ein Akronym für Disk Operating System, ist ein Akronym für mehrere eng verwandte Betriebssysteme, die zwischen 1981 und 1995 den IBM-kompatiblen PC-Markt dominierten.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>DOS是磁盘操作系统或磁盘操作系统的首字母缩写词，是几个密切相关的操作系统的首字母缩写词，这些操作系统在1981年至1995年间主导了IBM兼容PC市场。</text>
+		</text>   
+    
+		<text name="info1" extra="true" lang="TW">
+			<text>DOS是磁盤操作系統或磁盤操作系統的首字母縮寫詞，是幾個密切相關的操作系統的首字母縮寫詞，這些操作系統在1981年至1995年間主導了IBM兼容PC市場。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>DOS</text>
 		</text>
@@ -35,14 +43,18 @@
 		</text>
 
 		<text name="info4" extra="true">
-			<text>IBM, Microsoft</text>
+			<text>IBM, 微软</text>
+		</text>
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>IBM, 微軟</text>
 		</text>
 
-		<text name="info5" extra="true">
-			<text>DEVELOPER:</text>
+		<text name="info5" extra="true" lang="TW">
+			<text>DESENVOLVEDOR:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PT">
+				<text name="info5" extra="true"  lang="PTBR">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">
@@ -56,6 +68,12 @@
 		</text>
 				<text name="info5" extra="true" lang="DE">
 			<text>ENTWICKLER:</text>
+		</text> 
+    <text name="info5" extra="true" lang="TW">
+			<text>  开发者:</text>
+		</text>  
+    <text name="info5" extra="true" lang="TW">
+			<text>  開發者:</text>
 		</text>
 		
 	</view>
