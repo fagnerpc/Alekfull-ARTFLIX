@@ -26,6 +26,14 @@
 			<text>Ist eine 8-Bit-Handheld-Spielekonsole, die von Nintendo entwickelt und hergestellt wurde. Es ist die erste Handheld-Konsole der Game Boy-Reihe und wurde von einem Team unter der Leitung von Gunpei Yokoi zu dieser Zeit entwickelt und veröffentlicht.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>是由任天堂开发制造的8位掌上游戏机。 它是 Game Boy 系列中的第一款掌上游戏机，由当时由 Gunpei Yokoi 领导的团队创建和发布。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>是由任天堂開發製造的8位掌上游戲機。 它是 Game Boy 系列中的第一款掌上游戲機，由當時由 Gunpei Yokoi 領導的團隊創建和發布。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Game Boy</text>
 		</text>
@@ -37,5 +45,13 @@
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>      
+		</text>   
+
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>              
+		</text> 		
 	</view>
 </theme>

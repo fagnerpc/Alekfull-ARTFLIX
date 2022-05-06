@@ -26,8 +26,24 @@
 			<text>Xbox ist eine Videospielkonsole für den Heimgebrauch und die erste Folge der Xbox-Reihe von Videospielkonsolen, die von Microsoft hergestellt werden. Sie wird als Konsole der sechsten Generation eingestuft und konkurriert mit PS2 und GameCube.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>Xbox是一款家用视频游戏机，是微软生产的Xbox系列视频游戏机的第一款。它被归类为第六代游戏机，与PS2和GameCube竞争。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>Xbox是一款家用視頻遊戲機，是微軟生產的Xbox系列視頻遊戲機的第一款。它被歸類為第六代遊戲機，與PS2和GameCube競爭。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Microsoft Xbox</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text>微软Xbox</text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text>微軟Xbox</text>
 		</text>
 
 				<text name="info3" extra="true">
@@ -37,6 +53,14 @@
 		<text name="info4" extra="true">
 			<text>Microsoft</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>微软</text>
+		</text> 
+
+		<text name="info4" extra="true" lang="TW">
+			<text>微軟</text>
+		</text> 		
 	</view>
 
 		<customView name="HCoinSpin">

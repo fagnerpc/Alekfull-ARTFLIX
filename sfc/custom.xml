@@ -26,10 +26,26 @@
 			<text>Ist eine von Nintendo entwickelte 16-Bit-Heimvideospielkonsole, die 1990 in Japan und Südkorea, 1991 in Nordamerika, 1992 in Europa und Australasien (Ozeanien) und 1993 in Südamerika veröffentlicht wurde.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>由任天堂开发的 16 位家用视频游戏机，于 1990 年在日本和韩国发布，</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>由任天堂開發的 16 位家用視頻遊戲機，於 1990 年在日本和韓國發布，</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Super Famicom</text>
 		</text>
 
+		<text name="info2" extra="true" lang="ZH">
+			<text>超级任天堂</text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text>超級任天堂</text>
+		</text>
+		
 		<text name="info3" extra="true">
 			<text>1990</text>
 		</text>
@@ -37,9 +53,17 @@
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>      
+		</text>   
+
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>              
+		</text>		
 		</view>
 
-			<customView name="HCoinSpin">
+	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/snes.png</path>
          <zIndex>7</zIndex>

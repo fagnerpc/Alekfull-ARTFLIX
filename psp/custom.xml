@@ -26,9 +26,25 @@
 			<text>PSP ist eine Handheld-Spielekonsole, die von Sony Computer Entertainment entwickelt wurde. Die Entwicklung des Handhelds wurde während der E3 2003 angekündigt und am 11. Mai 2004 auf einer Sony-Pressekonferenz vor der E3 2004 vorgestellt.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>PSP是索尼电脑娱乐公司开发的掌上游戏机。手持设备的开发是在2003年E3期间宣布的，并于2004年5月11日在2004年E3之前的索尼新闻发布会上公佈。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>PSP是索尼電腦娛樂公司開發的掌上游戲機。手持設備的開發是在2003年E3期間宣布的，並於2004年5月11日在2004年E3之前的索尼新聞發布會上公佈。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>PlayStation Portable</text>
 		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text>索尼PlayStation Portable</text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text>索尼PlayStation Portable</text>
+		</text> 
 
 				<text name="info3" extra="true">
 			<text>2004</text>
@@ -37,6 +53,15 @@
 		<text name="info4" extra="true">
 			<text>Sony Computer Entertainment</text>
 		</text>
+		
+				<text name="info4" extra="true" lang="ZH">
+			<text>索尼电脑娱乐</text>
+		</text> 
+
+		<text name="info4" extra="true" lang="TW">
+			<text>索尼電腦娛樂</text>
+		</text>  
+		
 	</view>
 </theme>
 

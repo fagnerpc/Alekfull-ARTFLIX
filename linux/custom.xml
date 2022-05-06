@@ -26,8 +26,24 @@
 			<text>Linux ist eine Familie von Unix-ähnlichen Open-Source-Betriebssystemen, die auf dem Linux-Kernel basieren, einem Betriebssystem-Kernel, der erstmals am 17. September 1991 von Linus Torvalds veröffentlicht wurde. Linux ist normalerweise in einer Linux-Distribution verpackt.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>Linux是一个基于Linux内核的开源类Unix操作系统家族，该操作系统内核由Linus Torvalds于1991年9月17日首次发布。 Linux通常打包在Linux发行版中。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>Linux是一個基於Linux內核的開源類Unix操作系統家族，該操作系統內核由Linus Torvalds於1991年9月17日首次發布。 Linux通常打包在Linux發行版中。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Linux Games</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text>Linux游戏</text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text>Linux游戲</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -42,7 +58,7 @@
 			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PT">
+		<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="EN">
@@ -54,9 +70,16 @@
 						<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>
-		<text name="info5" extra="true" lang="DE">
+						<text name="info5" extra="true" lang="DE">
 			<text>ENTWICKLER:</text>
 		</text>
+						<text name="info5" extra="true" lang="ZH">
+			<text>  开发者:</text>
+		</text>
+						<text name="info5" extra="true" lang="TW">
+			<text>  開發者:</text>
+		</text>	
+		
 	</view>
 
 		<customView name="HCoinSpin">

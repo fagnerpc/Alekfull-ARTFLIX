@@ -26,6 +26,14 @@
 			<text>Ist eine Heimvideospielkonsole, die von Nintendo 2001 in Japan und Nordamerika und 2002 in Europa und Australien herausgebracht wurde. Die Konsole der sechsten Generation ist der Nachfolger des N64 und konkurrierte mit PS2 und Xbox.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>任天堂于2002年-01年在日本和北美以及欧洲和澳大利亚发布的家用视频游戏机。第六代游戏机是N64的继任者，与PS2和Xbox竞争。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="ZW">
+			<text>任天堂於2002年-01年在日本和北美以及歐洲和澳大利亞發布的家用視頻遊戲機。第六代遊戲機是N64的繼任者，與PS2和Xbox競爭。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>GameCube</text>
 		</text>
@@ -37,5 +45,13 @@
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>      
+		</text>   
+
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>              
+		</text> 		
 	</view>
 </theme>

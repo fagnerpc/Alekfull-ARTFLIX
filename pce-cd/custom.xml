@@ -26,6 +26,14 @@
 			<text>Es war die erste Konsole, die die Option eines CD-Add-ons hatte, wodurch Sie die Vorteile eines CD-basierten Systems nutzen konnten: mehr Speicher, niedrigere Kosten und Red Book-Kompatibilität.</text>
 		</text>
 
+ 		<text name="info1" extra="true" lang="ZH">
+			<text>The CD-ROM² System (シーディーロムロムシステム Shī Dī Romu Romu Shisutemu)是1988年12月4日在日本发布的PC Engine的附加组件。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>The CD-ROM² System (シーディーロムロムシステム Shī Dī Romu Romu Shisutemu)是1988年12月4日在日本發布的PC Engine的附加組件。</text>
+		</text> 
+
 				<text name="info2" extra="true">
 			<text>PC Engine CD</text>
 		</text>
@@ -53,6 +61,14 @@
 		<text name="info4" extra="true">
 			<text>NEC Home Electronics</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>NEC家庭电子</text>
+		</text>
+
+		<text name="info4" extra="true" lang="TW">
+			<text>NEC家庭電子</text>
+		</text>
 
 	<image name="logo" lang="EN">
 		<path>./../assets/logos/tg-cd.png</path>
@@ -74,15 +90,13 @@
 				<image name="sublogo" lang="ES">
 		<path>./assets/logos/tg-cd.png</path>
 	</image>
-	</view>
-
+	
 	<image name="sublogo" lang="DE">
 		<path>./assets/logos/tg-cd.png</path>
 	</image>
+	</view>
 
-
-
-		<customView name="HCoinSpin">
+	<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/tg16.png</path>
          <zIndex>7</zIndex>

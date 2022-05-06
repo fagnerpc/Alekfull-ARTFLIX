@@ -26,6 +26,14 @@
             <text>Es ist eine 16-Bit-Videospielkonsole von Sega, die direkt mit dem SNES konkurrierte. Die Konsole war in den 1990er Jahren sehr erfolgreich und verlor nach dem Aufkommen und der Popularisierung der neuen Konsolengeneration an Boden.</text>
         </text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>它是Sega的16位视频游戏机，直接与SNES竞争。 游戏机在1980年代末到1990年代初非常成功，</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="ZW">
+			<text>它是Sega的16位視頻遊戲機，直接與SNES競爭。 遊戲機在1980年代末到1990年代初非常成功，</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Sega Mega Drive</text>
 		</text>
@@ -39,19 +47,27 @@
 			<text>Sega Mega Drive</text>
 		</text>
 
-        <text name="info2" extra="true" lang="DE">
+						<text name="info2" extra="true" lang="DE">
             <text>Sega Mega Drive</text>
         </text>
+
+						<text name="info2" extra="true" lang="ZH">
+            <text>世嘉MD</text>
+        </text>    
+
+						<text name="info2" extra="true" lang="TW">
+            <text>世嘉MD</text>
+        </text> 
 
 			<image name="logo" lang="EN">
 		<path>./assets/logos/genesis.png</path>
 	</image>
 
-				<image name="sublogo" lang="EN">
+			<image name="sublogo" lang="EN">
 		<path>./assets/logos/genesis.png</path>
 	</image>
 
-      <image name="art"  lang="EN">
+			<image name="art"  lang="EN">
          <path>./assets/arts/genesis.jpg</path>
       </image>
 
@@ -64,7 +80,15 @@
 			<text>SEGA Corporation</text>
 		</text>
 
+		<text name="info4" extra="true" lang="ZH">
+			<text>世嘉</text>      
+		</text>   
+
+		<text name="info4" extra="true" lang="TW">
+			<text>世嘉</text>              
+		</text>
 	</view>
+	
   <view name="grid">
       <image name="art4" extra="true"  lang="EN">
          <origin>0 0</origin>

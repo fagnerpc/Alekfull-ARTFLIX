@@ -26,6 +26,13 @@
 			<text>TurboGrafx-16 (PC Engine) ist eine von Hudson Soft und NEC Home Electronics gemeinsam entwickelte Heimvideospielkonsole, die am 30. Oktober 1987 in Japan und am 29. August 1989 in den Vereinigten Staaten veröffentlicht wurde.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>TurboGrafx-16 (PC Engine) 是由Hudson Soft和NEC Home Electronics联合开发的家用视频游戏机，于1987年10月30日在日本发布，1989 年8月29日在美国发布。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>TurboGrafx-16 (PC Engine) 是由Hudson Soft和NEC Home Electronics聯合開發的家用視頻遊戲機，於1987年10月30日在日本發布，1989 年8月29日在美國發布。</text>
+		</text>
 
 		<text name="info2" extra="true" lang="PT">
 			<text>PC Engine</text>
@@ -55,6 +62,14 @@
 			<text>NEC Home Electronics</text>
 		</text>
 
+		<text name="info4" extra="true" lang="ZH">
+			<text>NEC家庭电子</text>
+		</text>
+
+		<text name="info4" extra="true" lang="TW">
+			<text>NEC家庭電子</text>
+		</text>
+
 	<image name="logo" lang="EN">
 		<path>./../assets/logos/tg16.png</path>
 	</image>
@@ -66,7 +81,6 @@
 		<image name="logo" lang="DE">
 			<path>./../assets/logos/tg16.png</path>
 		</image>
-
 
 				<image name="sublogo" lang="EN">
 		<path>./assets/logos/tg16.png</path>

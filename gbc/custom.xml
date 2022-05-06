@@ -26,6 +26,14 @@
 			<text>Ist eine von Nintendo hergestellte Handheld-Spielekonsole, die am 21. Oktober 1998 in Japan und im November desselben Jahres auf den internationalen Märkten veröffentlicht wurde. Es ist der Nachfolger des Game Boy.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>任天堂生产的掌上游戏机，1998年10月21日在日本发售，同年11月在国际市场发售。 它是Game Boy的继任者。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="ZW">
+			<text>任天堂生產的掌上游戲機，1998年10月21日在日本發售，同年11月在國際市場發售。 它是Game Boy的繼任者。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Game Boy Color</text>
 		</text>
@@ -37,5 +45,13 @@
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>      
+		</text>   
+
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>              
+		</text>		
 	</view>
 </theme>

@@ -26,11 +26,28 @@
 			<text>PC-Spiele, auch bekannt als Computerspiele oder PC-Spiele, sind Videospiele, die auf einem PC und nicht auf einer dedizierten Videospielkonsole oder einem Arcade-Automaten gespielt werden.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>PC游戏，也称为电脑游戏或个人电脑游戏，是在个人电脑上玩的视频游戏，而不是专用的视频游戏机或街机。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>PC遊戲，也稱為電腦遊戲或個人電腦遊戲，是在個人電腦上玩的視頻遊戲，而不是專用的視頻遊戲機或街機。</text>
+		</text>
+
+
 		<text name="info2" extra="true">
 			<text>PC</text>
 		</text>
 
-				<text name="info3" extra="true">
+		<text name="info2" extra="true" lang="ZH">
+			<text>电脑</text>
+		</text> 
+
+		<text name="info2" extra="true" lang="TW">
+			<text>電腦</text>
+
+
+		<text name="info3" extra="true">
 			<text>19XX</text>
 		</text>
 

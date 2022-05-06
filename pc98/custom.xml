@@ -26,6 +26,14 @@
 			<text>PC-98 (PC98) ist ein Akronym für die Computerserie NEC PC-9801, ein PC-Modell japanischen Ursprungs. Er wurde 1982 als erster in der Reihe der PC-98-Personalcomputer mit 16 und 32 Bit hergestellt.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>PC-98 (PC98) 是NEC PC-9801电脑系列的首字母缩写，是一款源自日本的个人电脑型号。它于1982年制造，是16位和32位PC-98系列个人计算机中的第一款。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>PC-98 (PC98) 是NEC PC-9801電腦系列的首字母縮寫，是一款源自日本的個人電腦型號。它於1982年製造，是16位和32位PC-98系列個人計算機中的第一款。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>NEC PC-98</text>
 		</text>
@@ -37,6 +45,14 @@
 		<text name="info4" extra="true">
 			<text>Nippon Electric NEC</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>日本电子公司(NEC)</text>
+		</text>    
+
+		<text name="info4" extra="true" lang="TW">
+			<text>日本電子公司(NEC)</text>
+		</text>		
 	</view>
 
 		<customView name="HCoinSpin">

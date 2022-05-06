@@ -53,5 +53,13 @@
 		<text name="info4" extra="true">
 			<text>SEGA Corporation</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>世嘉</text>
+		</text> 
+
+		<text name="info4" extra="true" lang="TW">
+			<text>世嘉</text>
+		</text>		
 	</view>
 </theme>

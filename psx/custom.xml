@@ -26,9 +26,25 @@
 			<text>Ist eine Heimvideospielkonsole, die von Sony Computer Entertainment entwickelt wurde. Die Konsole war die erste der PlayStation-Reihe von Heimvideospielkonsolen als Teil der fünften Generation von Videospielkonsolen.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>索尼电脑娱乐公司开发的家用视频游戏机。作为第五代视频游戏机的一部分，该游戏机是PlayStation家用视频游戏机系列中的第一款。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>索尼電腦娛樂公司開發的家用視頻遊戲機。作為第五代視頻遊戲機的一部分，該遊戲機是PlayStation家用視頻遊戲機系列中的第一款。</text>
+		</text>
+
 				<text name="info2" extra="true">
 			<text>Sony PlayStation</text>
 		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text>索尼PlayStation</text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text>索尼PlayStation</text>
+		</text> 
 
 		<text name="info3" extra="true">
 			<text>1994</text>
@@ -38,9 +54,12 @@
 			<text>Sony Computer Entertainment</text>
 		</text>
 
-	<text name="info2" extra="true">
-		<pos>0.02 0.08</pos>
-      </text>
+		<text name="info4" extra="true" lang="ZH">
+			<text>索尼电脑娱乐</text>
+		</text> 
 
+		<text name="info4" extra="true" lang="TW">
+			<text>索尼電腦娛樂</text>
+		</text> 
 	</view>
 </theme>
