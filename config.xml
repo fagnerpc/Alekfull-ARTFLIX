@@ -14,7 +14,8 @@
 	<include subset="iconset" name="Xbox One">./iconsets/xboxone.xml</include>
 	<include subset="iconset" name="Switch">./iconsets/switch.xml</include>
 
-	<include subset="systemview" name="Random Videos" displayName="${srandvideo}">./systemview/7AB.xml</include>
+	<include subset="systemview" name="Cobalto" displayName="${cobalto}">./systemview/6A.xml</include>
+	<include subset="systemview" name="Default Artflix" displayName="${srandvideo}">./systemview/7AB.xml</include>
 	<include subset="systemview" name="Random Box Background" displayName="${srandbg}">./systemview/7AC.xml</include>
 	<include subset="systemview" name="Random Fanart Background" displayName="${srandbbg}">./systemview/7ACC.xml</include>
 	<include subset="systemview" name="Random Video Background" displayName="${svrandvid}">./systemview/7AA.xml</include>

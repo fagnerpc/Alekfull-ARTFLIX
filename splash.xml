@@ -25,6 +25,9 @@
 			<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
 			<color>FFFFFF</color>
 			<fontSize>0.023</fontSize>
+			<glowColor>00000016</glowColor>
+			<glowSize>2</glowSize>
+			<glowOffset>2</glowOffset>
 		</text>
 		
 		<image name="progressbar:active">

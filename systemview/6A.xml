@@ -1,0 +1,234 @@
+<theme>
+<formatVersion>4</formatVersion>
+<view name="system">
+	<image name="art" extra="true">
+		<linearSmooth>true</linearSmooth>
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+		<zIndex>1</zIndex>
+	</image> 	
+
+	<image name="logo">
+		<path>./../assets/logos/$system.png</path>
+		<path>./../assets/logos/$system.svg</path>
+	</image>
+	
+	<image name="background" extra="true">
+		<origin>0 0</origin>
+		<pos>0 0</pos>
+		<size>1 1</size>
+		<path>./../assets/overlaycobalto.png</path>
+		<zIndex>41</zIndex>
+		<linearSmooth>true</linearSmooth>
+      </image>
+
+	<video name="md_video" extra="true" ifSubset="randomvid:yes">
+		<path>{random}</path> 
+		<pos>0.105 0.695</pos>
+		<maxSize>0.25 0.25</maxSize>
+		<origin>0 0</origin>
+		<delay>0.2</delay>
+		<effect>slideRight</effect>
+		<roundCorners>0.04</roundCorners>
+		<showSnapshotNoVideo>false</showSnapshotNoVideo>
+		<showSnapshotDelay>false</showSnapshotDelay>
+		<zIndex>50</zIndex>		<color>858585FF</color>
+    </video>
+
+	<image name="logohue" extra="true">
+		<path>./../assets/logohue.png</path>
+		<zIndex>103</zIndex>
+		<color>ff6060</color>
+		<pos>0.0385 0</pos>
+		<maxSize>0.096 0.096</maxSize>
+		<storyboard>
+		<animation property="opacity" from="0" to="1" begin="0000" duration="3000" mode="EaseIn" autoreverse="true" repeat="forever" />      
+        </storyboard>
+	</image>
+
+	<image name="playbutton" extra="true" ifSubset="iconanim:yes">
+		<path>./../assets/playbutton.png</path>
+		<zIndex>103</zIndex>		<linearSmooth>true</linearSmooth>
+		<pos>0.0585 0.650</pos>
+		<maxSize>0.079 0.069</maxSize>
+		<storyboard>
+		<animation property="rotation" from="-360" duration="800" repeat="forever" mode="easeOutInQuint" /> 
+		</storyboard>
+	</image>
+
+	<image name="play2" extra="true" ifSubset="iconanim:yes">
+		<path>./../assets/play.png</path>
+		<zIndex>102</zIndex>		<linearSmooth>true</linearSmooth>
+		<pos>0.0595 0.650</pos>
+		<maxSize>0.079 0.069</maxSize>
+		<storyboard>
+		<animation property="opacity" from="0.7" to="0.2" begin="995" duration="1800" mode="EaseIn" autoreverse="true" repeat="forever" />      
+        </storyboard>
+	</image>
+
+	<image name="strglow" extra="true" ifSubset="iconanim:yes">
+		<path>./../assets/strglow.png</path>
+		<zIndex>103</zIndex>
+		<pos>0 0</pos>
+		<size>1 1</size>
+		<storyboard repeat="5">
+		<animation property="offsetX" from="-0.045" to="0.03" duration="550" begin="2500" autoreverse="true" mode="easeInOutQuint"/>
+		</storyboard>
+	</image>
+
+
+	<text name="systemInfoEx"  ifSubset="toptext:yes">
+		<text>{binding:favorites} ${GamesFavs}  |  {binding:gamesPlayed} ${NumberPlayed}</text>
+		<storyboard repeat="2">
+		<animation property="opacity" from="1" to="1" duration="1" mode="linear"/>
+		<animation property="opacity" from="1" to="0" begin="2500" duration="350" mode="easeOut"  />
+		<animation property="opacity" from="0" to="1" begin="7100" duration="350" mode="easeOut"/>
+		<animation property="opacity" from="1" to="0" begin="10000" duration="350" mode="easeOut"  />
+		<animation property="opacity" from="0" to="1" begin="14100" duration="350" mode="easeOut"/>
+		</storyboard>             
+	</text>	
+
+	<text name="systemInfoEx2"  ifSubset="toptext:yes">
+		<text>${theme.mostplayed} {binding:mostPlayed} </text>
+		<storyboard repeat="2">
+		<animation property="opacity" from="0" to="0" duration="1" mode="linear"/>
+		<animation property="opacity" from="0" to="1" begin="2600" duration="350" mode="easeOut"/>
+		<animation property="opacity" from="1" to="0" begin="7000" duration="350" mode="easeOut"  />
+		<animation property="opacity" from="0" to="1" begin="10100" duration="350" mode="easeOut"/>
+		<animation property="opacity" from="1" to="0" begin="14000" duration="350" mode="easeOut"  />
+		</storyboard>             
+	</text>
+
+	<text name="systemInfoEx, systemInfoEx2" extra="true">
+		<alignment>left</alignment>
+		<pos>0.144 0.015</pos>
+		<size>0.398 0.055</size>
+		<color>FFFFFF</color>
+		<fontPath>./../_inc/fonts/texgyre.otf</fontPath>
+		<fontSize>0.014</fontSize>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<backgroundColor>ff000000</backgroundColor>    
+		<zIndex>60</zIndex>	           
+	</text>
+	  
+	<text name="info1" extra="true">
+		<fontPath>./../_inc/fonts/texgyre.otf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.022</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.38 0</size>
+		<pos>0.065 0.509</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
+		<zIndex>42</zIndex>
+	</text>	
+
+	<text name="info2" extra="true">
+		<fontPath>./../_inc/fonts/polan.otf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+ 		<fontSize>0.0428</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<forceUppercase>true</forceUppercase>
+		<size>0.46 0.35</size>
+		<pos>0.065 0.249</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
+		<zIndex>42</zIndex>
+	</text>
+  
+
+	<text name="info3" extra="true">
+		<fontPath>./../_inc/fonts/texgyre.otf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.018</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0</size>
+		<pos>0.065 0.339</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+	</text>
+
+	<text name="info4" extra="true">
+		<fontPath>./../_inc/fonts/texgyre.otf</fontPath>
+		<color>acb1bc</color>
+		<alignment>left</alignment>
+		<fontSize>0.018</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.35 0</size>
+		<pos>0.195 0.338</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
+		<zIndex>42</zIndex>
+	</text>
+
+	<text name="info5" extra="true">
+		<pos>2 2</pos>
+		<zIndex>0</zIndex>
+	</text>
+	  
+	<carousel name="systemcarousel">
+       <type>vertical_wheel</type>
+		<pos>0 0</pos>
+        <size>1 1</size>
+		<logoScale>1.3</logoScale>
+		<logoSize>0.14 0.14</logoSize>
+        <color>00000000</color>
+		<logoRotation>-6.5</logoRotation>
+		<logoRotationOrigin>5.0 0.3</logoRotationOrigin>
+		<logoAlignment>right</logoAlignment>
+		<maxLogoCount>5</maxLogoCount>
+		<defaultTransition>instant</defaultTransition>	
+		<zIndex>75</zIndex>
+		<systemInfoDelay>0</systemInfoDelay>
+		<scrollSound>./../assets/sounds/scroll1A.wav</scrollSound>
+	</carousel>
+
+	<text name="systemInfo">
+		<pos>-0.22 0.652</pos>
+		<alignment>center</alignment>
+		<fontPath>./../_inc/fonts/texgyre.otf</fontPath>
+		<fontSize>0.0128</fontSize>
+		<color>FFFFFF</color>
+		<zIndex>95</zIndex>
+    </text>
+
+	<text name="logoText">
+		<fontPath>./../_inc/fonts/polan.otf</fontPath>
+		<fontSize>0.03</fontSize>
+		<text>${system.fullName}</text>
+		<color>dddddd</color>
+		<glowColor>12121233</glowColor>
+		<forceUppercase>true</forceUppercase>
+	</text>	
+
+	
+	<helpsystem name="help">
+		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
+		<fontSize>0.016</fontSize>
+		<pos>0.045 0.955</pos>
+		<textColor>FFFFFF</textColor>
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
+	</helpsystem>
+</view>
+
+   <view name="screen">
+      <controllerActivity name="controllerActivity">
+         <pos>0.145 0.057</pos>
+         <size>0.065 0.016</size>
+         <!--<horizontalAlignment>right</horizontalAlignment>-->
+         <itemSpacing>0.003</itemSpacing>
+         <imagePath>./../_inc/gamepad.svg</imagePath>
+         <color>FFFFFF80</color>
+         <activityColor>A0A0FFC0</activityColor>
+         <hotkeyColor>FFA0A0C0</hotkeyColor>
+      </controllerActivity>
+   </view>
+
+</theme>

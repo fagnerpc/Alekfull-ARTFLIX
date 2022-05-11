@@ -2,7 +2,7 @@
 ALEKFULL-ARTFLIX theme by fagnerpc
 https://facebook.com/alekfull.arcade
 
-Version: 1.2 for Batocera 5.25+, Retrobat and Emuelec 3.24+
+Version: 2.0 for Batocera 5.25+, Retrobat and Emuelec 3.24+
 https://github.com/fagnerpc/Alekfull-ARTFLIX
 Artes, codigo e conceito por fagnerpc
 Tema proibido para uso comercial
@@ -29,12 +29,25 @@ Tema proibido para uso comercial
    <include subset="shader" name="Phosphore +">./effects/phosplus.xml</include>
    <include subset="shader" name="Vertical Scanlines">./effects/scanvert.xml</include>
    <include subset="shader" name="Vertical Fine">./effects/verticalfine.xml</include>
+   <include subset="animcarousel" name="Animated Wheel Carousel" displayName="${animcarou}">./effects/animatedcarousel.xml</include>
+   <include subset="animcarousel" name="Animated Wheel Carousel 2" displayName="${animwcarou}">./effects/animatedwcarousel.xml</include>
+   <include subset="animcarousel" name="Default" displayName="${default}"/>
+   <include subset="animbg" name="Animated Background" displayName="${animbg}">./effects/animatedbg2.xml</include>
+   <include subset="animbg" name="Animated Background2" displayName="${animbg2}">./effects/animatedbg.xml</include>
+   <include subset="animbg" name="Default" displayName="${default}"/>
+   <include subset="iconanim" name="yes" displayName="${yes}"/>
+   <include subset="iconanim" name="no" displayName="${no}"/> 
    <include subset="syscarousel" name="Wheel">./effects/carouselwheel.xml</include>
    <include subset="syscarousel" name="Vertical">./effects/carouselvert.xml</include>
    <include subset="syscarousel" name="Without Vertical Carousel" displayName="${snocarou}">./effects/wcarousel.xml</include>
    <include subset="sysname" name="Text" displayName="${systex}">./colorsets/texttitle.xml</include>
    <include subset="sysname" name="Logo" displayName="${syslog}">./colorsets/logotitle.xml</include>
    <include subset="sysname" name="Without" displayName="${none}">./colorsets/wtitle.xml</include>
+   <include subset="randomvid" name="yes" displayName="${yes}"/>
+   <include subset="randomvid" name="no" displayName="${no}"/> 
+   <include subset="showfrontend" name="automatic" displayName="${yes}">./colorsets/showfrontend.xml</include>
+   <include subset="showfrontend" name="forcebatocera" displayName="${forcebatocera}">./colorsets/showfrontendbat.xml</include>
+   <include subset="showfrontend" name="no" displayName="${no}"/>   
    <include subset="shader" name="Crt Full Screen" displayName="${scrtfs}">./effects/crt.xml</include>
    <include subset="shader" name="ScanLines Full Screen" displayName="${sclfs}">./effects/scanlines.xml</include>
    <include subset="shader" name="VHS Glitch (Heavy)" displayName="${svhsgl}">./effects/vhs.xml</include>
@@ -50,6 +63,11 @@ Tema proibido para uso comercial
    <variables> <subset.MainBGColor>Main Background Color</subset.MainBGColor> <subset.CoinOpsDefault>CoinOps Default System</subset.CoinOpsDefault>
    <subset.tveffect>TV Effect CoinOps View</subset.tveffect> <subset.ShowTopMarquee>Show Top Marquee in CoinOps Views</subset.ShowTopMarquee>
    <subset.syscarousel>System Carousel</subset.syscarousel>  <subset.sysname>System name on System view</subset.sysname>
+   <theme.mostplayed>Most Played:</theme.mostplayed>  <GamesNumber>Games</GamesNumber>  <GamesFavs>Favorites</GamesFavs>
+   <NumberPlayed>Games Played</NumberPlayed>  <subset.showfrontend>Show Frontend on Cobalto View</subset.showfrontend>
+   <forcebatocera>Show only Batocera</forcebatocera>    <subset.randomvid>Random Video</subset.randomvid>
+   <subset.animcarousel>Animated Wheel Carousel</subset.animcarousel>  <subset.animbg>Animated Background</subset.animbg> 
+   <subset.iconanim>Cobalto View Icons Animation</subset.iconanim>
    </variables>
 
   <variables lang="pt">
@@ -107,11 +125,27 @@ Tema proibido para uso comercial
 	<scustimg>Imagens de Fundo Customizadas</scustimg>
 	<scustimgl>Imagens de Fundo Customizadas (Logos)</scustimgl>
 	<snocarou>Sem Carrossel Vertical</snocarou>
+	<subset.randomvid>Video Aleatório na tela de Sistemas</subset.randomvid>
     <subset.systemview>Vistas de Sistemas</subset.systemview>
     <subset.colorset>Imagens de Fundo</subset.colorset>
     <subset.iconset>Ícones do Menu</subset.iconset>
     <subset.shader>Shaders do Tema</subset.shader>
 	<subset.music>Músicas dos Sistemas</subset.music>
+	<subset.bganim>Animação na imagem de fundo dos jogos</subset.bganim>
+	<subset.wheelanim>Animação nos logos dos jogos</subset.wheelanim>
+	<subset.animcarousel>Logos Animados no Carrossel</subset.animcarousel>
+	<subset.animbg>Animação na Imagem de Fundo</subset.animbg>
+	<subset.iconanim>Animação dos Ícones da Vista Cobalto</subset.iconanim>
+	<theme.mostplayed>Mais Jogado:</theme.mostplayed>
+	<animcarou>Logos Animados</animcarou>
+	<animwcarou>Carrossel com somente Logo Principal</animwcarou>	
+	<animbg>Animação na Imagem de Fundo</animbg>
+	<animbg2>Animação (Fade Out)</animbg2>
+    <GamesNumber>Jogos</GamesNumber>
+    <GamesFavs>Favoritos</GamesFavs>
+	<NumberPlayed>Jogados</NumberPlayed>
+	<subset.showfrontend>Exibir ícones da frontend na vista Cobalto</subset.showfrontend>
+	<forcebatocera>Exibir apenas Batocera</forcebatocera> 	
 	<subset.MainBGColor>Cor do Fundo Principal</subset.MainBGColor>
 	<subset.tveffect>Efeito da Tela Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Fundo Padrão Vista CoinOps</subset.CoinOpsDefault>
@@ -180,6 +214,20 @@ Tema proibido para uso comercial
     <subset.iconset>Icones de Menu</subset.iconset>
     <subset.shader>Shaders de Theme</subset.shader>
 	<subset.music>System Music</subset.music>
+	<theme.mostplayed>Les plus joués :</theme.mostplayed>
+	<subset.animcarousel>Logos animés de carrousel</subset.animcarousel>
+	<subset.animbg>Animation d'arrière-plan</subset.animbg>
+	<subset.iconanim>Animation des icônes de la vue Cobalt</subset.iconanim>
+	<animcarou>Logos animés</animcarou>
+	<animwcarou>Carrousel avec logo principal uniquement</animwcarou>
+	<animbg>Animation de fond</animbg>
+	<animbg2>Animation (fondu)</animbg2>	
+    <GamesNumber>Jeux</GamesNumber>
+    <GamesFavs>Favoris</GamesFavs>
+    <NumberPlayed>Joué</NumberPlayed>
+	<subset.showfrontend>Afficher les icônes du frontend dans la vue Cobalto</subset.showfrontend>
+	<forcebatocera>Afficher uniquement Batocera</forcebatocera>
+	<subset.randomvid>Vidéo aléatoire sur l'écran Systèmes</subset.randomvid>
 	<subset.MainBGColor>Couleur darriere-plan principale </subset.MainBGColor>
 	<subset.tveffect>Effet decran Vista CoinOps</subset.tveffect>
 	<subset.CoinOpsDefault>Modele darriere-plan Vista CoinOps </subset.CoinOpsDefault>
@@ -249,6 +297,20 @@ Tema proibido para uso comercial
     <subset.iconset>Iconos de Menu</subset.iconset>
     <subset.shader>Shaders de Tema</subset.shader>
 	<subset.music>Musica del Sistemas</subset.music>
+	<theme.mostplayed>Más jugado:</theme.mostplayed>
+	<subset.animcarousel>Logotipos animados de carrusel</subset.animcarousel>
+	<subset.animbg>Animación de fondo</subset.animbg>
+	<subset.iconanim>Animación de icono de vista de Cobalto</subset.iconanim>
+	<animcarou>Logotipos animados</animcarou>
+	<animwcarou>Carrusel solo con el logotipo principal</animwcarou>
+	<animbg>Animación de fondo</animbg>
+	<animbg2>Animación (desaparición gradual)</animbg2>	
+    <GamesNumber>Juegos</GamesNumber>
+    <GamesFavs>Favoritos</GamesFavs>
+	<NumberPlayed>Reproducido</NumberPlayed>
+	<subset.showfrontend>Mostrar iconos de frontend en vista Cobalt</subset.showfrontend>
+	<forcebatocera>Mostrar solo Batocera</forcebatocera>	
+	<subset.randomvid>Video aleatorio en la pantalla de sistemas</subset.randomvid>	
 	<subset.MainBGColor>Color de Fondo Principal</subset.MainBGColor>
 	<subset.tveffect>Efecto de pantalla Vista CoinOps</subset.tveffect>
 	<subset.syscarousel>Carrusel de selección de sistema</subset.syscarousel>
@@ -258,71 +320,85 @@ Tema proibido para uso comercial
   </variables>
 
     <variables lang="de">
-        <tilesViewName>Miniaturansichten</tilesViewName>
-        <tilesVideoViewName>Thumbnails + Video</tilesVideoViewName>
-        <tilesVideoMarqueeViewName>Thumbnails + Video + Logos</tilesVideoMarqueeViewName>
-        <basicGridName>Boxen</basicGridName>
-        <basicGridDetailsName>Boxen + Details</basicGridDetailsName>
-        <basicGridVideoName>Boxen + Video</basicGridVideoName>
-        <carouselViewName>Karussell</carouselViewName>
-        <carouselDefaultViewName>Einfaches Karussell</carouselDefaultViewName>
-        <carouselDetailsViewName>Detailliertes Karussell</carouselDetailsViewName>
-        <carouselposterViewName>Karussellposter</carouselposterViewName>
-        <carouselDetailssViewName>Karussell (Hintergrundbild + Video)</carouselDetailssViewName>
-        <hartfdefViewName>Artflix (Standardansicht)</hartfdefViewName>
-        <hspindefViewName>HSpin (Standardansicht)</hspindefViewName>
-        <hspinfvlViewName>HSpin (Vollbildvideo + Logos)</hspinfvlViewName>
-        <hspinfvcViewName>HSpin (Vollbildvideo + Boxen)</hspinfvcViewName>
-        <nflixxViewName>NFlix (statisch)</nflixxViewName>
-        <nflixvideocViewName>NFlix (Video + Boxen)</nflixvideocViewName>
-        <nflixvideolViewName>NFlix (Video + Logos)</nflixvideolViewName>
-        <yes>Ja</yes>
-        <no>Nein</no>
-        <none>Keine</none>
-        <sysmusic>Ein</sysmusic>
-		<systex>Nur Text</systex>
-		<syslog>Nur Logo</syslog>		
-        <nomusic>Zufällig</nomusic>
-        <silence>Keine Hintergrundmusik</silence>
-        <default>Standard</default>
-        <huegreen>Rot</huegreen>
-        <huered>Vermelho</huered>
-        <hueblue>Blau</hueblue>
-        <huepurple>Lila</huepurple>
-        <icondef>Standard-Icons</icondef>
-        <hspinadefViewName>CoinOps-Standard</hspinadefViewName>
-        <hcoinopsdViewName>Detaillierte CoinOps</hcoinopsdViewName>
-        <copstv>Nur TV</copstv>
-        <copsarc>Nur Arcade</copsarc>
-        <svhsgl>VHS-Glitch (schwer)</svhsgl>
-        <scrtgl>CRT-Glitch (schwer)</scrtgl>
-        <scrtfs>CRT-Vollbild</scrtfs>
-        <sclfs>Scanlines Vollbild</sclfs>
-        <scanalt>Alternative Scanlines</scanalt>
-        <srandvideo>Zufällige Videos</srandvideo>
-        <srandvideol>Zufällige Videos (Logos)</srandvideol>
-        <svwheel>Dynamischer Videohintergrund</svwheel>
-        <svwheell>Dynamischer Videohintergrund (Logos)</svwheell>
-        <srandbg>Zufällige Spielhintergründe</srandbg>
-        <srandbgl>Zufällige Spielhintergründe (Logos)</srandbgl>
-        <srandbbg>Zufällige Fanart-Hintergründe</srandbbg>
-        <srandbbgl>Zufällige Fanart-Hintergründe (Logos)</srandbbgl>
-        <svrandvid>Zufällige Spielvideohintergründe</svrandvid>
-        <svrandvidl>Zufällige Spielvideohintergründe (Logos)</svrandvidl>
-        <scustimg>Benutzerdefinierte Hintergrundbilder</scustimg>
-        <scustimgl>Benutzerdefinierte Hintergrundbilder (Logos)</scustimgl>
-        <snocarou>Kein vertikales Karussell</snocarou>
-        <subset.systemview>Systemansichten</subset.systemview>
-        <subset.colorset>Hintergrundbilder</subset.colorset>
-        <subset.iconset>Menüsymbole</subset.iconset>
-        <subset.shader>Design-Shader</subset.shader>
-        <subset.music>Systemmusik</subset.music>
-        <subset.MainBGColor>Haupthintergrundfarbe</subset.MainBGColor>
-        <subset.tveffect>CoinOps-Ansichtsbildschirmeffekt</subset.tveffect>
-        <subset.syscarousel>Systemauswahlkarussell</subset.syscarousel>
-        <subset.sysname>Systemnamen in Systemauswahl</subset.sysname>
-        <subset.CoinOpsDefault>Standardhintergrund von CoinOps-Ansichten</subset.CoinOpsDefault>
-        <subset.ShowTopMarquee>Zeige oberstes Laufband in CoinOps-Ansichten</subset.ShowTopMarquee>
+	<tilesViewName>Miniaturansichten</tilesViewName>
+	<tilesVideoViewName>Thumbnails + Video</tilesVideoViewName>
+	<tilesVideoMarqueeViewName>Thumbnails + Video + Logos</tilesVideoMarqueeViewName>
+	<basicGridName>Boxen</basicGridName>
+	<basicGridDetailsName>Boxen + Details</basicGridDetailsName>
+	<basicGridVideoName>Boxen + Video</basicGridVideoName>
+	<carouselViewName>Karussell</carouselViewName>
+	<carouselDefaultViewName>Einfaches Karussell</carouselDefaultViewName>
+	<carouselDetailsViewName>Detailliertes Karussell</carouselDetailsViewName>
+	<carouselposterViewName>Karussellposter</carouselposterViewName>
+	<carouselDetailssViewName>Karussell (Hintergrundbild + Video)</carouselDetailssViewName>
+	<hartfdefViewName>Artflix (Standardansicht)</hartfdefViewName>
+	<hspindefViewName>HSpin (Standardansicht)</hspindefViewName>
+	<hspinfvlViewName>HSpin (Vollbildvideo + Logos)</hspinfvlViewName>
+	<hspinfvcViewName>HSpin (Vollbildvideo + Boxen)</hspinfvcViewName>
+	<nflixxViewName>NFlix (statisch)</nflixxViewName>
+	<nflixvideocViewName>NFlix (Video + Boxen)</nflixvideocViewName>
+	<nflixvideolViewName>NFlix (Video + Logos)</nflixvideolViewName>
+	<yes>Ja</yes>
+	<no>Nein</no>
+	<none>Keine</none>
+	<sysmusic>Ein</sysmusic>
+	<systex>Nur Text</systex>
+	<syslog>Nur Logo</syslog>		
+	<nomusic>Zufällig</nomusic>
+	<silence>Keine Hintergrundmusik</silence>
+	<default>Standard</default>
+	<huegreen>Rot</huegreen>
+	<huered>Vermelho</huered>
+	<hueblue>Blau</hueblue>
+	<huepurple>Lila</huepurple>
+	<icondef>Standard-Icons</icondef>
+	<hspinadefViewName>CoinOps-Standard</hspinadefViewName>
+	<hcoinopsdViewName>Detaillierte CoinOps</hcoinopsdViewName>
+	<copstv>Nur TV</copstv>
+	<copsarc>Nur Arcade</copsarc>
+	<svhsgl>VHS-Glitch (schwer)</svhsgl>
+	<scrtgl>CRT-Glitch (schwer)</scrtgl>
+	<scrtfs>CRT-Vollbild</scrtfs>
+	<sclfs>Scanlines Vollbild</sclfs>
+	<scanalt>Alternative Scanlines</scanalt>
+	<srandvideo>Zufällige Videos</srandvideo>
+	<srandvideol>Zufällige Videos (Logos)</srandvideol>
+	<svwheel>Dynamischer Videohintergrund</svwheel>
+	<svwheell>Dynamischer Videohintergrund (Logos)</svwheell>
+	<srandbg>Zufällige Spielhintergründe</srandbg>
+	<srandbgl>Zufällige Spielhintergründe (Logos)</srandbgl>
+	<srandbbg>Zufällige Fanart-Hintergründe</srandbbg>
+	<srandbbgl>Zufällige Fanart-Hintergründe (Logos)</srandbbgl>
+	<svrandvid>Zufällige Spielvideohintergründe</svrandvid>
+	<svrandvidl>Zufällige Spielvideohintergründe (Logos)</svrandvidl>
+	<scustimg>Benutzerdefinierte Hintergrundbilder</scustimg>
+	<scustimgl>Benutzerdefinierte Hintergrundbilder (Logos)</scustimgl>
+	<snocarou>Kein vertikales Karussell</snocarou>
+	<subset.systemview>Systemansichten</subset.systemview>
+	<subset.colorset>Hintergrundbilder</subset.colorset>
+	<subset.iconset>Menüsymbole</subset.iconset>
+	<subset.shader>Design-Shader</subset.shader>
+	<subset.music>Systemmusik</subset.music>
+	<theme.mostplayed>Meistgespielt:</theme.mostplayed>
+	<subset.animcarousel>Karussell-animierte Logos</subset.animcarousel>
+	<subset.animbg>Hintergrundanimation</subset.animbg>
+	<subset.iconanim>Kobaltansicht-Icon-Animation</subset.iconanim>
+	<animcarou>Animierte Logos</animcarou>
+	<animwcarou>Karussell nur mit Hauptlogo</animwcarou>
+	<animbg>Hintergrundanimation</animbg>
+	<animbg2>Animation (Ausblenden)</animbg2>	
+	<GamesNumber>Spiele</GamesNumber>
+	<GamesFavs>Favoriten</GamesFavs>
+	<NumberPlayed>Gespielt</NumberPlayed>
+	<subset.showfrontend>Frontend-Symbole in der Cobalt-Ansicht anzeigen</subset.showfrontend>
+	<forcebatocera>Nur Batocera anzeigen</forcebatocera>	
+	<subset.randomvid>Zufälliges Video auf dem Systembildschirm</subset.randomvid>
+	<subset.MainBGColor>Haupthintergrundfarbe</subset.MainBGColor>
+	<subset.tveffect>CoinOps-Ansichtsbildschirmeffekt</subset.tveffect>
+	<subset.syscarousel>Systemauswahlkarussell</subset.syscarousel>
+	<subset.sysname>Systemnamen in Systemauswahl</subset.sysname>
+	<subset.CoinOpsDefault>Standardhintergrund von CoinOps-Ansichten</subset.CoinOpsDefault>
+	<subset.ShowTopMarquee>Zeige oberstes Laufband in CoinOps-Ansichten</subset.ShowTopMarquee>
     </variables> 
     
 <variables lang="ZH">
@@ -384,6 +460,20 @@ Tema proibido para uso comercial
     <subset.iconset>菜单图标</subset.iconset>
     <subset.shader>主题着色器</subset.shader>
     <subset.music>系统音乐</subset.music>
+	<theme.mostplayed>播放次数最多：</theme.mostplayed>
+    <GamesNumber>游戏</GamesNumber>
+    <GamesFavs>收藏夹</GamesFavs>
+    <NumberPlayed>已播放</NumberPlayed>	
+	<subset.animcarousel>輪播動畫標誌</subset.animcarousel>
+	<subset.animbg>背景動畫</subset.animbg>
+	<subset.iconanim>钴视图图标动画</subset.iconanim>
+	<animcarou>動畫標誌</animcarou>
+	<animwcarou>僅帶有主徽標的輪播</animwcarou>
+	<animbg>背景動畫</animbg>
+	<animbg2>動畫（淡出）</animbg2>
+	<subset.showfrontend>在 Cobalt 视图中显示前端图标</subset.showfrontend>
+	<forcebatocera>仅显示 Batocera</forcebatocera>
+	<subset.randomvid>系统屏幕上的随机视频</subset.randomvid>
     <subset.MainBGColor>主背景色 </subset.MainBGColor>
     <subset.tveffect>Vista CoinOps 屏幕效果</subset.tveffect>
     <subset.CoinOpsDefault>Vista CoinOps 背景模板</subset.CoinOpsDefault>
@@ -451,6 +541,20 @@ Tema proibido para uso comercial
     <subset.iconset>菜單圖標</subset.iconset>
     <subset.shader>主題着色器</subset.shader>
     <subset.music>系統音樂</subset.music>
+	<theme.mostplayed>播放次數最多：</theme.mostplayed>
+    <GamesNumber>遊戲</GamesNumber>
+    <GamesFavs>收藏夾</GamesFavs>
+    <NumberPlayed>已播放</NumberPlayed>
+	<subset.animcarousel>轮播动画标志</subset.animcarousel>
+	<subset.animbg>背景动画</subset.animbg>
+	<subset.iconanim>鈷視圖圖標動畫</subset.iconanim>
+	<animcarou>动画标志</animcarou>
+	<animwcarou>仅带有主徽标的轮播</animwcarou>
+	<animbg>背景动画</animbg>
+	<animbg2>动画（淡出）</animbg2>	
+	<subset.showfrontend>在 Cobalt 視圖中顯示前端圖標</subset.showfrontend>
+	<forcebatocera>僅顯示 Batocera</forcebatocera>
+	<subset.randomvid>系統屏幕上的隨機視頻</subset.randomvid>
     <subset.MainBGColor>主背景色 </subset.MainBGColor>
     <subset.tveffect>Vista CoinOps 屏幕效果</subset.tveffect>
     <subset.CoinOpsDefault>Vista CoinOps 背景模闆</subset.CoinOpsDefault>
@@ -1195,8 +1299,8 @@ Tema proibido para uso comercial
          <margin>0.005 0.010</margin>
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
-	  <imageSource>marquee</imageSource>
-
+         <imageSource>marquee</imageSource>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
       </imagegrid>
       <gridtile name="default">
          <padding>64 16</padding>
@@ -1444,6 +1548,7 @@ Tema proibido para uso comercial
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
 		 <imageSource>marquee</imageSource>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
          <zIndex>8</zIndex>
       </imagegrid>
 

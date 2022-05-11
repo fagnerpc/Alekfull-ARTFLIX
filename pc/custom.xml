@@ -45,9 +45,9 @@
 
 		<text name="info2" extra="true" lang="TW">
 			<text>電腦</text>
+		</text> 
 
-
-		<text name="info3" extra="true">
+				<text name="info3" extra="true">
 			<text>19XX</text>
 		</text>
 

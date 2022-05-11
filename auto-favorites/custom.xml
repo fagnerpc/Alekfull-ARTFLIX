@@ -85,11 +85,11 @@ Viel Spaß!</text>
 		</text>
 
 			<image name="logo" lang="PT">
-		<path>./assets/logos/auto-favorites.png</path>
+		<path>./assets/logos/auto-favorites-pt.png</path>
 	</image>
 
 				<image name="sublogo" lang="PT">
-		<path>./assets/logos/auto-favorites.png</path>
+		<path>./assets/logos/auto-favorites-pt.png</path>
 	</image>
 
 			<image name="logo" lang="EN">

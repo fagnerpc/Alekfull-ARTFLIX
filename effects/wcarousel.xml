@@ -5,13 +5,16 @@
 <view name="system">
 	<carousel name="systemcarousel">
 		<type>horizontal</type>
-		<pos>2 2</pos>
+		<pos>-0.33 -0.230</pos>
+		<pos ifSubset="systemview:Cobalto">-0.30 -0.065</pos>
 		<size>1 1</size>
 		<origin>0 0</origin>
 		<color>00000000</color>
 		<logoScale>1</logoScale>
-		<logoSize>0.3 0.2</logoSize>
+		<logoSize>0.28 0.20</logoSize>
+		<logoSize ifSubset="systemview:Cobalto">0.24 0.14</logoSize>		
 		<logoAlignment>left</logoAlignment>
+		<linearSmooth>true</linearSmooth>
 		<maxLogoCount>1</maxLogoCount>
 		<defaultTransition>instant</defaultTransition>	
 		<zIndex>50</zIndex>
@@ -21,16 +24,7 @@
 		<pos>2.025 2.4</pos>
 		<zIndex>0</zIndex>
       </text>
-	
-	<image name="sublogo" extra="true">
-	      <!-- try svg -->
-		<path>./../assets/logos/$system.png</path>
-	      <!-- try png -->
-		<path>./../assets/logos/$system2.png</path>
-		<pos>0.02 0.2</pos>
-		<maxSize>0.34 0.16</maxSize>
-		<zIndex>42</zIndex>
-	</image>	
+
    </view>
 
 </theme>

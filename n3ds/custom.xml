@@ -24,18 +24,43 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Der Nintendo 3DS (abgekürzt als 3DS) ist eine tragbare Konsole, die von Nintendo produziert und 2011 als Nachfolger des Nintendo DS veröffentlicht wurde. Es hat die Fähigkeit, dreidimensionale Bilder ohne Spezialbrille zu erzeugen.</text>
+		</text>   
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text>Nintendo 3DS是任天堂生产的掌上游戏机。它于 2010 年 3 月发布，并在 2010 年 E3 上作为 Nintendo DS 的继任者亮相。该系统具有向后兼容旧的 Nintendo DS 视频游戏的特点。作为第八代游戏机，其主要竞争对手是索尼的 PlayStation Vita。</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text>Nintendo 3DS是任天堂生產的掌上游戲機。它於 2010 年 3 月發布，並在 2010 年 E3 上作為 Nintendo DS 的繼任者亮相。該系統具有向後兼容舊的 Nintendo DS 視頻遊戲的特點。作為第八代遊戲機，其主要競爭對手是索尼的 PlayStation Vita。</text>
 		</text>
 
 		<text name="info2" extra="true">
 			<text>Nintendo 3DS</text>
 		</text>
+    
+    <text name="info2" extra="true" lang="ZH">
+			<text>任天堂3DS</text>
+		</text>  
+    
+    <text name="info2" extra="true" lang="TW">
+			<text>任天堂3DS</text>
+		</text>
 
 		<text name="info3" extra="true">
-			<text>2001</text>
+			<text>2011</text>
 		</text>
 
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
 		</text>
+    
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>
+		</text>
+    
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>
+		</text>        
+    
 	</view>
 </theme>

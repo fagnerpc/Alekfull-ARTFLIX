@@ -3,27 +3,27 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game & Watch features a single game to be played on an LCD screen in addition to a clock.</text>
+			<text>Are very small, portable devices for playing interactive electronic games, often miniaturized versions of video games. The controls, display and speakers are all part of a single unit.</text>
 		</text>
 
 		<text name="info1" extra="true" lang="PT">
-			<text>É uma linha de consoles portáteis produzida pela Nintendo entre 1980 e 1991, criado pelo designer Gunpei Yokoi. Foi a segunda linha de aparelhos de jogos eletrônicos da Nintendo (a primeira foi o Color TV Game).</text>
+			<text>São dispositivos portáteis muito pequenos para jogar jogos eletrônicos interativos, muitas vezes versões miniaturizadas de videogames. Os controles, a tela e os alto-falantes fazem parte de uma única unidade.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="EN">
-			<text>Is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game & Watch features a single game to be played on an LCD screen in addition to a clock.</text>
+			<text>Are very small, portable devices for playing interactive electronic games, often miniaturized versions of video games. The controls, display and speakers are all part of a single unit. </text>
 		</text>
 
 				<text name="info1" extra="true" lang="ES">
-			<text>Es una línea de 59 consolas portátiles de videojuegos fabricadas por Nintendo y creadas por Gunpei Yokoi de 1980 a 1991. Cada una de ellas poseía un único juego con pantalla LCD, y tenía además reloj y alarma.</text>
+			<text>Son dispositivos portátiles muy pequeños para jugar juegos electrónicos interactivos, a menudo versiones miniaturizadas de videojuegos. Los controles, la pantalla y los altavoces forman parte de una sola unidad.</text>
 		</text>
 
 				<text name="info1" extra="true" lang="FR">
-			<text>Game and Watch sont des jeux électroniques de poche produits par la société Nintendo de 1980 à 1991, ils font également office de montres et de réveils. Vendus à 43,4 millions d'exemplaires à travers le monde.</text>
+			<text>Sont de très petits appareils portables pour jouer à des jeux électroniques interactifs, souvent des versions miniaturisées de jeux vidéo. Les commandes, l'affichage et les haut-parleurs font tous partie d'une seule unité.</text>
 		</text>
 
 		<text name="info1" extra="true" lang="DE">
-			<text>Ist eine Reihe elektronischer Handheld-Spiele, die von Nintendo von 1980 bis 1991 hergestellt wurden. Jedes Game & Watch wurde vom Spieledesigner Gunpei Yokoi entwickelt und bietet neben einer Uhr ein einzelnes Spiel, das auf einem LCD-Bildschirm gespielt werden kann.</text>
+			<text>Sind sehr kleine, tragbare Geräte zum Spielen interaktiver elektronischer Spiele, oft miniaturisierte Versionen von Videospielen. Bedienelemente, Display und Lautsprecher sind alle Teil einer Einheit.</text>
 		</text>
 
 		<text name="info2" extra="true">
@@ -31,11 +31,11 @@
 		</text>
 
 		<text name="info3" extra="true">
-			<text>1980</text>
+			<text>19XX</text>
 		</text>
 
 		<text name="info4" extra="true">
-			<text>Nintendo</text>
+			<text>Various</text>
 		</text>
 	</view>
 	

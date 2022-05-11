@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  	<view name="system">
+		<image name="logo">
+		<linearSmooth>true</linearSmooth>
+			<storyboard event="activate" repeatAt="1">
+				<animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
+				<animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
+				<animation property="scale" from="1.05" to="1" begin="1000" duration="1000" mode="easeOut"/>
+			</storyboard>
+			
+			<storyboard event="scroll">
+				<animation property="opacity" from="0" to="0.6" duration="0" mode="Linear"/>
+				<animation property="scale" from="1" to="0.75" begin="0" duration="1000" mode="easeOut"/>
+			</storyboard>
+			
+		</image>
+	</view>
+</theme>

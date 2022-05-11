@@ -1,0 +1,16 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+	<image name="frontendicon" extra="true" ifSubset="systemview:Cobalto">
+		<path ifNotArch="windows">./../assets/emuelec.png</path>
+		<path ifArch="windows">./../assets/batocera.png</path>
+		<pos>0.0092 0.0195</pos>
+		<maxSize>0.0435 0.0435</maxSize>
+		<zIndex>30000</zIndex>
+	</image>
+	  
+   </view>
+
+</theme>

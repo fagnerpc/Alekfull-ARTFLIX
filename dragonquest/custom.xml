@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The series has had a significant impact on the development of console role-playing games, and introduced a number of features to the genre. Installments of the series have appeared on various computers, consoles, handheld devices, and mobile phones.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Dragon Quest (ou Dragon Warrior como conhecido nos EUA) teve um impacto significativo no desenvolvimento de jogos de RPG de console e introduziu vários recursos ao gênero. Jogos da série apareceram em vários computadores, consoles, dispositivos portáteis e telefones celulares.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a Japanese science fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square Enix (formerly Square). The franchise centers on a series of fantasy and science fantasy role-playing video games.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>La serie ha tenido un impacto significativo en el desarrollo de los juegos de rol de consola e introdujo una serie de características en el género. Las entregas de la serie han aparecido en varias computadoras, consolas, dispositivos portátiles y teléfonos móviles.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>La série a eu un impact significatif sur le développement des jeux de rôle sur console et a introduit un certain nombre de fonctionnalités dans le genre. Des épisodes de la série sont apparus sur divers ordinateurs, consoles, appareils portables et téléphones mobiles.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Serie hatte einen erheblichen Einfluss auf die Entwicklung von Konsolen-Rollenspielen und führte eine Reihe von Funktionen in das Genre ein. Teile der Serie sind auf verschiedenen Computern, Konsolen, Handheld-Geräten und Mobiltelefonen erschienen.</text>
+		</text>
+
+				<text name="info2" extra="true">
+			<text>Dragon Quest</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Yuji Horii</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

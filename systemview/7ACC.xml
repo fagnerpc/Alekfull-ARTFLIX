@@ -23,7 +23,7 @@
       </image>
 
 
-		<video name="md_video" extra="true">
+		<video name="md_video" extra="true" ifSubset="randomvid:yes">
 	     <path>{random}</path>
          <pos>0.025 0.62</pos>
          <maxSize>0.30 0.30</maxSize>
@@ -55,6 +55,19 @@
 		<zIndex>42</zIndex>
       </text>
 
+	<text name="info2" extra="true">
+		<fontPath>./../_inc/fonts/Circular Std Black.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+ 		<fontSize>0.09</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.36 0.35</size>
+		<pos>0.02 0.10</pos>
+		<glowColor>00000006</glowColor>
+		<glowOffset>2</glowOffset>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
 
 	<carousel name="systemcarousel">
 		<type>vertical</type>

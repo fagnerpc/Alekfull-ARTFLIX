@@ -39,6 +39,10 @@
 			<text>NES</text>
 		</text>
 
+		<text name="info2" extra="true" ifSubset="systemview:Cobalto">
+			<text>Nintendo Entertainment System</text>
+		</text>
+
 		<text name="info2" extra="true" lang="ZH">
 			<text>红白机</text>
 		</text>
