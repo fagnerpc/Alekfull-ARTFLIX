@@ -1,0 +1,75 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a second-generation home video game console and simple computer system designed by a team at Midway, at that time the videogame division of Bally. It was originally announced as the "Bally Home Library Computer" in October 1977.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um console de videogame doméstico de segunda geração e um sistema de computador simples projetado por uma equipe da Midway, na época a divisão de videogame da Bally. Foi originalmente anunciado como o "Bally Home Library Computer" em outubro de 1977.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a second-generation home video game console and simple computer system designed by a team at Midway, at that time the videogame division of Bally. It was originally announced as the "Bally Home Library Computer" in October 1977.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una consola de videojuegos doméstica de segunda generación y un sistema informático simple diseñado por un equipo de Midway, en ese momento la división de videojuegos de Bally. Originalmente se anunció como la "Computadora de la biblioteca de Bally Home" en 1977.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une console de jeu vidéo domestique de deuxième génération et un système informatique simple conçu par une équipe de Midway, à l'époque la division jeux vidéo de Bally. Il a été annoncé à l'origine sous le nom de "Bally Home Library Computer" en 1977.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Heimvideospielkonsole der zweiten Generation und ein einfaches Computersystem, das von einem Team bei Midway, der damaligen Videospielabteilung von Bally, entwickelt wurde. Es wurde ursprünglich 1977 als "Bally Home Library Computer" angekündigt.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Bally Astrocade</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1978</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bally Manufacturing</text>
+		</text>	
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/astrocade.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/astrocadeo.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/astrocade.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/astrocade.png</path>
+		</image>
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

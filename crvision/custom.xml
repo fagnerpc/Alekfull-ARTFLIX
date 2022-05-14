@@ -1,0 +1,74 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a hybrid computer and home video game console released by VTech in 1982. The hybrid unit was similar in concept to computers such as the APF Imagination Machine, all of which anticipated the trend of video game consoles becoming more like low-end computers.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um computador híbrido e console de videogame doméstico lançado pela VTech em 1982. A unidade híbrida era semelhante em conceito a computadores como o APF Imagination Machine, que anteciparam a tendência dos consoles de videogame se tornarem mais computadores low-end.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a hybrid computer and home video game console released by VTech in 1982. The hybrid unit was similar in concept to computers such as the APF Imagination Machine, all of which anticipated the trend of video game consoles becoming more like low-end computers.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una computadora híbrida y una consola de videojuegos doméstica lanzada por VTech en 1982. La unidad híbrida era similar en concepto a computadoras como APF Imagination Machine, todas las cuales anticiparon la tendencia de que las consolas de videojuegos se volvieran más como computadoras de gama baja.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un ordinateur hybride et une console de jeu vidéo domestique lancé par VTech en 1982. L'unité hybride était similaire dans son concept à des ordinateurs tels que l'APF Imagination Machine, qui anticipaient tous la tendance des consoles de jeux vidéo à ressembler davantage à des ordinateurs bas de gamme.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein Hybrid aus Computer und Heimvideospielkonsole, der 1982 von VTech herausgebracht wurde. Das Konzept der Hybrideinheit ähnelte Computern wie der APF Imagination Machine, die alle den Trend vorwegnahmen, dass Videospielkonsolen eher zu Low-End-Computern werden.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>CreatiVision</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>VTech</text>
+		</text>	
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/crvision.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/crvision.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/crvision.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/crvision.png</path>
+		</image>
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

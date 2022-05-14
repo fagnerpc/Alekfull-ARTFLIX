@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Was a Japanese toy company, and a former game developer and publisher, headquartered in the Shinagawa Seaside West Building in Shinagawa, Tokyo. The current iteration of the company was formed on April 1, 2008, with the focus on the toy consumer business.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Era uma empresa de brinquedos japonesa, ex-desenvolvedora e editora de jogos, com sede no Edifício Shinagawa Seaside West em Shinagawa, Tóquio. A iteração atual da empresa foi formada em 1º de abril de 2008, com foco no negócio de consumo de brinquedos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Was a Japanese toy company, and a former game developer and publisher, headquartered in the Shinagawa Seaside West Building in Shinagawa, Tokyo. The current iteration of the company was formed on April 1, 2008, with the focus on the toy consumer business.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Era una empresa de juguetes japonesa, y ex desarrollador y editor de juegos, con sede en el edificio Shinagawa Seaside West en Shinagawa, Tokio. La versión actual de la compañía se formó el 1 de abril de 2008, con el foco en el negocio de consumo de juguetes.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Était une entreprise de jouets japonaise, et un ancien développeur et éditeur de jeux. L'itération actuelle de la société a été formée le 1er avril 2008, en mettant l'accent sur le secteur des jouets grand public.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>War ein japanisches Spielzeugunternehmen und ehemaliger Spieleentwickler und -verleger mit Hauptsitz im Shinagawa Seaside West Building in Shinagawa, Tokio. Die aktuelle Iteration des Unternehmens wurde am 1. April 2008 mit dem Fokus auf das Spielzeug-Verbrauchergeschäft gegründet.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Banpresto</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1977</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Hoei Sangyo</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

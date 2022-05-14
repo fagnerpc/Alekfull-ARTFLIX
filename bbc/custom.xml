@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>It is a series of microcomputers and associated peripherals designed and built by Acorn Computers Ltd for the BBC Computer Literacy Project (a computer education project) operated by the British Broadcasting Corporation.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É uma série de microcomputadores e periféricos associados desenhados e construídos pela Acorn Computers Ltd para o BBC Computer Literacy Project (um projeto de educação por computador) operado pela British Broadcasting Corporation.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>It is a series of microcomputers and associated peripherals designed and built by Acorn Computers Ltd for the BBC Computer Literacy Project (a computer education project) operated by the British Broadcasting Corporation.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una serie de microcomputadoras y periféricos asociados diseñados y construidos por Acorn Computers Ltd para el Proyecto de Alfabetización Informática de la BBC (un proyecto de educación informática) operado por la British Broadcasting Corporation.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Il s'agit d'une série de micro-ordinateurs et de périphériques associés conçus et construits par Acorn Computers Ltd pour le BBC Computer Literacy Project (un projet d'éducation informatique) géré par la British Broadcasting Corporation.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Es handelt sich um eine Reihe von Mikrocomputern und zugehörigen Peripheriegeräten, die von Acorn Computers Ltd für das BBC Computer Literacy Project (ein Computerbildungsprojekt) entwickelt und gebaut wurden, das von der British Broadcasting Corporation betrieben wird.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>BBC Micro</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1981</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Acorn Computers</text>
+		</text>	
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/bbcmicro.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/bbcmicro.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/bbcmicro.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/bbcmicro.png</path>
+		</image>
+
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>
