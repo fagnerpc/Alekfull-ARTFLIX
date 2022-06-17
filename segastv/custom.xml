@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>ST-V (Sega Titan Video) is an arcade system board released by Sega in 1994. Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>ST-V (Sega Titan Video) é uma placa de sistema de arcade lançada pela Sega em 1994. Partindo de seu processo usual de construção de hardware de arcade personalizado, o ST-V da Sega é essencialmente idêntico ao sistema de console doméstico Sega Saturn.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>ST-V (Sega Titan Video) is an arcade system board released by Sega in 1994. Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>ST-V (Sega Titan Video) es una placa de sistema arcade lanzada por Sega en 1994. Partiendo de su proceso habitual de creación de hardware arcade personalizado, la ST-V de Sega es esencialmente idéntica al sistema de consola doméstica Sega Saturn.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>ST-V (Sega Titan Video) est une carte système d'arcade publiée par Sega en 1994. S'écartant de leur processus habituel de construction de matériel d'arcade personnalisé, le ST-V de Sega est essentiellement identique au système de console de salon Sega Saturn.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>ST-V (Sega Titan Video) ist eine Arcade-Systemplatine, die 1994 von Sega herausgebracht wurde. Segas ST-V ist im Wesentlichen identisch mit dem Sega Saturn-Heimkonsolensystem und weicht vom üblichen Prozess des Baus benutzerdefinierter Arcade-Hardware ab.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Titan Video</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

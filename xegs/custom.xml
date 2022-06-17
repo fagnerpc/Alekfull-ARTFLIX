@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Atari XE Video Game System is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family. It was released by Atari Corporation in 1987 and marketed as a home video game console alongside the NES, Master System, and Atari 7800.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O Atari XE Video Game System é um redesenho industrial do computador doméstico Atari 65XE e o modelo final da família Atari de 8 bits. Foi lançado pela Atari Corporation em 1987 e comercializado como um console de videogame doméstico ao lado do NES, Master System e Atari 7800.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The Atari XE Video Game System is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family. It was released by Atari Corporation in 1987 and marketed as a home video game console alongside the NES, Master System, and Atari 7800.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>El sistema de videojuegos Atari XE es un rediseño industrial de la computadora doméstica Atari 65XE y el último modelo de la familia Atari de 8 bits. Fue lanzado por Atari Corporation en 1987 y comercializado como una consola de videojuegos para el hogar junto con NES, Master System y Atari 7800.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Le système de jeu vidéo Atari XE est une refonte industrielle de l'ordinateur personnel Atari 65XE et le modèle final de la famille Atari 8 bits. Il a été publié par Atari Corporation en 1987 et commercialisé en tant que console de jeu vidéo domestique aux côtés de la NES, Master System et Atari 7800.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Das Atari XE Video Game System ist eine industrielle Neugestaltung des Heimcomputers Atari 65XE und das letzte Modell der Atari 8-Bit-Familie. Es wurde 1987 von der Atari Corporation herausgebracht und neben NES, Master System und Atari 7800 als Heimvideospielkonsole vermarktet.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Atari XEGS</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

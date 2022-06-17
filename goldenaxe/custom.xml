@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a series of side-scrolling beat 'em up arcade video games developed by Sega. The series takes place in a medieval fantasy world where several heroes have the task of recovering the legendary Golden Axe, the mainstay element of the series.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É uma série de videogames beat 'em up de fliperama desenvolvidos pela Sega. A série se passa em um mundo de fantasia medieval onde vários heróis têm a tarefa de recuperar o lendário Machado de Ouro, o elemento principal da série.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a series of side-scrolling beat 'em up arcade video games developed by Sega. The series takes place in a medieval fantasy world where several heroes have the task of recovering the legendary Golden Axe, the mainstay element of the series.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una serie de videojuegos de arcade beat 'em up de desplazamiento lateral desarrollados por Sega. La serie se desarrolla en un mundo de fantasía medieval donde varios héroes tienen la tarea de recuperar el legendario Hacha Dorada, elemento fundamental de la serie.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une série de jeux vidéo d'arcade à défilement horizontal développés par Sega. La série se déroule dans un monde médiéval fantastique où plusieurs héros ont pour tâche de récupérer la légendaire Golden Axe, élément central de la série.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Reihe von Side-Scrolling-Beat-'em-up-Arcade-Videospielen, die von Sega entwickelt wurden. Die Serie spielt in einer mittelalterlichen Fantasiewelt, in der mehrere Helden die Aufgabe haben, die legendäre Goldene Axt, das Hauptelement der Serie, zu bergen.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Golden Axe</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Makoto Uchida</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

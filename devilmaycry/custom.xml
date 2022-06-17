@@ -1,0 +1,74 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true" lang="EN">
+			<text>The series centers on the protagonist Dante, who exterminates demons as a way to avenge his mother's murder. The gameplay is based on defeating enemies by frantically unleashing large sequences of attacks, while avoiding possible damage, in order to display fight scenes "in style".</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>A série centra-se no protagonista Dante, que extermina demônios como forma de vingar o assassinato da sua mãe. A jogabilidade se baseia em derrotar inimigos desencadeando grandes sequências de ataques de forma frenética, enquanto evita possíveis danos, a fim de exibir cenas de lutas "com estilo".</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The series centers on the protagonist Dante, who exterminates demons as a way to avenge his mother's murder. The gameplay is based on defeating enemies by frantically unleashing large sequences of attacks, while avoiding possible damage, in order to display fight scenes "in style".</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La serie se centra en el protagonista Dante, quien extermina a los demonios como una forma de vengar el asesinato de su madre. La jugabilidad se basa en derrotar enemigos desatando frenéticamente grandes secuencias de ataques, evitando posibles daños, para mostrar escenas de lucha "con estilo".</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>La série est centrée sur le protagoniste Dante, qui extermine des démons pour venger le meurtre de sa mère. Le gameplay est basé sur la défaite des ennemis en déclenchant frénétiquement de grandes séquences d'attaques, tout en évitant d'éventuels dégâts, afin d'afficher les scènes de combat avec style.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Im Mittelpunkt der Serie steht der Protagonist Dante, der Dämonen ausrottet, um den Mord an seiner Mutter zu rächen. Das Gameplay basiert darauf, Feinde zu besiegen, indem man hektisch große Angriffssequenzen entfesselt und dabei möglichen Schaden vermeidet, um Kampfszenen "mit Stil" anzuzeigen.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Devil May Cry</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Hideki Kamiya</text>
+		</text>			
+
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  lang="pt">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="en">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="es">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="fr">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

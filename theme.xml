@@ -2,7 +2,7 @@
 ALEKFULL-ARTFLIX theme by fagnerpc
 https://facebook.com/alekfull.arcade
 
-Version: 2.0 for Batocera 5.25+, Retrobat and Emuelec 3.24+
+Version: 2.5 for Batocera 5.25+, Retrobat and Emuelec 3.24+
 https://github.com/fagnerpc/Alekfull-ARTFLIX
 Artes, codigo e conceito por fagnerpc
 Tema proibido para uso comercial
@@ -37,7 +37,7 @@ Tema proibido para uso comercial
    <include subset="animbg" name="Default" displayName="${default}"/>
    <include subset="iconanim" name="yes" displayName="${yes}"/>
    <include subset="iconanim" name="no" displayName="${no}"/> 
-   <include subset="syscarousel" name="Wheel">./effects/carouselwheel.xml</include>
+   <include subset="syscarousel" name="Wheel" displayName="${wheel}">./effects/carouselwheel.xml</include>
    <include subset="syscarousel" name="Vertical">./effects/carouselvert.xml</include>
    <include subset="syscarousel" name="Without Vertical Carousel" displayName="${snocarou}">./effects/wcarousel.xml</include>
    <include subset="sysname" name="Text" displayName="${systex}">./colorsets/texttitle.xml</include>
@@ -71,10 +71,10 @@ Tema proibido para uso comercial
    </variables>
 
   <variables lang="pt">
-    <tilesViewName>Miniaturas</tilesViewName>
-    <tilesVideoViewName>Miniaturas + Vídeo</tilesVideoViewName>
+    <tilesViewName>Miniaturas (Estático)</tilesViewName>
+    <tilesVideoViewName>Miniaturas (Vídeo)</tilesVideoViewName>
     <tilesVideoMarqueeViewName>Miniaturas + Vídeo + Logos</tilesVideoMarqueeViewName>
-    <basicGridName>Caixas</basicGridName>
+    <basicGridName>Caixas (Estático)</basicGridName>
     <basicGridDetailsName>Caixas + Detalhes</basicGridDetailsName>
     <basicGridVideoName>Caixas + Vídeo</basicGridVideoName>
     <carouselViewName>Carrossel</carouselViewName>
@@ -82,11 +82,31 @@ Tema proibido para uso comercial
     <carouselDetailsViewName>Carrossel Detalhado</carouselDetailsViewName>
     <carouselposterViewName>Carrossel Poster</carouselposterViewName>
     <carouselDetailssViewName>Carrossel (Imagem de Fundo + Vídeo)</carouselDetailssViewName>
-    <hartfdefViewName>Artflix (Vista Padrão)</hartfdefViewName>
+    <hartfdefViewName>Artflix (Vista Padrão)</hartfdefViewName>	
+	<hartffvViewName>Artflix (Vídeo Tela Cheia)</hartffvViewName>
+	<nflixstcViewName>NFlix (Estático + Capas Customizadas)</nflixstcViewName>
+	<nflixvideoccViewName>NFlix (Vídeo + Capas Customizadas)</nflixvideoccViewName>
+	<basicGridcusVideoName>Caixas (Capas Customizadas)</basicGridcusVideoName>
+	<tilesdetailedViewName>Miniaturas (Detalhado)</tilesdetailedViewName>
+	<tilesdetailogViewName>Miniaturas (Detalhado + Logos)</tilesdetailogViewName>
+	<tilesdetbannViewName>Miniaturas (Detalhado + Banners)</tilesdetbannViewName>
+	<basicbanner>Banners (Vertical)</basicbanner>
+	<basicbanner1>Banners (Horizontal)</basicbanner1>	
+	<basicbanner2>Banners (Estático)</basicbanner2>	
+	<basicbanner3>Banners (Vídeo + Detalhado)</basicbanner3>
+	<basicbanner4>Banners (Estático + Detalhado)</basicbanner4>
+	<fanartview>Fanart (Estático + Logos)</fanartview>
+	<fanartview1>Fanart (Animado + Logos)</fanartview1>
+	<fanartview2>Fanart (Vídeo Tela Cheia)</fanartview2>	
+	<fanartview3>Fanart (Animado + Capas Customizadas)</fanartview3>	
+	<wheel>Carrossel (Roda)</wheel>		
+	<cobaltorandbg>Cobalto - Imagens de Fundo Aleatórias de Jogos</cobaltorandbg>	
+	<cobaltorandbbg>Cobalto - Imagens de Fundo Aleatórias de Fanarts</cobaltorandbbg>	
+	<cobaltovrandvid>Cobalto - Vídeo de Fundo Aleatórios de Jogos</cobaltovrandvid>	
 	<hspindefViewName>HSpin (Vista Padrão)</hspindefViewName>
     <hspinfvlViewName>HSpin (Vídeo Tela Cheio + Logos)</hspinfvlViewName>
     <hspinfvcViewName>HSpin (Vídeo Tela Cheio + Capas)</hspinfvcViewName>
-    <nflixxViewName>NFlix (Estatico)</nflixxViewName>
+    <nflixxViewName>NFlix (Estático)</nflixxViewName>
     <nflixvideocViewName>NFlix (Vídeo + Capa)</nflixvideocViewName>
     <nflixvideolViewName>NFlix (Vídeo + Logos)</nflixvideolViewName>
 	<yes>Sim</yes>
@@ -112,19 +132,19 @@ Tema proibido para uso comercial
     <scrtfs>CRT Tela Cheia</scrtfs>
     <sclfs>Scanlines Tela Cheia</sclfs>
     <scanalt>Scanlines Alternativo</scanalt>
-    <srandvideo>Vídeos Aleatórios</srandvideo>
+    <srandvideo>Padrão - Vista Principal</srandvideo>
     <srandvideol>Vídeos Aleatórios (Logos)</srandvideol>
-    <svwheel>Fundo Vídeo Dinâmico</svwheel>
+    <svwheel>Padrão - Fundo Vídeo Dinâmico</svwheel>
 	<svwheell>Fundo Vídeo Dinâmico (Logos)</svwheell>
-    <srandbg>Imagens de Fundo Aleatórias de Jogos</srandbg>
+    <srandbg>Padrão - Imagens de Fundo Aleatórias de Jogos</srandbg>
 	<srandbgl>Imagens de Fundo Aleatórias de Jogos (Logos)</srandbgl>
-	<srandbbg>Imagens de Fundo Aleatórias de Fanarts</srandbbg>
+	<srandbbg>Padrão - Imagens de Fundo Aleatórias de Fanarts</srandbbg>
 	<srandbbgl>Imagens de Fundo Aleatórias de Fanarts (Logos)</srandbbgl>
-    <svrandvid>Vídeo de Fundo Aleatórios de Jogos</svrandvid>
+    <svrandvid>Padrão - Vídeo de Fundo Aleatórios de Jogos</svrandvid>
 	<svrandvidl>Vídeo de Fundo Aleatórios de Jogos (Logos)</svrandvidl>
-	<scustimg>Imagens de Fundo Customizadas</scustimg>
+	<scustimg>Padrão - Imagens de Fundo Customizadas</scustimg>
 	<scustimgl>Imagens de Fundo Customizadas (Logos)</scustimgl>
-	<snocarou>Sem Carrossel Vertical</snocarou>
+	<snocarou>Sem Carrossel</snocarou>
 	<subset.randomvid>Video Aleatório na tela de Sistemas</subset.randomvid>
     <subset.systemview>Vistas de Sistemas</subset.systemview>
     <subset.colorset>Imagens de Fundo</subset.colorset>
@@ -168,6 +188,26 @@ Tema proibido para uso comercial
 	<carouselposterViewName>Affiche Carrossel</carouselposterViewName>
     <carouselDetailssViewName>Carrousel (arriere-plan + video)</carouselDetailssViewName>
 	<hartfdefViewName>Artflix (vue standard)</hartfdefViewName>
+	<hartffvViewName>Artflix (vidéo plein écran)</hartffvViewName>
+	<nflixstcViewName>NFlix (Skins statiques + personnalisés)</nflixstcViewName>
+	<nflixvideoccViewName>NFlix (vidéo + couvertures personnalisées)</nflixvideoccViewName>
+	<basicGridcusVideoName>Boîtes (couvertures personnalisées)</basicGridcusVideoName>
+	<tilesdetailedViewName>Miniatures (détaillées)</tilesdetailedViewName>
+	<tilesdetailogViewName>Miniatures (Détaillé + Logos)</tilesdetailogViewName>
+	<tilesdetbannViewName>Miniatures (détaillées + bannières)</tilesdetbannViewName>
+	<basicbanner>Bannières (Verticales)</basicbanner>
+	<basicbanner1>Bannières (Horizontales)</basicbanner1>	
+	<basicbanner2>Bannières (statiques)</basicbanner2>	
+	<basicbanner3>Bannières (vidéo + détaillées)</basicbanner3>
+	<basicbanner4>Bannières (statiques + détaillées)</basicbanner4>
+	<fanartview>Fanart (Statique + Logos)</fanartview>
+	<fanartview1>Fanart (Animé + Logos)</fanartview1>
+	<fanartview2>Fanart (vidéo plein écran)</fanartview2>	
+	<fanartview3>Fanart (Skins animés + personnalisés)</fanartview3>	
+	<wheel>Carrousel (Roue)</wheel>		
+	<cobaltorandbg>Cobalt - Arrière-plans de jeu aléatoires</cobaltorandbg>	
+	<cobaltorandbbg>Cobalt - Images d'arrière-plan aléatoires de Fanarts</cobaltorandbbg>	
+	<cobaltovrandvid>Cobalt - Vidéo d'arrière-plan du jeu aléatoire</cobaltovrandvid>	
     <hspindefViewName>HSpin (vue standard)</hspindefViewName>
     <hspinfvlViewName>HSpin (video plein ecran + logos)</hspinfvlViewName>
     <hspinfvcViewName>HSpin (video plein ecran + couvertures)</hspinfvcViewName>
@@ -249,7 +289,27 @@ Tema proibido para uso comercial
     <carouselDetailsViewName>Carrussel Detallado</carouselDetailsViewName>
 	<carouselposterViewName>Cartel de Carrossel</carouselposterViewName>
     <carouselDetailssViewName>Carrussel (Imagen de Fondo + Video)</carouselDetailssViewName>
-	<hartfdefViewName>Artflix (Vista Estandar)</hartfdefViewName>
+	<hartfdefViewName>Artflix (Vista Estandar)</hartfdefViewName>	
+	<hartffvViewName>Artflix (video de pantalla completa)</hartffvViewName>
+	<nflixstcViewName>NFlix (estáticas + máscaras personalizadas)</nflixstcViewName>
+	<nflixvideoccViewName>NFlix (Video + Carátulas personalizadas)</nflixvideoccViewName>
+	<basicGridcusVideoName>Cajas (Portadas personalizadas)</basicGridcusVideoName>
+	<tilesdetailedViewName>Miniaturas (detalladas)</tilesdetailedViewName>
+	<tilesdetailogViewName>Miniaturas (detalladas + logotipos)</tilesdetailogViewName>
+	<tilesdetbannViewName>Miniaturas (Detalladas + Banners)</tilesdetbannViewName>
+	<basicbanner>Pancartas (verticales)</basicbanner>
+	<basicbanner1>Banners (Horizontales)</basicbanner1>	
+	<basicbanner2>Banners (Estáticos)</basicbanner2>	
+	<basicbanner3>Banners (Video + Detallado)</basicbanner3>
+	<basicbanner4>Banners (estático + detallado)</basicbanner4>
+	<fanartview>Fanart (estático + logotipos)</fanartview>
+	<fanartview1>Fanart (animado + logotipos)</fanartview1>
+	<fanartview2>Fanart (video de pantalla completa)</fanartview2>	
+	<fanartview3>Fanart (Animado + Aspectos personalizados)</fanartview3>	
+	<wheel>Carrusel (Rueda)</wheel>		
+	<cobaltorandbg>Cobalt - Fondos de juegos aleatorios</cobaltorandbg>	
+	<cobaltorandbbg>Cobalt - Imágenes de fondo aleatorias de Fanarts</cobaltorandbbg>	
+	<cobaltovrandvid>Cobalt - Video de fondo de juego aleatorio</cobaltovrandvid>	
     <hspindefViewName>HSpin (Vista Estandar)</hspindefViewName>
     <hspinfvlViewName>HSpin (video de pantalla completa + logotipos)</hspinfvlViewName>
     <hspinfvcViewName>HSpin (video de pantalla completa + cajas)</hspinfvcViewName>
@@ -332,6 +392,26 @@ Tema proibido para uso comercial
 	<carouselposterViewName>Karussellposter</carouselposterViewName>
 	<carouselDetailssViewName>Karussell (Hintergrundbild + Video)</carouselDetailssViewName>
 	<hartfdefViewName>Artflix (Standardansicht)</hartfdefViewName>
+	<hartffvViewName>Artflix (Vollbildvideo)</hartffvViewName>
+	<nflixstcViewName>NFlix (statische + benutzerdefinierte Skins)</nflixstcViewName>
+	<nflixvideoccViewName>NFlix (Video + benutzerdefinierte Cover)</nflixvideoccViewName>
+	<basicGridcusVideoName>Boxen (benutzerdefinierte Cover)</basicGridcusVideoName>
+	<tilesdetailedViewName>Miniaturansichten (detailliert)</tilesdetailedViewName>
+	<tilesdetailogViewName>Miniaturansichten (detailliert + Logos)</tilesdetailogViewName>
+	<tilesdetbannViewName>Thumbnails (detailliert + Banner)</tilesdetbannViewName>
+	<basicbanner>Banner (vertikal)</basicbanner>
+	<basicbanner1>Banner (horizontal)</basicbanner1>	
+	<basicbanner2>Banner (statisch)</basicbanner2>	
+	<basicbanner3>Banner (Video + detailliert)</basicbanner3>
+	<basicbanner4>Banner (statisch + ausführlich)</basicbanner4>
+	<fanartview>Fanart (statisch + Logos)</fanartview>
+	<fanartview1>Fanart (animiert + Logos)</fanartview1>
+	<fanartview2>Fanart (Vollbildvideo)</fanartview2>	
+	<fanartview3>Fanart (animiert + benutzerdefinierte Skins)</fanartview3>	
+	<wheel>Karussell (Rad)</wheel>		
+	<cobaltorandbg>Cobalt - Zufällige Spielhintergründe</cobaltorandbg>	
+	<cobaltorandbbg>Cobalt - Zufällige Hintergrundbilder von Fanarts</cobaltorandbbg>	
+	<cobaltovrandvid>Cobalt - Zufallsspiel-Hintergrundvideo</cobaltovrandvid>	
 	<hspindefViewName>HSpin (Standardansicht)</hspindefViewName>
 	<hspinfvlViewName>HSpin (Vollbildvideo + Logos)</hspinfvlViewName>
 	<hspinfvcViewName>HSpin (Vollbildvideo + Boxen)</hspinfvcViewName>
@@ -910,7 +990,7 @@ Tema proibido para uso comercial
 		<alignment>left</alignment>
 		<fontSize>0.020</fontSize>
 		<lineSpacing>1</lineSpacing>
-		<size>0.35 0.0925</size>
+		<size>0.35 0.106</size>
 		<pos>0.025 0.4</pos>
 		<glowColor>00000016</glowColor>
 		<glowSize>1</glowSize>
@@ -918,7 +998,7 @@ Tema proibido para uso comercial
       </text>
      <video name="md_video">
          <pos>0.025 0.62</pos>
-         <minSize>0.30 0.30</minSize>
+         <size>0.30 0.30</size>
          <origin>0 0</origin>
          <delay>0.2</delay>
          <showSnapshotNoVideo>false</showSnapshotNoVideo>
@@ -972,318 +1052,21 @@ Tema proibido para uso comercial
       </text>
 </customView>
 
-<customView name="HSpin (Default)" inherits="grid" tinyScreen="false" displayName="${hspindefViewName}">
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.025 0.16</pos>
-         <size>0.92 0.10</size>
-         <alignment>left</alignment>
-         <glowColor>00000016</glowColor>
-         <glowSize>4</glowSize>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-         <zIndex>0</zIndex>
-      </text>
-
-      <imagegrid name="gamegrid">
-         <pos>0.72 0</pos>
-         <size>0.3 1</size>
-         <scrollDirection>vertical</scrollDirection>
-         <autoLayout>1 7</autoLayout>
-         <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>true</centerSelection>
-         <scrollLoop>true</scrollLoop>
-	  <imageSource>marquee</imageSource>
-
-      </imagegrid>
-      <gridtile name="default">
-         <padding>64 16</padding>
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <imageSizeMode>maxSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <reflexion>0.11 0.0</reflexion>
-      </gridtile>
-      <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
-      </gridtile>
-      <text name="gridtile">
-         <color>80808080</color>
-         <fontSize>0.016</fontSize>
-         <size>1 0</size>
-      </text>
-      <text name="gridtile_selected">
-         <color>FFFFFF00</color>
-         <fontSize>0.035</fontSize>
-         <size>1 0</size>
-      </text>
-      <image name="art2" extra="true">
-         <origin>0 0</origin>
+<customView name="Artflix (Full Video)" inherits="Artflix (Default)" tinyScreen="false" displayName="${hartffvViewName}">
+ 	     <image name="art2" extra="true">
+         <zIndex>8</zIndex>
+      </image>
+		 <video name="md_video">
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./assets/filter5.png</path>
-         <zIndex>7</zIndex>
-      </image>
-      <text name="md_description">
-         <pos>0.025 0.36</pos>
-         <size>0.32 0.22</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-      </text>
-     <video name="md_video">
-         <pos>0.025 0.62</pos>
-         <minSize>0.30 0.30</minSize>
          <origin>0 0</origin>
          <delay>0.2</delay>
          <showSnapshotNoVideo>false</showSnapshotNoVideo>
          <showSnapshotDelay>false</showSnapshotDelay>
          <zIndex>7</zIndex>
-      </video>
+      </video> 
+</customView>
 
-      <image name="logo">
-         <path>./assets/logos/${system.theme}.png</path>
-         <pos>0.152 0.74</pos>
-         <maxSize>0.4 0.126</maxSize>
-         <origin>0 0</origin>
-         <zIndex>0</zIndex>
-      </image>
-
-      <image name="md_marquee">
-         <pos>0.155 0.16</pos>
-         <size>0.25 0</size>
-         <zIndex>36</zIndex>
-      </image>
-
-      <rating name="md_rating">
-         <pos>0.04 0.88</pos>
-         <size>0.05 0.03</size>
-         <color>FFFFFF</color>
-         <unfilledColor>808080</unfilledColor>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-      </rating>
-
-      <image name="md_image">
-         <zIndex>4</zIndex>
-      </image>
-
-      <image name="md_fanart">
-         <origin>0 0</origin>
-         <size>1 1</size>
-         <pos>0 0</pos>
-         <zIndex>6</zIndex>
-      </image>
-
-      <text name="md_publisher">
-         <color>ffffff00</color>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-         <pos>0.42 0.63</pos>
-      </text>
-   </customView>
-
-<customView name="HSpin (Full Video + Logo)" inherits="grid" tinyScreen="false" displayName="${hspinfvlViewName}">
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.025 0.16</pos>
-         <size>0.92 0.10</size>
-         <alignment>left</alignment>
-         <glowColor>00000016</glowColor>
-         <glowSize>4</glowSize>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-         <zIndex>0</zIndex>
-      </text>
-      <text name="md_developer">
-         <pos>0.12 0.65</pos>
-         <size>0.42 0.05</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-      </text>
-      <imagegrid name="gamegrid">
-         <pos>0.72 0</pos>
-         <size>0.3 1</size>
-         <scrollDirection>vertical</scrollDirection>
-         <autoLayout>1 7</autoLayout>
-         <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>true</centerSelection>
-         <scrollLoop>true</scrollLoop>
-	  <imageSource>marquee</imageSource>
-
-      </imagegrid>
-      <gridtile name="default">
-         <padding>64 16</padding>
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <imageSizeMode>maxSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <reflexion>0.11 0.0</reflexion>
-      </gridtile>
-      <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
-      </gridtile>
-      <text name="gridtile">
-         <color>80808080</color>
-         <fontSize>0.016</fontSize>
-         <size>1 0</size>
-      </text>
-      <text name="gridtile_selected">
-         <color>FFFFFF00</color>
-         <fontSize>0.035</fontSize>
-         <size>1 0</size>
-      </text>
-      <image name="art2" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <path>./assets/filter4.png</path>
-         <zIndex>7</zIndex>
-      </image>
-      <text name="md_description">
-         <pos>0.025 0.36</pos>
-         <size>0.32 0.29</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-      </text>
-     <video name="md_video">
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <origin>0 0</origin>
-         <delay>0</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>false</showSnapshotDelay>
-         <zIndex>5</zIndex>
-      </video>
-
-      <image name="md_marquee">
-         <pos>0.155 0.16</pos>
-         <size>0.25 0</size>
-         <zIndex>36</zIndex>
-      </image>
-
-      <rating name="md_rating">
-         <pos>0.02 0.66</pos>
-         <size>0.05 0.03</size>
-         <color>FFFFFF</color>
-         <unfilledColor>808080</unfilledColor>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-      </rating>
-
-      <image name="logo">
-         <zIndex>0</zIndex>
-      </image>
-
-      <image name="md_image">
-         <zIndex>4</zIndex>
-      </image>
-
-      <text name="md_publisher">
-         <color>ffffff00</color>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-         <pos>0.42 0.63</pos>
-      </text>
-   </customView>
-
-<customView name="HSpin (Full Video + Cover)" inherits="grid" tinyScreen="false" displayName="${hspinfvcViewName}">
-      <text name="md_name">
-		<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
-		<color>FFFFFF</color>
-		<alignment>left</alignment>
- 		<fontSize>0.07</fontSize>
-		<lineSpacing>1</lineSpacing>
-		<size>0.65 0.30</size>
-		<pos>0.03 0.07</pos>
-		<glowColor>00000016</glowColor>
-		<glowSize>4</glowSize>
-		<zIndex>42</zIndex>
-      </text>
-      <imagegrid name="gamegrid">
-         <pos>0.72 0</pos>
-         <size>0.3 1</size>
-         <scrollDirection>vertical</scrollDirection>
-         <autoLayout>1 7</autoLayout>
-         <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>true</centerSelection>
-         <scrollLoop>true</scrollLoop>
-	  <imageSource>marquee</imageSource>
-      </imagegrid>
-      <gridtile name="default">
-         <padding>64 16</padding>
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <imageSizeMode>maxSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <reflexion>0.11 0.0</reflexion>
-      </gridtile>
-      <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
-      </gridtile>
-      <text name="gridtile">
-         <color>80808080</color>
-         <fontSize>0.016</fontSize>
-         <size>1 0</size>
-      </text>
-      <text name="gridtile_selected">
-         <color>FFFFFF00</color>
-         <fontSize>0.035</fontSize>
-         <size>1 0</size>
-      </text>
-      <image name="art2" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <path>./assets/filter4.png</path>
-         <zIndex>7</zIndex>
-      </image>
-      <text name="md_description">
-         <pos>0.025 0.36</pos>
-         <size>0.32 0.27</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-      </text>
-     <video name="md_video">
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <origin>0 0</origin>
-         <delay>0</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>false</showSnapshotDelay>
-         <zIndex>5</zIndex>
-      </video>
-
-      <image name="md_thumbnail">
-         <pos>0.175 0.79</pos>
-         <size>0 0.30</size>
-         <zIndex>36</zIndex>
-      </image>
-
-      <image name="md_image">
-         <zIndex>4</zIndex>
-      </image>
-
-      <text name="md_developer, md_publisher">
-         <color>ffffff00</color>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-         <pos>2 0</pos>
-      </text>
-   </customView>
 
 <customView name="HCoinSpin" inherits="grid" tinyScreen="false" displayName="${hspinadefViewName}">
       <text name="md_name">
@@ -1385,6 +1168,13 @@ Tema proibido para uso comercial
          <fontSize>0.001</fontSize>
          <pos>2 0.955</pos>
       </helpsystem>
+	  
+      <rating name="md_rating">
+         <origin>0.5 0</origin>
+         <pos>0.028 0.215</pos>
+         <size>0.05 0.03</size>
+         <rotation>-90</rotation> 
+      </rating>
    </customView>
 
 
@@ -1425,6 +1215,7 @@ Tema proibido para uso comercial
          <color>FFFFFF</color>
 		 <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
+		 <lineSpacing>1.26</lineSpacing>
          <alignment>left</alignment>
          <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
       </text>
@@ -1534,6 +1325,14 @@ Tema proibido para uso comercial
 			<color>666666</color>
 			<zIndex>150</zIndex>
 		</image>
+		<image name="ghost_savestate" extra="true">
+			<origin>0.5 0.5</origin>
+			<path>./_inc/icons/SaveState.png</path>
+			<pos>0.82 0.905</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>80808040</color>
+			<zIndex>12</zIndex>
+		</image>		
 		<image name="md_nosavestate">
 			<color>80808030</color>
 		</image>
@@ -1552,8 +1351,7 @@ Tema proibido para uso comercial
          <zIndex>8</zIndex>
       </imagegrid>
 
-
-      <image name="arttt2t" extra="true">
+      <image name="overbar" extra="true">
          <path>./assets/overbar.png</path>
          <origin>0 0</origin>
          <pos>0 0</pos>
@@ -1627,11 +1425,12 @@ Tema proibido para uso comercial
 		 <path>./assets/logos/${system.theme}.svg</path>
          <pos>0.865 0.882</pos>
          <size>0.11 0</size>
+		 <linearSmooth>true</linearSmooth>
 		 <zIndex>15</zIndex>
 	  </image>
 
       <image name="md_marquee">
-         <pos>0.285 0.04</pos>
+         <pos>0.285 0.06</pos>
          <maxSize>0.22 0.12</maxSize>
       </image>
 
@@ -1642,7 +1441,6 @@ Tema proibido para uso comercial
          <zIndex>5</zIndex>
 		 <linearSmooth>true</linearSmooth>
       </image>
-
 
       <image name="md_image">
          <zIndex>4</zIndex>
@@ -1701,7 +1499,7 @@ Tema proibido para uso comercial
     </text>
       <imagegrid name="gamegrid">
          <pos>0.72 -0.04</pos>
-         <size>0.3 0.7</size>
+         <size>0.3 0.8</size>
          <scrollDirection>vertical</scrollDirection>
          <autoLayout>1 7</autoLayout>
          <autoLayoutSelectedZoom>1.40</autoLayoutSelectedZoom>
@@ -1709,6 +1507,7 @@ Tema proibido para uso comercial
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
          <imageSource>marquee</imageSource>
+		 <imageColor>505050FF</imageColor>
          <zIndex>6</zIndex>
       </imagegrid>
 
@@ -1766,6 +1565,14 @@ Tema proibido para uso comercial
          <zIndex>0</zIndex>
       </image>
 
+	<image name="logohue" extra="true">
+		<path>./assets/logohueo.png</path>
+		<zIndex>103</zIndex>
+		<color>fe3030</color>
+		<pos>0.0455 0.02</pos>
+		<maxSize>0.096 0.096</maxSize>
+	</image>
+
       <image name="md_marquee">
          <pos>0.285 0.04</pos>
          <maxSize>0.22 0.12</maxSize>
@@ -1787,7 +1594,7 @@ Tema proibido para uso comercial
    </customView>
 
   <customView name="NFlix (Static)" inherits="grid" tinyScreen="false" displayName="${nflixxViewName}">
-      <text name="md_name">
+     <text name="md_name">
          <color>ffffffff</color>
          <pos>0.025 0.16</pos>
          <size>0.92 0.10</size>
@@ -1797,49 +1604,87 @@ Tema proibido para uso comercial
          <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
          <zIndex>0</zIndex>
       </text>
-      <text name="md_developer">
-         <color>808080ff</color>
-         <pos>0.04 0.16</pos>
-         <size>0.92 0.10</size>
-         <alignment>center</alignment>
-         <fontSize>0.020</fontSize>
-         <glowColor>00000016</glowColor>
-         <glowSize>3</glowSize>
-		 <zIndex>0</zIndex>
-      </text>
+
+
+	<image name="bar" extra="true">
+		<path>./_inc/icons/games.png</path>
+		<zIndex>103</zIndex>
+		<color>8c8c8c</color>
+		<pos>0.0235 0.05</pos>
+		<maxSize>0.0212 0.0212</maxSize>
+	</image>
+
+      <image name="bar2" extra="true">
+	     <pos>0.045 0.048</pos>
+	     <size>0.001 1</size>
+         <path>./assets/filter.png</path>
+		 <color>d9d9d9</color>
+		 <colorEnd>030303</colorEnd>
+        <gradientType>vertical</gradientType>
+         <zIndex>25</zIndex>
+      </image>
+	  
+	<image name="logohue" extra="true">
+		<path>./assets/logohue.png</path>
+		<zIndex>103</zIndex>
+		<color>ff6060</color>
+		<pos>0.0455 0.02</pos>
+		<maxSize>0.096 0.096</maxSize>
+	</image>
+
       <imagegrid name="gamegrid">
-         <pos>0 0.40</pos>
-         <size>1 0.774</size>
-         <scrollDirection>horizontal</scrollDirection>
-         <autoLayout>5 1</autoLayout>
-         <autoLayoutSelectedZoom>1.00</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
+         <pos>0.045 0.22</pos>
+         <size>0.97 1</size>
+         <scrollDirection>vertical</scrollDirection>
+         <autoLayout>7 1</autoLayout>
+         <autoLayoutSelectedZoom>1</autoLayoutSelectedZoom>
+         <margin>-0.010 -0.210</margin>
          <centerSelection>false</centerSelection>
          <scrollLoop>true</scrollLoop>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+         <zIndex>8</zIndex>
       </imagegrid>
+
       <gridtile name="default">
-         <padding>64 16</padding>
+         <padding>14 16</padding>
          <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
          <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
          <imageSizeMode>maxSize</imageSizeMode>
          <imageColor>FFFFFFAA</imageColor>
          <reflexion>0.24 0.0</reflexion>
       </gridtile>
+
       <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
+		 <imageColor>ffffffff</imageColor>
+		 <backgroundCornerSize>0</backgroundCornerSize>
+		 <backgroundEdgeColor>FFFFFF</backgroundEdgeColor>
+         <padding>3 3</padding>
       </gridtile>
+
       <text name="gridtile">
          <color>80808080</color>
          <fontSize>0.016</fontSize>
          <size>1 0</size>
       </text>
+
       <text name="gridtile_selected">
          <color>FFFFFF00</color>
          <fontSize>0.035</fontSize>
          <size>1 0</size>
       </text>
+
+      <image name="gridtile.favorite">
+         <path>./_inc/gridfav.png</path>
+         <pos>0.75 0</pos>
+         <maxSize>0.25 0.25</maxSize>
+         <origin>0 0</origin>
+         <color>f60915</color>
+      </image>
+      <image name="gridtile.favorite:selected">
+         <path>./_inc/gridfav.png</path>
+         <color>ffffff</color>
+      </image>
+
       <image name="art2" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
@@ -1847,48 +1692,222 @@ Tema proibido para uso comercial
          <path>./assets/bg.png</path>
          <zIndex>6</zIndex>
       </image>
+	  
+      <helpsystem name="help">
+         <pos>0.07 0.955</pos>
+      </helpsystem>
+	  
       <text name="md_description">
-         <pos>0.025 0.36</pos>
-         <size>0.32 0.25</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
+         <pos>0.065 0.28</pos>
+         <size>0.32 0.145</size>
+         <fontSize>0.021</fontSize>
+         <color>888888</color>
+         <glowColor>00000046</glowColor>
          <glowSize>1</glowSize>
          <alignment>left</alignment>
+		 <lineSpacing>1.38</lineSpacing>
+		 <fontPath>./_inc/fonts/texgyre.otf</fontPath> 
       </text>
-      <image name="md_image">
+
+      <image name="md_fanart">
          <tile>true</tile>
          <pos>0.25 0</pos>
          <origin>0 0</origin>
          <size>0.75 0.75</size>
          <zIndex>3</zIndex>
+		 <linearSmooth>true</linearSmooth>
       </image>
+
       <image name="md_marquee">
-         <pos>0.155 0.16</pos>
-         <size>0.25 0</size>
+         <pos>0.185 0.16</pos>
+         <maxSize>0.25 0.14</maxSize>
          <zIndex>36</zIndex>
       </image>
 
       <rating name="md_rating">
-         <pos>0.06 0.03</pos>
+         <origin>0.5 0</origin>
+         <pos>0.028 0.215</pos>
          <size>0.05 0.03</size>
-         <color>FFFFFF</color>
-         <unfilledColor>808080</unfilledColor>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-      </rating>
+         <rotation>-90</rotation> 
+         <color>4e0202</color>
+         <unfilledPath>./_inc/images/star_empty.svg</unfilledPath>
+         <unfilledColor>c8c8c8</unfilledColor>
+         <horizontalAlignment>right</horizontalAlignment>  
+         <zIndex>15</zIndex>
+      </rating>    
+
+      <text name="md_players">
+         <fontPath>./_inc/fonts/players.ttf</fontPath>
+         <text>1</text>
+         <size>0.034 0.039</size>
+         <pos>0.011 0.357</pos>
+         <alignment>center</alignment>
+         <fontSize>0.03</fontSize>
+         <color>D0D0D0D0</color>
+         <zIndex>55</zIndex>
+      </text>
+		
+      <image name="md_flag"> 
+         <pos>0.122 0.243</pos>
+         <maxSize>0.027 0.020</maxSize>
+    </image>
+    
+    <image name="md_cheevos, md_notcheevos">
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.427</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_cheevos" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.427</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_notcheevos">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_savestate, md_nosavestate">
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.478</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_savestate" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.478</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_nosavestate">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_manual, md_nomanual">
+      <path>./_inc/icons/book.png</path>
+      <pos>0.98 0.812</pos>
+      <pos>0.028 0.537</pos>
+      <maxSize>0.02 0.028</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+
+    <image name="md_nomanual">
+      <color>80808025</color>
+    </image>
 
       <image name="logo">
-         <zIndex>0</zIndex>
+	  	 <path>./assets/logos/${system.theme}.png</path>
+		 <path>./assets/logos/${system.theme}.svg</path>
+         <pos>0.850 0.882</pos>
+         <size>0.13 0</size>
+		 <zIndex>15</zIndex>
+		 <linearSmooth>true</linearSmooth>
+	  </image>
+
+      <text name="md_publisher">
+         <color>ffffff00</color>
+         <fontPath>./_inc/fonts/texgyre.otf</fontPath>
+         <pos>0.42 0.63</pos>
+      </text>
+	  
+	<datetime name="md_releasedate">
+		<pos>0.066 0.226</pos>
+		<size>0.04 0.035</size>
+		<format>%Y</format>
+		<color>4cdf6c</color>
+		<forceUppercase>0</forceUppercase>
+		<fontPath>./_inc/fonts/Exo2-BoldCondensed.otf</fontPath> 
+		<alignment>left</alignment>
+		<fontSize>0.026</fontSize>
+	</datetime>
+
+      <text name="md_developer">
+		<fontPath>./_inc/fonts/Exo2-BoldCondensed.otf</fontPath> 
+		<alignment>left</alignment>
+		<fontSize>0.026</fontSize>
+		<size>0.21 0.03</size>
+		<color>737373</color>
+		<pos>0.146 0.231</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+   </customView>
+
+  <customView name="NFlix (Static Custom Cover)" inherits="NFlix (Static)" tinyScreen="false" displayName="${nflixstcViewName}">
+      <imagegrid name="gamegrid">
+	     <pos>0.038 0.515</pos>
+         <size>0.97 0.5</size>
+		 <autoLayoutSelectedZoom>1.06</autoLayoutSelectedZoom>
+         <scrollDirection>vertical</scrollDirection>
+         <autoLayout>7 1</autoLayout>
+         <padding>0.03 0.05 0.03 0.12</padding>
+         <margin>0.001 0.06</margin>
+		 <imageSource>image</imageSource>
+		 <scrollbarColor>808080FF</scrollbarColor>
+		 <scrollbarCorner>0</scrollbarCorner>
+		 <scrollbarSize>0.002</scrollbarSize>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+      </imagegrid>
+      <gridtile name="default">
+	      <imageColor>808088FF</imageColor>
+         <padding>2 2</padding>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <imageSizeMode>minSize</imageSizeMode>
+      </gridtile>
+
+      <image name="filter" extra="true">
+	     <pos>0 0.9</pos>
+	     <size>1 0.2</size>
+         <path>./_inc/frame.png</path>
+		 <color>00000016</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+         <zIndex>13</zIndex>
       </image>
 
-      <text name="md_developer, md_publisher">
-         <color>ffffff00</color>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>         <pos>0.42 0.63</pos>
+     <image name="gridtile.marquee">
+         <pos>0.5 0.4</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.90 0.90</size>
+      </image>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.5</pos>
+         <color>FFFFFFFF</color>
+         <size>0.75 0.75</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+         <color>FFFFFFA0</color>
+         <pos>0.5 0.17</pos>
+         <size>0.50 0.25</size>
+      </image>
+      <text name="gridtile">
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <fontSize>0.040</fontSize>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
+         <padding>0.1 0</padding>
       </text>
    </customView>
 
 
- <customView name="NFlix (Video + Cover) " inherits="grid" tinyScreen="false" displayName="${nflixvideocViewName}">
+ <customView name="NFlix (Video + Cover)" inherits="grid" tinyScreen="false" displayName="${nflixvideocViewName}">
       <text name="md_name">
          <color>ffffffff</color>
          <pos>0.025 0.16</pos>
@@ -1911,19 +1930,40 @@ Tema proibido para uso comercial
 		 <zIndex>0</zIndex>
       </text>
 
+      <image name="bar2" extra="true">
+	     <pos>0.045 0.048</pos>
+	     <size>0.001 1</size>
+         <path>./assets/filter.png</path>
+		 <color>d9d9d9</color>
+		 <colorEnd>030303</colorEnd>
+        <gradientType>vertical</gradientType>
+         <zIndex>25</zIndex>
+      </image>
+
+ 
+	<image name="logohue" extra="true">
+		<path>./assets/logohue.png</path>
+		<zIndex>103</zIndex>
+		<color>ff6060</color>
+		<pos>0.0455 0.02</pos>
+		<maxSize>0.096 0.096</maxSize>
+	</image>
+
       <imagegrid name="gamegrid">
-         <pos>0 0.40</pos>
-         <size>1 0.774</size>
-         <scrollDirection>horizontal</scrollDirection>
-         <autoLayout>5 1</autoLayout>
-         <autoLayoutSelectedZoom>1.00</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
+         <pos>0.045 0.22</pos>
+         <size>0.97 1</size>
+         <scrollDirection>vertical</scrollDirection>
+         <autoLayout>7 1</autoLayout>
+         <autoLayoutSelectedZoom>1</autoLayoutSelectedZoom>
+         <margin>-0.010 -0.210</margin>
          <centerSelection>false</centerSelection>
          <scrollLoop>true</scrollLoop>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+         <zIndex>8</zIndex>
       </imagegrid>
 
       <gridtile name="default">
-         <padding>64 16</padding>
+         <padding>14 16</padding>
          <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
          <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
          <imageSizeMode>maxSize</imageSizeMode>
@@ -1932,10 +1972,23 @@ Tema proibido para uso comercial
       </gridtile>
 
       <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
+			<imageColor>ffffffff</imageColor>
+			<backgroundCornerSize>0</backgroundCornerSize>
+			<backgroundEdgeColor>FFFFFF</backgroundEdgeColor>
+         <padding>3 3</padding>
       </gridtile>
+
+      <image name="gridtile.favorite">
+         <path>./_inc/gridfav.png</path>
+         <pos>0.75 0</pos>
+         <maxSize>0.25 0.25</maxSize>
+         <origin>0 0</origin>
+         <color>f60915</color>
+      </image>
+      <image name="gridtile.favorite:selected">
+         <path>./_inc/gridfav.png</path>
+         <color>ffffff</color>
+      </image>
 
       <text name="gridtile">
          <color>80808080</color>
@@ -1956,15 +2009,21 @@ Tema proibido para uso comercial
          <path>./assets/bg.png</path>
          <zIndex>6</zIndex>
       </image>
-
+	  
+      <helpsystem name="help">
+         <pos>0.07 0.955</pos>
+      </helpsystem>
+	  
       <text name="md_description">
-         <pos>0.025 0.36</pos>
-         <size>0.32 0.27</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
+         <pos>0.065 0.28</pos>
+         <size>0.32 0.145</size>
+         <fontSize>0.021</fontSize>
+         <color>888888</color>
+         <glowColor>00000046</glowColor>
          <glowSize>1</glowSize>
          <alignment>left</alignment>
+		 <lineSpacing>1.38</lineSpacing>
+		 <fontPath>./_inc/fonts/texgyre.otf</fontPath> 
       </text>
 
       <image name="md_image">
@@ -1973,159 +2032,386 @@ Tema proibido para uso comercial
          <origin>0 0</origin>
          <size>0.75 0.75</size>
          <zIndex>3</zIndex>
+		 <linearSmooth>true</linearSmooth>
       </image>
 
      <video name="md_video">
          <pos>0.25 0</pos>
-         <minSize>0.75 0.75</minSize>
+         <size>0.75 0.75</size>
          <origin>0 0</origin>
          <delay>1</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
+         <showSnapshotNoVideo>false</showSnapshotNoVideo>
+         <showSnapshotDelay>false</showSnapshotDelay>
+		 <linearSmooth>true</linearSmooth>
          <zIndex>4</zIndex>
       </video>
 
       <image name="md_marquee">
-         <pos>0.155 0.16</pos>
-         <size>0.25 0</size>
+         <pos>0.185 0.16</pos>
+         <maxSize>0.25 0.14</maxSize>
          <zIndex>36</zIndex>
       </image>
 
       <rating name="md_rating">
-         <pos>0.02 0.63</pos>
-         <size>0.05 0.03</size>
-         <color>FFFFFF</color>
-         <unfilledColor>808080</unfilledColor>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-      </rating>
+         <origin>0.5 0</origin>
+         <pos>0.028 0.298</pos>
+         <size>0.035 0.025</size>
+         <rotation>-90</rotation> 
+         <color>4e0202</color>
+         <unfilledPath>./_inc/images/star_empty.svg</unfilledPath>
+         <unfilledColor>c8c8c8</unfilledColor>
+         <horizontalAlignment>right</horizontalAlignment>  
+         <zIndex>15</zIndex>
+      </rating>    
 
-      <image name="logo">
-         <zIndex>0</zIndex>
+      <text name="md_players">
+         <fontPath>./_inc/fonts/players.ttf</fontPath>
+         <text>1</text>
+         <size>0.034 0.039</size>
+         <pos>0.011 0.215</pos>
+         <alignment>center</alignment>
+         <fontSize>0.03</fontSize>
+         <color>D0D0D0D0</color>
+         <zIndex>55</zIndex>
+      </text>
+		
+      <image name="md_flag"> 
+         <pos>0.122 0.243</pos>
+         <maxSize>0.027 0.020</maxSize>
       </image>
+    
+      <image name="md_cheevos, md_notcheevos">
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+      </image>
+ 
+	<image name="ghost_cheevos" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_notcheevos">
+      <color>80808030</color>
+    </image>
 
-      <text name="md_developer, md_publisher">
+    <image name="md_savestate, md_nosavestate">
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_savestate" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_nosavestate">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_manual, md_nomanual">
+      <path>./_inc/icons/book.png</path>
+      <pos>0.98 0.812</pos>
+      <pos>0.028 0.067</pos>
+      <maxSize>0.02 0.028</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+
+    <image name="md_nomanual">
+      <color>80808025</color>
+    </image>
+
+    <image name="logo">
+	  	 <path>./assets/logos/${system.theme}.png</path>
+		 <path>./assets/logos/${system.theme}.svg</path>
+         <pos>0.850 0.882</pos>
+         <size>0.13 0</size>
+		 <zIndex>15</zIndex>
+		 <linearSmooth>true</linearSmooth>
+    </image>
+
+      <text name="md_publisher">
          <color>ffffff00</color>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>         <pos>0.42 0.63</pos>
+         <fontPath>./_inc/fonts/texgyre.otf</fontPath>
+         <pos>0.42 0.63</pos>
+      </text>
+	  
+	<datetime name="md_releasedate">
+		<pos>0.066 0.226</pos>
+		<size>0.04 0.035</size>
+		<format>%Y</format>
+		<color>4cdf6c</color>
+		<forceUppercase>0</forceUppercase>
+		<fontPath>./_inc/fonts/Exo2-BoldCondensed.otf</fontPath> 
+		<alignment>left</alignment>
+		<fontSize>0.026</fontSize>
+	</datetime>
+
+      <text name="md_developer">
+		<fontPath>./_inc/fonts/Exo2-BoldCondensed.otf</fontPath> 
+		<alignment>left</alignment>
+		<fontSize>0.026</fontSize>
+		<size>0.21 0.03</size>
+		<color>737373</color>
+		<pos>0.146 0.231</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+	  
+   </customView>
+
+  <customView name="NFlix (Video + Custom Cover)" inherits="NFlix (Video + Cover)" tinyScreen="false" displayName="${nflixvideoccViewName}">
+      <imagegrid name="gamegrid">
+	     <pos>0.038 0.515</pos>
+         <size>0.97 0.5</size>
+		 <autoLayoutSelectedZoom>1.06</autoLayoutSelectedZoom>
+         <scrollDirection>vertical</scrollDirection>
+         <autoLayout>7 1</autoLayout>
+         <padding>0.03 0.05 0.03 0.12</padding>
+         <margin>0.001 0.06</margin>
+		 <imageSource>image</imageSource>
+		 <scrollbarColor>808080FF</scrollbarColor>
+		 <scrollbarCorner>0</scrollbarCorner>
+		 <scrollbarSize>0.002</scrollbarSize>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+      </imagegrid>
+      <gridtile name="default">
+	      <imageColor>808088FF</imageColor>
+         <padding>2 2</padding>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <imageSizeMode>minSize</imageSizeMode>
+      </gridtile>
+
+
+      <image name="filter" extra="true">
+	     <pos>0 0.9</pos>
+	     <size>1 0.2</size>
+         <path>./_inc/frame.png</path>
+		 <color>00000016</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+         <zIndex>13</zIndex>
+      </image>
+	  
+	     <image name="gridtile.marquee">
+         <pos>0.5 0.4</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.90 0.90</size>
+      </image>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.5</pos>
+         <color>FFFFFFFF</color>
+         <size>0.75 0.75</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+         <color>FFFFFFA0</color>
+         <pos>0.5 0.17</pos>
+         <size>0.50 0.25</size>
+      </image>
+      <text name="gridtile">
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <fontSize>0.040</fontSize>
+         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
+         <padding>0.1 0</padding>
       </text>
    </customView>
 
-<customView name="NFlix (Video + Logos)" inherits="grid" tinyScreen="false" displayName="${nflixvideolViewName}">
+ <customView name="Boxes" inherits="grid" displayName="${basicGridName}">
+         <image name="art" extra="true">
+		 <color>606066FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>
+
+      <image name="filter" extra="true">
+	     <pos>0 0.65</pos>
+	     <size>1 0.4</size>
+         <path>./_inc/frame.png</path>
+		 <color>00000016</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+         <zIndex>150</zIndex>
+      </image>
+
+         <image name="art2" extra="true">
+         <pos>0 0</pos>
+         <size>0 0</size>
+         <zIndex>0</zIndex>
+      </image>
+
       <text name="md_name">
          <color>ffffffff</color>
-         <pos>0.025 0.16</pos>
+         <pos>0.065 0.10</pos>
          <size>0.92 0.10</size>
          <alignment>left</alignment>
          <glowColor>00000016</glowColor>
-         <glowSize>4</glowSize>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-         <zIndex>0</zIndex>
-      </text>
-      <text name="md_developer">
-         <color>808080ff</color>
-         <pos>0.04 0.16</pos>
-         <size>0.92 0.10</size>
-         <alignment>center</alignment>
-         <fontSize>0.020</fontSize>
-         <glowColor>00000016</glowColor>
-         <glowSize>3</glowSize>
-		 <zIndex>0</zIndex>
-      </text>
-      <imagegrid name="gamegrid">
-         <pos>0 0.40</pos>
-         <size>1 0.774</size>
-         <scrollDirection>horizontal</scrollDirection>
-         <autoLayout>5 1</autoLayout>
-         <autoLayoutSelectedZoom>1.00</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>false</centerSelection>
-         <scrollLoop>true</scrollLoop>
-	  <imageSource>marquee</imageSource>
+         <glowSize>1</glowSize>
+		 <fontSize>0.08</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
 
-      </imagegrid>
-      <gridtile name="default">
-         <padding>64 16</padding>
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <imageSizeMode>maxSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <reflexion>0.24 0.0</reflexion>
-      </gridtile>
-      <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
-      </gridtile>
-      <text name="gridtile">
-         <color>80808080</color>
-         <fontSize>0.016</fontSize>
-         <size>1 0</size>
-      </text>
-      <text name="gridtile_selected">
-         <color>FFFFFF00</color>
-         <fontSize>0.035</fontSize>
-         <size>1 0</size>
-      </text>
-      <image name="art2" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <path>./assets/bg.png</path>
-         <zIndex>6</zIndex>
+      <image name="logo">
+         <pos>0.02 0.12</pos>
+         <maxSize>0.34 0.16</maxSize>
+         <zIndex>0</zIndex>
       </image>
+
       <text name="md_description">
-         <pos>0.025 0.36</pos>
-         <size>0.32 0.27</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
+         <pos>0.065 0.27</pos>
+         <size>0.52 0.135</size>
+         <fontSize>0.022</fontSize>
+         <color>ffffff</color>
          <glowColor>00000016</glowColor>
          <glowSize>1</glowSize>
          <alignment>left</alignment>
+		 <lineSpacing>1.18</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath> 
       </text>
-     <video name="md_video">
-         <pos>0.25 0</pos>
-         <minSize>0.75 0.75</minSize>
+
+	<image name="logohue" extra="true">
+		<path>./assets/logohueo.png</path>
+		<zIndex>103</zIndex>
+		<color>360101</color>
+		<colorEnd>fd0000</colorEnd>
+        <gradientType>vertical</gradientType>
+		<pos>0.0455 0.02</pos>
+		<maxSize>0.096 0.096</maxSize>
+	</image>
+
+		<rating name="md_rating">
+			<origin>0.5 0</origin>
+			<pos>0.028 0.298</pos>
+			<size>0.035 0.025</size>
+			<rotation>-90</rotation> 
+			<color>4e0202</color>
+			<unfilledPath>./_inc/images/star_empty.svg</unfilledPath>
+			<unfilledColor>c8c8c8</unfilledColor>
+			<horizontalAlignment>right</horizontalAlignment>  
+			<zIndex>15</zIndex>
+		</rating>    
+
+		<text name="md_players">
+			<fontPath>./_inc/fonts/players.ttf</fontPath>
+      <text>1</text>
+      <size>0.034 0.039</size>
+      <pos>0.011 0.215</pos>
+			<alignment>center</alignment>
+			<fontSize>0.03</fontSize>
+			<color>D0D0D0D0</color>
+			<zIndex>55</zIndex>
+		</text>
+		
+    <image name="md_flag"> 
+		<color>707077FF</color>
+       <pos>0.028 0.955</pos>
+       <maxSize>0.020 0.015</maxSize>
+    </image>
+    
+    <image name="md_cheevos, md_notcheevos">
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_cheevos" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_notcheevos">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_savestate, md_nosavestate">
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_savestate" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_nosavestate">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_manual, md_nomanual">
+      <path>./_inc/icons/book.png</path>
+      <pos>0.98 0.812</pos>
+      <pos>0.028 0.077</pos>
+      <maxSize>0.02 0.028</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+
+    <image name="md_nomanual">
+      <color>80808025</color>
+    </image>
+
+      <image name="md_fanart">
+	  	<linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
          <origin>0 0</origin>
-         <delay>1</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
-         <zIndex>4</zIndex>
-      </video>
-
-      <image name="md_marquee">
-         <pos>0.155 0.16</pos>
-         <size>0.25 0</size>
-         <zIndex>36</zIndex>
-      </image>
-
-      <rating name="md_rating">
-         <pos>0.02 0.63</pos>
-         <size>0.05 0.03</size>
-         <color>FFFFFF</color>
-         <unfilledColor>808080</unfilledColor>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-      </rating>
-
-      <image name="logo">
-         <zIndex>0</zIndex>
-      </image>
-
-      <image name="md_image">
-         <tile>true</tile>
-         <pos>0.25 0</pos>
-         <origin>0 0</origin>
-         <size>0.75 0.75</size>
+         <size>1 1</size>
          <zIndex>3</zIndex>
+		 <color>606066FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
       </image>
 
-      <text name="md_developer, md_publisher">
-         <color>ffffff00</color>
-         <fontPath>./_inc/fonts/Homizio.ttf</fontPath>         <pos>0.42 0.63</pos>
-      </text>
-   </customView>
-
-   <customView name="Boxes" inherits="grid" displayName="${basicGridName}">
+      <helpsystem name="help">
+         <pos>0.07 0.955</pos>
+      </helpsystem>
+	  
       <imagegrid name="gamegrid">
-         <autoLayout>6 2</autoLayout>
+	     <pos>0.03 0.405</pos>
+		 <padding>0.03 0.05 0.03 0.12</padding>
+		 <size>0.950 0.598</size>
+         <autoLayout>10 2</autoLayout>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+		 <scrollbarColor>808080FF</scrollbarColor>
+		 <scrollbarCorner>0</scrollbarCorner>
+		 <scrollbarSize>0.002</scrollbarSize>
          <autoLayoutSelectedZoom>1.08</autoLayoutSelectedZoom>
       </imagegrid>
       <text name="gridtile">
@@ -2143,517 +2429,293 @@ Tema proibido para uso comercial
          <path>./_inc/gridfav.png</path>
          <color>f60915</color>
       </image>
+	  <gridtile name="selected">
+		 <backgroundCornerSize>0</backgroundCornerSize>
+      </gridtile>
    </customView>
 
-   <customView name="Boxes + Video" inherits="Boxes" displayName="${basicGridVideoName}">
+   <customView name="Boxes (Custom Cover)" inherits="Boxes" displayName="${basicGridcusVideoName}">
       <imagegrid name="gamegrid">
-         <showVideoAtDelay>800</showVideoAtDelay>
-         <padding>0.04 0.03 0.04 0.03</padding>
-         <margin>0.003 0.003</margin>
+         <padding>0.03 0.05 0.03 0.12</padding>
+         <margin>0.001 0.015</margin>
+		 <imageSource>image</imageSource>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
       </imagegrid>
       <gridtile name="default">
          <padding>2 2</padding>
          <backgroundCornerSize>0 0</backgroundCornerSize>
          <imageSizeMode>minSize</imageSizeMode>
       </gridtile>
-   </customView>
 
-   <customView name="Boxes + details" inherits="Boxes" displayName="${basicGridDetailsName}">
-      <imagegrid name="gamegrid">
-         <pos>0 0.16</pos>
-         <size>0.66 0.774</size>
-         <autoLayoutSelectedZoom>1.08</autoLayoutSelectedZoom>
-         <autoLayout>4 2</autoLayout>
-      </imagegrid>
-      <image name="gamelistBackground" extra="true">
-         <path>./art/filter4.png</path>
-         <color>606060FF</color>
-         <origin>0 0</origin>
-         <pos>0.66 0.16</pos>
-         <size>0.34 0.774</size>
-         <zIndex>12</zIndex>
-      </image>
-      <image name="md_image">
-         <visible>false</visible>
-      </image>
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.67 0.188</pos>
-         <size>0.30 0.05</size>
-         <color>F0F0F0</color>
-         <fontSize>0.042</fontSize>
-         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
-         <alignment>center</alignment>
-         <glowColor>00000016</glowColor>
-         <glowSize>2</glowSize>
-      </text>
-      <text name="md_developer">
-         <color>EFEFFF</color>
-         <pos>0.68 0.875</pos>
-         <size>0.22 0.05</size>
-         <alignment>left</alignment>
-         <fontSize>0.025</fontSize>
-      </text>
-      <video name="md_video">
-         <pos>0.82 0.450</pos>
-         <minSize>0.29 0.39</minSize>
+	  <gridtile name="selected">
+         <imageColor>808088FF</imageColor>
+      </gridtile>
+	  
+	     <image name="gridtile.marquee">
+         <pos>0.5 0.4</pos>
          <origin>0.5 0.5</origin>
-         <delay>1</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
-      </video>
-      <image name="tv_overlay" extra="true">
-         <pos>0.68 0.25</pos>
-         <size>0.30 0.40</size>
-         <path>./art/tv.png</path>
-         <zIndex>140</zIndex>
+         <size>0.90 0.90</size>
       </image>
-      <text name="md_description">
-         <pos>0.68 0.678</pos>
-         <size>0.30 0.20</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-      </text>
-      <text name="md_rating">
-         <pos>0.9 0.886</pos>
-         <size>0.05 0.03</size>
-      </text>
-   </customView>
-
-   <customView name="Carousel" inherits="grid" tinyScreen="false" displayName="${carouselViewName}">
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.04 0.76</pos>
-         <size>0.92 0.10</size>
-         <alignment>center</alignment>
-         <glowColor>00000016</glowColor>
-         <glowSize>4</glowSize>
-         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
-      </text>
-      <text name="md_developer">
-         <color>808080ff</color>
-         <pos>0.04 0.80</pos>
-         <size>0.92 0.10</size>
-         <alignment>center</alignment>
-         <fontSize>0.020</fontSize>
-         <glowColor>00000016</glowColor>
-         <glowSize>3</glowSize>
-      </text>
-      <imagegrid name="gamegrid">
-         <pos>0 0.16</pos>
-         <size>1 0.774</size>
-         <padding>0.05 0.14 0.05 0.30</padding>
-         <scrollDirection>horizontal</scrollDirection>
-         <autoLayout>5 1</autoLayout>
-         <autoLayoutSelectedZoom>1.50</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>true</centerSelection>
-         <scrollLoop>true</scrollLoop>
-      </imagegrid>
-      <gridtile name="default">
-         <padding>64 16</padding>
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <imageSizeMode>maxSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <reflexion>0.24 0.0</reflexion>
-      </gridtile>
-      <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
-      </gridtile>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.5</pos>
+         <color>FFFFFFFF</color>
+         <size>0.75 0.75</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+         <color>FFFFFFA0</color>
+         <pos>0.5 0.17</pos>
+         <size>0.50 0.25</size>
+      </image>
       <text name="gridtile">
-         <color>80808080</color>
-         <fontSize>0.016</fontSize>
-         <size>1 0</size>
-      </text>
-      <text name="gridtile_selected">
-         <color>FFFFFF00</color>
-         <fontSize>0.035</fontSize>
-         <size>1 0</size>
-      </text>
-   </customView>
-
-   <customView name="Carousel Default" inherits="grid" tinyScreen="false" displayName="${carouselDefaultViewName}">
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.04 0.12</pos>
-         <size>0.92 0.10</size>
-         <alignment>center</alignment>
-         <glowColor>00000016</glowColor>
-         <glowSize>4</glowSize>
-         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
-      </text>
-
-      <text name="md_developer">
-         <color>808080ff</color>
-         <pos>0.04 0.16</pos>
-         <size>0.92 0.10</size>
-         <alignment>center</alignment>
-         <fontSize>0.020</fontSize>
-         <glowColor>00000016</glowColor>
-         <glowSize>3</glowSize>
-      </text>
-      <imagegrid name="gamegrid">
-         <pos>0 0.16</pos>
-         <size>1 0.774</size>
-         <padding>0.05 0.14 0.05 0.30</padding>
-         <scrollDirection>horizontal</scrollDirection>
-         <autoLayout>5 1</autoLayout>
-         <autoLayoutSelectedZoom>1.50</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>true</centerSelection>
-         <scrollLoop>true</scrollLoop>
-      </imagegrid>
-      <gridtile name="default">
-         <padding>64 16</padding>
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <imageSizeMode>maxSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <reflexion>0.24 0.0</reflexion>
-      </gridtile>
-      <gridtile name="selected">
-         <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-         <padding>64 16</padding>
-      </gridtile>
-      <text name="gridtile">
-         <color>80808080</color>
-         <fontSize>0.016</fontSize>
-         <size>1 0</size>
-      </text>
-      <text name="gridtile_selected">
-         <color>FFFFFF00</color>
-         <fontSize>0.035</fontSize>
-         <size>1 0</size>
-      </text>
-      <text name="md_description">
-         <pos>0.18 0.72</pos>
-         <size>0.62 0.10</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>center</alignment>
-      </text>
-   </customView>
-
-   <customView name="Carousel + Details" inherits="Carousel" displayName="${carouselDetailsViewName}">
-      <imagegrid name="gamegrid">
-         <pos>-0.40 0.08</pos>
-         <size>1.2 0.774</size>
-         <padding>0.05 0.14 0.05 0.30</padding>
-         <scrollDirection>horizontal</scrollDirection>
-         <autoLayout>5 1</autoLayout>
-         <autoLayoutSelectedZoom>1.50</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>true</centerSelection>
-         <scrollLoop>true</scrollLoop>
-      </imagegrid>
-      <image name="gamelistBackground" extra="true">
-         <path>./art/filter4.png</path>
-         <color>606060FF</color>
-         <origin>0 0</origin>
-         <pos>0.66 0.16</pos>
-         <size>0.34 0.774</size>
-         <zIndex>12</zIndex>
-      </image>
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.05 0.638</pos>
-         <size>0.50 0.05</size>
-         <color>F0F0F0</color>
-         <fontSize>0.052</fontSize>
-         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-      </text>
-      <text name="md_developer">
-         <color>EFEFFF</color>
-         <pos>0.70 0.875</pos>
-         <size>0.30 0.05</size>
-         <alignment>left</alignment>
-         <fontSize>0.025</fontSize>
-      </text>
-      <video name="md_video">
-         <pos>0.83 0.775</pos>
-         <minSize>0.30 0.30</minSize>
-         <origin>0.5 0.5</origin>
-         <delay>1</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
-      </video>
-
-      <text name="md_description">
-         <pos>0.05 0.708</pos>
-         <size>0.50 0.24</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-      </text>
-      <text name="md_rating">
-         <pos>0.88 0.886</pos>
-         <size>0.05 0.03</size>
-      </text>
-      <image name="logo">
-         <pos>0.72 0.08</pos>
-         <maxSize>0.24 0.16</maxSize>
-      </image>
-
-   </customView>
-
-   <customView name="Carousel + Details BG" inherits="Carousel" displayName="${carouselDetailssViewName}">
-      <imagegrid name="gamegrid">
-         <pos>-0.40 0.08</pos>
-         <size>1.2 0.774</size>
-         <padding>0.05 0.14 0.05 0.30</padding>
-         <scrollDirection>horizontal</scrollDirection>
-         <autoLayout>5 1</autoLayout>
-         <autoLayoutSelectedZoom>1.50</autoLayoutSelectedZoom>
-         <margin>0.005 0.010</margin>
-         <centerSelection>true</centerSelection>
-         <scrollLoop>true</scrollLoop>
-      </imagegrid>
-      <image name="gamelistBackground" extra="true">
-         <path>./art/filter4.png</path>
-         <color>606060FF</color>
-         <origin>0 0</origin>
-         <pos>0.66 0.16</pos>
-         <size>0.34 0.774</size>
-         <zIndex>12</zIndex>
-      </image>
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.05 0.638</pos>
-         <size>0.50 0.05</size>
-         <color>F0F0F0</color>
-         <fontSize>0.052</fontSize>
-         <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-      </text>
-      <text name="md_developer">
-         <color>EFEFFF</color>
-         <pos>0.70 0.875</pos>
-         <size>0.30 0.05</size>
-         <alignment>left</alignment>
-         <fontSize>0.025</fontSize>
-      </text>
-      <video name="md_video">
-         <pos>0.83 0.775</pos>
-         <minSize>0.30 0.30</minSize>
-         <origin>0.5 0.5</origin>
-         <delay>1</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
-      </video>
-
-      <text name="md_description">
-         <pos>0.05 0.708</pos>
-         <size>0.50 0.24</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-      </text>
-      <text name="md_rating">
-         <pos>0.88 0.886</pos>
-         <size>0.05 0.03</size>
-      </text>
-      <image name="logo">
-         <pos>0.72 0.08</pos>
-         <maxSize>0.24 0.16</maxSize>
-      </image>
-
-      <image name="md_image">
-         <tile>true</tile>
          <pos>0 0</pos>
-         <origin>0 0</origin>
          <size>1 1</size>
-         <zIndex>4</zIndex>
-      </image>
-
-   </customView>
-
-     <customView name="Carousel Poster" inherits="Carousel" displayName="${carouselposterViewName}">
-      <imagegrid name="gamegrid">
-         <autoLayout>5 1</autoLayout>
-         <autoLayoutSelectedZoom>1.02</autoLayoutSelectedZoom>
-         <pos>0 0.42</pos>
-         <size>0.1 0.30</size>
-         <scrollDirection>horizontal</scrollDirection>
-		 <size>1.2 0.774</size>
-         <centerSelection>true</centerSelection>
-      </imagegrid>
-
-      <text name="gridtile">
-         <visible>false</visible>
-      </text>
-
-      <gridtile name="selected">
-         <size>0.230 0.259</size>
-         <padding>5 5</padding>
-         <imageColor>FFFFFFFF</imageColor>
-         <backgroundCornerSize>0 0</backgroundCornerSize>
-         <backgroundCornerSize>0.05</backgroundCornerSize>
-      </gridtile>
-      <ninepatch name="gridtile.background:selected">
-         <animateColor>526667</animateColor>
-         <animateColorTime>650</animateColorTime>
-      </ninepatch>
-
-      <text name="md_name">
-         <color>ffffffff</color>
-         <pos>0.05 0.638</pos>
-         <size>0.50 0.05</size>
-         <color>F0F0F0</color>
-         <fontSize>0.052</fontSize>
+         <fontSize>0.040</fontSize>
          <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-         <zIndex>0</zIndex>
-      </text>
-
-      <text name="md_developer">
-         <color>EFEFFF</color>
-         <pos>0.70 0.875</pos>
-         <size>0.30 0.05</size>
-         <alignment>left</alignment>
-         <fontSize>0.025</fontSize>
-      </text>
-      <video name="md_video">
-         <pos>0.73 0.275</pos>
-         <maxSize>0.40 0.40</maxSize>
-         <origin>0.5 0.5</origin>
-         <delay>1</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>true</showSnapshotDelay>
-      </video>
-
-      <text name="md_description">
-         <pos>0.025 0.26</pos>
-         <size>0.45 0.22</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>2</glowSize>
-         <alignment>left</alignment>
-      </text>
-
-      <image name="md_marquee">
-         <pos>0.155 0.16</pos>
-         <size>0.25 0</size>
-         <zIndex>36</zIndex>
-      </image>
-      <text name="md_rating">
-         <pos>0.88 0.886</pos>
-         <size>0.05 0.03</size>
-      </text>
-      <image name="logo">
-         <pos>0.72 0.08</pos>
-         <maxSize>0.24 0.16</maxSize>
-      </image>
-
-      <image name="md_image">
-         <color>303030FF</color>
-         <tile>true</tile>
-         <pos>0 0</pos>
-         <origin>0 0</origin>
-         <size>1 1</size>
-         <zIndex>10</zIndex>
-      </image>
+         <padding>0.1 0</padding>
+      </text>	  
    </customView>
+
 
    <customView name="Tiles" inherits="grid" displayName="${tilesViewName}">
       <imagegrid name="gamegrid">
-         <autoLayout>3 2</autoLayout>
-         <autoLayoutSelectedZoom>1.02</autoLayoutSelectedZoom>
-         <imageSource>image</imageSource>
-         <margin>0.005 0.005</margin>
-         <padding>0.03 0.65 0.09 0.04</padding>
-         <size>1 1</size>
-         <zIndex>11</zIndex>
+			<autoLayout>5 3</autoLayout>
+			<gameImage>./_inc/frame.png</gameImage>
+			<autoLayoutSelectedZoom>1.04</autoLayoutSelectedZoom>
+			<margin>0.005 0.006</margin>
+			<size>0.880 0.56</size>
+			<pos>0.06 0.420</pos>
+			<imageSource>image</imageSource>
+			<scrollbarColor>808080FF</scrollbarColor>
+			<scrollbarCorner>0</scrollbarCorner>
+			<scrollbarSize>0.002</scrollbarSize>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+	      <zIndex>60</zIndex>
+         <padding>0.005 0.005</padding>
       </imagegrid>
-      <gridtile name="default">
-         <size>0.225 0.254</size>
-         <backgroundImage />
-         <backgroundCenterColor>FFFFFF20</backgroundCenterColor>
-         <backgroundEdgeColor>FFFFFF20</backgroundEdgeColor>
-         <padding>1 1</padding>
-         <imageSizeMode>minSize</imageSizeMode>
-         <imageColor>FFFFFFAA</imageColor>
-         <backgroundCornerSize>0 0</backgroundCornerSize>
-         <backgroundCornerSize>0.06</backgroundCornerSize>
-      </gridtile>
-      <gridtile name="selected">
-         <size>0.230 0.259</size>
-         <padding>5 5</padding>
-         <imageColor>FFFFFFFF</imageColor>
-         <backgroundCornerSize>0 0</backgroundCornerSize>
-         <backgroundCornerSize>0.05</backgroundCornerSize>
-      </gridtile>
-      <ninepatch name="gridtile.background:selected">
-         <animateColor>526667</animateColor>
-         <animateColorTime>650</animateColorTime>
-      </ninepatch>
-      <image name="gridtile.image">
-         <roundCorners>0.05</roundCorners>
-      </image>
-      <!--
-  <image name="gridtile.overlay">
-      <path>./art/overlay.png</path>
-      <roundCorners>0.06</roundCorners>
-      <color>FFFFFFA0</color>
-    </image>
--->
-      <text name="gridtile">
-         <color>D0D0D0D0</color>
-         <backgroundColor>00000000</backgroundColor>
-         <fontSize>0.028</fontSize>
-         <alignment>center</alignment>
-         <size>0 0.18</size>
-         <glowColor>00000008</glowColor>
-         <glowSize>3</glowSize>
-      </text>
-      <text name="gridtile_selected">
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>3</glowSize>
-      </text>
-      <image name="gridtile.favorite">
-         <path>./_inc/images/star_filled.svg</path>
-         <pos>0.93 0.07</pos>
-         <maxSize>0.10 0.10</maxSize>
-         <origin>0.5 0.5</origin>
-         <horizontalAlignment>right</horizontalAlignment>
-         <color>ed0212</color>
-      </image>
-      <image name="gridtile.favorite:selected">
-         <color>ff0011</color>
-      </image>
-      <!--
-    <image name="gridtile.overlay">
-      <path>./art/scanlines.png</path>
-      <tile>true</tile>
-      <color>FFFFFF90</color>
-      <pos>0 0</pos>
-      <size>1 1</size>
-      <origin>0 0</origin>
-    </image>
--->
-      <image name="logo">
-         <pos>0.04 0.06</pos>
-         <maxSize>0.24 0.16</maxSize>
+
+      <image name="filter" extra="true">
+	     <pos>0 0.80</pos>
+	     <size>1 0.4</size>
+         <path>./_inc/frame.png</path>
+		 <color>00000016</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+         <zIndex>150</zIndex>
       </image>
 
+      <image name="md_fanart">
+	  	 <linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>707077FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>
+
+      <image name="logohue" extra="true">
+		<path>./assets/logohueo.png</path>
+		<zIndex>103</zIndex>
+		<color>360101</color>
+		<colorEnd>fd0000</colorEnd>
+        <gradientType>vertical</gradientType>
+		<pos>0.0455 0.02</pos>
+		<maxSize>0.096 0.096</maxSize>
+      </image>
+
+      <rating name="md_rating">
+			<origin>0.5 0</origin>
+			<pos>0.028 0.298</pos>
+			<size>0.035 0.025</size>
+			<rotation>-90</rotation> 
+			<color>4e0202</color>
+			<unfilledPath>./_inc/images/star_empty.svg</unfilledPath>
+			<unfilledColor>c8c8c8</unfilledColor>
+			<horizontalAlignment>right</horizontalAlignment>  
+			<zIndex>15</zIndex>
+      </rating>    
+
+      <text name="md_players">
+	  	 <fontPath>./_inc/fonts/players.ttf</fontPath>
+	  	 <text>1</text>
+	  	 <size>0.034 0.039</size>
+	  	 <pos>0.011 0.215</pos>
+	  	 <alignment>center</alignment>
+	  	 <fontSize>0.03</fontSize>
+	  	 <color>D0D0D0D0</color>
+	  	 <zIndex>55</zIndex>
+      </text>
+		
+      <image name="md_flag"> 
+		<color>707077FF</color>
+       <pos>0.028 0.955</pos>
+       <maxSize>0.020 0.015</maxSize>
+      </image>
+    
+    <image name="md_cheevos, md_notcheevos">
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_cheevos" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_notcheevos">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_savestate, md_nosavestate">
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_savestate" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_nosavestate">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_manual, md_nomanual">
+      <path>./_inc/icons/book.png</path>
+      <pos>0.98 0.812</pos>
+      <pos>0.028 0.077</pos>
+      <maxSize>0.02 0.028</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+
+    <image name="md_nomanual">
+      <color>80808025</color>
+    </image>
+
+	<helpsystem name="help">
+		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
+		<fontSize>0.014</fontSize>
+		<pos>0.066 0.98</pos>
+		<textColor>9e9e9e</textColor>
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
+	</helpsystem>
+
+		<imagegrid name="gamegrid">
+			<showVideoAtDelay>-1</showVideoAtDelay>
+		</imagegrid>
+		
+      <image name="gridtile.favorite">
+         <path>./_inc/gridfav.png</path>
+         <pos>0.855 0</pos>
+         <maxSize>0.25 0.25</maxSize>
+         <origin>0 0</origin>
+         <color>A0A0A0A0</color>
+      </image>
+      <image name="gridtile.favorite:selected">
+         <path>./_inc/gridfav.png</path>
+         <color>f60915</color>
+      </image>
+
+		<gridtile name="default">
+			<backgroundCenterColor>40404080</backgroundCenterColor>
+			<backgroundEdgeColor>00000000</backgroundEdgeColor>
+			<padding>8</padding>
+			<imageSizeMode>minSize</imageSizeMode>
+			<backgroundCornerSize>0 0</backgroundCornerSize>
+			<backgroundColor>42424200</backgroundColor>
+			<imageColor>6d6d6dFF</imageColor>
+		</gridtile>
+
+		<gridtile name="selected">
+			<padding>8</padding>
+			<imageColor>ffffffff</imageColor>
+			<backgroundCornerSize>0</backgroundCornerSize>
+			<backgroundEdgeColor>909090</backgroundEdgeColor>
+		</gridtile>
+
+		<image name="gridtile.image">
+			<roundCorners>0</roundCorners>
+		</image>
+
+		<image name="gridtile.marquee">
+			<color>dadadaff</color>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.60 0.60</size>
+		</image>
+
+		<image name="gridtile.marquee:selected">
+			<color>FFFFFFFF</color>
+			<size>0.70 0.70</size>
+		</image>
+
+		<image name="gridtile.marquee:videoplaying">
+			<color>FFFFFFA0</color>
+			<pos>0.5 0.50</pos>
+			<size>0.60 0.60</size>
+		</image>
+
+     <text name="md_name">
+         <color>ffffffff</color>
+         <pos>0.065 0.10</pos>
+         <size>0.92 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+		 <fontSize>0.08</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
+
+      <image name="logo">
+         <pos>0.02 0.12</pos>
+         <maxSize>0.34 0.16</maxSize>
+         <zIndex>0</zIndex>
+      </image>
+
+      <text name="md_description">
+         <pos>0.065 0.27</pos>
+         <size>0.52 0.135</size>
+         <fontSize>0.022</fontSize>
+         <color>ffffff</color>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+		 <lineSpacing>1.18</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath> 
+      </text>
+
+      <text name="gridtile">
+			<visible>false</visible>
+      </text>
+
+      <image name="art" extra="true">
+		 <color>404044FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>
    </customView>
 
    <customView name="Tiles + Video" inherits="Tiles" displayName="${tilesVideoViewName}">
@@ -2662,28 +2724,1964 @@ Tema proibido para uso comercial
       </imagegrid>
    </customView>
 
-   <customView name="Tiles + Video + Marquee" inherits="Tiles + Video" displayName="${tilesVideoMarqueeViewName}">
-      <gridtile name="default">
-         <imageColor>A0A0A0FF</imageColor>
-      </gridtile>
-      <!--
-    <image name="md_thumbnail">
-      <pos>0.5 0.55</pos>
-      <minSize>1 0.774</minSize>
-      <origin>0.5 0.5</origin>
-      <zIndex>10</zIndex>
-      <color>FFFFFF40</color>
+
+   <customView name="Tiles Detailed" inherits="grid" displayName="${tilesdetailedViewName}">
+      <imagegrid name="gamegrid">
+			<autoLayout>8 3</autoLayout>
+			<gameImage>./_inc/frame.png</gameImage>
+			<autoLayoutSelectedZoom>1.04</autoLayoutSelectedZoom>
+			<margin>0.000 -0.002</margin>
+			<size>0.970 0.345</size>
+			<pos>0.015 0.630</pos>
+			<padding>0.01 0.01 0.01 0.01</padding>
+			<imageSource>image</imageSource>
+			<scrollbarColor>808080FF</scrollbarColor>
+			<scrollbarCorner>0</scrollbarCorner>
+			<scrollbarSize>0.002</scrollbarSize>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+	      <zIndex>60</zIndex>
+         <padding>0.005 0.005</padding>
+      </imagegrid>
+
+      <image name="frame1" extra="true">
+	     <pos>0 0.61</pos>
+	     <size>1 0.4</size>
+         <path>./assets/filter1.png</path>
+		 <color>999999FF</color>
+         <zIndex>15</zIndex>
+      </image>
+
+      <image name="frame2" extra="true">
+	     <pos>0.016 0.628</pos>
+	     <size>0.97 0.35</size>
+         <path>./assets/filter1.png</path>
+		 <color>202020FF</color>
+         <zIndex>16</zIndex>
+      </image>
+
+      <image name="md_fanart">
+	  	 <linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>707077FF</color>
+		 <colorEnd>606066FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>
+
+	<image name="logohue" extra="true">
+		<path>./assets/logohueo.png</path>
+		<zIndex>103</zIndex>
+		<color>360101</color>
+		<colorEnd>fd0000</colorEnd>
+        <gradientType>vertical</gradientType>
+		<pos>0.0455 0.02</pos>
+		<maxSize>0.096 0.096</maxSize>
+	</image>
+
+      <rating name="md_rating">
+			<origin>0.5 0</origin>
+			<pos>0.028 0.298</pos>
+			<size>0.035 0.025</size>
+			<rotation>-90</rotation> 
+			<color>4e0202</color>
+			<unfilledPath>./_inc/images/star_empty.svg</unfilledPath>
+			<unfilledColor>c8c8c8</unfilledColor>
+			<horizontalAlignment>right</horizontalAlignment>  
+			<zIndex>15</zIndex>
+      </rating>    
+
+		<text name="md_players">
+	  	 <fontPath>./_inc/fonts/players.ttf</fontPath>
+	  	 <text>1</text>
+	  	 <size>0.034 0.039</size>
+	  	 <pos>0.011 0.215</pos>
+	  	 <alignment>center</alignment>
+	  	 <fontSize>0.03</fontSize>
+	  	 <color>D0D0D0D0</color>
+	  	 <zIndex>55</zIndex>
+		</text>
+		
+    <image name="md_flag"> 
+		<color>707077FF</color>
+       <pos>0.028 0.985</pos>
+       <maxSize>0.020 0.015</maxSize>
     </image>
--->
-      <image name="gridtile.marquee">
-         <color>FFFFFFD0</color>
-         <pos>0.5 0.5</pos>
+    
+    <image name="md_cheevos, md_notcheevos">
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_cheevos" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_notcheevos">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_savestate, md_nosavestate">
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_savestate" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_nosavestate">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_manual, md_nomanual">
+      <path>./_inc/icons/book.png</path>
+      <pos>0.98 0.812</pos>
+      <pos>0.028 0.077</pos>
+      <maxSize>0.02 0.028</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+
+    <image name="md_nomanual">
+      <color>80808025</color>
+    </image>
+
+	<helpsystem name="help">
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+		<fontSize>0.014</fontSize>
+		<pos>0.066 0.98</pos>
+		<textColor>9e9e9e</textColor>
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
+	</helpsystem>
+
+		<imagegrid name="gamegrid">
+			<showVideoAtDelay>-1</showVideoAtDelay>
+		</imagegrid>
+		
+      <image name="gridtile.favorite">
+         <path>./_inc/gridfav.png</path>
+         <pos>0.88 0</pos>
+         <maxSize>0.25 0.25</maxSize>
+         <origin>0 0</origin>
+         <color>A0A0A0A0</color>
+      </image>
+      <image name="gridtile.favorite:selected">
+         <path>./_inc/gridfav.png</path>
+         <color>f60915</color>
+      </image>
+
+		<gridtile name="default">
+			<backgroundCenterColor>40404080</backgroundCenterColor>
+			<backgroundEdgeColor>00000000</backgroundEdgeColor>
+			<padding>8</padding>
+			<imageSizeMode>minSize</imageSizeMode>
+			<backgroundCornerSize>0 0</backgroundCornerSize>
+			<backgroundColor>42424200</backgroundColor>
+			<imageColor>6d6d6dFF</imageColor>
+		</gridtile>
+
+		<gridtile name="selected">
+			<padding>8</padding>
+			<imageColor>ffffffff</imageColor>
+			<backgroundCornerSize>0</backgroundCornerSize>
+			<backgroundEdgeColor>909090</backgroundEdgeColor>
+		</gridtile>
+
+		<image name="gridtile.image">
+			<roundCorners>0</roundCorners>
+		</image>
+
+		<image name="gridtile.marquee">
+			<color>dadadaff</color>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.60 0.60</size>
+		</image>
+
+		<image name="gridtile.marquee:selected">
+			<color>FFFFFFFF</color>
+			<size>0.70 0.70</size>
+		</image>
+
+		<image name="gridtile.marquee:videoplaying">
+			<color>FFFFFFA0</color>
+			<pos>0.5 0.50</pos>
+			<size>0.60 0.60</size>
+		</image>
+
+     <text name="md_name">
+         <color>ffffffff</color>
+         <pos>0.065 0.10</pos>
+         <size>0.92 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+		 <fontSize>0.08</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
+
+      <image name="logo">
+         <pos>0.02 0.12</pos>
+         <maxSize>0.34 0.16</maxSize>
+         <zIndex>0</zIndex>
+      </image>
+
+      <text name="md_description">
+         <pos>0.065 0.27</pos>
+         <size>0.52 0.135</size>
+         <fontSize>0.022</fontSize>
+         <color>ffffff</color>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+		 <lineSpacing>1.18</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath> 
+      </text>
+
+      <text name="gridtile">
+			<visible>false</visible>
+      </text>
+
+      <image name="art" extra="true">
+		 <color>404044FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>
+   </customView>
+
+
+<customView name="Tiles Detailed Logo" inherits="Boxes" displayName="${tilesdetailogViewName}">
+      <imagegrid name="gamegrid">
+			<imageSource>marquee</imageSource>
+			<autoLayout>8 3</autoLayout>
+			<gameImage>./_inc/frame.png</gameImage>
+			<autoLayoutSelectedZoom>1.04</autoLayoutSelectedZoom>
+			<margin>0.000 -0.002</margin>
+			<size>0.970 0.345</size>
+			<pos>0.015 0.630</pos>
+			<padding>0.01 0.01 0.01 0.01</padding>
+			<scrollbarColor>808080FF</scrollbarColor>
+			<scrollbarCorner>0</scrollbarCorner>
+			<scrollbarSize>0.002</scrollbarSize>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>			
+		</imagegrid>
+		
+      <ninepatch name="gridtile.background:selected">
+			<path>./assets/gameglow.png</path>
+			<cornerSize>0 0</cornerSize>
+			<padding>-18 -18</padding>
+			<color>ffffff</color>
+			<animateColor>141414</animateColor>
+			<animateColorTime>950</animateColorTime>
+		</ninepatch>
+				<text name="gridtile_selected">
+			<color>FFFFFF</color>
+			<glowColor>ffffff</glowColor>
+			<glowSize>2</glowSize>
+		</text>
+
+      <image name="md_thumbnail">
+         <pos>0.15 0.34</pos>
+         <maxSize>0.22 0.41</maxSize>
+         <zIndex>36</zIndex>
+		 <linearSmooth>true</linearSmooth>
+      </image>
+
+     <video name="md_video">
+         <pos>0.714 0.1808</pos>
+         <size>0.226 0.2312</size>
+         <origin>0 0</origin>
+         <delay>0.2</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>true</showSnapshotDelay>
+         <zIndex>15</zIndex>
+      </video>
+
+     <text name="md_name">
+         <color>ffffffff</color>
+         <pos>0.323 0.145</pos>
+         <size>0.38 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+		 <fontSize>0.05</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
+
+      <image name="logo">
+         <pos>0.02 0.12</pos>
+         <maxSize>0.34 0.16</maxSize>
+         <zIndex>0</zIndex>
+      </image>
+
+      <text name="md_description">
+         <pos>0.325 0.245</pos>
+         <size>0.38 0.175</size>
+         <fontSize>0.019</fontSize>
+         <color>a5a5a5</color>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+		 <lineSpacing>1.16</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath> 
+      </text>
+
+      <image name="filter" extra="true">
+	     <pos>0 0</pos>
+	     <size>0 0</size>
+         <zIndex>0</zIndex>
+      </image>
+
+	<image name="logohue" extra="true">
+		<color>ffffff</color>
+		<colorEnd>80808025</colorEnd>
+        <gradientType>vertical</gradientType>
+		<pos>0.0255 0.02</pos>
+	</image>
+
+      <image name="frame0" extra="true">
+	     <pos>0.307 0.125</pos>
+	     <size>0.655 0.416</size>
+         <path>./assets/filter4.png</path>
+		 <color>202020FF</color>
+         <zIndex>15</zIndex>
+      </image>
+
+      <image name="frame1" extra="true">
+	     <pos>0 0.61</pos>
+	     <size>1 0.4</size>
+         <path>./assets/filter1.png</path>
+		 <color>999999FF</color>
+         <zIndex>15</zIndex>
+      </image>
+
+      <image name="frame2" extra="true">
+	     <pos>0.016 0.628</pos>
+	     <size>0.97 0.35</size>
+         <path>./assets/filter1.png</path>
+		 <color>202020FF</color>
+         <zIndex>16</zIndex>
+      </image>
+
+		<rating name="md_rating">
+			<pos>0.018 0.288</pos>
+			<size>0.035 0.025</size>
+		</rating>    
+
+		<text name="md_players">
+      <size>0.034 0.039</size>
+      <pos>0.001 0.205</pos>
+		</text>
+		
+    <image name="md_flag"> 
+		<color>707077FF</color>
+       <pos>0.925 0.495</pos>
+       <maxSize>0.022 0.017</maxSize>
+	   <zIndex>160</zIndex>
+    </image>
+
+  	<text name="dot" extra="true">
+		<text>.</text>
+		<fontPath>./_inc/fonts/polan.otf</fontPath>
+         <fontSize>0.019</fontSize>
+         <color>a5a5a5</color>
+		<size>0.21 0.03</size>
+		<pos>0.366 0.475</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>0.8</glowSize>
+		<zIndex>42</zIndex>
+	</text>
+ 
+    <datetime name="md_releasedate">
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.035 0.03</size>
+		<pos>0.330 0.480</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+		<format>%Y</format>
+    </datetime>
+
+      <image name="bar2" extra="true">
+	     <pos>0.632 -0.088</pos>
+	     <size>0.005 1.10</size>
+         <path>./_inc/frame.png</path>
+		 <color>80808025</color>
+		 <rotation>-90</rotation>
+         <zIndex>125</zIndex>
+      </image>
+
+      <text name="md_developer">
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+		<color>a8a8a8</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.21 0.03</size>
+		<pos>0.380 0.480</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+    
+    <image name="md_cheevos, md_notcheevos">
+      <pos>0.018 0.174</pos>
+      <maxSize>0.02 0.03</maxSize>
+    </image>
+ 
+	<image name="ghost_cheevos" extra="true">
+      <pos>0.018 0.174</pos>
+      <maxSize>0.02 0.03</maxSize>
+	</image>
+
+
+    <image name="md_savestate, md_nosavestate">
+      <pos>0.018 0.124</pos>
+      <maxSize>0.02 0.025</maxSize>
+    </image>
+ 
+	<image name="ghost_savestate" extra="true">
+      <pos>0.018 0.124</pos>
+      <maxSize>0.02 0.025</maxSize>
+	</image>
+
+    <image name="md_manual, md_nomanual">
+      <pos>0.018 0.067</pos>
+      <maxSize>0.02 0.028</maxSize>
+    </image>
+
+      <image name="gridtile.favorite">
+         <pos>0.915 0</pos>
+      </image>
+		
+   </customView>
+
+<customView name="Tiles Detailed Custom Banner" inherits="Tiles Detailed" displayName="${tilesdetbannViewName}">
+      <image name="md_thumbnail">
+         <pos>0.15 0.34</pos>
+         <maxSize>0.22 0.41</maxSize>
+         <zIndex>36</zIndex>
+		 <linearSmooth>true</linearSmooth>
+      </image>
+
+
+  	<text name="dot" extra="true">
+		<text>.</text>
+		<fontPath>./_inc/fonts/polan.otf</fontPath>
+         <fontSize>0.019</fontSize>
+         <color>a5a5a5</color>
+		<size>0.21 0.03</size>
+		<pos>0.366 0.475</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>0.8</glowSize>
+		<zIndex>42</zIndex>
+	</text>
+
+     <video name="md_video">
+         <pos>0.714 0.1808</pos>
+         <size>0.226 0.2312</size>
+         <origin>0 0</origin>
+         <delay>0.2</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>true</showSnapshotDelay>
+         <zIndex>15</zIndex>
+      </video>
+
+     <text name="md_name">
+         <color>ffffffff</color>
+         <pos>0.323 0.145</pos>
+         <size>0.38 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+		 <fontSize>0.05</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
+
+      <image name="logo">
+         <pos>0.02 0.12</pos>
+         <maxSize>0.34 0.16</maxSize>
+         <zIndex>0</zIndex>
+      </image>
+
+      <text name="md_description">
+         <pos>0.325 0.245</pos>
+         <size>0.38 0.175</size>
+         <fontSize>0.019</fontSize>
+         <color>a5a5a5</color>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+		 <lineSpacing>1.16</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath> 
+      </text>
+
+      <image name="filter" extra="true">
+	     <pos>0 0</pos>
+	     <size>0 0</size>
+         <zIndex>0</zIndex>
+      </image>
+
+	<image name="logohue" extra="true">
+		<color>360101</color>
+		<colorEnd>fd0000</colorEnd>
+        <gradientType>vertical</gradientType>
+		<pos>0.0255 0.02</pos>
+	</image>
+
+      <image name="frame0" extra="true">
+	     <pos>0.307 0.125</pos>
+	     <size>0.655 0.416</size>
+         <path>./assets/filter4.png</path>
+		 <color>202020FF</color>
+         <zIndex>15</zIndex>
+      </image>
+
+      <image name="frame1" extra="true">
+	     <pos>0 0.61</pos>
+	     <size>1 0.4</size>
+         <path>./assets/filter1.png</path>
+		 <color>999999FF</color>
+         <zIndex>15</zIndex>
+      </image>
+
+      <image name="frame2" extra="true">
+	     <pos>0.016 0.628</pos>
+	     <size>0.97 0.35</size>
+         <path>./assets/filter1.png</path>
+		 <color>202020FF</color>
+         <zIndex>16</zIndex>
+      </image>
+
+		<rating name="md_rating">
+			<pos>0.018 0.288</pos>
+			<size>0.035 0.025</size>
+		</rating>    
+
+		<text name="md_players">
+      <size>0.034 0.039</size>
+      <pos>0.001 0.205</pos>
+		</text>
+		
+    <image name="md_flag"> 
+		<color>707077FF</color>
+       <pos>0.925 0.495</pos>
+       <maxSize>0.022 0.017</maxSize>
+	   <zIndex>160</zIndex>
+    </image>
+ 
+    <datetime name="md_releasedate">
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.035 0.03</size>
+		<pos>0.330 0.480</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+		<format>%Y</format>
+    </datetime>
+
+      <image name="bar2" extra="true">
+	     <pos>0.632 -0.088</pos>
+	     <size>0.005 1.10</size>
+         <path>./_inc/frame.png</path>
+		 <color>80808025</color>
+		 <rotation>-90</rotation>
+         <zIndex>125</zIndex>
+      </image>
+
+      <text name="md_developer">
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+		<color>a8a8a8</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.21 0.03</size>
+		<pos>0.380 0.480</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+
+ 
+    <image name="md_cheevos, md_notcheevos">
+      <pos>0.018 0.174</pos>
+      <maxSize>0.02 0.03</maxSize>
+    </image>
+ 
+	<image name="ghost_cheevos" extra="true">
+      <pos>0.018 0.174</pos>
+      <maxSize>0.02 0.03</maxSize>
+	</image>
+
+
+    <image name="md_savestate, md_nosavestate">
+      <pos>0.018 0.124</pos>
+      <maxSize>0.02 0.025</maxSize>
+    </image>
+ 
+	<image name="ghost_savestate" extra="true">
+      <pos>0.018 0.124</pos>
+      <maxSize>0.02 0.025</maxSize>
+	</image>
+
+    <image name="md_manual, md_nomanual">
+      <pos>0.018 0.067</pos>
+      <maxSize>0.02 0.028</maxSize>
+    </image>
+
+      <image name="gridtile.favorite">
+         <pos>0.915 0</pos>
+      </image>
+   </customView>
+
+  <customView name="Banner View" inherits="grid" displayName="${basicbanner}">
+         <image name="art" extra="true">
+		 <color>606066FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+		<pos>2 2</pos>
+      </image>
+
+      <image name="filter" extra="true">
+	     <pos>0 0.6</pos>
+	     <size>1 0.4</size>
+         <path>./assets/filter3.png</path>
+		 <color>80808040f</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+         <zIndex>40</zIndex>
+      </image>
+
+         <image name="art2" extra="true">
+         <pos>0 0</pos>
+         <size>0 0</size>
+         <zIndex>0</zIndex>
+      </image>
+
+      <text name="md_name">
+         <color>ffffffff</color>
+         <pos>2 2</pos>
+         <size>0.92 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+		 <fontSize>0.08</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
+
+      <image name="logo">
+         <pos>2 2</pos>
+         <maxSize>0.34 0.16</maxSize>
+         <zIndex>0</zIndex>
+      </image>
+
+      <text name="md_description">
+         <pos>2 2</pos>
+         <size>0.52 0.135</size>
+         <fontSize>0.022</fontSize>
+         <color>ffffff</color>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+		 <lineSpacing>1.18</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath> 
+      </text>
+
+	<image name="logohue" extra="true">
+		<path>./assets/logohueo.png</path>
+		<zIndex>0</zIndex>
+		<color>360101</color>
+		<colorEnd>fd0000</colorEnd>
+        <gradientType>vertical</gradientType>
+		<pos>0.0455 0.02</pos>
+		<maxSize>0.096 0.096</maxSize>
+		<zIndex>30</zIndex>
+	</image>
+
+		<rating name="md_rating">
+			<origin>0.5 0</origin>
+			<pos>0.028 0.298</pos>
+			<size>0.035 0.025</size>
+			<rotation>-90</rotation> 
+			<color>4e0202</color>
+			<unfilledPath>./_inc/images/star_empty.svg</unfilledPath>
+			<unfilledColor>c8c8c8</unfilledColor>
+			<horizontalAlignment>right</horizontalAlignment>  
+			<zIndex>15</zIndex>
+		</rating>    
+
+		<text name="md_players">
+			<fontPath>./_inc/fonts/players.ttf</fontPath>
+      <text>1</text>
+      <size>0.034 0.039</size>
+      <pos>0.011 0.215</pos>
+			<alignment>center</alignment>
+			<fontSize>0.03</fontSize>
+			<color>D0D0D0D0</color>
+			<zIndex>55</zIndex>
+		</text>
+		
+    <image name="md_flag"> 
+		<color>707077FF</color>
+       <pos>0.028 0.955</pos>
+       <maxSize>0.020 0.015</maxSize>
+    </image>
+    
+    <image name="md_cheevos, md_notcheevos">
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_cheevos" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_notcheevos">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_savestate, md_nosavestate">
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_savestate" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_nosavestate">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_manual, md_nomanual">
+      <path>./_inc/icons/book.png</path>
+      <pos>0.98 0.812</pos>
+      <pos>0.028 0.077</pos>
+      <maxSize>0.02 0.028</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+
+    <image name="md_nomanual">
+      <color>80808025</color>
+    </image>
+
+      <image name="md_image">
+	  	<linearSmooth>true</linearSmooth>
+         <pos>2 2</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>606066FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>
+
+      <helpsystem name="help">
+         <pos>2 2</pos>
+      </helpsystem>	  
+	  
+      <imagegrid name="gamegrid">
+	     <pos>0 0</pos>
+		 <padding>0.03 0.05 0.03 0.12</padding>
+		 <size>1 1</size>
+         <autoLayout>5 1</autoLayout>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+         <autoLayoutSelectedZoom>1.08</autoLayoutSelectedZoom>
+      </imagegrid>
+      <text name="gridtile">
+         <visible>false</visible>
+      </text>
+      <image name="gridtile.favorite">
+         <path>./_inc/gridfav.png</path>
+         <pos>0.75 0</pos>
+         <maxSize>0.25 0.25</maxSize>
+         <origin>0 0</origin>
+         <color>A0A0A0A0</color>
+      </image>
+      <image name="gridtile.favorite:selected">
+         <path>./_inc/gridfav.png</path>
+         <color>f60915</color>
+      </image>
+	  <gridtile name="selected">
+		 <backgroundCornerSize>0</backgroundCornerSize>
+      </gridtile>
+	  
+	    <imagegrid name="gamegrid">
+         <padding>0 0</padding>
+         <margin>0.001 0.015</margin>
+		 <imageSource>fanart</imageSource>
+		 <linearSmooth>true</linearSmooth>
+		  <imageColor>808088FF</imageColor>	
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+		 <storyboard>		
+        		<animation property="opacity" from="0" to="1" duration="800" mode="easeOut"/>
+        		<animation property="x" from="0.657037037037037" duration="800" mode="easeOut"/>
+        </storyboard>
+      </imagegrid>
+      <gridtile name="default">
+         <padding>2 2</padding>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <imageSizeMode>minSize</imageSizeMode>
+		 <linearSmooth>true</linearSmooth>
+      </gridtile>
+
+	  <gridtile name="selected">
+        	 <linearSmooth>true</linearSmooth>
+      </gridtile>
+
+     <image name="gridtile.marquee">
+         <pos>0.5 0.8</pos>
          <origin>0.5 0.5</origin>
-         <size>0.50 0.50</size>
+         <size>0.90 0.90</size>
       </image>
       <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.75</pos>
          <color>FFFFFFFF</color>
-         <size>0.65 0.65</size>
+         <size>0.75 0.75</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+         <color>FFFFFFA0</color>
+         <pos>0.5 0.17</pos>
+         <size>0.50 0.25</size>
+      </image>	  
+   </customView>
+  
+   
+<customView name="Banner View (Horizontal)" inherits="Banner View" displayName="${basicbanner1}">
+      <imagegrid name="gamegrid">
+	     <pos>-0.28 0.2</pos>
+		 <size>1.56 0.6</size>
+         <autoLayout>3 1</autoLayout>
+         <autoLayoutSelectedZoom>1.0</autoLayoutSelectedZoom>
+       <scrollDirection>horizontal</scrollDirection>
+        <showVideoAtDelay>800</showVideoAtDelay>		 
+         <padding>0 0</padding>
+		 <centerSelection>true</centerSelection>
+         <scrollLoop>true</scrollLoop>
+         <margin>-0.1 0</margin>
+		 <imageSource>fanart</imageSource>
+		 <linearSmooth>true</linearSmooth>
+		  <imageColor>808088FF</imageColor>	
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+		 <storyboard>		
+        		<animation property="opacity" from="0" to="1" duration="800" mode="easeOut"/>
+        		<animation property="y" from="0.657037037037037" duration="800" mode="easeOut"/>
+        </storyboard>
+      </imagegrid>
+      <gridtile name="default">
+         <padding>6 6</padding>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <imageSizeMode>minSize</imageSizeMode>
+		 <linearSmooth>true</linearSmooth>
+		 <reflexion>0.11 0.0</reflexion>
+      </gridtile>
+
+	  <gridtile name="selected">
+        	 <linearSmooth>true</linearSmooth>
+			          <backgroundCenterColor>0b0102</backgroundCenterColor>
+         <backgroundEdgeColor>0b0102</backgroundEdgeColor>
+         <imageColor>FFFFFFFF</imageColor>
+      </gridtile>
+
+     <image name="gridtile.marquee">
+         <pos>0.5 0.5</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.60 0.60</size>
+      </image>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.70</pos>
+         <color>FFFFFFFF</color>
+         <size>0.62 0.62</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+	     <color>FFFFFFFF</color>
+         <pos>0.5 0.2</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.45 0.45</size>
+      </image>	
+      <image name="filter" extra="true">
+		<opacity>0.7</opacity>
+      </image>
+      <image name="md_image">
+	  	<linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>606066FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>	
+
+      <image name="gridtile.favorite">
+         <pos>0.914 0</pos>
+         <maxSize>0.15 0.15</maxSize>
+      </image>
+  
+   </customView>    
+
+   <customView name="Banner View Static" inherits="Banner View" displayName="${basicbanner2}">
+      <imagegrid name="gamegrid">
+	     <pos>-0.28 0.2</pos>
+		 <size>1.56 0.6</size>
+         <autoLayout>3 1</autoLayout>
+         <autoLayoutSelectedZoom>1.0</autoLayoutSelectedZoom>
+       <scrollDirection>horizontal</scrollDirection>
+         <padding>0 0</padding>
+		 <centerSelection>true</centerSelection>
+         <scrollLoop>true</scrollLoop>
+         <margin>-0.1 0</margin>
+		 <imageSource>fanart</imageSource>
+		 <linearSmooth>true</linearSmooth>
+		  <imageColor>808088FF</imageColor>	
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+		 <storyboard>		
+        		<animation property="opacity" from="0" to="1" duration="800" mode="easeOut"/>
+        		<animation property="y" from="0.657037037037037" duration="800" mode="easeOut"/>
+        </storyboard>
+      </imagegrid>
+      <gridtile name="default">
+         <padding>6 6</padding>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <imageSizeMode>minSize</imageSizeMode>
+		 <linearSmooth>true</linearSmooth>
+		 <reflexion>0.11 0.0</reflexion>
+      </gridtile>
+
+	  <gridtile name="selected">
+        	 <linearSmooth>true</linearSmooth>
+			          <backgroundCenterColor>0b0102</backgroundCenterColor>
+         <backgroundEdgeColor>0b0102</backgroundEdgeColor>
+         <imageColor>FFFFFFFF</imageColor>
+      </gridtile>
+
+     <image name="gridtile.marquee">
+         <pos>0.5 0.5</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.60 0.60</size>
+      </image>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.70</pos>
+         <color>FFFFFFFF</color>
+         <size>0.62 0.62</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+	     <color>FFFFFFFF</color>
+         <pos>0.5 0.2</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.45 0.45</size>
+      </image>	
+
+      <image name="md_image">
+	  	<linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>606066FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>	
+
+      <image name="gridtile.favorite">
+         <pos>0.914 0</pos>
+         <maxSize>0.15 0.15</maxSize>
+      </image>  
+   </customView>  
+
+
+
+   <customView name="Banner View Detailed" inherits="Banner View" displayName="${basicbanner3}">
+   		<image name="transitionMaskUp" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>0.7</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.15" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.13" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.13" to="0.5 -0.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+   
+		<image name="transitionMaskDown" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<flipY>true</flipY>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>1</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.72" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.725" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.725" to="0.5 1.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+
+      <image name="frame1" extra="true">
+	     <pos>0 0.61</pos>
+	     <size>1 0.4</size>
+         <path>./assets/filter4.png</path>
+		 <color>999999FF</color>
+         <zIndex>15</zIndex>
+      </image>
+
+     <text name="md_name">
+         <color>ffffffff</color>
+         <pos>0.28 0.72</pos>
+         <size>0.45 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+		 <fontSize>0.05</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
+
+      <image name="logo">
+         <pos>0.02 0.12</pos>
+         <maxSize>0.34 0.16</maxSize>
+         <zIndex>0</zIndex>
+      </image>
+
+      <text name="md_description">
+         <pos>0.28 0.8</pos>
+         <size>0.48 0.150</size>
+         <fontSize>0.019</fontSize>
+         <color>a5a5a5</color>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+		 <lineSpacing>1.16</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath> 
+      </text>
+
+      <image name="md_marquee">
+         <pos>0.135 0.86</pos>
+         <maxSize>0.22 0.22</maxSize>
+         <zIndex>36</zIndex>
+      </image>
+	  
+      <imagegrid name="gamegrid">
+	     <pos>-0.28 0.12</pos>
+		 <size>1.56 0.6</size>
+         <autoLayout>3 1</autoLayout>
+         <autoLayoutSelectedZoom>1.0</autoLayoutSelectedZoom>
+		 <gameImage>./_inc/frame.png</gameImage>
+       <scrollDirection>horizontal</scrollDirection>
+        <showVideoAtDelay>800</showVideoAtDelay>		 
+         <padding>0 0</padding>
+		 <centerSelection>true</centerSelection>
+         <scrollLoop>true</scrollLoop>
+         <margin>-0.1 0</margin>
+		 <imageSource>fanart</imageSource>
+		 <linearSmooth>true</linearSmooth>
+		  <imageColor>808088FF</imageColor>
+         <zIndex>180</zIndex>		  
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+		 <storyboard>		
+        		<animation property="opacity" from="0" to="1" duration="800" mode="easeOut"/>
+        		<animation property="y" from="0.657037037037037" duration="800" mode="easeOut"/>
+        </storyboard>
+      </imagegrid>
+      <gridtile name="default">
+         <padding>6 6</padding>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <imageSizeMode>minSize</imageSizeMode>
+		 <linearSmooth>true</linearSmooth>
+      </gridtile>
+
+	  <gridtile name="selected">
+        	 <linearSmooth>true</linearSmooth>
+			 <backgroundCenterColor>0b0102</backgroundCenterColor>
+         <backgroundEdgeColor>0b0102</backgroundEdgeColor>
+         <imageColor>FFFFFFFF</imageColor>
+      </gridtile>
+
+      <image name="filter" extra="true">
+		<opacity>0.7</opacity>
+      </image>
+
+     <image name="gridtile.marquee">
+         <pos>0.5 0.5</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.60 0.60</size>
+      </image>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.70</pos>
+         <color>FFFFFFFF</color>
+         <size>0.62 0.62</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+	     <color>FFFFFFFF</color>
+         <pos>0.5 0.2</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.45 0.45</size>
+      </image>	
+
+      <image name="md_image">
+	  	<linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>606066FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>	
+
+      <image name="md_thumbnail">
+         <pos>0.848 0.85</pos>
+         <size>0.08 0</size>
+         <zIndex>36</zIndex>
+      </image>
+
+     <rating name="md_rating">
+         <pos>0.98 0.84</pos>
+      </rating>
+
+		<image name="md_flag">
+			<origin>0 0.5</origin>
+			<pos>2.915 2.965</pos>
+			<maxSize>0.01 0.05</maxSize>
+			<color>FFFFFFFF</color>
+			<zIndex>150</zIndex>
+		</image>
+
+		<image name="md_manual,md_nomanual">
+			<path>./_inc/icons/book.png</path>
+			<pos>0.92 0.875</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<origin>0.5 0.5</origin>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+		</image>
+		<image name="md_nomanual">
+			<color>80808040</color>
+		</image>
+
+		<image name="md_cheevos,md_notcheevos">
+			<origin>0 1</origin>
+			<path>./_inc/icons/Contest.png</path>
+			<pos>0.914 0.945</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>dddddd</color>
+			<zIndex>13</zIndex>
+		</image>
+
+		<image name="ghost_cheevos" extra="true">
+			<origin>0 1</origin>
+			<pos>0.914 0.945</pos>
+			<maxSize>0.02 0.02</maxSize>
+		</image>
+
+		<text name="md_players">
+			<pos>0.904 0.805</pos>
+		</text>
+
+		<image name="md_nocheevos" extra="true">
+			<origin>0 1</origin>
+			<path>./_inc/icons/Contest.png</path>
+			<pos>0.914 0.945</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>80808030</color>
+			<zIndex>12</zIndex>
+		</image>
+
+		<image name="md_savestate,md_nosavestate">
+			<origin>0.5 0.5</origin>
+			<path>./_inc/icons/SaveState.png</path>
+			<pos>0.92 0.905</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+		</image>
+		<image name="ghost_savestate" extra="true">
+			<origin>0.5 0.5</origin>
+			<path>./_inc/icons/SaveState.png</path>
+			<pos>0.92 0.905</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>80808040</color>
+			<zIndex>12</zIndex>
+		</image>		
+		<image name="md_nosavestate">
+			<color>80808030</color>
+		</image>
+		
+      <image name="gridtile.favorite">
+         <pos>0.914 0</pos>
+         <maxSize>0.15 0.15</maxSize>
+      </image>
+
+      <helpsystem name="help">
+         <pos>2 2</pos>
+      </helpsystem>	  
+   </customView>
+
+   <customView name="Banner Static View Detailed" inherits="Banner View" displayName="${basicbanner4}">
+   		<image name="transitionMaskUp" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>0.7</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.15" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.13" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.13" to="0.5 -0.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+   
+		<image name="transitionMaskDown" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<flipY>true</flipY>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>1</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.72" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.725" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.725" to="0.5 1.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+
+      <image name="frame1" extra="true">
+	     <pos>0 0.61</pos>
+	     <size>1 0.4</size>
+         <path>./assets/filter4.png</path>
+		 <color>999999FF</color>
+         <zIndex>15</zIndex>
+      </image>
+
+     <text name="md_name">
+         <color>ffffffff</color>
+         <pos>0.28 0.72</pos>
+         <size>0.45 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+		 <fontSize>0.05</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
+
+      <image name="logo">
+         <pos>0.02 0.12</pos>
+         <maxSize>0.34 0.16</maxSize>
+         <zIndex>0</zIndex>
+      </image>
+
+      <text name="md_description">
+         <pos>0.28 0.8</pos>
+         <size>0.48 0.150</size>
+         <fontSize>0.019</fontSize>
+         <color>a5a5a5</color>
+         <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+		 <lineSpacing>1.16</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath> 
+      </text>
+
+      <image name="md_marquee">
+         <pos>0.135 0.86</pos>
+         <maxSize>0.22 0.22</maxSize>
+         <zIndex>36</zIndex>
+      </image>
+	  
+      <imagegrid name="gamegrid">
+	     <pos>-0.28 0.12</pos>
+		 <size>1.56 0.6</size>
+         <autoLayout>3 1</autoLayout>
+         <autoLayoutSelectedZoom>1.0</autoLayoutSelectedZoom>
+		 <gameImage>./_inc/frame.png</gameImage>
+       <scrollDirection>horizontal</scrollDirection>
+         <padding>0 0</padding>
+		 <centerSelection>true</centerSelection>
+         <scrollLoop>true</scrollLoop>
+         <margin>-0.1 0</margin>
+		 <imageSource>fanart</imageSource>
+		 <linearSmooth>true</linearSmooth>
+		  <imageColor>808088FF</imageColor>
+         <zIndex>180</zIndex>		  
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+		 <storyboard>		
+        		<animation property="opacity" from="0" to="1" duration="800" mode="easeOut"/>
+        		<animation property="y" from="0.657037037037037" duration="800" mode="easeOut"/>
+        </storyboard>
+      </imagegrid>
+      <gridtile name="default">
+         <padding>6 6</padding>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <imageSizeMode>minSize</imageSizeMode>
+		 <linearSmooth>true</linearSmooth>
+      </gridtile>
+
+	  <gridtile name="selected">
+        	 <linearSmooth>true</linearSmooth>
+			 <backgroundCenterColor>0b0102</backgroundCenterColor>
+         <backgroundEdgeColor>0b0102</backgroundEdgeColor>
+         <imageColor>FFFFFFFF</imageColor>
+      </gridtile>
+
+     <image name="gridtile.marquee">
+         <pos>0.5 0.5</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.60 0.60</size>
+      </image>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.70</pos>
+         <color>FFFFFFFF</color>
+         <size>0.62 0.62</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+	     <color>FFFFFFFF</color>
+         <pos>0.5 0.2</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.45 0.45</size>
+      </image>	
+
+      <image name="md_image">
+	  	<linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>606066FF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>	
+
+      <image name="md_thumbnail">
+         <pos>0.848 0.85</pos>
+         <size>0.08 0</size>
+         <zIndex>36</zIndex>
+      </image>
+
+      <image name="filter" extra="true">
+		<opacity>0.7</opacity>
+      </image>
+
+     <rating name="md_rating">
+         <pos>0.98 0.84</pos>
+      </rating>
+
+		<image name="md_flag">
+			<origin>0 0.5</origin>
+			<pos>2.915 2.965</pos>
+			<maxSize>0.01 0.05</maxSize>
+			<color>FFFFFFFF</color>
+			<zIndex>150</zIndex>
+		</image>
+
+		<image name="md_manual,md_nomanual">
+			<path>./_inc/icons/book.png</path>
+			<pos>0.92 0.875</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<origin>0.5 0.5</origin>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+		</image>
+		<image name="md_nomanual">
+			<color>80808040</color>
+		</image>
+
+		<image name="md_cheevos,md_notcheevos">
+			<origin>0 1</origin>
+			<path>./_inc/icons/Contest.png</path>
+			<pos>0.914 0.945</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>dddddd</color>
+			<zIndex>13</zIndex>
+		</image>
+
+		<image name="ghost_cheevos" extra="true">
+			<origin>0 1</origin>
+			<pos>0.914 0.945</pos>
+			<maxSize>0.02 0.02</maxSize>
+		</image>
+
+		<text name="md_players">
+			<pos>0.904 0.805</pos>
+		</text>
+
+		<image name="md_nocheevos" extra="true">
+			<origin>0 1</origin>
+			<path>./_inc/icons/Contest.png</path>
+			<pos>0.914 0.945</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>80808030</color>
+			<zIndex>12</zIndex>
+		</image>
+
+		<image name="md_savestate,md_nosavestate">
+			<origin>0.5 0.5</origin>
+			<path>./_inc/icons/SaveState.png</path>
+			<pos>0.92 0.905</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+		</image>
+		<image name="ghost_savestate" extra="true">
+			<origin>0.5 0.5</origin>
+			<path>./_inc/icons/SaveState.png</path>
+			<pos>0.92 0.905</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>80808040</color>
+			<zIndex>12</zIndex>
+		</image>		
+		<image name="md_nosavestate">
+			<color>80808030</color>
+		</image>
+		
+      <image name="gridtile.favorite">
+         <pos>0.914 0</pos>
+         <maxSize>0.15 0.15</maxSize>
+      </image>
+
+      <helpsystem name="help">
+         <pos>2 2</pos>
+      </helpsystem>	  
+   </customView>
+
+
+   <customView name="Fanart Logo View" inherits="Banner View" displayName="${fanartview}">
+   		<image name="transitionMaskUp" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>0.7</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.15" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.13" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.13" to="0.5 -0.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+   
+		<image name="transitionMaskDown" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<flipY>true</flipY>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>1</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.72" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.725" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.725" to="0.5 1.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+
+	  
+	<imagegrid name="gamegrid">
+	  <margin>0.0772 0</margin>
+      <padding>0.02 0 0.02 0</padding>
+      <pos>0 0.32</pos>
+      <size>1 1</size>
+	  <origin>0.5 0.5</origin>
+      <scrollDirection>horizontal</scrollDirection>
+      <autoLayout>5 1</autoLayout>
+	  <imageSource>marquee</imageSource>
+      <autoLayoutSelectedZoom>2</autoLayoutSelectedZoom>
+      <centerSelection>true</centerSelection>
+	  <scrollLoop>true</scrollLoop>
+      <zIndex>61</zIndex>
+	</imagegrid>
+
+	
+    <gridtile name="default">
+      <padding>0 0</padding>
+      <backgroundCenterColor>44444400</backgroundCenterColor>
+	  <backgroundEdgeColor>66666600</backgroundEdgeColor>
+	  <selectionMode>image</selectionMode>
+      <imageSizeMode>maxSize</imageSizeMode>
+	      <imageColor>505050FF</imageColor>
+      <reflexion>0.3 0.0</reflexion>
+    </gridtile>
+	
+    <gridtile name="selected">
+      <backgroundCenterColor>88000000</backgroundCenterColor>
+      <backgroundEdgeColor>DD000000</backgroundEdgeColor>
+	  <backgroundCornerSize>8 8</backgroundCornerSize>
+	  <imageColor>FFFFFFFF</imageColor>
+      <padding>0 0</padding>
+	  <reflexion>0.3 0.0</reflexion>
+    </gridtile>
+	
+	<ninepatch name="gridtile.background:selected">
+	  <animateColor>AA660000</animateColor>
+    </ninepatch>
+
+     <image name="gridtile.marquee">
+         <pos>0.5 0.5</pos>
+         <origin>0.5 0.5</origin>
+         <size>0 0</size>
+      </image>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.70</pos>
+         <color>FFFFFFFF</color>
+         <size>0 0</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+	     <color>FFFFFFFF</color>
+         <pos>0.5 0.2</pos>
+         <origin>0.5 0.5</origin>
+         <size>0 0</size>
+      </image>	
+
+      <image name="md_image,filter">
+         <visible>false</visible>
+      </image>
+
+      <image name="md_fanart">
+	  	<linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>FFFFFFFF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>
+		
+      <image name="gridtile.favorite">
+         <pos>0.914 0</pos>
+         <maxSize>0.15 0.15</maxSize>
+      </image>
+
+      <image name="logohue" extra="true">
+		<color>ff6060</color>
+      </image>
+
+      <helpsystem name="help">
+         <pos>2 2</pos>
+      </helpsystem>	  
+   </customView>
+
+	
+   <customView name="Fanart Logo View Detailed" inherits="Banner View" displayName="${fanartview1}">
+   		<image name="transitionMaskUp" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>0.7</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.15" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.13" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.13" to="0.5 -0.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+   
+		<image name="transitionMaskDown" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<flipY>true</flipY>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>1</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.72" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.725" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.725" to="0.5 1.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+	  
+	<imagegrid name="gamegrid">
+	  <margin>0.0772 0</margin>
+      <padding>0.02 0 0.02 0</padding>
+      <pos>0 0.32</pos>
+      <size>1 1</size>
+	  <origin>0.5 0.5</origin>
+      <scrollDirection>horizontal</scrollDirection>
+      <autoLayout>5 1</autoLayout>
+	  <imageSource>marquee</imageSource>
+      <autoLayoutSelectedZoom>2</autoLayoutSelectedZoom>
+      <centerSelection>true</centerSelection>
+	  <scrollLoop>true</scrollLoop>
+      <zIndex>61</zIndex>
+	</imagegrid>
+	
+    <gridtile name="default">
+      <padding>0 0</padding>
+      <backgroundCenterColor>44444400</backgroundCenterColor>
+	  <backgroundEdgeColor>66666600</backgroundEdgeColor>
+	  <selectionMode>image</selectionMode>
+      <imageSizeMode>maxSize</imageSizeMode>
+	  <imageColor>505050FF</imageColor>
+      <reflexion>0.3 0.0</reflexion>
+    </gridtile>
+	
+    <gridtile name="selected">
+      <backgroundCenterColor>88000000</backgroundCenterColor>
+      <backgroundEdgeColor>DD000000</backgroundEdgeColor>
+	  <backgroundCornerSize>8 8</backgroundCornerSize>
+	  <imageColor>FFFFFFFF</imageColor>
+      <padding>0 0</padding>
+	  <reflexion>0.3 0.0</reflexion>
+    </gridtile>
+	
+	<ninepatch name="gridtile.background:selected">
+	  <animateColor>AA660000</animateColor>
+    </ninepatch>
+
+     <image name="gridtile.marquee">
+         <pos>0.5 0.5</pos>
+         <origin>0.5 0.5</origin>
+         <size>0 0</size>
+      </image>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.70</pos>
+         <color>FFFFFFFF</color>
+         <size>0 0</size>
+      </image>
+      <image name="gridtile.marquee:videoplaying">
+	     <color>FFFFFFFF</color>
+         <pos>0.5 0.2</pos>
+         <origin>0.5 0.5</origin>
+         <size>0 0</size>
+      </image>	
+
+      <image name="md_image,filter">
+         <visible>false</visible>
+      </image>
+
+      <image name="md_fanart">
+	  	<linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>FFFFFFFF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>
+		
+      <image name="gridtile.favorite">
+         <pos>0.914 0</pos>
+         <maxSize>0.15 0.15</maxSize>
+      </image>
+
+      <image name="md_thumbnail">
+         <pos>0.15 0.34</pos>
+         <maxSize>0.22 0.41</maxSize>
+         <zIndex>36</zIndex>
+		 <linearSmooth>true</linearSmooth>
+      </image>
+
+     <video name="md_video">
+         <pos>0.714 0.1808</pos>
+         <size>0.226 0.2312</size>
+         <origin>0 0</origin>
+         <delay>0.2</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>true</showSnapshotDelay>
+         <zIndex>17</zIndex>			<storyboard event="open">
+                <animation property="offsetY" from="-7.9" to="0" duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="offsetY" from="-7.9" to="0" duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
+      </video>
+
+     <text name="md_name">
+         <color>ffffffff</color>
+         <pos>0.323 0.145</pos>
+         <size>0.38 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000056</glowColor>
+         <glowSize>1</glowSize>
+		 <fontSize>0.05</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
+
+      <text name="md_description">
+         <pos>0.325 0.245</pos>
+         <size>0.38 0.175</size>
+         <fontSize>0.024</fontSize>
+         <color>ffffffff</color>
+         <glowColor>00000066</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+		 <lineSpacing>1.16</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+      </text>
+
+      <image name="frame0" extra="true">
+	     <pos>0 0</pos>
+	     <size>1 1</size>
+         <path>./assets/filter4.png</path>
+		 <color>707070FF</color>
+         <zIndex>15</zIndex>			<storyboard event="open">
+                <animation property="opacity" from="0" to="1" duration="6950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="opacity" from="0" to="1" duration="6950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
+      </image>
+
+    <image name="md_flag"> 
+		<color>707077FF</color>
+       <pos>0.925 0.495</pos>
+       <maxSize>0.022 0.017</maxSize>
+	   <zIndex>160</zIndex>
+    </image>
+
+
+      <image name="bar2" extra="true">
+	     <pos>0.632 -0.088</pos>
+	     <size>0.005 1.10</size>
+         <path>./_inc/frame.png</path>
+		 <color>80808025</color>
+		 <rotation>-90</rotation>
+         <zIndex>125</zIndex>
+      </image>
+
+      <text name="md_developer">
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+		<color>a8a8a8</color>
+		<alignment>left</alignment>
+		<fontSize>0.023</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.21 0.03</size>
+		<pos>0.330 0.480</pos>
+		<glowColor>00000016</glowColor>
+		<glowSize>1</glowSize>
+		<zIndex>42</zIndex>
+      </text>
+
+      <image name="md_thumbnail,md_flag,bar2">
+         <storyboard event="open">
+                <animation property="offsetY" from="-7.9" to="0"  duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="offsetY" from="-7.9" to="0" duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
+      </image>
+
+      <text name="md_developer,dot,md_description,md_name">
+         <storyboard event="open">
+                <animation property="offsetY" from="-7.9" to="0"  duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="offsetY" from="-7.9" to="0" duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
+      </text>
+
+      <image name="logohue" extra="true">
+		<color>ff6060</color>
+      </image>
+
+      <helpsystem name="help">
+         <pos>2 2</pos>
+      </helpsystem>	  
+   </customView>
+
+   <customView name="Fanart Logo View Snapvideo" inherits="Fanart Logo View" displayName="${fanartview2}">
+        <image name="frame0" extra="true">
+	     <pos>0 0</pos>
+	     <size>1 1</size>
+         <path>./assets/filter4.png</path>
+		 <color>A0A0B000</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+         <zIndex>15</zIndex>
+		 <storyboard event="open">
+                <animation property="opacity" from="0" to="1" duration="8950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="opacity" from="0" to="1" duration="8950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
+      </image>
+   
+	      <video name="md_video">
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <origin>0 0</origin>
+         <delay>2</delay>
+         <showSnapshotNoVideo>false</showSnapshotNoVideo>
+         <showSnapshotDelay>false</showSnapshotDelay>
+         <zIndex>14</zIndex>
+      </video> 
+
+      <image name="logo">
+         <pos>0.850 0.882</pos>
+         <size>0.13 0</size>
+		 <zIndex>15</zIndex>
+		 <linearSmooth>true</linearSmooth>
+	  </image>
+   </customView>
+
+   <customView name="Fanart Cover View Detailed" inherits="Banner View" displayName="${fanartview3}">
+   		<image name="transitionMaskUp" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>0.7</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.15" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.15" to="0.5 0.13" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.13" to="0.5 -0.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+   
+		<image name="transitionMaskDown" extra="true">
+			<path>./assets/transitionMask.png</path>
+			<flipY>true</flipY>
+			<size>1 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<color>000000</color>
+			<zIndex>9997</zIndex>
+			<opacity>1</opacity>
+			<storyboard>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.72" duration="350" mode="linear"/>
+				<animation property="pos" from="0.5 0.72" to="0.5 0.725" begin="350" duration="350" mode="easeOutCubic"/>
+				<animation property="pos" from="0.5 0.725" to="0.5 1.5" begin="700" duration="600" mode="easeInCubic"/>
+			</storyboard>
+		</image>
+	  
+     <imagegrid name="gamegrid">
+	     <pos>0.020 0.555</pos>
+         <size>0.97 0.5</size>
+		 <autoLayoutSelectedZoom>1.06</autoLayoutSelectedZoom>
+         <scrollDirection>vertical</scrollDirection>
+         <autoLayout>7 1</autoLayout>
+         <padding>0.03 0.05 0.03 0.12</padding>
+         <margin>0.001 0.06</margin>
+		 <imageSource>image</imageSource>
+		 <scrollbarColor>808080FF</scrollbarColor>
+		 <scrollbarCorner>0</scrollbarCorner>
+		 <scrollbarSize>0.002</scrollbarSize>
+		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
+      </imagegrid>
+      <gridtile name="default">
+	      <imageColor>808088FF</imageColor>
+         <padding>2 2</padding>
+         <backgroundCornerSize>0 0</backgroundCornerSize>
+         <imageSizeMode>minSize</imageSizeMode>
+      </gridtile>
+
+     <image name="gridtile.marquee">
+         <pos>0.5 0.4</pos>
+         <origin>0.5 0.5</origin>
+         <size>0.90 0.90</size>
+      </image>
+      <image name="gridtile.marquee:selected">
+	           <pos>0.5 0.5</pos>
+         <color>FFFFFFFF</color>
+         <size>0.75 0.75</size>
       </image>
       <image name="gridtile.marquee:videoplaying">
          <color>FFFFFFA0</color>
@@ -2697,37 +4695,179 @@ Tema proibido para uso comercial
          <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
          <padding>0.1 0</padding>
       </text>
-      <image name="logo">
-         <pos>0.04 0.06</pos>
-         <maxSize>0.24 0.16</maxSize>
+
+      <image name="md_image,filter">
+         <visible>false</visible>
       </image>
 
+      <image name="md_fanart">
+	  	<linearSmooth>true</linearSmooth>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <size>1 1</size>
+         <zIndex>3</zIndex>
+		 <color>FFFFFFFF</color>
+		 <colorEnd>000000FF</colorEnd>
+        <gradientType>vertical</gradientType>
+      </image>
+		
+      <image name="gridtile.favorite">
+         <pos>0.914 0</pos>
+         <maxSize>0.15 0.15</maxSize>
+      </image>
+
+      <image name="md_thumbnail">
+         <pos>0.15 0.34</pos>
+         <maxSize>0.22 0.41</maxSize>
+         <zIndex>36</zIndex>
+		 <linearSmooth>true</linearSmooth>
+      </image>
+
+     <video name="md_video">
+         <pos>0.714 0.1808</pos>
+         <size>0.226 0.2312</size>
+         <origin>0 0</origin>
+         <delay>0.2</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>true</showSnapshotDelay>
+         <zIndex>17</zIndex>			<storyboard event="open">
+                <animation property="offsetY" from="-7.9" to="0" duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="offsetY" from="-7.9" to="0" duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
+      </video>
+
      <text name="md_name">
-		<fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
-		<color>FFFFFF</color>
+         <color>ffffffff</color>
+         <pos>0.323 0.145</pos>
+         <size>0.38 0.10</size>
+         <alignment>left</alignment>
+         <glowColor>00000056</glowColor>
+         <glowSize>1</glowSize>
+		 <fontSize>0.035</fontSize>
+		 <forceUppercase>true</forceUppercase>
+         <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+         <zIndex>150</zIndex>
+      </text>  
+
+      <text name="md_description">
+         <pos>0.325 0.245</pos>
+         <size>0.38 0.175</size>
+         <fontSize>0.024</fontSize>
+         <color>f5f5f5</color>
+         <glowColor>00000066</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+		 <lineSpacing>1.16</lineSpacing>
+		 <fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+      </text>
+
+      <image name="frame0" extra="true">
+	     <pos>0 0</pos>
+	     <size>1 1</size>
+         <path>./assets/filter4.png</path>
+		 <color>707070FF</color>
+         <zIndex>15</zIndex>			<storyboard event="open">
+                <animation property="opacity" from="0" to="1" duration="6950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="opacity" from="0" to="1" duration="6950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
+      </image>
+
+    <image name="md_flag"> 
+		<color>707077FF</color>
+       <pos>0.925 0.495</pos>
+       <maxSize>0.022 0.017</maxSize>
+	   <zIndex>160</zIndex>
+    </image>
+
+      <image name="md_marquee">
+         <pos>0.830 0.45</pos>
+         <maxSize>0.18 0.18</maxSize>
+         <zIndex>156</zIndex>
+         <storyboard event="open">
+                <animation property="offsetX" from="7.9" to="0"  duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="offsetX" from="7.9" to="0" duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
+      </image>
+
+      <image name="bar2" extra="true">
+	     <pos>0.632 -0.088</pos>
+	     <size>0.005 1.10</size>
+         <path>./_inc/frame.png</path>
+		 <color>80808025</color>
+		 <rotation>-90</rotation>
+         <zIndex>125</zIndex>
+      </image>
+
+      <text name="md_developer">
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+		<color>a8a8a8</color>
 		<alignment>left</alignment>
- 		<fontSize>0.09</fontSize>
+		<fontSize>0.023</fontSize>
 		<lineSpacing>1</lineSpacing>
-		<size>0.65 0.40</size>
-		<pos>0.03 0</pos>
+		<size>0.21 0.03</size>
+		<pos>0.330 0.480</pos>
 		<glowColor>00000016</glowColor>
-		<glowSize>4</glowSize>
+		<glowSize>1</glowSize>
 		<zIndex>42</zIndex>
       </text>
 
-      <text name="md_description">
-         <pos>0.025 0.32</pos>
-         <size>0.52 0.17</size>
-         <fontSize>0.025</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
+      <image name="md_thumbnail,md_flag,bar2">
+         <storyboard event="open">
+                <animation property="offsetY" from="-7.9" to="0"  duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="offsetY" from="-7.9" to="0" duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
+      </image>
+
+      <text name="md_developer,dot,md_description,md_name">
+         <storyboard event="open">
+                <animation property="offsetY" from="-7.9" to="0"  duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="activate">
+                <animation property="offsetY" from="-7.9" to="0" duration="3950" mode="EaseOutQuint"/>
+                <animation property="opacity" from="1" to="1" duration="" mode="Linear"/>
+			</storyboard>
+			<storyboard event="deactivate">
+                <animation property="opacity" from="0" to="0" duration="" mode="linear"/>
+			</storyboard>
       </text>
 
-      <image name="md_image">
-         <zIndex>4</zIndex>
+      <image name="logohue" extra="true">
+		<color>ff6060</color>
       </image>
+
+      <helpsystem name="help">
+         <pos>2 2</pos>
+      </helpsystem>	  
    </customView>
+
 
 </theme>

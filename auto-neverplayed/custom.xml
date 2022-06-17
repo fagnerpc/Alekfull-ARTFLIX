@@ -62,6 +62,13 @@
 		<path>./assets/logos/auto-neverplayed-en.png</path>
 	</image>
 
+			<image name="logo" lang="PT">
+		<path>./assets/logos/auto-neverplayed-pt.png</path>
+	</image>
+
+				<image name="sublogo" lang="PT">
+		<path>./assets/logos/auto-neverplayed-pt.png</path>
+	</image>
 
 			<image name="logo" lang="ES">
 		<path>./assets/logos/auto-neverplayed-es.png</path>

@@ -1,0 +1,74 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" lang="EN">
+			<text>Based on different mythologies, the story follows Kratos, a Spartan warrior who was driven to kill his family by his former master, the war god Ares. This triggers a series of events that lead to wars with mythological pantheons.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Baseada em distintas mitologias, a história segue Kratos, um guerreiro espartano que foi levado a matar sua família por seu antigo mestre, o deus da guerra Ares. Isso desencadeia uma série de eventos que levam à guerras com os panteões mitológicos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Based on different mythologies, the story follows Kratos, a Spartan warrior who was driven to kill his family by his former master, the war god Ares. This triggers a series of events that lead to wars with mythological pantheons.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Basada en diferentes mitologías, la historia sigue a Kratos, un guerrero espartano que fue impulsado a matar a su familia por su antiguo maestro, el dios de la guerra Ares. Esto desencadena una serie de eventos que desembocan en guerras con panteones mitológicos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Basée sur différentes mythologies, l'histoire suit Kratos, un guerrier spartiate qui a été poussé à tuer sa famille par son ancien maître, le dieu de la guerre Ares. Cela déclenche une série d'événements qui mènent à des guerres avec les panthéons mythologiques.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Basierend auf verschiedenen Mythologien folgt die Geschichte Kratos, einem spartanischen Krieger, der von seinem ehemaligen Meister, dem Kriegsgott Ares, dazu getrieben wurde, seine Familie zu töten. Dies löst eine Reihe von Ereignissen aus, die zu Kriegen mit mythologischen Pantheons führen.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>God of War</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2005</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>David Jaffe</text>
+		</text>			
+
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  lang="pt">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="en">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="es">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="fr">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

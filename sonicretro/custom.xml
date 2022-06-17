@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Also known as the Star Engine, is a game engine created by "The Taxman". It is designed to deliver features from the 32-bit console era and below, and focuses on things like raster effects, palette manipulations, 'mode 7', and other features of retro games from back then.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Também conhecido como Star Engine, é uma engine criada por "The Taxman" (Christian Whitehead). Ele foi projetado para fornecer recursos da era do console de 32 bits e abaixo, e se concentra em coisas como efeitos raster, manipulações de paleta, 'modo 7' e outros recursos de jogos retrô da época.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Also known as the Star Engine, is a game engine created by "The Taxman". It is designed to deliver features from the 32-bit console era and below, and focuses on things like raster effects, palette manipulations, 'mode 7', and other features of retro games from back then.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>También conocido como Star Engine, es un motor de juego creado por "The Taxman" (Christian Whitehead). Está diseñado para ofrecer características de la era de las consolas de 32 bits e inferiores, y se enfoca en cosas como efectos de trama, manipulaciones de paleta, 'modo 7' y otras características de los juegos retro de entonces.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Aussi connu sous le nom de Star Engine, est un moteur de jeu créé par "The Taxman". Il est conçu pour fournir des fonctionnalités de l'ère des consoles 32 bits et inférieures, et se concentre sur des éléments tels que les effets raster, les manipulations de palette, le «mode 7» et d'autres fonctionnalités des jeux rétro de l'époque.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Auch als Star Engine bekannt, ist eine Spiel-Engine, die von „The Taxman“ (Christian Whitehead) entwickelt wurde. Es wurde entwickelt, um Funktionen aus der 32-Bit-Konsolenära und darunter bereitzustellen, und konzentriert sich auf Dinge wie Rastereffekte, Palettenmanipulationen, "Modus 7" und andere Funktionen von Retro-Spielen von damals.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Sonic Retro</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2011</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Christian Whitehead</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

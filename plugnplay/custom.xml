@@ -1,0 +1,75 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Plug It In & Play TV Games interactive products are a series of game devices produced by Jakks Pacific. When connected to a television set via RCA connector cables, the user is able to play a pre-defined selection of video games.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Os produtos interativos Plug It In & Play TV Games são uma série de dispositivos produzidos pela Jakks Pacific. Quando conectado a uma televisão através de cabos conectores RCA, o usuário pode jogar uma seleção pré-definida de videogames.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Plug It In & Play TV Games interactive products are a series of game devices produced by Jakks Pacific. When connected to a television set via RCA connector cables, the user is able to play a pre-defined selection of video games.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Los productos interactivos Plug It In & Play TV Games son una serie de dispositivos de juego producidos por Jakks Pacific. Cuando se conecta a un televisor a través de cables con conector RCA, el usuario puede jugar una selección predefinida de videojuegos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Les produits interactifs Plug It In & Play TV Games sont une série d'appareils de jeu produits par Jakks Pacific. Lorsqu'il est connecté à un téléviseur via des câbles de connexion RCA, l'utilisateur peut jouer à une sélection prédéfinie de jeux vidéo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Plug It In & Play Interaktive TV-Spiele sind eine Reihe von Spielgeräten, die von Jakks Pacific hergestellt werden. Bei Anschluss an ein Fernsehgerät über RCA-Verbindungskabel kann der Benutzer eine vordefinierte Auswahl an Videospielen spielen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Plug'n'Play TV</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2002</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Jakks Pacific</text>
+		</text>		
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/tvgames.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/tvgames.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/tvgames.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/tvgames.png</path>
+		</image>
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

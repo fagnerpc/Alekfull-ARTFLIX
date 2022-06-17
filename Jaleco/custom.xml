@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Jaleco is known for its arcade and home console video games produced in the 1980s and early 1990s, including City Connection, Bases Loaded, Ninja JaJaMaru-kun, Exerion, Idol Janshi Suchie-Pai and Rushing Beat.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Jaleco é conhecida por seus videogames de arcade e console doméstico produzidos na década de 1980 e início de 1990, incluindo City Connection, Bases Loaded, Ninja JaJaMaru-kun, Exerion, Idol Janshi Suchie-Pai e Rushing Beat.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Jaleco is known for its arcade and home console video games produced in the 1980s and early 1990s, including City Connection, Bases Loaded, Ninja JaJaMaru-kun, Exerion, Idol Janshi Suchie-Pai and Rushing Beat.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Jaleco es conocido por sus videojuegos de arcade y consola doméstica producidos en la década de 1980 y principios de la de 1990, incluidos City Connection, Bases Loaded, Ninja JaJaMaru-kun, Exerion, Idol Janshi Suchie-Pai y Rushing Beat.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Jaleco est connu pour ses jeux vidéo d'arcade et de console de salon produits dans les années 1980 et au début des années 1990, notamment City Connection, Bases Loaded, Ninja JaJaMaru-kun, Exerion, Idol Janshi Suchie-Pai et Rushing Beat.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Jaleco ist bekannt für seine Arcade- und Heimkonsolen-Videospiele, die in den 1980er und frühen 1990er Jahren produziert wurden, darunter City Connection, Bases Loaded, Ninja JaJaMaru-kun, Exerion, Idol Janshi Suchie-Pai und Rushing Beat.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Jaleco</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1974</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Yoshiaki Kanazawa</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

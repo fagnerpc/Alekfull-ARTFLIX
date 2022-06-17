@@ -41,7 +41,7 @@
 
 	<customView name="HCoinSpin">
       <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
+         <path>./../assets/coinops/windows.png</path>
          <zIndex>7</zIndex>
       </image>
 	</customView>
@@ -49,7 +49,7 @@
 
 	<customView name="CoinOps Details">
       <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
+         <path>./../assets/coinops/windows.png</path>
          <zIndex>7</zIndex>
       </image>
 	</customView>

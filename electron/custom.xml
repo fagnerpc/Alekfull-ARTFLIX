@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Acorn Electron (nicknamed the Elk inside Acorn and beyond) was a budget version of the BBC Micro educational/home computer introduced by Acorn Computers Ltd. It had 32 kilobytes of RAM, and its ROM includes BBC BASIC v2 along with its operating system.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Acorn Electron (apelidado de Elk dentro da Acorn e além) era uma versão econômica do computador educacional / doméstico BBC Micro introduzido pela Acorn Computers Ltd. Ele tinha 32 kilobytes de RAM e sua ROM inclui BBC BASIC v2 junto com seu sistema operacional.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Acorn Electron (nicknamed the Elk inside Acorn and beyond) was a budget version of the BBC Micro educational/home computer introduced by Acorn Computers Ltd. It had 32 kilobytes of RAM, and its ROM includes BBC BASIC v2 along with its operating system.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Acorn Electron (apodado Elk dentro de Acorn y más allá) era una versión económica de la computadora doméstica / educativa BBC Micro presentada por Acorn Computers Ltd. Tenía 32 kilobytes de RAM y su ROM incluye BBC BASIC v2 junto con su sistema operativo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Acorn Electron (surnommé l'élan à l'intérieur d'Acorn et au-delà) était une version économique de l'ordinateur éducatif / domestique BBC Micro introduit par Acorn Computers Ltd. Il avait 32 kilo-octets de RAM et sa ROM comprend BBC BASIC v2 avec son système d'exploitation.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Acorn Electron (mit dem Spitznamen Elk in Acorn und darüber hinaus) war eine Budgetversion des von Acorn Computers Ltd. eingeführten BBC Micro-Lern- / Heimcomputers. Er hatte 32 Kilobyte RAM und sein ROM enthält BBC BASIC v2 zusammen mit seinem Betriebssystem.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Acorn Electron</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Acorn Computers</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

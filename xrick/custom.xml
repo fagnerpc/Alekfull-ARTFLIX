@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a platform game developed by Core Design originally for the Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64, and MS-DOS. The game was released in 1989 and published by MicroProse on the Firebird Software label in the UK, and on the MicroPlay label in America. </text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um jogo de plataforma desenvolvido pela Core Design originalmente para Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 e MS-DOS. O jogo foi lançado em 1989 e publicado pela MicroProse no selo Firebird Software no Reino Unido e no selo MicroPlay na América.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a platform game developed by Core Design originally for the Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64, and MS-DOS. The game was released in 1989 and published by MicroProse on the Firebird Software label in the UK, and on the MicroPlay label in America. </text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es un juego de plataformas desarrollado por Core Design originalmente para Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 y MS-DOS. El juego fue lanzado en 1989 y publicado por MicroProse en el sello Firebird Software en el Reino Unido y en el sello MicroPlay en Estados Unidos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un jeu de plateforme développé par Core Design à l'origine pour Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 et MS-DOS. Le jeu est sorti en 1989 et publié par MicroProse sur le label Firebird Software au Royaume-Uni et sur le label MicroPlay en Amérique.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein Plattformspiel, das von Core Design ursprünglich für Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 und MS-DOS entwickelt wurde. Das Spiel wurde 1989 veröffentlicht und von MicroProse auf dem Label Firebird Software in Großbritannien und auf dem Label MicroPlay in Amerika veröffentlicht.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Rick Dangerous</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Core Design</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

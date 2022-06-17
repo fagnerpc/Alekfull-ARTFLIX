@@ -15,6 +15,9 @@
 	<include subset="iconset" name="Switch">./iconsets/switch.xml</include>
 
 	<include subset="systemview" name="Cobalto" displayName="${cobalto}">./systemview/6A.xml</include>
+	<include subset="systemview" name="Cobalto - Random Box Background" displayName="${cobaltorandbg}">./systemview/6AB.xml</include>
+	<include subset="systemview" name="Cobalto - Random Fanart Background" displayName="${cobaltorandbbg}">./systemview/6AC.xml</include>
+	<include subset="systemview" name="Cobalto - Random Video Background" displayName="${cobaltovrandvid}">./systemview/6AD.xml</include>
 	<include subset="systemview" name="Default Artflix" displayName="${srandvideo}">./systemview/7AB.xml</include>
 	<include subset="systemview" name="Random Box Background" displayName="${srandbg}">./systemview/7AC.xml</include>
 	<include subset="systemview" name="Random Fanart Background" displayName="${srandbbg}">./systemview/7ACC.xml</include>

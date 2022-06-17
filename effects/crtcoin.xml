@@ -7,7 +7,7 @@
          <size>0.365 0.48</size>
          <path>./../effects/effect_crt.mp4</path>
          <color>FFFFFF20</color>
-         <zIndex>6</zIndex>
+         <zIndex>7</zIndex>
 	  </video>
   </customView>
   
@@ -17,7 +17,7 @@
          <size>0.365 0.48</size>
          <path>./../effects/effect_crt.mp4</path>
          <color>FFFFFF20</color>
-         <zIndex>6</zIndex>
+         <zIndex>7</zIndex>
 	  </video>
   </customView>  
 </theme>

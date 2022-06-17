@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is the series of arcade boards Cave released all its arcade games on between 2004 to 2012. First the CV1000-B was produced, featuring a Hitachi SH-3 CPU (hence why it may sometimes to be referred to as the “Cave SH-3”). In 2008, the CV1000-D was produced which featured additional RAM.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É a série de placas de arcade que Cave lançou todos os seus jogos de arcade entre 2004 e 2012. Primeiro foi produzido o CV1000-B, com um CPU Hitachi SH-3 (daí porque às vezes pode ser referido como o "Cave SH-3 "). Em 2008, o CV1000-D foi produzido com RAM adicional.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is the series of arcade boards Cave released all its arcade games on between 2004 to 2012. First the CV1000-B was produced, featuring a Hitachi SH-3 CPU (hence why it may sometimes to be referred to as the “Cave SH-3”). In 2008, the CV1000-D was produced which featured additional RAM.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es la serie de tableros de arcade que Cave lanzó todos sus juegos de arcade entre 2004 y 2012. Primero se produjo el CV1000-B, que presentaba una CPU Hitachi SH-3 (de ahí que a veces se le llame "Cave SH-3 ”). En 2008, se produjo el CV1000-D que incluía RAM adicional.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est-ce que la série de cartes d'arcade Cave a sorti tous ses jeux d'arcade entre 2004 et 2012. Le CV1000-B a d'abord été produit, avec un processeur Hitachi SH-3 (d'où la raison pour laquelle il peut parfois être appelé le "Cave SH-3 ”). En 2008, le CV1000-D a été produit avec de la RAM supplémentaire.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist die Reihe von Arcade-Boards, auf denen Cave alle seine Arcade-Spiele zwischen 2004 und 2012 veröffentlicht hat. Zuerst wurde das CV1000-B mit einer Hitachi SH-3-CPU produziert (daher wird es manchmal als „Cave SH-3“ bezeichnet “). Im Jahr 2008 wurde der CV1000-D mit zusätzlichem RAM produziert.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Cave CV1000</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>CAVE Interactive</text>
+		</text>			
+	</view>
+	
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/coinops.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/coinops.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

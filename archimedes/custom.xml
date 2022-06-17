@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Acorn Archimedes is a family of personal computers designed by Acorn Computers of Cambridge, England. The systems are based on Acorn's own ARM architecture processors and the proprietary operating systems Arthur and RISC OS.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Acorn Archimedes é uma família de computadores pessoais projetados pela Acorn Computers de Cambridge, Inglaterra. Os sistemas são baseados nos próprios processadores de arquitetura ARM da Acorn e nos sistemas operacionais proprietários Arthur e RISC OS.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Acorn Archimedes is a family of personal computers designed by Acorn Computers of Cambridge, England. The systems are based on Acorn's own ARM architecture processors and the proprietary operating systems Arthur and RISC OS.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Acorn Archimedes es una familia de computadoras personales diseñadas por Acorn Computers de Cambridge, Inglaterra. Los sistemas se basan en los procesadores de arquitectura ARM propios de Acorn y los sistemas operativos patentados Arthur y RISC OS.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Acorn Archimedes est une famille d'ordinateurs personnels conçus par Acorn Computers de Cambridge, en Angleterre. Les systèmes sont basés sur les propres processeurs d'architecture ARM d'Acorn et sur les systèmes d'exploitation propriétaires Arthur et RISC OS.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Acorn Archimedes ist eine Familie von Personal Computern, die von Acorn Computers in Cambridge, England, entwickelt wurde. Die Systeme basieren auf Acorns eigenen Prozessoren mit ARM-Architektur und den proprietären Betriebssystemen Arthur und RISC OS.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Archimedes</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Acorn Computers</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

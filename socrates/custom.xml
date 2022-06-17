@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The VTech Socrates is an 8-bit educational home video game console manufactured and released in 1988 by VTech. The console features a robot character Socrates, named after the philosopher. It was discontinued in the early 1990s.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O VTech Socrates é um console de videogame doméstico educacional de 8 bits fabricado e lançado em 1988 pela VTech. O console apresenta um personagem robô Sócrates, em homenagem ao filósofo. Foi descontinuado no início dos anos 1990.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The VTech Socrates is an 8-bit educational home video game console manufactured and released in 1988 by VTech. The console features a robot character Socrates, named after the philosopher. It was discontinued in the early 1990s.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>VTech Socrates es una consola de videojuegos doméstica educativa de 8 bits fabricada y lanzada en 1988 por VTech. La consola presenta un personaje robot Sócrates, llamado así por el filósofo. Se suspendió a principios de la década de 1990.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Le VTech Socrates est une console de jeu vidéo domestique éducative 8 bits fabriquée et lancée en 1988 par VTech. La console présente un personnage de robot Socrate, nommé d'après le philosophe. Il a été arrêté au début des années 1990.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Das VTech Socrates ist eine 8-Bit-Heimvideospielkonsole, die 1988 von VTech hergestellt und veröffentlicht wurde. Die Konsole verfügt über eine Roboterfigur Sokrates, benannt nach dem Philosophen. Es wurde Anfang der 1990er Jahre eingestellt.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Socrates</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1988</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>VTech</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

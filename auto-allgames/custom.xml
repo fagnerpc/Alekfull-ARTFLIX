@@ -75,6 +75,14 @@
 	</image>
 
 
+			<image name="logo" lang="PT">
+		<path>./assets/logos/auto-allgames-pt.png</path>
+	</image>
+
+				<image name="sublogo" lang="PT">
+		<path>./assets/logos/auto-allgames-pt.png</path>
+	</image>
+
 			<image name="logo" lang="ES">
 		<path>./assets/logos/auto-allgames-es.png</path>
 	</image>

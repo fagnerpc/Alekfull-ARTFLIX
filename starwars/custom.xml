@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true" lang="EN">
+			<text>Is an American epic space opera multimedia franchise created by George Lucas, which began with the eponymous 1977 film and quickly became a worldwide pop-culture phenomenon. The franchise has been expanded into various films and other media.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É uma franquia multimídia de ópera espacial épica americana criada por George Lucas, que começou com o filme homônimo de 1977 e rapidamente se tornou um fenômeno da cultura pop mundial. A franquia foi expandida para vários filmes e outras mídias.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is an American epic space opera multimedia franchise created by George Lucas, which began with the eponymous 1977 film and quickly became a worldwide pop-culture phenomenon. The franchise has been expanded into various films and other media.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una franquicia multimedia de ópera espacial épica estadounidense creada por George Lucas, que comenzó con la película homónima de 1977 y rápidamente se convirtió en un fenómeno mundial de la cultura pop. La franquicia se ha expandido a varias películas y otros medios.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une franchise multimédia américaine d'opéra spatial épique créée par George Lucas, qui a commencé avec le film éponyme de 1977 et est rapidement devenue un phénomène mondial de la culture pop. La franchise a été étendue à divers films et autres médias.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine von George Lucas geschaffene amerikanische epische Multimedia-Franchise für Weltraumopern, die mit dem gleichnamigen Film von 1977 begann und schnell zu einem weltweiten Phänomen der Popkultur wurde. Das Franchise wurde auf verschiedene Filme und andere Medien ausgeweitet.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Star Wars</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1977</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>George Lucas</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

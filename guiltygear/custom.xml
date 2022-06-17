@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a series of fighting games by Arc System Works, created and designed by artist Daisuke Ishiwatari. The first game was published in 1998, and has spawned several sequels. It has also adapted to other media such as manga and drama CD.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É uma série de jogos de luta da Arc System Works, criada e projetada pelo artista Daisuke Ishiwatari. O primeiro jogo foi publicado em 1998 e gerou várias sequências. Também se adaptou a outras mídias, como mangá e drama CD.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a series of fighting games by Arc System Works, created and designed by artist Daisuke Ishiwatari. The first game was published in 1998, and has spawned several sequels. It has also adapted to other media such as manga and drama CD.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una serie de juegos de lucha de Arc System Works, creada y diseñada por el artista Daisuke Ishiwatari. El primer juego se publicó en 1998 y ha generado varias secuelas. También se ha adaptado a otros medios como manga y drama CD.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une série de jeux de combat par Arc System Works, créée et conçue par l'artiste Daisuke Ishiwatari. Le premier jeu a été publié en 1998 et a engendré plusieurs suites. Il s'est également adapté à d'autres supports tels que les mangas et les CD dramatiques.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Reihe von Kampfspielen von Arc System Works, die vom Künstler Daisuke Ishiwatari erstellt und gestaltet wurden. Das erste Spiel wurde 1998 veröffentlicht und hat mehrere Fortsetzungen hervorgebracht. Es hat sich auch an andere Medien wie Manga und Drama-CD angepasst.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Guilty Gear</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Daisuke Ishiwatari</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

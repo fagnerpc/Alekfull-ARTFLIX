@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Video game music player is a utility from MAME used to natively playback video game music from their sources. Notably, it is not playing from a recording of the audio but actually emulating the chips used to play the music itself. Certain sound systems can be very CPU intensive, such as the Q-sound audio board.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O reprodutor de música de videogame é um utilitário do MAME usado para reproduzir nativamente músicas de videogame de suas fontes. Notavelmente, não está tocando a partir de uma gravação do áudio, mas na verdade emulando os chips usados ​​para tocar a música em si.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Video game music player is a utility from MAME used to natively playback video game music from their sources. Notably, it is not playing from a recording of the audio but actually emulating the chips used to play the music itself. Certain sound systems can be very CPU intensive, such as the Q-sound audio board.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>El reproductor de música de videojuegos es una utilidad de MAME que se utiliza para reproducir de forma nativa música de videojuegos desde sus fuentes. En particular, no se reproduce desde una grabación de audio, sino que en realidad emula los chips utilizados para reproducir la música en sí.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Le lecteur de musique de jeux vidéo est un utilitaire de MAME utilisé pour lire nativement la musique de jeux vidéo à partir de leurs sources. Notamment, il ne joue pas à partir d'un enregistrement de l'audio mais émule en fait les puces utilisées pour jouer la musique elle-même.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Video Game Music Player ist ein Dienstprogramm von MAME, das zur nativen Wiedergabe von Videospielmusik aus ihren Quellen verwendet wird. Insbesondere spielt es nicht von einer Audioaufnahme ab, sondern emuliert tatsächlich die Chips, die zum Abspielen der Musik selbst verwendet werden.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Video Game Music Player</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>MAME Team</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

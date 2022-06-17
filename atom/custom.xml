@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Acorn Atom is a home computer made by Acorn Computers Ltd from 1980 to 1982, when it was replaced by the BBC Micro. The Micro began life as an upgrade to the Atom, originally known as the Proton.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Acorn Atom é um computador doméstico fabricado pela Acorn Computers Ltd de 1980 a 1982, quando foi substituído pela BBC Micro. O Micro começou a vida como uma atualização do Atom, originalmente conhecido como Proton.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Acorn Atom is a home computer made by Acorn Computers Ltd from 1980 to 1982, when it was replaced by the BBC Micro. The Micro began life as an upgrade to the Atom, originally known as the Proton.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Acorn Atom es una computadora doméstica fabricada por Acorn Computers Ltd desde 1980 hasta 1982, cuando fue reemplazada por BBC Micro. El Micro comenzó su vida como una actualización del Atom, originalmente conocido como Proton.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Acorn Atom est un ordinateur domestique fabriqué par Acorn Computers Ltd de 1980 à 1982, date à laquelle il a été remplacé par le BBC Micro. Le Micro a commencé sa vie comme une mise à niveau de l'Atom, à l'origine connu sous le nom de Proton.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Acorn Atom ist ein Heimcomputer, der von Acorn Computers Ltd von 1980 bis 1982 hergestellt wurde, als er durch den BBC Micro ersetzt wurde. Der Micro begann als Upgrade des Atom, ursprünglich bekannt als Proton.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Acorn Atom</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Acorn Computers</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>
