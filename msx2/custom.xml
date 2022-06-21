@@ -25,6 +25,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>MSX hat vier Generationen hervorgebracht: MSX, MSX2, MSX2+ und MSX TurboR. Die ersten drei waren 8-Bit-Computer, die auf dem Z80-Mikroprozessor basierten, während der MSX TurboR auf einem benutzerdefinierten 16-Bit-R800-Mikroprozessor basierte.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>MSX产生了四代：MSX、MSX2、MSX2+ 和MSX TurboR。前三个是基于Z80微处理器的8位计算机，而MSX TurboR是基于定制的16位R800微处理器。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>MSX產生了四代：MSX、MSX2、MSX2+ 和MSX TurboR。前三個是基於Z80微處理器的8位計算機，而 MSX TurboR是基於定制的16 位R800微處理器。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>MSX2</text>
