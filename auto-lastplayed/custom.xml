@@ -25,8 +25,16 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Die zuletzt gespielten Spiele aller verfügbaren Systeme erscheinen hier in einer einzigen Liste, organisiert in absteigender Reihenfolge. Sie können Ihr Lieblingsspiel nach verschiedenen Kriterien über das System suchen.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>按降序排列展示最近玩过的游戏。</text>
+		</text>
 
-				<text name="info2" extra="true">
+		<text name="info1" extra="true" lang="TW">
+			<text>按降序排列展示最近玩過的遊戲。</text>
+		</text>
+		
+		<text name="info2" extra="true">
 			<text>Last Played</text>
 		</text>
 
@@ -44,6 +52,14 @@
 		</text>
 		<text name="info2" extra="true" lang="DE">
 			<text>Zuletzt gespielt</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>最近玩过的游戏</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
+			<text>最近玩的遊戲</text>
 		</text>
 
 		<text name="info3" extra="true">

@@ -25,7 +25,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>MSX ist eine standardisierte Heimcomputerarchitektur, die erstmals am 16. Juni 1983 von Microsoft angekündigt und von Kazuhiko Nishi, damals Vizepräsident bei Microsoft Japan und Direktor bei ASCII Corporation, vermarktet wurde.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>MSX是一种标准化的家用电脑体系结构，由 Microsoft 于1983 年6 月16日首次发布，并由时任Microsoft日本副总裁兼ASCII Corporation董事Kazuhiko Nishi推出。</text>
+		</text>
 
+		<text name="info1" extra="true" lang="TW">
+			<text>MSX是一種標準化的家用電腦體系結構，由Microsoft 於1983 年6月16日首次發佈，並由時任 Microsoft 日本副總裁兼 ASCII Corporation董事Kazuhiko Nishi推出。</text>
+		</text>
 		<text name="info2" extra="true">
 			<text>MSX</text>
 		</text>
