@@ -716,7 +716,7 @@ Tema proibido para uso comercial
   <view name="grid">
       <image name="logo">
          <path>./assets/logos/${system.theme}.png</path>
-         <pos>0.02 0.12</pos>
+         <pos>0.08 0.04</pos>
          <maxSize>0.34 0.16</maxSize>
          <origin>0 0</origin>
          <zIndex>4</zIndex>
@@ -736,11 +736,13 @@ Tema proibido para uso comercial
          <size>1 1</size>
          <zIndex>0</zIndex>
       </image>
+	  
       <image name="art" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./assets/arts/$system.jpg</path>
+         <path>./assets/arts/540/$system.jpg</path>
+		 <linearSmooth>true</linearSmooth>
          <zIndex>2</zIndex>
       </image>
       <image name="art2" extra="true">
@@ -763,7 +765,7 @@ Tema proibido para uso comercial
          <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
       </datetime>
       <rating name="md_rating">
-         <pos>0.88 0.88</pos>
+         <pos>0.83 0.94</pos>
          <size>0.05 0.03</size>
          <color>FFFFFF</color>
          <unfilledColor>808080</unfilledColor>
@@ -1460,6 +1462,7 @@ Tema proibido para uso comercial
          <pos>0.188 0.60</pos>
          <size>0.25 0</size>
          <zIndex>36</zIndex>
+		 <linearSmooth>true</linearSmooth>
       </image>
 
       <text name="md_name">
@@ -1561,9 +1564,103 @@ Tema proibido para uso comercial
          <zIndex>0</zIndex>
       </image>
 
-      <image name="logo">
-         <zIndex>0</zIndex>
+      <rating name="md_rating">
+         <origin>0.5 0</origin>
+         <pos>0.028 0.298</pos>
+         <size>0.035 0.025</size>
+         <rotation>-90</rotation> 
+         <color>4e0202</color>
+         <unfilledPath>./_inc/images/star_empty.svg</unfilledPath>
+         <unfilledColor>c8c8c8</unfilledColor>
+         <horizontalAlignment>right</horizontalAlignment>  
+         <zIndex>15</zIndex>
+      </rating>    
+
+      <text name="md_players">
+         <fontPath>./_inc/fonts/players.ttf</fontPath>
+         <text>1</text>
+         <size>0.034 0.039</size>
+         <pos>0.011 0.215</pos>
+         <alignment>center</alignment>
+         <fontSize>0.03</fontSize>
+         <color>D0D0D0D0</color>
+         <zIndex>55</zIndex>
+      </text>
+		
+      <image name="md_flag"> 
+		<color>707077FF</color>
+       <pos>0.028 0.955</pos>
+       <maxSize>0.020 0.015</maxSize>
       </image>
+    
+      <image name="md_cheevos, md_notcheevos">
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+      </image>
+ 
+	<image name="ghost_cheevos" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/Contest.png</path>
+      <pos>0.028 0.184</pos>
+      <maxSize>0.02 0.03</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_notcheevos">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_savestate, md_nosavestate">
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+    </image>
+ 
+	<image name="ghost_savestate" extra="true">
+      <origin>0.5 0.5</origin>
+      <path>./_inc/icons/SaveState.png</path>
+      <pos>0.028 0.134</pos>
+      <maxSize>0.02 0.025</maxSize>
+      <color>80808080</color>
+      <zIndex>12</zIndex>
+	</image>
+ 
+    <image name="md_nosavestate">
+      <color>80808030</color>
+    </image>
+
+    <image name="md_manual, md_nomanual">
+      <path>./_inc/icons/book.png</path>
+      <pos>0.98 0.812</pos>
+      <pos>0.028 0.067</pos>
+      <maxSize>0.02 0.028</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>D0D0D0D0</color>
+      <zIndex>150</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+
+    <image name="md_nomanual">
+      <color>80808025</color>
+    </image>
+
+    <image name="logo">
+	  	 <path>./assets/logos/${system.theme}.png</path>
+		 <path>./assets/logos/${system.theme}.svg</path>
+         <pos>0.810 0.882</pos>
+         <size>0.12 0</size>
+		 <zIndex>15</zIndex>
+		 <color>505055FF</color>
+		 <linearSmooth>true</linearSmooth>
+    </image>
 
 	<image name="logohue" extra="true">
 		<path>./assets/logohueo.png</path>
@@ -3184,6 +3281,15 @@ Tema proibido para uso comercial
       <image name="gridtile.favorite">
          <pos>0.915 0</pos>
       </image>
+
+	<helpsystem name="help">
+		<fontPath>./_inc/fonts/Circular Std Book.ttf</fontPath>
+		<fontSize>0.014</fontSize>
+		<pos>0.026 0.98</pos>
+		<textColor>9e9e9e</textColor>
+		<glowColor>00000016</glowColor>
+		<glowSize>2</glowSize>
+	</helpsystem>
 		
    </customView>
 
@@ -3338,7 +3444,6 @@ Tema proibido para uso comercial
 		<glowSize>1</glowSize>
 		<zIndex>42</zIndex>
       </text>
-
  
     <image name="md_cheevos, md_notcheevos">
       <pos>0.018 0.174</pos>
@@ -3369,6 +3474,10 @@ Tema proibido para uso comercial
       <image name="gridtile.favorite">
          <pos>0.915 0</pos>
       </image>
+	  
+      <helpsystem name="help">
+		<pos>0.026 0.98</pos>
+      </helpsystem>	  
    </customView>
 
   <customView name="Banner View" inherits="grid" displayName="${basicbanner}">
