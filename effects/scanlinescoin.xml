@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <customView name="HCoinSpin">
+      <image name="tv_effect" extra="true">
+         <pos>0.106 0.30</pos>
+         <size>0.365 0.48</size>
+         <path>./scanlines.png</path>
+         <color>FFFFFF80</color>
+         <tile>true</tile>
+         <zIndex>7</zIndex>
+	  </image>
+  </customView>
+  
+  <customView name="CoinOps Details">
+      <image name="tv_effect" extra="true">
+         <pos>0.106 0.22</pos>
+         <size>0.365 0.48</size>
+         <path>./scanlines.png</path>
+         <color>FFFFFF80</color>
+         <tile>true</tile>
+         <zIndex>7</zIndex>
+	  </image>
+  </customView>  
+</theme>

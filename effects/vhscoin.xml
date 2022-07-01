@@ -6,7 +6,7 @@
          <pos>0.106 0.30</pos>
          <size>0.365 0.48</size>
          <path>./../effects/effect_vhs_glitch.mp4</path>
-         <color>FFFFFF20</color>
+         <color>FFFFFF10</color>
          <zIndex>7</zIndex>
 	  </video>
   </customView>
@@ -16,7 +16,7 @@
          <pos>0.106 0.22</pos>
          <size>0.365 0.48</size>
          <path>./../effects/effect_vhs_glitch.mp4</path>
-         <color>FFFFFF20</color>
+         <color>FFFFFF10</color>
          <zIndex>7</zIndex>
 	  </video>
   </customView>  

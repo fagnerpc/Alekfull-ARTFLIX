@@ -53,8 +53,14 @@ Tema proibido para uso comercial
    <include subset="shader" name="VHS Glitch (Heavy)" displayName="${svhsgl}">./effects/vhs.xml</include>
    <include subset="shader" name="CRT Glitch (Heavy)" displayName="${scrtgl}">./effects/crtvideo.xml</include>
    <include subset="tveffect" name="None" displayName="${none}" appliesTo="HCoinSpin,CoinOps Details"/>
-   <include subset="tveffect" name="Glitch" appliesTo="HCoinSpin,CoinOps Details">./effects/vhscoin.xml</include>
-   <include subset="tveffect" name="CRT" appliesTo="HCoinSpin,CoinOps Details">./effects/crtcoin.xml</include>
+   <include subset="tveffect" name="ScanLines" appliesTo="HCoinSpin,CoinOps Details">./effects/scanlinescoin.xml</include>
+   <include subset="tveffect" name="Phosphore" appliesTo="HCoinSpin,CoinOps Details">./effects/phosphorecoin.xml</include>
+   <include subset="tveffect" name="Phosphore +" appliesTo="HCoinSpin,CoinOps Details">./effects/phospluscoin.xml</include>
+   <include subset="tveffect" name="ScanAlt" appliesTo="HCoinSpin,CoinOps Details" displayName="${scanalt}">./effects/scanlinesscoin.xml</include>
+   <include subset="tveffect" name="Vertical Scanlines" appliesTo="HCoinSpin,CoinOps Details">./effects/scanvertcoin.xml</include>
+   <include subset="tveffect" name="Vertical Fine" appliesTo="HCoinSpin,CoinOps Details">./effects/verticalfinecoin.xml</include>
+   <include subset="tveffect" name="Glitch (Video)" appliesTo="HCoinSpin,CoinOps Details">./effects/vhscoin.xml</include>
+   <include subset="tveffect" name="CRT (Video)" appliesTo="HCoinSpin,CoinOps Details">./effects/crtcoin.xml</include>
    <include subset="ShowTopMarquee" name="Yes" displayName="${yes}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/wmarquee.xml</include>
    <include subset="ShowTopMarquee" name="No" displayName="${no}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/nmarquee.xml</include>
    <include subset="CoinOpsDefault" name="Default" displayName="${default}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/coinops.xml</include>
@@ -749,7 +755,7 @@ Tema proibido para uso comercial
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-         <path>./assets/filter4.png</path>
+         <path>./assets/filter.png</path>
          <zIndex>5</zIndex>
       </image>
       <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
