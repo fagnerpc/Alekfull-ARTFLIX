@@ -10,7 +10,7 @@
 			<text>Era um periférico que se ligava ao Mega Drive e disponibilizava assim a execução de jogos gravados em CD, novidade para a época. O acessório poderia ser acoplado a um 32X para alguns jogos.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+		<text name="info1" extra="true" lang="EN">
 			<text>The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Sega Genesis video game console designed and produced by Sega.</text>
 		</text>
 
@@ -26,7 +26,13 @@
 			<text>Die Sega-CD, die in den meisten Regionen außerhalb Nordamerikas und Brasiliens als Mega-CD veröffentlicht wird, ist ein CD-ROM-Zubehör für die Videospielkonsole Sega Genesis, die von Sega entwickelt und produziert wurde.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>Sega CD 在北美和巴西以外的大部分地区以 Mega-CD 的形式发行，是世嘉设计和生产的MD视频游戏机的CD-ROM附件。</text>
+		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>Sega CD 在北美和巴西以外的大部分地區以Mega-CD的形式發行，是Sega設計和生產的Sega Genesis視頻遊戲機的CD-ROM附件。</text>
+		</text>
 				<text name="info2" extra="true">
 			<text>Sega CD</text>
 		</text>
@@ -45,6 +51,14 @@
 		</text>
 		<text name="info2" extra="true" lang="DE">
 			<text>Sega CD</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
+			<text>世嘉CD</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>世嘉CD</text>
 		</text>
 
 				<text name="info3" extra="true">
