@@ -26,6 +26,14 @@
 			<text>Das 32X ist ein Add-on für die Videospielkonsole Sega Genesis. Das 32X mit dem Codenamen „Project Mars“ wurde entwickelt, um die Leistung des Genesis zu erweitern und als Übergangskonsole in die 32-Bit-Version zu dienen.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>32X是Sega Genesis视频游戏机的附加组件。代号为“Project Mars”的32X旨在扩展 Genesis 的功能并作为过渡到32位的终端。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>32X是Sega Genesis視頻遊戲機的附加組件。代號為“Project Mars”的32X旨在擴展 Genesis 的功能並作為過渡到32位的終端。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Sega 32X</text>
 		</text>
@@ -33,16 +41,26 @@
 		<text name="info2" extra="true" lang="PT">
 			<text>Sega 32X</text>
 		</text>
-						<text name="info2" extra="true" lang="EN">
+		
+		<text name="info2" extra="true" lang="EN">
 			<text>Genesis 32X</text>
 		</text>
-						<text name="info2" extra="true" lang="ES">
+		
+		<text name="info2" extra="true" lang="ES">
 			<text>Mega Drive 32X</text>
 		</text>
 						<text name="info2" extra="true" lang="FR">
 			<text>Mega Drive 32X</text>
 		</text>
 		<text name="info2" extra="true" lang="DE">
+			<text>Mega Drive 32X</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>Mega Drive 32X</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
 			<text>Mega Drive 32X</text>
 		</text>
 
@@ -52,6 +70,14 @@
 
 		<text name="info4" extra="true">
 			<text>Sega Corporation</text>
+		</text>
+		
+		<text name="info4" extra="true"  lang="ZH">
+			<text>世嘉</text>
+		</text>
+		
+		<text name="info4" extra="true"  lang="TW">
+			<text>世嘉</text>
 		</text>
 
 		<image name="logo" lang="EN">

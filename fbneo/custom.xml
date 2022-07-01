@@ -25,6 +25,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>FB NEO ist ein Open-Source-Projekt und wird von einer Gruppe von Personen programmiert, die als FBA-Team bekannt ist. FB Alpha basiert auf dem ursprünglichen FinalBurn von Dave.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>FB NEO 是一个开源项目，由一群被称为 FBA TEAM的人编写。 FB Alpha 基于 Dave 的原始 FinalBurn。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>FB NEO 是一個開源項目，由一群被稱為 FBA TEAM的人編寫。 FB Alpha 基於 Dave 的原始 FinalBurn。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>FinalBurn NEO</text>
@@ -48,7 +56,7 @@
 						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" lang="ES">
+		<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
 						<text name="info5" extra="true" lang="FR">
@@ -56,6 +64,13 @@
 		</text>
 		<text name="info5" extra="true" lang="DE">
 			<text>ENTWICKLER:</text>
+		</text>
+		
+		<text name="info5" extra="true" lang="ZH">
+			<text>开发者:</text>
+		</text>
+		<text name="info5" extra="true" lang="ZH">
+			<text>開發者:</text>
 		</text>
 	</view>
 

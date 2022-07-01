@@ -540,10 +540,10 @@ Tema proibido para uso comercial
     <subset.iconset>菜单图标</subset.iconset>
     <subset.shader>主题着色器</subset.shader>
     <subset.music>系统音乐</subset.music>
-	<theme.mostplayed>播放次数最多：</theme.mostplayed>
+	<theme.mostplayed>游玩次数最多：</theme.mostplayed>
     <GamesNumber>游戏</GamesNumber>
     <GamesFavs>收藏夹</GamesFavs>
-    <NumberPlayed>已播放</NumberPlayed>	
+    <NumberPlayed>曾游玩</NumberPlayed>	
 	<subset.animcarousel>輪播動畫標誌</subset.animcarousel>
 	<subset.animbg>背景動畫</subset.animbg>
 	<subset.iconanim>钴视图图标动画</subset.iconanim>
@@ -621,10 +621,10 @@ Tema proibido para uso comercial
     <subset.iconset>菜單圖標</subset.iconset>
     <subset.shader>主題着色器</subset.shader>
     <subset.music>系統音樂</subset.music>
-	<theme.mostplayed>播放次數最多：</theme.mostplayed>
+	<theme.mostplayed>游玩次數最多：</theme.mostplayed>
     <GamesNumber>遊戲</GamesNumber>
     <GamesFavs>收藏夾</GamesFavs>
-    <NumberPlayed>已播放</NumberPlayed>
+    <NumberPlayed>曾游玩</NumberPlayed>
 	<subset.animcarousel>轮播动画标志</subset.animcarousel>
 	<subset.animbg>背景动画</subset.animbg>
 	<subset.iconanim>鈷視圖圖標動畫</subset.iconanim>

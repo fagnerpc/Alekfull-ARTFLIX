@@ -25,8 +25,24 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Multiple Arcade Machine Emulator ist ein kostenloser Open-Source-Emulator, der entwickelt wurde, um die Hardware von Arcade-Spielsystemen in Software auf modernen PCs und anderen Plattformen nachzubilden.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>MAME即Multiple Arcade Machine Emulator 是一个免费的开源模拟器，旨在在现代个人计算机和其他平台上以软件重新创建街机游戏系统的硬件。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>MAME aka Multiple Arcade Machine Emulator 是一款免費的開源模擬器，旨在在現代個人計算機和其他平台上以軟件重新創建街機遊戲系統的硬件。</text>
+		</text>
 
-				<text name="info2" extra="true">
+		<text name="info2" extra="true">
+			<text>M.A.M.E.</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>MAME</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
 			<text>M.A.M.E.</text>
 		</text>
 
@@ -42,17 +58,23 @@
 			<text>DEVELOPER:</text>
 		</text>
 
-				<text name="info5" extra="true"  lang="PT">
+		<text name="info5" extra="true"  lang="PT">
 			<text>DESENVOLVEDOR:</text>
 		</text>
-						<text name="info5" extra="true" lang="EN">
+		<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" lang="ES">
+		<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" lang="FR">
+		<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="ZH">
+			<text>开发者:</text>
+		</text>
+		<text name="info5" extra="true" lang="TW">
+			<text>開發者:</text>
 		</text>
 		<text name="info5" extra="true" lang="DE">
 			<text>ENTWICKLER:</text>
