@@ -25,6 +25,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Ist eine Heimvideospielkonsole von Atari, Inc. Veröffentlicht am 11. September 1977, ihr wird zugeschrieben, dass sie die Verwendung von mikroprozessorbasierter Hardware und ROM-Cartridges mit Spielcode populär gemacht hat.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>Atari, Inc. 的家用视频游戏机。于1977 年9月11日发布，它以普及基于微处理器的硬件和包含游戏代码的 ROM 卡带而著称。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>是 Atari, Inc. 的家用視頻遊戲機。於1977年9 月11日發布，它以普及基於微處理器的硬件和包含遊戲代碼的 ROM 卡帶而著稱。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Atari 2600</text>
