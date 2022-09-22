@@ -2567,9 +2567,9 @@ Tema proibido para uso comercial
       <text name="gridtile">
          <pos>0 0</pos>
          <size>1 1</size>
-         <fontSize>0.040</fontSize>
+         <fontSize>0.015</fontSize>
          <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
-         <padding>0.1 0</padding>
+         <padding>0.5 0</padding>
       </text>	  
    </customView>
 
@@ -3077,7 +3077,6 @@ Tema proibido para uso comercial
       <imagegrid name="gamegrid">
 			<imageSource>marquee</imageSource>
 			<autoLayout>8 3</autoLayout>
-			<gameImage>./_inc/frame.png</gameImage>
 			<autoLayoutSelectedZoom>1.04</autoLayoutSelectedZoom>
 			<margin>0.000 -0.002</margin>
 			<size>0.970 0.345</size>
@@ -4801,7 +4800,7 @@ Tema proibido para uso comercial
       <text name="gridtile">
          <pos>0 0</pos>
          <size>1 1</size>
-         <fontSize>0.040</fontSize>
+         <fontSize>0.026</fontSize>
          <fontPath>./_inc/fonts/Circular Std Black.ttf</fontPath>
          <padding>0.1 0</padding>
       </text>
