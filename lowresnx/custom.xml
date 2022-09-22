@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>LowRes NX was inspired by real 8- and 16-bit systems and simulates chips for graphics, sound, and I/O that actually work like real hardware. It supports hardware sprites as well as hardware parallax scrolling, and even features vertical white and frame breaks to create authentic retro effects.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O LowRes NX foi inspirado em sistemas reais de 8 e 16 bits e simula chips para gráficos, som e E/S que realmente funcionam como hardware real. Ele suporta sprites de hardware, bem como rolagem de paralaxe de hardware, e ainda apresenta branco vertical e quebras de quadro para criar efeitos retrô autênticos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>LowRes NX was inspired by real 8- and 16-bit systems and simulates chips for graphics, sound, and I/O that actually work like real hardware. It supports hardware sprites as well as hardware parallax scrolling, and even features vertical white and frame breaks to create authentic retro effects.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>LowRes NX se inspiró en sistemas reales de 8 y 16 bits y simula chips para gráficos, sonido y E/S que en realidad funcionan como hardware real. Admite sprites de hardware, así como desplazamiento de paralaje de hardware, e incluso presenta saltos de marco y blanco vertical para crear auténticos efectos retro.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>LowRes NX a été inspiré par de vrais systèmes 8 et 16 bits et simule des puces pour les graphiques, le son et les E/S qui fonctionnent réellement comme du vrai matériel. Il prend en charge les sprites matériels ainsi que le défilement de parallaxe matérielle, et propose même des blancs verticaux et des sauts de cadre pour créer des effets rétro authentiques.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>LowRes NX wurde von echten 8- und 16-Bit-Systemen inspiriert und simuliert Chips für Grafik, Sound und E/A, die tatsächlich wie echte Hardware funktionieren. Es unterstützt Hardware-Sprites sowie Hardware-Parallax-Scrolling und verfügt sogar über vertikale Weiß- und Frame-Breaks, um authentische Retro-Effekte zu erzeugen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>LowRes NX</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2017</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Timo Kloss</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

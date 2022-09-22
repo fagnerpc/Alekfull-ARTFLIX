@@ -28,7 +28,7 @@
 
 		
 		<text name="info2" extra="true">
-			<text>Taito Type X²</text>
+			<text>Taito Type X</text>
 		</text>
 		
 		<text name="info3" extra="true">
@@ -39,20 +39,5 @@
 			<text>Taito</text>
 		</text>			
 	</view>
-	
-		<customView name="HCoinSpin">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
-
-
-	<customView name="CoinOps Details">
-      <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
-         <zIndex>7</zIndex>
-      </image>
-	</customView>
 	
 </theme>
