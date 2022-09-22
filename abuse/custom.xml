@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Abuse was originally developed by Crack dot Com and released in 1995 for MS-DOS. A Linux version was also made available at a later date. It had a few limitations the most restrictive of which was that it only ran on an 8-bit display, and only in a window.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Abuse foi originalmente desenvolvido pela Crack dot Com e lançado em 1995 para MS-DOS. Uma versão Linux também foi disponibilizada posteriormente. Ele tinha algumas limitações, sendo a mais restritiva o fato de rodar apenas em uma tela de 8 bits e apenas em uma janela.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Abuse was originally developed by Crack dot Com and released in 1995 for MS-DOS. A Linux version was also made available at a later date. It had a few limitations the most restrictive of which was that it only ran on an 8-bit display, and only in a window.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Abuse fue desarrollado originalmente por Crack dot Com y lanzado en 1995 para MS-DOS. Una versión de Linux también estuvo disponible en una fecha posterior. Tenía algunas limitaciones, la más restrictiva de las cuales era que solo se ejecutaba en una pantalla de 8 bits y solo en una ventana.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Abuse a été initialement développé par Crack dot Com et publié en 1995 pour MS-DOS. Une version Linux a également été mise à disposition à une date ultérieure. Il avait quelques limitations dont la plus restrictive était qu'il ne fonctionnait que sur un écran 8 bits et uniquement dans une fenêtre.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Abuse wurde ursprünglich von Crack dot Com entwickelt und 1995 für MS-DOS veröffentlicht. Zu einem späteren Zeitpunkt wurde auch eine Linux-Version zur Verfügung gestellt. Es hatte ein paar Einschränkungen, von denen die restriktivste war, dass es nur auf einem 8-Bit-Display und nur in einem Fenster lief.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Abuse</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Crack dot Com</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -2,7 +2,7 @@
 ALEKFULL-ARTFLIX theme by fagnerpc
 https://facebook.com/alekfull.arcade
 
-Version: 2.5 for Batocera 5.25+, Retrobat and Emuelec 3.24+
+Version: 2.6 for Batocera 5.25+, Retrobat and Emuelec 3.24+
 https://github.com/fagnerpc/Alekfull-ARTFLIX
 Artes, codigo e conceito por fagnerpc
 Tema proibido para uso comercial
@@ -1442,17 +1442,12 @@ Tema proibido para uso comercial
          <maxSize>0.22 0.12</maxSize>
       </image>
 
-	   <image name="md_fanart">
+	   <image name="md_image">
          <origin>0 0</origin>
          <size>0.9 0.9</size>
          <pos>0.45 0</pos>
          <zIndex>5</zIndex>
 		 <linearSmooth>true</linearSmooth>
-      </image>
-
-      <image name="md_image">
-         <zIndex>4</zIndex>
-         <pos>0.15 0</pos>
       </image>
 
       <helpsystem name="help">

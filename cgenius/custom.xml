@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Commander Genius aka Clone Keen Plus is a Commander Keen open source port to different platforms such as Linux, Windows, Mac OS and several handheld devices (GP2X, Wiz, Dingux, iPhone, Android). The project started as a continuation of CloneKeen.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Commander Genius aka Clone Keen Plus é uma porta de código aberto Commander Keen para diferentes plataformas, como Linux, Windows, Mac OS e vários dispositivos portáteis (GP2X, Wiz, Dingux, iPhone, Android). O projeto começou como uma continuação do CloneKeen.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Commander Genius aka Clone Keen Plus is a Commander Keen open source port to different platforms such as Linux, Windows, Mac OS and several handheld devices (GP2X, Wiz, Dingux, iPhone, Android). The project started as a continuation of CloneKeen.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Commander Genius, también conocido como Clone Keen Plus, es un puerto de código abierto de Commander Keen para diferentes plataformas como Linux, Windows, Mac OS y varios dispositivos portátiles (GP2X, Wiz, Dingux, iPhone, Android). El proyecto comenzó como una continuación de CloneKeen.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Commander Genius alias Clone Keen Plus est un port open source Commander Keen vers différentes plates-formes telles que Linux, Windows, Mac OS et plusieurs appareils portables (GP2X, Wiz, Dingux, iPhone, Android). Le projet a commencé comme une continuation de CloneKeen.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Commander Genius alias Clone Keen Plus ist eine Open-Source-Portierung von Commander Keen für verschiedene Plattformen wie Linux, Windows, Mac OS und mehrere Handheld-Geräte (GP2X, Wiz, Dingux, iPhone, Android). Das Projekt begann als Fortsetzung von CloneKeen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Commander Genius</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2008</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>gerstrong</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The GP32 (GamePark 32) is a handheld game console developed by the South Korean company Game Park. It was released on November 23, 2001, in South Korea and distributed in some parts of Europe. The GP32 is based on a 133 MHz ARM 9 CPU and 8 MB of SDRAM.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O GP32 (GamePark 32) é um console de videogame portátil desenvolvido pela empresa sul-coreana Game Park. Foi lançado em 23 de novembro de 2001, na Coréia do Sul e distribuído em algumas partes da Europa. O GP32 é baseado em uma CPU ARM 9 de 133 MHz e 8 MB de SDRAM.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The GP32 (GamePark 32) is a handheld game console developed by the South Korean company Game Park. It was released on November 23, 2001, in South Korea and distributed in some parts of Europe. The GP32 is based on a 133 MHz ARM 9 CPU and 8 MB of SDRAM.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La GP32 (GamePark 32) es una videoconsola portátil desarrollada por la empresa surcoreana Game Park. Fue lanzado el 23 de noviembre de 2001 en Corea del Sur y distribuido en algunas partes de Europa. El GP32 se basa en una CPU ARM 9 de 133 MHz y 8 MB de SDRAM.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>La GP32 (GamePark 32) est une console de jeu portable développée par la société sud-coréenne Game Park. Il est sorti le 23 novembre 2001 en Corée du Sud et distribué dans certaines régions d'Europe. Le GP32 est basé sur un processeur ARM 9 à 133 MHz et 8 Mo de SDRAM.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Der GP32 (GamePark 32) ist eine Handheld-Spielekonsole, die von der südkoreanischen Firma Game Park entwickelt wurde. Es wurde am 23. November 2001 in Südkorea veröffentlicht und in einigen Teilen Europas vertrieben. Das GP32 basiert auf einer 133 MHz ARM 9 CPU und 8 MB SDRAM.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>GamePark 32</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Game Park</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

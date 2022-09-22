@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Jazz Jackrabbit game port: series of games developed by Epic Megagames exclusively for PC and a GBA version. Jazz, a green hare who wields the "LFG-2000" plasma gun, crosses surreal landscapes to save her planet Carrotus and Princess Eva.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Port do jogo Jazz Jackrabbit, série de jogos desenvolvidos pela Epic Megagames exclusivos para computador e uma versão de GBA. Jazz, uma lebre verde que porta a arma de plasma "LFG-2000", atravessa cenários surreais para salvar seu planeta Carrotus e a Princesa Eva.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Jazz Jackrabbit game port: series of games developed by Epic Megagames exclusively for PC and a GBA version. Jazz, a green hare who wields the "LFG-2000" plasma gun, crosses surreal landscapes to save her planet Carrotus and Princess Eva.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Puerto de juego Jazz Jackrabbit: serie de juegos desarrollados por Epic Megagames exclusivamente para PC y una versión GBA. Jazz, una liebre verde que empuña la pistola de plasma "LFG-2000", atraviesa paisajes surrealistas para salvar a su planeta Carrotus y a la Princesa Eva.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Port de jeu Jazz Jackrabbit : série de jeux développés par Epic Megagames exclusivement pour PC et une version GBA. Jazz, un lièvre vert qui manie le pistolet à plasma "LFG-2000", traverse des paysages surréalistes pour sauver sa planète Carrotus et la princesse Eva.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Jazz Jackrabbit Gameport: Reihe von Spielen, die von Epic Megagames exklusiv für PC und eine GBA-Version entwickelt wurden. Jazz, ein grüner Hase, der die Plasmakanone „LFG-2000“ führt, durchquert surreale Landschaften, um ihren Planeten Carrotus und Prinzessin Eva zu retten.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>OpenJazz</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2005</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Alister Thomson</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

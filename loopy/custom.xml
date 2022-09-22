@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a 32-bit home video game console. Released exclusively in Japan, it was unique in that the marketing for it was completely targeted to female gamers. The Loopy includes a built-in thermal color printer that can be used to create stickers from game screenshots.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um console de videogame doméstico de 32 bits. Lançado exclusivamente no Japão, foi o único que o marketing foi totalmente direcionado para jogadores do sexo feminino. O Loopy inclui uma impressora térmica colorida integrada que pode ser usada para criar adesivos a partir de capturas de tela do jogo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a 32-bit home video game console. Released exclusively in Japan, it was unique in that the marketing for it was completely targeted to female gamers. The Loopy includes a built-in thermal color printer that can be used to create stickers from game screenshots.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una consola de videojuegos doméstica de 32 bits. Lanzado exclusivamente en Japón, fue único en el sentido de que su comercialización estaba completamente dirigida a las jugadoras. El Loopy incluye una impresora térmica a color incorporada que se puede usar para crear pegatinas a partir de capturas de pantalla del juego.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une console de jeu vidéo domestique 32 bits. Sorti exclusivement au Japon, il était unique en ce sens que le marketing était entièrement destiné aux joueuses. Le Loopy comprend une imprimante couleur thermique intégrée qui peut être utilisée pour créer des autocollants à partir de captures d'écran de jeux.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine 32-Bit-Heimvideospielkonsole. Es wurde exklusiv in Japan veröffentlicht und war insofern einzigartig, als das Marketing dafür vollständig auf weibliche Spieler ausgerichtet war. Der Loopy enthält einen eingebauten Thermo-Farbdrucker, mit dem Aufkleber aus Spiel-Screenshots erstellt werden können.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Casio Loopy</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Casio</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

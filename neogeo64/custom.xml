@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is an arcade system created by SNK, and released in September 1997, as the successor of the Neo Geo MVS, within the Neo Geo family. It is the first and only SNK hardware set capable of rendering in 3D, and was meant to replace SNK's older MVS system on the market.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um sistema de arcade criado pela SNK, e lançado em setembro de 1997, como sucessor do Neo Geo MVS, dentro da família Neo Geo. É o primeiro e único conjunto de hardware SNK capaz de renderizar em 3D, e foi feito para substituir o antigo sistema MVS da SNK no mercado.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is an arcade system created by SNK, and released in September 1997, as the successor of the Neo Geo MVS, within the Neo Geo family. It is the first and only SNK hardware set capable of rendering in 3D, and was meant to replace SNK's older MVS system on the market.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es un sistema arcade creado por SNK y lanzado en septiembre de 1997, como sucesor del Neo Geo MVS, dentro de la familia Neo Geo. Es el primer y único conjunto de hardware de SNK capaz de renderizar en 3D y estaba destinado a reemplazar el antiguo sistema MVS de SNK en el mercado.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un système d'arcade créé par SNK, et sorti en septembre 1997, en tant que successeur du Neo Geo MVS, au sein de la famille Neo Geo. Il s'agit du premier et du seul ensemble matériel SNK capable d'effectuer un rendu en 3D, et était destiné à remplacer l'ancien système MVS de SNK sur le marché.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein Arcade-System, das von SNK entwickelt und im September 1997 als Nachfolger des Neo Geo MVS innerhalb der Neo Geo-Familie veröffentlicht wurde. Es ist das erste und einzige Hardware-Set von SNK, das in der Lage ist, in 3D zu rendern, und sollte das ältere MVS-System von SNK auf dem Markt ersetzen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Hyper Neo Geo 64</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1997</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

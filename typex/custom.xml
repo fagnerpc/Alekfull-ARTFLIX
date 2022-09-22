@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is an arcade system board released by Taito. Based on commodity personal computer hardware architecture, Type X is not a specification for a single set of hardware, but rather a modular platform supporting multiple hardware configurations with different levels of graphical capability.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É uma placa de sistema arcade lançada pela Taito. Com base na arquitetura de hardware de computador pessoal comum, o Tipo X não é uma especificação para um único conjunto de hardware, mas sim uma plataforma modular que suporta várias configurações de hardware com diferentes níveis de capacidade gráfica.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is an arcade system board released by Taito. Based on commodity personal computer hardware architecture, Type X is not a specification for a single set of hardware, but rather a modular platform supporting multiple hardware configurations with different levels of graphical capability.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una placa de sistema arcade lanzada por Taito. Basado en la arquitectura de hardware de computadoras personales comerciales, Type X no es una especificación para un solo conjunto de hardware, sino una plataforma modular que admite múltiples configuraciones de hardware con diferentes niveles de capacidad gráfica.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une carte système d'arcade publiée par Taito. Basé sur une architecture matérielle d'ordinateur personnel de base, le type X n'est pas une spécification pour un seul ensemble de matériel, mais plutôt une plate-forme modulaire prenant en charge plusieurs configurations matérielles avec différents niveaux de capacité graphique.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein von Taito veröffentlichtes Arcade-Systemboard. Basierend auf der Hardwarearchitektur von Standard-Personalcomputern ist Typ X keine Spezifikation für einen einzelnen Hardwaresatz, sondern eher eine modulare Plattform, die mehrere Hardwarekonfigurationen mit unterschiedlichen Grafikfähigkeiten unterstützt.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Taito Type X²</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Taito</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

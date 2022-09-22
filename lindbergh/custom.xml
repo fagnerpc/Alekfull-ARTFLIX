@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is an arcade system board developed and used by Sega for a variety of high-end arcade releases in the mid-to-late 2000's. First released in 2005 with The House of the Dead 4, it is their first board to use a standard PC architecture, similar to Taito's Type X.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É uma placa de sistema de arcade desenvolvida e usada pela Sega para uma variedade de lançamentos de arcade high-end em meados dos anos 2000. Lançado pela primeira vez em 2005 com The House of the Dead 4, é sua primeira placa a usar uma arquitetura de PC padrão, semelhante ao Type X da Taito.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is an arcade system board developed and used by Sega for a variety of high-end arcade releases in the mid-to-late 2000's. First released in 2005 with The House of the Dead 4, it is their first board to use a standard PC architecture, similar to Taito's Type X.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una placa de sistema de arcade desarrollada y utilizada por Sega para una variedad de lanzamientos de arcade de alta gama a mediados y finales de la década de 2000. Es su primera placa que utiliza una arquitectura de PC estándar, similar a la Type X de Taito.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une carte système d'arcade développée et utilisée par Sega pour une variété de versions d'arcade haut de gamme du milieu à la fin des années 2000. Sorti pour la première fois en 2005, c'est leur première carte à utiliser une architecture PC standard, similaire au Type X de Taito.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Arcade-Systemplatine, die Mitte bis Ende der 2000er Jahre von Sega für eine Vielzahl von High-End-Arcade-Veröffentlichungen entwickelt und verwendet wurde. Es ist ihr erstes Board, das eine Standard-PC-Architektur verwendet, ähnlich wie Typ X von Taito.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Sega Lindbergh</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2005</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

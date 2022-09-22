@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Zelda Classic is a fan game creation software released by Phantom Menace. The software was released in 1999 as freeware. The program allows users to create their own 2D fan games based on The Legend of Zelda.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Zelda Classic é um software de criação de jogos de fãs lançado pela Phantom Menace. O software foi lançado em 1999 como freeware. O programa permite que os usuários criem seus próprios jogos de fãs 2D baseados em The Legend of Zelda.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Zelda Classic is a fan game creation software released by Phantom Menace. The software was released in 1999 as freeware. The program allows users to create their own 2D fan games based on The Legend of Zelda.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Zelda Classic es un software de creación de juegos para fanáticos lanzado por Phantom Menace. El software fue lanzado en 1999 como freeware. El programa permite a los usuarios crear sus propios juegos de fans en 2D basados ​​en The Legend of Zelda.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Zelda Classic est un logiciel de création de jeux pour fans publié par Phantom Menace. Le logiciel est sorti en 1999 en tant que logiciel gratuit. Le programme permet aux utilisateurs de créer leurs propres jeux de fans 2D basés sur The Legend of Zelda.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Zelda Classic ist eine von Phantom Menace veröffentlichte Software zur Erstellung von Fan-Spielen. Die Software wurde 1999 als Freeware veröffentlicht. Mit dem Programm können Benutzer ihre eigenen 2D-Fanspiele basierend auf The Legend of Zelda erstellen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Zelda Classic</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Phantom Menace</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

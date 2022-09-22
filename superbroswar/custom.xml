@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Super Mario War is a fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes. You can play on teams, design your own levels, design your own worlds, and much more.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Super Mario War é um jogo de deathmatch multiplayer feito por fãs no estilo Super Mario Bros., no qual os jogadores tentam vencer uns aos outros em uma variedade de modos de jogo. Você pode jogar em equipes, projetar seus próprios níveis, projetar seus próprios mundos e muito mais.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Super Mario War is a fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes. You can play on teams, design your own levels, design your own worlds, and much more.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Super Mario War es un juego de combate a muerte multijugador al estilo de Super Mario Bros. hecho por fanáticos en el que los jugadores intentan vencerse unos a otros en una variedad de modos de juego. Puedes jugar en equipos, diseñar tus propios niveles, diseñar tus propios mundos y mucho más.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Super Mario War est un jeu de match à mort multijoueur de style Super Mario Bros. créé par des fans dans lequel les joueurs essaient de se battre dans une variété de modes de jeu. Vous pouvez jouer en équipe, concevoir vos propres niveaux, concevoir vos propres mondes et bien plus encore.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Super Mario War ist ein von Fans erstelltes Multiplayer-Deathmatch-Spiel im Stil von Super Mario Bros., in dem die Spieler versuchen, sich in verschiedenen Spielmodi gegenseitig zu schlagen. Sie können in Teams spielen, Ihre eigenen Level entwerfen, Ihre eigenen Welten entwerfen und vieles mehr.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Super Mario War</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2002</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Samuele Poletto</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

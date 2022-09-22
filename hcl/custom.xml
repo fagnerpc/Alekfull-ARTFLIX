@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Originally Meikyuujou Hydra, is a freeware Indie platformer developed by E. Hashimoto, a.k.a. Buster, and released on his website. The original game was entirely in Japanese, but saw a translation patch months after its original creation.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Originalmente Meikyuujou Hydra, é um jogo de plataforma independente desenvolvido por E. Hashimoto, também conhecido como Buster, e lançado em seu site. O jogo original estava inteiramente em japonês, mas teve um patch de tradução meses após sua criação original.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Originally Meikyuujou Hydra, is a freeware Indie platformer developed by E. Hashimoto, a.k.a. Buster, and released on his website. The original game was entirely in Japanese, but saw a translation patch months after its original creation.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Originalmente Meikyuujou Hydra, es un juego de plataformas Indie gratuito desarrollado por E. Hashimoto, también conocido como Buster, y publicado en su sitio web. El juego original estaba completamente en japonés, pero vio un parche de traducción meses después de su creación original.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>À l'origine Meikyuujou Hydra, est un jeu de plateforme indépendant gratuit développé par E. Hashimoto, alias Buster, et publié sur son site Web. Le jeu original était entièrement en japonais, mais a vu un patch de traduction des mois après sa création originale.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ursprünglich Meikyuujou Hydra, ist ein Freeware-Indie-Plattformer, der von E. Hashimoto, auch bekannt als Buster, entwickelt und auf seiner Website veröffentlicht wurde. Das ursprüngliche Spiel war vollständig auf Japanisch, sah aber Monate nach seiner ursprünglichen Erstellung einen Übersetzungspatch.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Hydra Castle Labyrinth</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2011</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nicalis</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

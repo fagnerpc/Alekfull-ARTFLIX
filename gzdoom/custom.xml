@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>GZDoom is a fork of the ZDoom source port created by Christoph Oelckers (Graf Zahl), who still oversees its development. First released in 2005, it has versions for Windows, Linux, and MacOS.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>GZDoom é uma bifurcação da porta de origem ZDoom criada por Christoph Oelckers (Graf Zahl), que ainda supervisiona seu desenvolvimento. Lançado pela primeira vez em 2005, possui versões para Windows, Linux e MacOS.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>GZDoom is a fork of the ZDoom source port created by Christoph Oelckers (Graf Zahl), who still oversees its development. First released in 2005, it has versions for Windows, Linux, and MacOS.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>GZDoom es una bifurcación del puerto de origen ZDoom creado por Christoph Oelckers (Graf Zahl), quien aún supervisa su desarrollo. Lanzado por primera vez en 2005, tiene versiones para Windows, Linux y MacOS.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>GZDoom est un fork du port source ZDoom créé par Christoph Oelckers (Graf Zahl), qui supervise toujours son développement. Sorti pour la première fois en 2005, il a des versions pour Windows, Linux et MacOS.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>GZDoom ist ein Fork des ZDoom-Quellports, der von Christoph Oelckers (Graf Zahl) erstellt wurde, der seine Entwicklung immer noch überwacht. Es wurde erstmals 2005 veröffentlicht und hat Versionen für Windows, Linux und MacOS.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>GZDoom</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2005</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Graf Zahl</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

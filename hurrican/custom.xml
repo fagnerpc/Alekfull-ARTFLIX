@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Inspired by the epic Turrican game series. Blast your way through myriads of enemies, explore the secrets of nine massive worlds and collect tons of powerups to increase your firepower in this highly explosive Run and Gun arcade game.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Inspirado na épica série de jogos Turrican. Abra caminho através de miríades de inimigos, explore os segredos de nove mundos enormes e colete toneladas de power-ups para aumentar seu poder de fogo neste jogo de arcade Run and Gun altamente explosivo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Inspired by the epic Turrican game series. Blast your way through myriads of enemies, explore the secrets of nine massive worlds and collect tons of powerups to increase your firepower in this highly explosive Run and Gun arcade game.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Inspirado en la épica serie de juegos Turrican. Ábrete camino a través de miríadas de enemigos, explora los secretos de nueve mundos enormes y recolecta toneladas de potenciadores para aumentar tu potencia de fuego en este explosivo juego de arcade Run and Gun.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Inspiré de la série de jeux épiques Turrican. Frayez-vous un chemin à travers des myriades d'ennemis, explorez les secrets de neuf mondes immenses et collectez des tonnes de bonus pour augmenter votre puissance de feu dans ce jeu d'arcade Run and Gun hautement explosif.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Inspiriert von der epischen Turrican-Spielserie. Schießen Sie sich Ihren Weg durch Myriaden von Feinden, erkunden Sie die Geheimnisse von neun riesigen Welten und sammeln Sie jede Menge Power-Ups, um Ihre Feuerkraft in diesem hochexplosiven Run and Gun-Arcade-Spiel zu erhöhen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Hurrican</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Rainbow Arts</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

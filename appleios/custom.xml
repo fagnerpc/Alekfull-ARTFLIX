@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that powers many of the company's mobile devices, including the iPhone.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um sistema operacional móvel criado e desenvolvido pela Apple Inc. exclusivamente para seu hardware. É o sistema operacional que alimenta muitos dos dispositivos móveis da empresa, incluindo o iPhone.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that powers many of the company's mobile devices, including the iPhone.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es un sistema operativo móvil creado y desarrollado por Apple Inc. exclusivamente para su hardware. Es el sistema operativo que alimenta muchos de los dispositivos móviles de la empresa, incluido el iPhone.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un système d'exploitation mobile créé et développé par Apple Inc. exclusivement pour son matériel. C'est le système d'exploitation qui alimente de nombreux appareils mobiles de l'entreprise, y compris l'iPhone.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein mobiles Betriebssystem, das von Apple Inc. ausschließlich für seine Hardware erstellt und entwickelt wurde. Es ist das Betriebssystem, das viele der Mobilgeräte des Unternehmens antreibt, darunter auch das iPhone.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>iOS</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2007</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Apple Inc.</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

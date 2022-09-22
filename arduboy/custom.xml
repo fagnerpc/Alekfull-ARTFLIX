@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>It is a handheld console based on the open Arduino platform created by Kevin Bates released in 2016 for the price of US$39, initially as a project on the Kickstarter website having its name inspired by the Game Boy.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um console portátil baseado na plataforma aberta Arduino criado por Kevin Bates lançado em 2016 pelo preço de US$39, inicialmente como um projeto no sítio Kickstarter tendo seu nome inspirado no Game Boy.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>It is a handheld console based on the open Arduino platform created by Kevin Bates released in 2016 for the price of US$39, initially as a project on the Kickstarter website having its name inspired by the Game Boy.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una consola portátil basada en la plataforma abierta Arduino creada por Kevin Bates lanzada en 2016 por un precio de US$39, inicialmente como un proyecto en el sitio web de Kickstarter cuyo nombre está inspirado en Game Boy.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Il s'agit d'une console portable basée sur la plate-forme ouverte Arduino créée par Kevin Bates et sortie en 2016 au prix de 39 $ US, initialement en tant que projet sur le site Web Kickstarter dont le nom s'inspire de la Game Boy.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Es handelt sich um eine Handheld-Konsole, die auf der von Kevin Bates erstellten offenen Arduino-Plattform basiert und 2016 zum Preis von 39 US-Dollar veröffentlicht wurde, zunächst als Projekt auf der Kickstarter-Website, deren Name vom Game Boy inspiriert wurde.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Arduboy</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2016</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Kevin Bates</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

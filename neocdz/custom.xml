@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Released on December 29, 1995, it was equipped with a dual speed CD player which improved loading times compared to the traditional Neo-Geo CD and its 1X speed CD drive.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Lançado em 29 de dezembro de 1995, era equipado com um CD player de dupla velocidade o que melhorava tempos de carregamento em comparação ao Neo-Geo CD tradicional e seu drive de CD de 1X de velocidade.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Released on December 29, 1995, it was equipped with a dual speed CD player which improved loading times compared to the traditional Neo-Geo CD and its 1X speed CD drive.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Lanzado el 29 de diciembre de 1995, estaba equipado con un reproductor de CD de doble velocidad que mejoró los tiempos de carga en comparación con el CD Neo-Geo tradicional y su unidad de CD de velocidad 1X.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Sorti le 29 décembre 1995, il était équipé d'un lecteur de CD à double vitesse qui améliorait les temps de chargement par rapport au CD Neo-Geo traditionnel et à son lecteur de CD à vitesse 1X.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Es wurde am 29. Dezember 1995 veröffentlicht und war mit einem Dual-Speed-CD-Player ausgestattet, der die Ladezeiten im Vergleich zur herkömmlichen Neo-Geo-CD und ihrem CD-Laufwerk mit 1X-Geschwindigkeit verbesserte.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Neo-Geo CDZ</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>
+	</view>
+	
+			<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/neogeocd.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/neogeocd.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

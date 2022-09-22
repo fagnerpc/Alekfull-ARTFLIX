@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Android é um sistema operacional móvel baseado em uma versão modificada do kernel Linux e outro software de código aberto, projetado principalmente para dispositivos móveis com tela sensível ao toque, como smartphones e tablets.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Android es un sistema operativo móvil basado en una versión modificada del kernel de Linux y otro software de código abierto, diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Android est un système d'exploitation mobile basé sur une version modifiée du noyau Linux et d'autres logiciels open source, conçu principalement pour les appareils mobiles à écran tactile tels que les smartphones et les tablettes.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Android ist ein mobiles Betriebssystem, das auf einer modifizierten Version des Linux-Kernels und anderer Open-Source-Software basiert und hauptsächlich für Touchscreen-Mobilgeräte wie Smartphones und Tablets entwickelt wurde.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Android</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2008</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various (Google)</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

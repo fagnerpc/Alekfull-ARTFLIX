@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Neo Geo originally launched as the MVS (Multi Video System) coin-operated arcade machine. The MVS offers owners the ability to put up to six different cartridges into a single cabinet, a unique feature that was also a key economic consideration for operators.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Neo Geo foi originalmente lançado como a máquina de arcade operada por moedas MVS (Multi Video System). O MVS oferece aos proprietários a capacidade de colocar até seis cartuchos diferentes em um único gabinete, um recurso exclusivo que também foi uma consideração econômica importante para os operadores.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Neo Geo originally launched as the MVS (Multi Video System) coin-operated arcade machine. The MVS offers owners the ability to put up to six different cartridges into a single cabinet, a unique feature that was also a key economic consideration for operators.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Neo Geo se lanzó originalmente como la máquina arcade que funciona con monedas MVS (Multi Video System). El MVS ofrece a los propietarios la capacidad de colocar hasta seis cartuchos diferentes en un solo gabinete, una característica única que también fue una consideración económica clave para los operadores.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Neo Geo a été lancé à l'origine sous le nom de machine d'arcade à pièces MVS (Multi Video System). Le MVS offre aux propriétaires la possibilité de mettre jusqu'à six cartouches différentes dans une seule armoire, une caractéristique unique qui était également une considération économique clé pour les opérateurs.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Neo Geo wurde ursprünglich als münzbetriebener Arcade-Automat MVS (Multi Video System) eingeführt. Das MVS bietet Eigentümern die Möglichkeit, bis zu sechs verschiedene Kartuschen in einem einzigen Schrank unterzubringen, eine einzigartige Funktion, die auch ein wichtiger wirtschaftlicher Aspekt für die Betreiber war.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo MVS</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/neogeo.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/neogeo.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

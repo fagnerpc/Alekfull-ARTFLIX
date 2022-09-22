@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Port of Quake 2 game initially released in 2017 for PlayStation Vita and later ported to other platforms. Used as source code the Quake2Ctr port made by MasterFeizz, with local and online multiplayer support.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Port do jogo Quake 2 lançado inicialmente em 2017 para o PlayStation Vita e posteriormente portado para outras plataformas. Usou como código fonte o port de Quake2Ctr feito por MasterFeizz, com suporte a multiplayer local e online.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Port of Quake 2 game initially released in 2017 for PlayStation Vita and later ported to other platforms. Used as source code the Quake2Ctr port made by MasterFeizz, with local and online multiplayer support.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>El juego Port of Quake 2 se lanzó inicialmente en 2017 para PlayStation Vita y luego se trasladó a otras plataformas. Usó como código fuente el puerto Quake2Ctr hecho por MasterFeizz, con soporte multijugador local y en línea.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Le jeu Port of Quake 2 initialement sorti en 2017 pour PlayStation Vita et plus tard porté sur d'autres plateformes. Utilisé comme code source le port Quake2Ctr réalisé par MasterFeizz, avec prise en charge multijoueur local et en ligne.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Das Spiel Port of Quake 2 wurde ursprünglich 2017 für PlayStation Vita veröffentlicht und später auf andere Plattformen portiert. Als Quellcode wird die Quake2Ctr-Portierung von MasterFeizz verwendet, mit lokaler und Online-Multiplayer-Unterstützung.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>VitaQuake II</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2017</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Rinnegatamante</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

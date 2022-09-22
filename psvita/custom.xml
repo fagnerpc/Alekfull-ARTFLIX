@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a handheld video game console developed by Sony Interactive Entertainment. The console is the successor to the PSP, and a part of the PlayStation brand of gaming devices; as part of the eighth generation of video game consoles, it primarily competed with the Nintendo 3DS.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um console de videogame portátil desenvolvido pela Sony Interactive Entertainment. O console é o sucessor do PSP e faz parte da marca PlayStation de dispositivos de jogos; como parte da oitava geração de consoles de videogame, competiu principalmente com o Nintendo 3DS.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a handheld video game console developed by Sony Interactive Entertainment. The console is the successor to the PSP, and a part of the PlayStation brand of gaming devices; as part of the eighth generation of video game consoles, it primarily competed with the Nintendo 3DS.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una consola de videojuegos portátil desarrollada por Sony Interactive Entertainment. La consola es la sucesora de la PSP y forma parte de la marca de dispositivos de juego PlayStation; como parte de la octava generación de consolas de videojuegos, compitió principalmente con Nintendo 3DS.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une console de jeu vidéo portable développée par Sony Interactive Entertainment. La console est le successeur de la PSP et fait partie de la marque d'appareils de jeu PlayStation ; faisant partie de la huitième génération de consoles de jeux vidéo, elle concurrençait principalement la Nintendo 3DS.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine tragbare Videospielkonsole, die von Sony Interactive Entertainment entwickelt wurde. Die Konsole ist der Nachfolger der PSP und ein Teil der PlayStation-Marke von Spielgeräten; Als Teil der achten Generation von Videospielkonsolen konkurrierte es hauptsächlich mit dem Nintendo 3DS.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>PS Vita</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2011</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony Interactive Entertainment</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

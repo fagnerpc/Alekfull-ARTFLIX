@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>EDuke32 is an ongoing open source project and popular source port of Duke Nukem 3D. It was created by past and present employees of 3D Realms and Voidpoint, though it is not affiliated with either company.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Eduke32 é um projeto de código aberto em andamento e porta de origem popular de Duke Nukem 3D. Foi criado por funcionários antigos e atuais de 3D Realms e Voidpoint, embora não seja afiliado a nenhuma das empresas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>EDuke32 is an ongoing open source project and popular source port of Duke Nukem 3D. It was created by past and present employees of 3D Realms and Voidpoint, though it is not affiliated with either company.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>EDuke32 es un proyecto de código abierto en curso y un puerto fuente popular de Duke Nukem 3D. Fue creado por empleados actuales y pasados ​​de 3D Realms y Voidpoint, aunque no está afiliado a ninguna de las dos compañías.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>EDuke32 est un projet open source en cours et un port source populaire de Duke Nukem 3D. Il a été créé par des employés passés et présents de 3D Realms et de Voidpoint, bien qu'il ne soit affilié à aucune des deux sociétés.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>EDuke32 ist ein laufendes Open-Source-Projekt und ein beliebter Source-Port von Duke Nukem 3D. Es wurde von früheren und gegenwärtigen Mitarbeitern von 3D Realms und Voidpoint erstellt, obwohl es mit keinem der beiden Unternehmen verbunden ist.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>EDuke32</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>TerminX, Plagman</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

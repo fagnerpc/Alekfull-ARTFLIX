@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Also known as Kids Computer Pico, is an educational video game console by Sega Toys. Marketed as "edutainment", the main focus of the Pico was educational video games for children between 3 and 7 years old. It was succeeded by the Advanced Pico Beena.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Também conhecido como Kids Computer Pico, é um console de videogame educacional da Sega Toys. Comercializado como "edutainment", o foco principal do Pico eram os videogames educativos para crianças entre 3 e 7 anos. Foi sucedido pelo Advanced Pico Beena.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Also known as Kids Computer Pico, is an educational video game console by Sega Toys. Marketed as "edutainment", the main focus of the Pico was educational video games for children between 3 and 7 years old. It was succeeded by the Advanced Pico Beena.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>También conocida como Kids Computer Pico, es una consola de videojuegos educativos de Sega Toys. Comercializado como "entretenimiento educativo", el enfoque principal de Pico eran los videojuegos educativos para niños de entre 3 y 7 años. Le sucedió el Avanzado Pico Beena.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Également connue sous le nom de Kids Computer Pico, est une console de jeux vidéo éducative de Sega Toys. Commercialisé sous le nom de "ludo-éducatif", le Pico se concentrait principalement sur les jeux vidéo éducatifs pour les enfants de 3 à 7 ans. Il a été remplacé par l'Advanced Pico Beena.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Auch bekannt als Kids Computer Pico, ist eine pädagogische Videospielkonsole von Sega Toys. Als „Edutainment“ vermarktet, lag der Schwerpunkt des Pico auf lehrreichen Videospielen für Kinder zwischen 3 und 7 Jahren. Es wurde vom Advanced Pico Beena abgelöst.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Sega Pico</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega Toys</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is an arcade system board released by Taito. The Taito Type X² had an Intel LGA 775 CPU with other supported CPU being the Celeron D 352, Pentium 4 651, and Intel Core 2 Duo E6400. The RAM could either be 512 MB, 1 GB, or 4 GB. The GPUs that were supported were the PCI Express ×16-based graphics ATI Radeon x1600Pro.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É uma placa de sistema arcade lançada pela Taito. O Taito Type X² tinha um processador Intel LGA 775 com outros processadores suportados sendo o Celeron D 352, Pentium 4 651 e Intel Core 2 Duo E6400. A RAM pode ser de 512 MB, 1 GB ou 4 GB. As GPUs que foram suportadas foram os gráficos baseados em PCI Express ×16 ATI Radeon x1600Pro.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is an arcade system board released by Taito. The Taito Type X² had an Intel LGA 775 CPU with other supported CPU being the Celeron D 352, Pentium 4 651, and Intel Core 2 Duo E6400. The RAM could either be 512 MB, 1 GB, or 4 GB. The GPUs that were supported were the PCI Express ×16-based graphics ATI Radeon x1600Pro.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una placa de sistema arcade lanzada por Taito. El Taito Type X² tenía una CPU Intel LGA 775 y otras CPU compatibles eran Celeron D 352, Pentium 4 651 e Intel Core 2 Duo E6400. La memoria RAM puede ser de 512 MB, 1 GB o 4 GB. Las GPU compatibles fueron las gráficas basadas en PCI Express ×16 ATI Radeon x1600Pro.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une carte système d'arcade publiée par Taito. Le Taito Type X² avait un processeur Intel LGA 775, les autres processeurs pris en charge étant le Celeron D 352, le Pentium 4 651 et le Intel Core 2 Duo E6400. La RAM peut être de 512 Mo, 1 Go ou 4 Go. Les GPU pris en charge étaient les graphiques ATI Radeon x1600Pro basés sur PCI Express × 16.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein von Taito veröffentlichtes Arcade-Systemboard. Der Taito Type X² hatte eine Intel LGA 775-CPU, wobei andere unterstützte CPUs Celeron D 352, Pentium 4 651 und Intel Core 2 Duo E6400 waren. Der Arbeitsspeicher kann entweder 512 MB, 1 GB oder 4 GB betragen. Die unterstützten GPUs waren die PCI Express ×16-basierte Grafik ATI Radeon x1600Pro.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Taito Type X²</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Taito</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

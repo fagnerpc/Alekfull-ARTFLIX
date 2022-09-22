@@ -229,6 +229,7 @@
          <!--<horizontalAlignment>right</horizontalAlignment>-->
          <itemSpacing>0.003</itemSpacing>
          <imagePath>./../_inc/gamepad.svg</imagePath>
+		 <gunPath>./../_inc/icons/gun.svg</gunPath>
          <color>FFFFFF80</color>
          <activityColor>A0A0FFC0</activityColor>
          <hotkeyColor>FFA0A0C0</hotkeyColor>

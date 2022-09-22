@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a source port of Build engine games implementing several systems as found in the GZDoom source port. It combines JFDuke, DukeGDX, PCExhumed, and NBlood in a single package, amongst various stability and renderer improvements.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um porte da Build engine que implementam vários sistemas, conforme encontrado no porte de origem do GZDoom. Ele combina JFDuke, DukeGDX, PCExhumed e NBlood em um único pacote, entre várias melhorias de estabilidade e renderização.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a source port of Build engine games implementing several systems as found in the GZDoom source port. It combines JFDuke, DukeGDX, PCExhumed, and NBlood in a single package, amongst various stability and renderer improvements.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es un puerto de origen de los juegos del motor Build que implementa varios sistemas que se encuentran en el puerto de origen de GZDoom. Combina JFDuke, DukeGDX, PCExhumed y NBlood en un solo paquete, entre varias mejoras de estabilidad y renderizado.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un port source de jeux de moteur de construction implémentant plusieurs systèmes tels que trouvés dans le port source de GZDoom. Il combine JFDuke, DukeGDX, PCExhumed et NBlood dans un seul package, parmi diverses améliorations de stabilité et de rendu.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Quellportierung von Build-Engine-Spielen, die mehrere Systeme implementieren, wie sie in der GZDoom-Quellportierung zu finden sind. Es kombiniert JFDuke, DukeGDX, PCExhumed und NBlood in einem einzigen Paket, neben verschiedenen Stabilitäts- und Renderer-Verbesserungen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Raze</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2019</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Raze Team</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The VTech Laser 310 is an 8-bit home computer from the Hong Kong computer company VTech (Video Technology Limited) from the 1980s. It was sold in England, France, Spain and Australia as the Dick Smith VZ-300.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O VTech Laser 310 é um computador doméstico de 8 bits da empresa de computadores de Hong Kong VTech (Video Technology Limited) da década de 1980. Foi vendido na Inglaterra, França, Espanha e Austrália como Dick Smith VZ-300.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The VTech Laser 310 is an 8-bit home computer from the Hong Kong computer company VTech (Video Technology Limited) from the 1980s. It was sold in England, France, Spain and Australia as the Dick Smith VZ-300.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>El VTech Laser 310 es un ordenador doméstico de 8 bits de la empresa informática de Hong Kong VTech (Video Technology Limited) de la década de 1980. Se vendió en Inglaterra, Francia, España y Australia como Dick Smith VZ-300.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Le VTech Laser 310 est un ordinateur domestique 8 bits de la société informatique de Hong Kong VTech (Video Technology Limited) des années 1980. Il a été vendu en Angleterre, en France, en Espagne et en Australie sous le nom de Dick Smith VZ-300.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Der VTech Laser 310 ist ein 8-Bit-Heimcomputer des Computerunternehmens VTech (Video Technology Limited) aus Hongkong aus den 1980er Jahren. Er wurde in England, Frankreich, Spanien und Australien als Dick Smith VZ-300 verkauft.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>VTech Laser 310</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>VTech</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

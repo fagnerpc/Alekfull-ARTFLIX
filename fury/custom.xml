@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a 2019 cyberpunk first-person shooter video game developed by Voidpoint and published by 3D Realms. It is a prequel to the 2016 video game Bombshell. Ion Fury runs on a modified version of Ken Silverman's Build engine.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um videogame de tiro em primeira pessoa cyberpunk de 2019 desenvolvido pela Voidpoint e publicado pela 3D Realms. É uma prequela do videogame de 2016 Bombshell. Ion Fury é executado em uma versão modificada da Build engine de Ken Silverman.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a 2019 cyberpunk first-person shooter video game developed by Voidpoint and published by 3D Realms. It is a prequel to the 2016 video game Bombshell. Ion Fury runs on a modified version of Ken Silverman's Build engine.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es un videojuego de disparos en primera persona cyberpunk de 2019 desarrollado por Voidpoint y publicado por 3D Realms. Es una precuela del videojuego Bombshell de 2016. Ion Fury se ejecuta en una versión modificada del motor Build de Ken Silverman.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un jeu vidéo de tir à la première personne cyberpunk 2019 développé par Voidpoint et publié par 3D Realms. Il s'agit d'une préquelle du jeu vidéo Bombshell de 2016. Ion Fury fonctionne sur une version modifiée du moteur Build de Ken Silverman.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein Cyberpunk-Ego-Shooter-Videospiel aus dem Jahr 2019, das von Voidpoint entwickelt und von 3D Realms veröffentlicht wurde. Es ist ein Prequel zum Videospiel Bombshell aus dem Jahr 2016. Ion Fury läuft auf einer modifizierten Version von Ken Silvermans Build-Engine.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Ion Fury</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2019</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Voidpoint</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

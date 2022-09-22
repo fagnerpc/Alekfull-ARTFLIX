@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>MSU-MD is what we call regular Mega Drive games with CD sound. This technology was already present in the Mega Drive+Sega CD called Mode -1, it consists of the ability of the Mega Drive cartridge to enter a mode where the sound is executed by the CD drive.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>MSU-MD é o que chamamos os jogos comuns de Mega Drive com som de CD. Essa tecnologia já era presente no Mega Drive+Sega CD chamada de Mode -1, consiste na capacidade do cartucho de Mega Drive entrar num modo que o som é executado pelo drive de CD.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>MSU-MD is what we call regular Mega Drive games with CD sound. This technology was already present in the Mega Drive+Sega CD called Mode -1, it consists of the ability of the Mega Drive cartridge to enter a mode where the sound is executed by the CD drive.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>MSU-MD es lo que llamamos juegos regulares de Mega Drive con sonido de CD. Esta tecnología ya estaba presente en el Mega Drive+Sega CD llamado Modo -1, consiste en la capacidad del cartucho Mega Drive de entrar en un modo donde el sonido es ejecutado por la unidad de CD.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>MSU-MD est ce que nous appelons les jeux Mega Drive réguliers avec le son d'un CD. Cette technologie était déjà présente dans le Mega Drive+Sega CD appelé Mode -1, elle consiste en la capacité de la cartouche Mega Drive à entrer dans un mode où le son est exécuté par le lecteur de CD.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>MSU-MD ist das, was wir normale Mega Drive-Spiele mit CD-Sound nennen. Diese Technologie war bereits in der Mega Drive + Sega-CD namens Mode -1 vorhanden. Sie besteht aus der Fähigkeit der Mega Drive-Cartridge, in einen Modus zu wechseln, in dem der Sound vom CD-Laufwerk ausgeführt wird.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>MSU-MD</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>201X</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/megadrive.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/megadrive.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

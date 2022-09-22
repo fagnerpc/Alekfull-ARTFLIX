@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a Memory Card peripheral by Sony Computer Entertainment for the PlayStation home video game console. Software for the PocketStation was typically distributed as extras for PlayStation games, included in the CD-ROM, enhancing the games with added features.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É um periférico de cartão de memória da Sony Computer Entertainment para o console de videogame doméstico PlayStation. O software para o PocketStation era normalmente distribuído como extras para os jogos do PlayStation, incluídos no CD-ROM, aprimorando os jogos com recursos adicionais.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a Memory Card peripheral by Sony Computer Entertainment for the PlayStation home video game console. Software for the PocketStation was typically distributed as extras for PlayStation games, included in the CD-ROM, enhancing the games with added features.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es un periférico de tarjeta de memoria de Sony Computer Entertainment para la consola de videojuegos doméstica PlayStation. El software para PocketStation generalmente se distribuía como extra para los juegos de PlayStation, incluidos en el CD-ROM, mejorando los juegos con funciones adicionales.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est un périphérique de carte mémoire de Sony Computer Entertainment pour la console de jeu vidéo domestique PlayStation. Le logiciel pour PocketStation était généralement distribué en tant que suppléments pour les jeux PlayStation, inclus dans le CD-ROM, améliorant les jeux avec des fonctionnalités supplémentaires.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Ist ein Speicherkarten-Peripheriegerät von Sony Computer Entertainment für die PlayStation-Heimvideospielkonsole. Software für die PocketStation wurde normalerweise als Extras für PlayStation-Spiele vertrieben, die auf der CD-ROM enthalten waren, wodurch die Spiele mit zusätzlichen Funktionen erweitert wurden.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>PocketStation</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/psx.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/psx.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

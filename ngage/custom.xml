@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The N-Gage was a "handheld console" made in 2003 by Nokia and attempted to beat Nintendo's Game Boy Advance by being both a video game console and a mobile phone. It also had an MP3, Real Audio/Video playback and PDA features.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O N-Gage era um "console portátil híbrido" feito em 2003 pela Nokia e tentou vencer o Game Boy Advance da Nintendo por ser um console de videogame e um telefone celular. Ele também tinha um MP3, reprodução de áudio/vídeo real e recursos de PDA.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The N-Gage was a "handheld console" made in 2003 by Nokia and attempted to beat Nintendo's Game Boy Advance by being both a video game console and a mobile phone. It also had an MP3, Real Audio/Video playback and PDA features.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La N-Gage era una "consola portátil" fabricada en 2003 por Nokia e intentó vencer a la Game Boy Advance de Nintendo al ser tanto una consola de videojuegos como un teléfono móvil. También tenía funciones de reproducción de MP3, Real Audio/Video y PDA.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>La N-Gage était une "console portable" fabriquée en 2003 par Nokia et tentait de battre la Game Boy Advance de Nintendo en étant à la fois une console de jeu vidéo et un téléphone mobile. Il avait également un MP3, une lecture Real Audio / Video et des fonctionnalités PDA.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Das N-Gage war eine „Handheld-Konsole“, die 2003 von Nokia hergestellt wurde und versuchte, Nintendos Game Boy Advance zu schlagen, indem es sowohl eine Videospielkonsole als auch ein Mobiltelefon war. Es hatte auch eine MP3-, Real Audio/Video-Wiedergabe und PDA-Funktionen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>N-Gage</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2003</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nokia</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

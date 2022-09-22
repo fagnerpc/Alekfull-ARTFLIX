@@ -1,0 +1,66 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Sega Genesis video game console designed and produced by Sega.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Era um periférico que se ligava ao Mega Drive e disponibilizava assim a execução de jogos gravados em CD, novidade para a época. O acessório poderia ser acoplado a um 32X para alguns jogos.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="EN">
+			<text>The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Sega Genesis video game console designed and produced by Sega.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Sega Mega-CD es un periférico de hardware de la consola Sega Mega Drive producida por Sega. El Mega-CD fue el intento de Sega de hacer la competencia en Japón al CD de la PC Engine.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Sega Mega-CD est un périphérique destiné à la console de jeu vidéo Mega Drive de Sega. Il s'agit d'un lecteur de CD-ROM permettant de lire des jeux au format CD-ROM.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Sega-CD, die in den meisten Regionen außerhalb Nordamerikas und Brasiliens als Mega-CD veröffentlicht wird, ist ein CD-ROM-Zubehör für die Videospielkonsole Sega Genesis, die von Sega entwickelt und produziert wurde.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ZH">
+			<text>Sega CD 在北美和巴西以外的大部分地区以 Mega-CD 的形式发行，是世嘉设计和生产的MD视频游戏机的CD-ROM附件。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ZH">
+			<text>Sega CD 在北美和巴西以外的大部分地區以Mega-CD的形式發行，是Sega設計和生產的Sega Genesis視頻遊戲機的CD-ROM附件。</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Sega Mega-CD</text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>1991</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>
+
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/segacd.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/segacd.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+</theme>

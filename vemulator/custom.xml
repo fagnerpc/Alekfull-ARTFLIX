@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Visual Memory Unit (VMU), is Sega's main memory card for the Dreamcast console. The device features a liquid crystal display (LCD), multiplayer gaming capability, second screen function, real-time clock, file manager, internal flash memory and sound capability.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Visual Memory Unit (VMU), é o principal cartão de memória da Sega para o console Dreamcast. O dispositivo possui uma tela de cristal líquido (LCD), capacidade para jogos em multi-jogador, função de segunda tela, relógio de tempo real, gerenciador de arquivos, memória flash interna e capacidade sonora.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Visual Memory Unit (VMU), is Sega's main memory card for the Dreamcast console. The device features a liquid crystal display (LCD), multiplayer gaming capability, second screen function, real-time clock, file manager, internal flash memory and sound capability.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Visual Memory Unit (VMU) es la tarjeta de memoria principal de Sega para la consola Dreamcast. El dispositivo cuenta con una pantalla de cristal líquido (LCD), capacidad de juego multijugador, función de segunda pantalla, reloj en tiempo real, administrador de archivos, memoria flash interna y capacidad de sonido.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Visual Memory Unit (VMU), est la carte mémoire principale de Sega pour la console Dreamcast. L'appareil dispose d'un écran à cristaux liquides (LCD), d'une capacité de jeu multijoueur, d'une fonction de second écran, d'une horloge en temps réel, d'un gestionnaire de fichiers, d'une mémoire flash interne et d'une capacité audio.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Visual Memory Unit (VMU) ist Segas Hauptspeicherkarte für die Dreamcast-Konsole. Das Gerät verfügt über eine Flüssigkristallanzeige (LCD), Multiplayer-Gaming-Fähigkeit, Second-Screen-Funktion, Echtzeituhr, Dateimanager, internen Flash-Speicher und Sound-Fähigkeit.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>VMU Games</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/dreamcast.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/dreamcast.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

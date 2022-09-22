@@ -1,0 +1,75 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Master System is a third-generation home video game console that was manufactured by Sega. It was originally released in 1985 as the Sega Mark III in Japan. After being redesigned prior to its North American launch.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>É um console de videogame de 8-bits produzido pela Sega. Lançado inicialmente no Japão em 1986, com o nome Sega Mark III, ele enfrentou grandes dificuldades devido à forte concorrência do NES da Nintendo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The Master System is a third-generation home video game console that was manufactured by Sega. It was originally released in 1985 as the Sega Mark III in Japan. After being redesigned prior to its North American launch.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Comercializada en Japón bajo el nombre SEGA Mark III, es una consola de videojuegos de 8 bits basada en cartuchos y tarjetas, que fue desarrollada por Sega. Aunque estuvo muy por detrás en ventas fuera de Europa y Brasil.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Master System (マスターシステム) ou Sega Master System (aussi abrégé SMS) est une console de jeux vidéo de troisième génération, conçue et commercialisée par le constructeur japonais Sega Enterprises, Ltd.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Das Master System ist eine Heimvideospielkonsole der dritten Generation, die von Sega hergestellt wurde. Es wurde ursprünglich 1985 als Sega Mark III in Japan veröffentlicht. Nach der Neugestaltung vor der Markteinführung in Nordamerika.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ZH">
+			<text>Master System 是世嘉制造的第三代家用视频游戏机。 它最初于 1985 年作为 Sega Mark III 在日本发布。 在北美推出之前经过重新设计。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="ZW">
+			<text>Master System 是世嘉製造的第三代家用視頻遊戲機。 它最初於 1985 年作為 Sega Mark III 在日本發布。 在北美推出之前經過重新設計。</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Sega Mark III</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>世嘉</text>      
+		</text>   
+
+		<text name="info4" extra="true" lang="TW">
+			<text>世嘉</text>              
+		</text>		
+	</view>
+	
+			<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/mastersystem.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/mastersystem.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+	
+	
+</theme>
