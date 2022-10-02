@@ -1,0 +1,74 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800. The series was successively upgraded to Atari 1200XL , Atari 600XL, Atari 800XL, Atari 65XE, Atari 130XE, Atari 800XE, and Atari XEGS, the last discontinued in 1992. </text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>É uma série de computadores domésticos de 8 bits introduzidos pela Atari, Inc. em 1979 como Atari 400 e Atari 800. A série foi sucessivamente atualizada para Atari 1200XL, Atari 600XL, Atari 800XL, Atari 65XE, Atari 130XE, Atari 800XE e Atari XEGS, o último descontinuado em 1992.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800. The series was successively upgraded to Atari 1200XL , Atari 600XL, Atari 800XL, Atari 65XE, Atari 130XE, Atari 800XE, and Atari XEGS, the last discontinued in 1992. </text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una serie de computadoras domésticas de 8 bits presentada por Atari, Inc. en 1979 como Atari 400 y Atari 800. La serie se actualizó sucesivamente a Atari 1200XL, Atari 600XL, Atari 800XL, Atari 65XE, Atari 130XE, Atari 800XE y Atari XEGS, el último descontinuado en 1992.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une série d'ordinateurs domestiques 8 bits introduits par Atari, Inc. en 1979 sous le nom d'Atari 400 et Atari 800. La série a été successivement mise à niveau vers Atari 1200XL, Atari 600XL, Atari 800XL, Atari 65XE, Atari 130XE, Atari 800XE et Atari XEGS, le dernier arrêté en 1992.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ist eine Serie von 8-Bit-Heimcomputern, die 1979 von Atari, Inc. als Atari 400 und Atari 800 eingeführt wurde. Die Serie wurde sukzessive auf Atari 1200XL, Atari 600XL, Atari 800XL, Atari 65XE, Atari 130XE, Atari 800XE und Atari XEGS, das letzte wurde 1992 eingestellt.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Atari 800</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1979</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Atari, Inc.</text>
+		</text>
+
+		<image name="art" extra="true" ifSubset="colorset:Full HD 1080p">
+		<path>./../assets/arts/atari800.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:HD 720p">
+		<path>./../assets/arts/720/atari800.jpg</path>
+		</image>
+	
+		<image name="art" extra="true" ifSubset="colorset:Lite 540p">
+		<path>./../assets/arts/540/atari800.jpg</path>
+		</image>
+		
+		<image name="logo, sublogo">
+		<path>./../assets/logos/atari800.png</path>
+		</image>
+		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/atari800.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/atari800.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>
