@@ -25,6 +25,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Ist ein von der Sharp Corporation entwickelter Heimcomputer, der erstmals 1987 auf den Markt kam und nur in Japan verkauft wurde. Das erste Modell verfügt über eine 10 MHz Motorola 68000 CPU (daher der Name), 1 MB RAM und keine Festplatte.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>夏普公司创造的家用电脑，于1987年首次发布，仅在日本销售。第一个型号配备10 MHz摩托罗拉68000CPU（因此得名），1MB RAM，无硬盘驱动器。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>夏普公司創造的家用電腦，於1987年首次發布，僅在日本銷售。第一個型號配備10MHz摩托羅拉68000CPU（因此得名），1MB RAM，無硬碟驅動器。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Sharp X68000</text>
@@ -36,6 +44,14 @@
 		<text name="info4" extra="true">
 			<text>Sharp Corporation</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>夏普</text>
+		</text> 
+
+		<text name="info4" extra="true" lang="TW">
+			<text>夏普</text>
+		</text> 
 	</view>
 
 </theme>
