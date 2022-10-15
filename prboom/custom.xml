@@ -2,45 +2,62 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-		<text name="info1" extra="true">
+		<text extra="true" name="info1">
 			<text>PrBoom is a cross-platform version of the classic 3D first person shooter Doom from id Software. Originally written for Microsoft Windows, PrBoom has since been ported to Linux and many other platforms.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="PT">
+		<text extra="true" lang="PT" name="info1">
 			<text>PrBoom é uma versão cross-platform do clássico shooter em primeira pessoa da id Software: Doom. Originalmente feita para o Microsoft Windows, PrBoom já foi portado para inúmeras plataformas.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+				<text extra="true" lang="EN" name="info1">
 			<text>PrBoom is a cross-platform version of the classic 3D first person shooter Doom from id Software. Originally written for Microsoft Windows, PrBoom has since been ported to Linux and many other platforms.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="ES">
+				<text extra="true" lang="ES" name="info1">
 			<text>PrBoom es una versión multiplataforma del clásico shooter 3D en primera persona Doom de id Software. Originalmente escrito para Microsoft Windows, PrBoom ha sido portado a Linux y muchas otras plataformas.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="FR">
+				<text extra="true" lang="FR" name="info1">
 			<text>PrBoom est une version multiplateforme du jeu de tir à la première personne 3D classique Doom d'id Software. Initialement écrit pour MS Windows, PrBoom a depuis été porté sur Linux et de nombreuses autres plates-formes.</text>
 		</text>
 
-		<text name="info1" extra="true" lang="DE">
+		<text extra="true" lang="DE" name="info1">
 			<text>PrBoom ist eine plattformübergreifende Version des klassischen 3D-Ego-Shooters Doom von id Software. Ursprünglich für Microsoft Windows geschrieben, wurde PrBoom seitdem auf Linux und viele andere Plattformen portiert.</text>
 		</text>
+		
+		<text extra="true" lang="ZH" name="info1">
+			<text>PrBoom是id Software经典3D第一人称射击游戏Doom的跨平台版本。 PrBoom最初是为Microsoft Windows编写的，后来被移植到Linux和许多其他平台。</text>
+		</text>   
 
-				<text name="info2" extra="true">
+		<text extra="true" lang="TW" name="info1">
+			<text>PrBoom是id Software經典3 第一人稱射擊遊戲Doom的跨平台版本。 PrBoom最初是為Microsoft Windows編寫的，後來被移植到Linux和許多其他平台。</text>
+		</text>
+		
+		<text extra="true" name="info2">
 			<text>PR Boom</text>
 		</text>
 
-				<text name="info3" extra="true">
+		<text extra="true" name="info3">
 			<text>20XX</text>
 		</text>
 
-		<text name="info4" extra="true">
+		<text extra="true" name="info4">
 			<text>Various</text>
 		</text>
+		
+		<text extra="true" lang="ZH" name="info4">
+			<text>多个参与者</text>
+		</text> 
+
+		<text extra="true" lang="TW" name="info4">
+			<text>多個參與者</text>
+		</text> 	
+		
 	</view>
 
 		<customView name="HCoinSpin">
-      <image name="art3" extra="true">
+      <image extra="true" name="art3">
          <path>./../assets/coinops/ports.png</path>
          <zIndex>7</zIndex>
       </image>
@@ -48,7 +65,7 @@
 
 
 	<customView name="CoinOps Details">
-      <image name="art3" extra="true">
+      <image extra="true" name="art3">
          <path>./../assets/coinops/ports.png</path>
          <zIndex>7</zIndex>
       </image>
