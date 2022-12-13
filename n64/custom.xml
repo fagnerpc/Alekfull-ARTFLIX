@@ -27,11 +27,11 @@
 		</text>
 		
 		<text name="info1" extra="true" lang="ZH">
-			<text>Nintendo 64是任天堂面向国际市场的第三款家用视频游戏机。以其64位中央处理器命名，于1996年6月在日本发布，1996年9月在北美发布。</text>
+			<text>任天堂N64是任天堂面向国际市场的第三款家用视频游戏机。以其64位中央处理器命名，于1996年6月在日本发布，1996年9月在北美发布。</text>
 		</text>
 		
 		<text name="info1" extra="true" lang="TW">
-			<text>Nintendo 64是任天堂面向國際市場的第三款家用視頻遊戲機。以其64位中央處理器命名，於1996年6月在日本發布，1996年9月在北美發表。</text>
+			<text>任天堂N64是任天堂面向國際市場的第三款家用視頻遊戲機。以其64位中央處理器命名，於1996年6月在日本發布，1996年9月在北美發表。</text>
 		</text>
 
 
@@ -40,11 +40,11 @@
 		</text>
 		
 		<text name="info2" extra="true" lang="ZH">
-			<text>任天堂64</text>
+			<text>任天堂N64</text>
 		</text>
 		
 		<text name="info2" extra="true" lang="TW">
-			<text>任天堂64</text>
+			<text>任天堂N64</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -54,5 +54,16 @@
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
 		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>
+		</text>
+		
+		
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>
+		</text>
+		
+		
 	</view>
 </theme>
