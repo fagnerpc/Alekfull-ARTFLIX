@@ -25,12 +25,28 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Eine leichte Waffe ist ein Zeigegerät für Computer und ein Steuergerät für Arcade- und Videospiele, das typischerweise so geformt ist, dass es einer Pistole ähnelt.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>光枪是一种用于计算机的指向设备以及用于街机和视频游戏的控制设备，通常形状类似于冲锋枪或手枪。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>光槍​​是一種用於PC的指向設備以及用於街機和視頻遊戲的控制設備，通常形狀類似於手提機槍或手槍。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Lightgun</text>
 		</text>
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>光枪游戏</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
+			<text>光槍游戲</text>
+		</text>
 
-				<text name="info3" extra="true">
+		<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>
 

@@ -26,9 +26,24 @@
 			<text>Shoot 'em up (auch als Shmup oder STG bekannt) ist ein Subgenre elektronischer Ballerspiele. In einem Shoot 'em up greift der Spielercharakter einsam an, oft in einem Raumschiff oder Flugzeug, schießt auf verschiedene Feinde und vermeidet ihre Angriffe.</text>
 		</text>	
 		
+		<text name="info1" extra="true" lang="ZH">
+			<text>Shoot 'em up是电子射击游戏的一个子类型。在射击游戏中，玩家的角色进行一次单独的攻击，通常是在宇宙飞船或飞机上，向多个敌人开火并躲避他们的攻击。</text>
+		</text>
 		
-				<text name="info2" extra="true">
+		<text name="info1" extra="true" lang="TW">
+			<text>Shoot 'em up是電子射擊遊戲的一個子類型。在射擊遊戲中，玩家的角色進行一次單獨的攻擊，通常是在宇宙飛船或飛機上，向多個敵人開火併躲避他們的攻擊。</text>
+		</text>
+		
+		<text name="info2" extra="true">
 			<text>Vertical Games</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>竖版游戏</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
+			<text>豎直游戲</text>
 		</text>
 		
 		<text name="info3" extra="true">
