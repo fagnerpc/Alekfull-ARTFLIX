@@ -26,6 +26,13 @@
 			<text>Rennen sind ein Genre elektronischer Spiele, bei denen der Spieler mit jeder Art von Landfahrzeug, einschließlich Motorrädern und Quads, an Rennwettbewerben teilnimmt. Es gibt Spielalternativen mit Wasser-, Luft- und sogar Raumfahrzeugen.</text>
 		</text>	
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>赛车是一种电子游戏类型，玩家可以使用任何类型的陆地车辆（包括摩托车和四轮摩托车）参加赛车比赛。甚至有水上、空中甚至太空载具的游戏选择。</text>
+		</text>	
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>賽車是一種電子遊戲類型，玩家可以使用任何類型的陸地車輛（包括機車和四輪機車）參加賽車比賽。甚至有水上、空中甚至太空載具的遊戲選擇。</text>
+		</text>	
 		
 		<text name="info2" extra="true">
 			<text>Racing Games</text>
@@ -48,6 +55,14 @@
 		</text>		
 
 		<text name="info2" extra="true" lang="DE">
+			<text>Rennspiele</text>
+		</text>	
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>Rennspiele</text>
+		</text>	
+		
+		<text name="info2" extra="true" lang="ZH">
 			<text>Rennspiele</text>
 		</text>	
 		
@@ -77,6 +92,14 @@
 		</text>
 					<text name="info5" extra="true" lang="DE">
 			<text>ENTWICKLER:</text>
+		</text>
+
+			<text name="info5" extra="true" lang="ZH">
+			<text>开发者:</text>
+		</text>
+
+			<text name="info5" extra="true" lang="TW">
+			<text>開發者:</text>
 		</text>
 
 	</view>

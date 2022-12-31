@@ -10,7 +10,7 @@
 			<text>RetroBat é um conjunto de scripts Batch e Powershell escritos para configurar e iniciar facilmente o EmulationStation for Windows. Este software de interface destina-se a reunir sua coleção de ROMs e executar jogos com emuladores compatíveis, como o RetroArch.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+		<text name="info1" extra="true" lang="EN">
 			<text>RetroBat is a set of Batch and Powershell scripts written to easily configure and launch EmulationStation for Windows. This frontend software is intended to gather your ROMs collection and run games with compatible emulators such as RetroArch.</text>
 		</text>
 
@@ -24,6 +24,14 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>RetroBat ist eine Reihe von Batch- und Powershell-Skripten, die zum einfachen Konfigurieren und Starten von EmulationStation für Windows geschrieben wurden. Diese Frontend-Software soll Ihre ROMs-Sammlung zusammenstellen und Spiele mit kompatiblen Emulatoren wie RetroArch ausführen.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>RetroBat是一组批处理和Powershell 脚本，用于轻松配置和启动EmulationStation for Windows。该前端软件旨在收集您的ROM集合并使用兼容的模拟器（例如 RetroArch）运行游戏。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>RetroBat是一組批處理和Powershell腳本，用於輕鬆配置和啟動EmulationStation for Windows。該前端軟體旨在收集您的ROM集合併使用兼容的模擬器（例如 RetroArch）運行遊戲。</text>
 		</text>
 
 		<text name="info2" extra="true">
@@ -48,17 +56,29 @@
 						<text name="info5" extra="true" lang="EN">
 			<text>DEVELOPER:</text>
 		</text>
-						<text name="info5" extra="true" lang="ES">
+		
+		<text name="info5" extra="true" lang="ES">
 			<text>DESARROLLADOR:</text>
 		</text>
-						<text name="info5" extra="true" lang="FR">
+		
+		<text name="info5" extra="true" lang="FR">
 			<text>DÉVELOPPEUR:</text>
 		</text>
 
 		<text name="info5" extra="true" lang="DE">
 			<text>ENTWICKLER:</text>
 		</text>
+		
+		<text name="info5" extra="true" lang="ZH">
+			<text>开发者:</text>
+		</text>
+		
+		<text name="info5" extra="true" lang="TW">
+			<text>開發者:</text>
+		</text>
+		
 	</view>
+	
 
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
