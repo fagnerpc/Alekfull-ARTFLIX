@@ -27,11 +27,11 @@
         </text>
 
 		<text name="info1" extra="true" lang="ZH">
-			<text>它是Sega的16位视频游戏机，直接与SNES竞争。 游戏机在1980年代末到1990年代初非常成功，</text>
+			<text>它是Sega的16位视频游戏机，直接与SNES竞争。 游戏机在1980年代末到1990年代初非常成功。</text>
 		</text>   
 
 		<text name="info1" extra="true" lang="ZW">
-			<text>它是Sega的16位視頻遊戲機，直接與SNES競爭。 遊戲機在1980年代末到1990年代初非常成功，</text>
+			<text>它是Sega的16位視頻遊戲機，直接與SNES競爭。 遊戲機在1980年代末到1990年代初非常成功。</text>
 		</text>
 
 		<text name="info2" extra="true">
@@ -51,11 +51,11 @@
             <text>Sega Mega Drive</text>
         </text>
 
-						<text name="info2" extra="true" lang="ZH">
+	<text name="info2" extra="true" lang="ZH">
             <text>世嘉MD</text>
         </text>    
 
-						<text name="info2" extra="true" lang="TW">
+	<text name="info2" extra="true" lang="TW">
             <text>世嘉MD</text>
         </text> 
 

@@ -10,7 +10,7 @@
 			<text>Pygame é um conjunto de módulos Python projetados para escrever videogames. O Pygame adiciona funcionalidade à excelente biblioteca SDL. Isso permite que você crie jogos e programas multimídia completos na linguagem python.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+		<text name="info1" extra="true" lang="EN">
 			<text>Pygame is a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language.</text>
 		</text>
 
@@ -25,7 +25,15 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Pygame ist eine Reihe von Python-Modulen, die zum Schreiben von Videospielen entwickelt wurden. Pygame fügt der hervorragenden SDL-Bibliothek Funktionen hinzu. Damit können Sie Spiele und Multimedia-Programme mit vollem Funktionsumfang in der Python-Sprache erstellen.</text>
 		</text>
-
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>Pygame是一组专为编写视频游戏而设计的Python模块。 Pygame在出色的SDL库之上添加了功能。这使您可以使用python语言创建功能齐全的游戏和多媒体程序。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>Pygame是一組專為編寫視頻遊戲而設計的Python模組。 Pygame在出色的SDL庫之上添加了功能。這使您可以使用python語言創建功能齊全的遊戲和多媒體程式。</text>
+		</text>
+		
 		<text name="info2" extra="true">
 			<text>PyGame</text>
 		</text>
@@ -36,6 +44,14 @@
 
 		<text name="info4" extra="true">
 			<text>Pygame Community</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>Pygame社区</text>
+		</text>
+		
+				<text name="info4" extra="true" lang="TW">
+			<text>Pygame社區</text>
 		</text>
 	</view>
 

@@ -1,0 +1,65 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Magnavox Odyssey², also known as Philips Odyssey² is a second generation home video game console released in 1978. It was sold in Europe as the Philips Videopac G7000, in Brazil as the Philips Odyssey.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O Philips Videopac+ G7400 é o sucessor do Philips Videopac G7000. Lançado em quantidades limitadas em 1983 e apenas na Europa.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="EN">
+			<text>The Philips Videopac+ G7400 is the successor to the Philips Videopac G7000.Released in limited quantities in 1983, and only in Europe.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ES">
+			<text>El Philips Videopac+ G7400 es el sucesor del Philips Videopac G7000. Lanzado en cantidades limitadas en 1983 y solo en Europa.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="FR">
+			<text>Le Philips Videopac+ G7400 est le successeur du Philips Videopac G7000. Sorti en quantité limitée en 1983, et uniquement en Europe.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der Philips Videopac+ G7400 ist der Nachfolger des Philips Videopac G7000. 1983 in begrenzter Stückzahl und nur in Europa auf den Markt gebracht.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ZH">
+			<text>飞利浦Videopac+ G7400是第三代家用视频游戏机，于1983年限量发售，仅在欧洲发售；计划在美国发布作为Odyssey³ Command Center的版本，但从未实现。G7400是飞利浦Videopac G7000的后继产品。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>飛利浦Videopac+ G7400是第三代家用視頻遊戲機，於1983年限量發售，僅在歐洲發售；計劃在美國發布作為Odyssey³ Command Center的版本，但從未實現。G7400是飛利浦Videopac G7000的後繼產品。</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Videopac G7000</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1978</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Magnavox, Philips</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>
