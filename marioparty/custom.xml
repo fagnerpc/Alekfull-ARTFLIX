@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Mario Party is a party video game series featuring characters from the Mario franchise in which up to four local players or computer-controlled characters (called "CPUs") compete in a board game interspersed with minigames.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Mario Party</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Kikuchi Kenji</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

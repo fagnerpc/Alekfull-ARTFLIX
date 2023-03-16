@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Bomberman (also briefly known as Dyna Blaster in Europe) is a video game franchise originally developed by Hudson Soft and currently owned by Konami. The original game, also known as Bakudan Otoko, was released in Japan in July 1983 and has since spawned multiple sequels and spin-offs released on numerous platforms, as well as several anime and manga adaptations.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Bomberman</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Nakamoto, Shinichi & Fujiwara Shigeki</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

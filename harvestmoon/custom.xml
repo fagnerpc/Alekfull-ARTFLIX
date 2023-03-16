@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Story of Seasons, known in Japan as Bokuj? Monogatari, (lit. Farm Story) and formerly known as Harvest Moon, is an agricultural simulation role-playing video game series created by Yasuhiro Wada and developed by Victor Interactive Software (acquired by Marvelous Entertainment in 2003, now Marvelous Inc.). Story of Seasons was the first game to be released under the new international series title of the same name.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Harvest Moon</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Wada, Yasuhiro</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

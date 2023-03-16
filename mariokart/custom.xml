@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Mario Kart is a series of racing games developed and published by Nintendo. Players compete in go-kart races while using various power-up items. It features characters and courses from the Mario series as well as other gaming franchises such as The Legend of Zelda, Animal Crossing, F-Zero and Splatoon.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Mario Kart</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Miyamoto, Shigeru</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

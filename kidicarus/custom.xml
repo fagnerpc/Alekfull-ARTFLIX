@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The plot of Kid Icarus revolves around protagonist Pit's quest for three sacred treasures, which he must equip to rescue the Greek-inspired fantasy world Angel Land and its ruler, the goddess Palutena. The player controls Pit through platform areas while fighting monsters and collecting items. The objective is to reach the end of the levels, and to find and defeat boss monsters that guard the three treasures. </text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Kid Icarus</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Okada, Satoru</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>
