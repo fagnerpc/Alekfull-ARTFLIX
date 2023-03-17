@@ -1,0 +1,44 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"><text>Tetris is a puzzle game where players move falling shapes into place in order to remove complete rows.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Tetris</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Alexey Pajitnov</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>
