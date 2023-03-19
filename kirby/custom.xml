@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Kirby is an action-platform video game series developed by HAL Laboratory and published by Nintendo. The series centers around the adventures of a pink hero named Kirby as he fights to protect and save his home on the distant Planet Popstar from a variety of threats. Kirby has the ability to inhale enemies and objects into his mouth, spitting them out as a projectile or eating them.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Kirby</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Sakurai, Masahiro</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

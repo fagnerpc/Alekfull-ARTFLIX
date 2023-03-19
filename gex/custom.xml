@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Gex was created by Lyle Hall in 1993 shortly after he had joined Crystal Dynamics, and initially followed a movie stuntman named Gecko X before being retooled at the advisory of lead programmer Gregg Tavares. The game's lead character was intended as a mascot for the developer who could rival the likes of other immensely popular platformer characters – primarily Mario and Sonic the Hedgehog.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Gex</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Hall, Lyle</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

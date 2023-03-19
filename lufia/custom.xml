@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Lufia series spans the course of two centuries, beginning with the defeat of the god-like Sinistrals in Lufia II: Rise of the Sinistrals. These events are followed by Ruins of Lore, which takes place 20 years after Rise of the Sinistrals ends. Fortress of Doom picks up another 79 years (99 years after the events of Rise of the Sinistrals) later. The current series ends with the Sinistrals' final defeat in Legend Returns, which takes place 101 years after Fortress of Doom.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Lufia</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Neverland Co</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

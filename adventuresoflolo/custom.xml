@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Adventures of Lolo is a puzzle video game released in 1989 by HAL Laboratory for the Nintendo Entertainment System. It is a compilation of puzzles from Eggerland: Meiky? no Fukkatsu and Eggerland: S?z? he no Tabidachi.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Adventures of Lolo</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Hall Laboratory</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

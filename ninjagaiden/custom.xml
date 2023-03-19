@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Ninja Gaiden is a series of action video games by Tecmo featuring the ninja Ryu Hayabusa as its protagonist. The series was originally known as Ninja Ryukenden (Legend of the Ninja Dragon Sword) in Japan. The word "gaiden" in the North American Ninja Gaiden title means "side story" in Japanese.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Ninja Gaiden</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1988</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Yoshizawa, Hideo</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

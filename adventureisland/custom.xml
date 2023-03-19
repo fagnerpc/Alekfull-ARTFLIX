@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Adventure Island is an adaptation of the arcade game Wonder Boy, developed by Escape for Sega. Adventure Island was followed by a series of sequels with no connection to the Wonder Boy series.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Adventure Island</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Chikuma, Jun</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

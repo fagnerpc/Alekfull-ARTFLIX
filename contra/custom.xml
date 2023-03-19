@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Contra is a video game series produced by Konami composed primarily of run and gun-style shooting games. The series debuted in February 1987 with the Japanese coin-operated arcade game of the same name, which was has since spawned several sequels produced for various platforms.</text>
+		</text>
+
+		
+
+				<text name="info2" extra="true">
+			<text>Contra</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Konami</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>
