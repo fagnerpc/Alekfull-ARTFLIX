@@ -10,24 +10,40 @@
 			<text>Wine é uma camada de compatibilidade para sistemas operativos UNIX que tem como objetivo a execução de aplicações desenvolvidas para ambientes Windows nativamente em outros sistemas operacionais.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+		<text name="info1" extra="true" lang="EN">
 			<text>Wine is a compatibility layer for UNIX operating systems that aims to implement the Microsoft Windows API. Thus, in theory, Wine allows the execution of applications developed for Windows on other operating systems.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="ES">
+		<text name="info1" extra="true" lang="ES">
 			<text>Wine es una capa de compatibilidad para sistemas operativos UNIX que tiene como objetivo implementar la API de Microsoft Windows. Wine permite la ejecución de aplicaciones para Windows en otros sistemas operativos.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="FR">
+		<text name="info1" extra="true" lang="FR">
 			<text>Wine est une couche de compatibilité pour les systèmes d'exploitation UNIX qui vise à implémenter l'API Windows. Wine permet l'exécution d'applications développées pour Windows sur d'autres systèmes d'exploitation.</text>
 		</text>
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Wine ist eine Kompatibilitätsschicht für UNIX-Betriebssysteme, die darauf abzielt, die Microsoft Windows-API zu implementieren. Somit erlaubt Wine theoretisch die Ausführung von Anwendungen, die für Windows auf anderen Betriebssystemen entwickelt wurden.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>Wine 是 UNIX 操作系统的兼容层，旨在实现 Microsoft Windows API。因此，理论上，Wine 允许在其他操作系统上执行为 Windows 开发的应用程序。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>Wine 是 UNIX 操作系統的兼容層，旨在實現 Microsoft Windows API。因此，理論上，Wine 允許在其他操作系統上執行為 Windows 開發的應用程序。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Windows Games</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>Windows游戏</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
+			<text>Windows游戲</text>
 		</text>
 
 		<text name="info3" extra="true">
