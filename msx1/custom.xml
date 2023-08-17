@@ -18,12 +18,20 @@
 			<text>MSX es el nombre de un estándar de microordenador doméstico de 8 bits comercializado durante los años 1980 y principio de los años 1990. Fue definido por Kazuhiko Nishi y presentado el 27 de junio de 1983 en Japón.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="FR">
+		<text name="info1" extra="true" lang="FR">
 			<text>MSX était un standard de micro-ordinateurs à vocation domestique (grand public) d’origine japonaise, qui date des années 1980. Contrairement à la plupart des ordinateurs de l’époque, les MSX ont été produits par divers fabricants.</text>
 		</text>
 
 		<text name="info1" extra="true" lang="DE">
 			<text>MSX hat vier Generationen hervorgebracht: MSX (1983), MSX2 (1985), MSX2+ (1988) und MSX TurboR (1990). Die ersten drei waren 8-Bit-Computer, die auf dem Z80-Mikroprozessor basierten, während der MSX TurboR auf einem benutzerdefinierten 16-Bit-R800 basierte.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>MSX 产生了四代：MSX (1983)、MSX2 (1985)、MSX2+ (1988) 和 MSX TurboR (1990)。前三款是基于 Z80 微处理器的 8 位计算机，而 MSX TurboR 基于定制的 16 位 R800。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>MSX 產生了四代：MSX (1983)、MSX2 (1985)、MSX2+ (1988) 和 MSX TurboR (1990)。前三款是基於 Z80 微處理器的 8 位計算機，而 MSX TurboR 基於定制的 16 位 R800。</text>
 		</text>
 
 		<text name="info2" extra="true">
