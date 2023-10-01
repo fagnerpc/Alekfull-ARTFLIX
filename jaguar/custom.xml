@@ -10,7 +10,7 @@
 			<text>Atari Jaguar foi um console de videogame lançado pela Atari em 1993. Ele foi desenvolvido para superar o Mega Drive e o Super Nintendo em poder de processamento.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+		<text name="info1" extra="true" lang="EN">
 			<text>Atari Jaguar was a video game console released by Atari in 1993. It was developed to outperform Mega Drive and Super Nintendo in processing power.</text>
 		</text>
 
@@ -26,8 +26,24 @@
 			<text>Atari Jaguar war eine Videospielkonsole, die 1993 von Atari herausgebracht wurde. Sie wurde entwickelt, um Mega Drive und Super Nintendo an Rechenleistung zu übertreffen.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>雅达利Jaguar是雅达利于1993年发布的一款视频游戏机。它的开发目的是在处理能力上超越Mega Drive和Super Nintendo。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>雅達利Jaguar是雅達利於1993年發布的一款視頻遊戲機。它的開發目的是在處理能力上超越Mega Drive和Super Nintendo。</text>
+		</text>
+
 		<text name="info2" extra="true">
 			<text>Atari Jaguar</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text>雅达利Jaguar</text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text>雅達利Jaguar</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -37,6 +53,17 @@
 		<text name="info4" extra="true">
 			<text>Atari Corporation</text>
 		</text>
+
+		<text name="info4" extra="true" lang="ZH">
+			<text>雅达利</text>
+		</text>
+
+
+		<text name="info4" extra="true" lang="TW">
+			<text>雅達利</text>
+		</text>
+
+
 	</view>
 
 		<customView name="HCoinSpin">
