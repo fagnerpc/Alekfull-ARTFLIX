@@ -10,7 +10,7 @@
 			<text>É um console de videogame doméstico produzido pela Nintendo e lançado em 2006. É um videogame da sétima geração e o quinto console da Nintendo. Seus principais concorrentes são o Xbox 360 e o Playstation 3.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+		<text name="info1" extra="true" lang="EN">
 			<text>Is a home video game console released by Nintendo on November 19, 2006. As a seventh-generation console, the Wii competed with Microsoft's Xbox 360 and Sony's PlayStation 3.</text>
 		</text>
 
@@ -25,11 +25,26 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Ist eine Heimvideospielkonsole, die am 19. November 2006 von Nintendo herausgebracht wurde. Als Konsole der siebten Generation konkurrierte die Wii mit Microsofts Xbox 360 und Sonys PlayStation 3.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>任天堂于2006年11月19日发布的一款家用视频游戏机。作为第七代游戏机，Wii与微软的Xbox360和索尼的PlayStation3竞争。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>任天堂於2006年11月19日發布的家用電玩遊戲機。作為第七代遊戲機，Wii與微軟的Xbox360和索尼的PlayStation3競爭。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Nintendo Wii</text>
 		</text>
 
+		<text name="info2" extra="true" lang="ZH">
+			<text>任天堂Wii</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
+			<text>任天堂Wii</text>
+		</text>
 				<text name="info3" extra="true">
 			<text>2006</text>
 		</text>
