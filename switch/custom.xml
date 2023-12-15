@@ -10,24 +10,40 @@
 			<text>O Nintendo Switch é um console de videogame desenvolvido pela Nintendo. É um console híbrido que pode ser usado como console doméstico e dispositivo portátil. Como console da oitava geração, o Switch compete com o Xbox One e o PlayStation 4.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+		<text name="info1" extra="true" lang="EN">
 			<text>Nintendo Switch is a video game console developed by Nintendo. It is a hybrid console that can be used as a home console and portable device. As an eighth-generation console, the Switch competes with Xbox One and PlayStation 4.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="ES">
+		<text name="info1" extra="true" lang="ES">
 			<text>Nintendo Switch es una consola de videojuegos desarrollada por Nintendo. Es una consola híbrida que se puede utilizar como consola doméstica y dispositivo portátil. Como una consola de octava generación, el Switch compite con Xbox One y PlayStation 4.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="FR">
+		<text name="info1" extra="true" lang="FR">
 			<text>Nintendo Switch est une console de jeu vidéo développée par Nintendo. Il s'agit d'une console hybride qui peut être utilisée comme console domestique et appareil portable. En tant que console de huitième génération, la Switch est en concurrence avec Xbox One et PS4.</text>
 		</text>
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Nintendo Switch ist eine von Nintendo entwickelte Videospielkonsole. Es ist eine Hybridkonsole, die als Heimkonsole und tragbares Gerät verwendet werden kann. Als Konsole der achten Generation konkurriert die Switch mit Xbox One und PlayStation 4.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>Nintendo Switch是任天堂开发的一款视频游戏机。它是掌机和连接电视的固定主机的混合体。作为第八代游戏机，Switch与Xbox One和PlayStation 4竞争。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>Nintendo Switch是任天堂開發的一款視頻遊戲機。它是掌機和連接電視的固定主機的混合體。作為第八代遊戲機，Switch與Xbox One和PlayStation 4競爭。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Nintendo Switch</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>任天堂Switch</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
+			<text>任天堂Switch</text>
 		</text>
 
 				<text name="info3" extra="true">
