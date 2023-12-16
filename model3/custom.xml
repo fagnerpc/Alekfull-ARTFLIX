@@ -25,9 +25,25 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Sega Model 3 ist eine Arcade-Karte, die 1996 von Sega auf den Markt gebracht wurde. Sie war das letzte Produkt der Partnerschaft von Sega mit Lockheed Martin, bei der die Real3D-Abteilung zum Design des Grafikprozessors eingesetzt wurde. Zu den bekanntesten Spielen gehören Virtua Fighter 3 und Sega Rally 2.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>Sega Model3是Sega于1996年推出的一款街机卡，是Sega与Lockheed Martin合作的最后一款产品，采用Real3D部门设计图形处理器。最著名的游戏包括Virtua Fighter 3和Sega Rally 2。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>Sega Model3是Sega於1996年推出的一款街機卡，是Sega與Lockheed Martin合作的最後一款產品，采用Real3D部門設計圖形處理器。最著名的遊戲包括Virtua Fighter 3和Sega Rally 2。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Sega Model 3</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="ZH">
+			<text>世嘉Model 3</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
+			<text>世嘉Model 3</text>
 		</text>
 
 		<text name="info3" extra="true">
@@ -36,6 +52,14 @@
 
 		<text name="info4" extra="true">
 			<text>SEGA</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>世嘉</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="TW">
+			<text>世嘉</text>
 		</text>
 	</view>
 </theme>

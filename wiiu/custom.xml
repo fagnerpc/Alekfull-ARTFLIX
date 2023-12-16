@@ -25,9 +25,25 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Wii U ist eine Videospielkonsole von Nintendo, dem Nachfolger von Wii. Es wurde am 18. November 2012 in Nordamerika, am 30. November in Europa und am 8. Dezember in Japan veröffentlicht.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>WiiU是任天堂新推出的HD家用游戏机，是Wii的后继机种。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>WiiU是任天堂新推出的HD家用游戏机，是Wii的后继机种。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Nintendo Wii U</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text>任天堂Wii U</text>
+		</text>
+		
+		<text name="info2" extra="true" lang="TW">
+			<text>任天堂Wii U</text>
 		</text>
 
 				<text name="info3" extra="true">
