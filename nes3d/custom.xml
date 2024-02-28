@@ -1,0 +1,70 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Nintendo Entertainment System it was initially released in Japan as the Family Computer. The best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O NES/Famicom foi o videogame de maior sucesso comercial na sua época, ajudou a indústria de videogames a se recuperar da crise de 1983 e estabeleceu novos padrões que seriam seguidos pela indústria.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Nintendo Entertainment System it was initially released in Japan as the Family Computer. The best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>También conocida como NES,​ es una videoconsola de ocho bits perteneciente a la tercera generación en la industria de los videojuegos. Fue lanzada por Nintendo en Norteamérica, Europa y Australia entre 1985 y 1987.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>La console connut un succès mondial, ce qui aida à redynamiser l'industrie du jeu vidéo après le krach du jeu vidéo de 1983, et ce qui fixa les normes pour les consoles suivantes, du game design aux procédures de gestion.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Das Nintendo Entertainment System wurde ursprünglich in Japan als Family Computer veröffentlicht. Das NES, die meistverkaufte Spielekonsole seiner Zeit, half dabei, die US-Videospielindustrie nach dem Videospiel-Crash von 1983 wiederzubeleben.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ZH">
+			<text>任天堂娱乐系统它最初在日本作为家庭电脑发布。 作为当时最畅销的游戏机，NES 在 1983 年视频游戏崩溃后帮助重振了美国视频游戏产业。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>任天堂娛樂系統它最初在日本作為家庭電腦發布。 作為當時最暢銷的遊戲機，NES 在 1983 年視頻遊戲崩潰後幫助重振了美國視頻遊戲產業。</text>
+		</text>
+
+
+		<text name="info2" extra="true">
+			<text>NES (3D)</text>
+		</text>
+
+		<text name="info2" extra="true" ifSubset="systemview:Cobalto">
+			<text>Nintendo Entertainment System</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text>红白机</text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text>紅白機</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>      
+		</text>   
+
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>              
+		</text>		
+	</view>
+</theme>

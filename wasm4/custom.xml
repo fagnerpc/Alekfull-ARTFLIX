@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>WASM-4 is a low-level fantasy game console for building small games with WebAssembly. Game cartridges (ROMs) are small, self-contained .wasm files that can be built with any programming language that compiles to WebAssembly.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>WASM-4 é um console de jogos de fantasia de baixo nível para construir pequenos jogos com WebAssembly. Cartuchos de jogos (ROMs) são arquivos .wasm pequenos e independentes que podem ser criados com qualquer linguagem de programação compilada para WebAssembly.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>WASM-4 is a low-level fantasy game console for building small games with WebAssembly. Game cartridges (ROMs) are small, self-contained .wasm files that can be built with any programming language that compiles to WebAssembly.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>WASM-4 es una consola de juegos de fantasía de bajo nivel para crear juegos pequeños con WebAssembly. Los cartuchos de juego (ROM) son archivos .wasm pequeños e independientes que se pueden crear con cualquier lenguaje de programación que se compile en WebAssembly.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>WASM-4 est une console de jeu fantastique de bas niveau pour créer de petits jeux avec WebAssembly. Les cartouches de jeu (ROM) sont de petits fichiers .wasm autonomes qui peuvent être créés avec n'importe quel langage de programmation qui se compile en WebAssembly.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>WASM-4 ist eine Low-Level-Fantasy-Spielekonsole zum Erstellen kleiner Spiele mit WebAssembly. Game-Cartridges (ROMs) sind kleine, eigenständige .wasm-Dateien, die mit jeder Programmiersprache erstellt werden können, die zu WebAssembly kompiliert werden kann.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>WASM-4</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2021</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bruno Garcia</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

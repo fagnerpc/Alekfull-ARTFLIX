@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Zaccaria, (later briefly reorganized under Mr. Game before ending production) was an Italian company of pinball and arcade machines that existed in Bologna from 1974 until 1990. The factory was sold to tecnoplay.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Zaccaria, (mais tarde brevemente reorganizada sob a direção de Mr. Game antes de encerrar a produção) era uma empresa italiana de máquinas de fliperama e fliperama que existiu em Bolonha de 1974 a 1990. A fábrica foi vendida para a tecnoplay.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Zaccaria, (later briefly reorganized under Mr. Game before ending production) was an Italian company of pinball and arcade machines that existed in Bologna from 1974 until 1990. The factory was sold to tecnoplay.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Zaccaria (más tarde reorganizada brevemente bajo Mr. Game antes de finalizar la producción) fue una empresa italiana de pinball y máquinas recreativas que existió en Bolonia desde 1974 hasta 1990. La fábrica se vendió a tecnoplay..</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Zaccaria, (plus tard brièvement réorganisé sous Mr. Game avant de mettre fin à la production) était une société italienne de flippers et de machines d'arcade qui existait à Bologne de 1974 à 1990. L'usine a été vendue à tecnoplay.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Zaccaria (später kurzzeitig unter Mr. Game umstrukturiert, bevor die Produktion eingestellt wurde) war ein italienisches Unternehmen für Flipper- und Arcade-Automaten, das von 1974 bis 1990 in Bologna existierte. Die Fabrik wurde an tecnoplay verkauft.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Zaccaria Pinball</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2016</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Interactive Entertainment</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/zaccariapinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/zaccariapinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>
