@@ -51,7 +51,7 @@
 		</image>
 		
 		<image name="logo, sublogo">
-		<path>./../assets/logos/msx2.png</path>
+		<path>./../assets/logos/msx2plus.png</path>
 		</image>
 		
 	</view>
