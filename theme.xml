@@ -1445,7 +1445,7 @@ Tema proibido para uso comercial
 	   <image name="md_image">
          <origin>0 0</origin>
          <size>0.9 0.9</size>
-         <pos>0.45 0</pos>
+         <pos>0.5 0</pos>
          <zIndex>5</zIndex>
 		 <linearSmooth>true</linearSmooth>
       </image>
