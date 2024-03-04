@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Plex Inc. is an American software company that develops its namesake streaming media service and a client–server media player platform. Plex's media server software organizes video, audio, and photos from a user's server and streams it to player applications on mobile devices, smart TVs, streaming boxes, and in web apps. In 2019, Plex launched an ad-supported streaming service of movies, television shows and music that is accessible from its applications.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>é uma empresa de software americana que desenvolve seu serviço de streaming de mídia homônimo e uma plataforma de media player cliente-servidor. O software de servidor de mídia da Plex organiza vídeo, áudio e fotos do servidor de um usuário e transmite-o para aplicativos de player em dispositivos móveis, smart TVs, caixas de streaming e em aplicativos da web. Em 2019, a Plex lançou um serviço de streaming suportado por anúncios de filmes, programas de televisão e música que é acessível a partir de seus aplicativos.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Plex Inc. is an American software company that develops its namesake streaming media service and a client–server media player platform. Plex's media server software organizes video, audio, and photos from a user's server and streams it to player applications on mobile devices, smart TVs, streaming boxes, and in web apps. In 2019, Plex launched an ad-supported streaming service of movies, television shows and music that is accessible from its applications.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Plex Inc. es una compañía de software estadounidense que desarrolla su servicio de transmisión de medios homónimo y una plataforma de reproductor multimedia cliente-servidor. El software de servidor multimedia de Plex organiza video, audio y fotos desde el servidor de un usuario y lo transmite a aplicaciones de reproducción en dispositivos móviles, televisores inteligentes, cajas de transmisión y en aplicaciones web. En 2019, Plex lanzó un servicio de transmisión de películas, programas de televisión y música con publicidad al que se puede acceder desde sus aplicaciones..</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Plex Inc. est une société américaine de logiciels qui développe son service de diffusion multimédia en continu homonyme et une plate-forme de lecteur multimédia client-serveur. Le logiciel de serveur multimédia de Plex organise la vidéo, l’audio et les photos à partir du serveur d’un utilisateur et les diffuse vers des applications de lecteur sur des appareils mobiles, des téléviseurs intelligents, des boîtiers de diffusion en continu et des applications Web. En 2019, Plex a lancé un service de streaming de films, d’émissions de télévision et de musique financé par la publicité, accessible depuis ses applications..</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Plex Inc. ist ein amerikanisches Softwareunternehmen, das seinen gleichnamigen Streaming-Media-Dienst und eine Client-Server-Mediaplayer-Plattform entwickelt. Die Medienserver-Software von Plex organisiert Video, Audio und Fotos vom Server eines Benutzers und streamt sie an Player-Anwendungen auf Mobilgeräten, Smart-TVs, Streaming-Boxen und in Web-Apps. Im Jahr 2019 startete Plex einen werbefinanzierten Streaming-Dienst mit Filmen, Fernsehsendungen und Musik, auf den über seine Anwendungen zugegriffen werden kann.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>PLEX</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2009</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Plex Inc.</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

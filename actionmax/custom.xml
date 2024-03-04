@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Action Max is a home video game console using VHS tapes for games. It was manufactured in 1987 by Worlds of Wonder. The system had a very limited release outside the U.S.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O Action Max é um console de videogame doméstico que usa fitas VHS para jogos. Foi fabricado em 1987 pela Worlds of Wonder. O sistema teve um lançamento muito limitado fora dos Estados Unidos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The Action Max is a home video game console using VHS tapes for games. It was manufactured in 1987 by Worlds of Wonder. The system had a very limited release outside the U.S.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Action Max es una consola de videojuegos doméstica que utiliza cintas VHS para juegos. Fue fabricado en 1987 por Worlds of Wonder. El sistema tuvo un lanzamiento muy limitado fuera de los U.S.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>L'Action Max est une console de jeu vidéo domestique utilisant des cassettes VHS pour les jeux. Il a été fabriqué en 1987 par Worlds of Wonder. Le système a eu une version très limitée en dehors des États-Unis.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Die Action Max ist eine Heimvideospielkonsole, die VHS-Kassetten für Spiele verwendet. Es wurde 1987 von Worlds of Wonder hergestellt. Das System wurde außerhalb der USA nur in sehr begrenztem Umfang veröffentlicht.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>ActionMax</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Worlds of Wonder</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>
