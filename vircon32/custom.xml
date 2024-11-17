@@ -1,0 +1,51 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Vircon32 is a new game console, created from scratch. It is a 32-bit system created with the goal of being as simple as possible, but still having enough features to support full, elaborate games.
+As the name implies, Vircon32 is a 32-bit virtual console: it is meant as a standard that could be implemented either in software or hardware. Want to know more about the console? Keep reading this website. You can also watch this video to have an idea of the kind of games you can expect from it.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Vircon32 é uma nova consola de jogos, criada de raiz. É um sistema de 32 bits criado com o objetivo de ser o mais simples possível, mas ainda assim com caraterísticas suficientes para suportar jogos completos e elaborados.
+
+Tal como o nome indica, a Vircon32 é uma consola virtual de 32 bits: foi concebida como um padrão que pode ser implementado tanto em software como em hardware. Quer saber mais sobre a consola? Continue a ler este sítio Web. Pode também ver este vídeo para ter uma ideia do tipo de jogos que pode esperar dela.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Vircon32 is a new game console, created from scratch. It is a 32-bit system created with the goal of being as simple as possible, but still having enough features to support full, elaborate games.
+As the name implies, Vircon32 is a 32-bit virtual console: it is meant as a standard that could be implemented either in software or hardware. Want to know more about the console? Keep reading this website. You can also watch this video to have an idea of the kind of games you can expect from it.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Vircon32 es una nueva videoconsola, creada desde cero. Se trata de un sistema de 32 bits creado con el objetivo de ser lo más sencillo posible, pero con las características suficientes para soportar juegos completos y elaborados.
+
+Como su nombre indica, Vircon32 es una consola virtual de 32 bits: está pensada como un estándar que podría implementarse tanto en software como en hardware. ¿Quieres saber más sobre la consola? Sigue leyendo este sitio web. También puedes ver este vídeo para hacerte una idea del tipo de juegos que puedes esperar de ella.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Vircon32 est une nouvelle console de jeu, créée à partir de zéro. Il s'agit d'un système 32 bits créé dans le but d'être aussi simple que possible, tout en ayant suffisamment de fonctionnalités pour supporter des jeux complets et élaborés.
+
+Comme son nom l'indique, Vircon32 est une console virtuelle 32 bits : il s'agit d'un standard qui peut être implémenté soit dans un logiciel, soit dans du matériel. Vous voulez en savoir plus sur la console ? Lisez ce site web. Vous pouvez également regarder cette vidéo pour vous faire une idée du type de jeux que vous pouvez en attendre.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Vircon32 ist eine neue Spielkonsole, die von Grund auf neu entwickelt wurde. Es handelt sich um ein 32-Bit-System, das mit dem Ziel entwickelt wurde, so einfach wie möglich zu sein, aber dennoch genügend Funktionen zu haben, um vollständige, aufwendige Spiele zu unterstützen.
+
+Wie der Name schon sagt, handelt es sich bei Vircon32 um eine virtuelle 32-Bit-Konsole: Sie ist als Standard gedacht, der entweder in Software oder Hardware implementiert werden kann. Möchten Sie mehr über die Konsole erfahren? Lesen Sie weiter auf dieser Website. Sie können sich auch dieses Video ansehen, um eine Vorstellung von der Art der Spiele zu bekommen, die Sie von der Konsole erwarten können.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Vircon32</text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>2022</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Carra</text>
+		</text>
+	</view>
+</theme>

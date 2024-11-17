@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Ship of Harkinian is an unofficial source port of the 1998 Nintendo 64 video game, The Legend of Zelda: Ocarina of Time. It first released in March 2022 for Windows, four months after Ocarina of Time's source code was decompiled and released. Updates to Ship of Harkinian have attracted media attention, as they often integrate options and features which aren't present in any official release of Ocarina of Time.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Ship of Harkinian é uma versão não oficial do jogo de vídeo Nintendo 64 de 1998, The Legend of Zelda: Ocarina of Time. Foi lançado pela primeira vez em março de 2022 para Windows, quatro meses depois de o código fonte de Ocarina of Time ter sido descompilado e lançado. As actualizações do Ship of Harkinian têm atraído a atenção dos media, uma vez que integram frequentemente opções e funcionalidades que não estão presentes em nenhuma versão oficial do Ocarina of Time.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Ship of Harkinian is an unofficial source port of the 1998 Nintendo 64 video game, The Legend of Zelda: Ocarina of Time. It first released in March 2022 for Windows, four months after Ocarina of Time's source code was decompiled and released. Updates to Ship of Harkinian have attracted media attention, as they often integrate options and features which aren't present in any official release of Ocarina of Time.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Ship of Harkinian es un port no oficial del videojuego de 1998 para Nintendo 64, The Legend of Zelda: Ocarina of Time. Salió a la venta por primera vez en marzo de 2022 para Windows, cuatro meses después de que se descompilara y publicara el código fuente de Ocarina of Time. Las actualizaciones de Ship of Harkinian han atraído la atención de los medios, ya que a menudo integran opciones y características que no están presentes en ninguna versión oficial de Ocarina of Time.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Ship of Harkinian est un portage source non officiel du jeu vidéo The Legend of Zelda : Ocarina of Time, sorti en 1998 sur Nintendo 64. Il est sorti pour la première fois en mars 2022 pour Windows, quatre mois après que le code source d'Ocarina of Time ait été décompilé et publié. Les mises à jour de Ship of Harkinian ont attiré l'attention des médias, car elles intègrent souvent des options et des fonctionnalités qui ne sont présentes dans aucune version officielle d'Ocarina of Time.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ship of Harkinian ist eine inoffizielle Quellcode-Portierung des Nintendo 64-Videospiels The Legend of Zelda: Ocarina of Time von 1998. Es wurde erstmals im März 2022 für Windows veröffentlicht, vier Monate nachdem der Quellcode von Ocarina of Time dekompiliert und veröffentlicht worden war. Updates zu Ship of Harkinian haben die Aufmerksamkeit der Medien auf sich gezogen, da sie oft Optionen und Funktionen integrieren, die in keiner offiziellen Version von Ocarina of Time enthalten sind.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>The Legend of Zelda: Ocarina of Time</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2022</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Ship of Harkinian</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

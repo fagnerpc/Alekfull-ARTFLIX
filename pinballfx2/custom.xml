@@ -1,0 +1,52 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Pinball FX 2 on PC is a game of... pinball! And not just any pinball game, since many fans of the little metal marble consider it to be one of the best on the Xbox Live Arcade market. Some fifteen tables, each more original than the last, await you. Play alone, in multiplayer mode online for up to 4 players, or offline in split-screen mode.</text>
+        </text>
+        <text name="info1" extra="true" lang="PT">
+            <text>Pinball FX 2 para PC é um jogo de... pinball! E não é um jogo de pinball qualquer, pois muitos fãs da pequena bola de metal consideram-no um dos melhores do mercado da Xbox Live Arcade. Cerca de quinze mesas, cada uma mais original do que a outra, esperam por ti. Joga sozinho, em modo multijogador online para até 4 jogadores, ou offline em modo de ecrã dividido.</text>
+        </text>
+        <text name="info1" extra="true" lang="EN">
+            <text>Pinball FX 2 on PC is a game of... pinball! And not just any pinball game, since many fans of the little metal marble consider it to be one of the best on the Xbox Live Arcade market. Some fifteen tables, each more original than the last, await you. Play alone, in multiplayer mode online for up to 4 players, or offline in split-screen mode.</text>
+        </text>
+        <text name="info1" extra="true" lang="ES">
+            <text>Pinball FX 2 para PC es un juego de... ¡pinball! Y no un juego de pinball cualquiera, ya que muchos aficionados a la pequeña bola metálica lo consideran uno de los mejores del mercado Xbox Live Arcade. Te esperan una quincena de mesas, a cada cual más original. Juega solo, en multijugador online para hasta 4 jugadores, o sin conexión en modo de pantalla dividida.</text>
+        </text>
+        <text name="info1" extra="true" lang="FR">
+            <text>Pinball FX 2 sur PC est un jeu de... flipper ! Et pas n'importe lequel puisque beaucoup d'inconditionnels de la petite bille de métal le jugent comme l'un des meilleurs sur le marché Xbox Live Arcade. Une quinzaine de tables toutes plus originales les unes que les autres vous attendent. Jouez seul, en multi online jusqu'à 4 joueurs ou offline en écran partagé.</text>
+        </text>
+        <text name="info1" extra="true" lang="DE">
+            <text>Pinball FX 2 auf PC ist ein Spiel, in dem man... Flipper! Und nicht nur irgendeiner, denn viele Fans der kleinen Metallkugel halten es für eines der besten auf dem Xbox Live Arcade-Marktplatz. Rund 15 Tische, von denen einer origineller ist als der andere, warten auf Sie. Spielen Sie alleine, im Online-Multiplayer mit bis zu 4 Spielern oder offline im Splitscreen.</text>
+        </text>
+
+        <text name="info2" extra="true">
+            <text>PinballFX2</text>
+        </text>
+
+        <text name="info3" extra="true">
+            <text>2013</text>
+        </text>
+
+        <text name="info4" extra="true">
+            <text>Zen Studios</text>
+        </text>
+    </view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

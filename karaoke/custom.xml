@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Karaoke</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Karaoke</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Karaoke</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Karaoke</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Karaoke</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Karaoke</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>PocketCDG</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

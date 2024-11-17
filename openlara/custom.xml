@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>OpenLara is a remastering project of the old Tomb Raider games by a fan, XProger. The aim is to include the latest technologies found in today's game engines. It's a graphical update that retains the original visual identity and basic gameplay.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>OpenLara é um projeto de remasterização dos antigos jogos Tomb Raider por um fã, XProger. O objetivo é incluir as novas tecnologias modernas presentes nos motores de jogo actuais. Trata-se de uma atualização gráfica que mantém a identidade visual original e a jogabilidade básica.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>OpenLara is a remastering project of the old Tomb Raider games by a fan, XProger. The aim is to include the latest technologies found in today's game engines. It's a graphical update that retains the original visual identity and basic gameplay.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>OpenLara es un proyecto de remasterización de los antiguos juegos de Tomb Raider realizado por un aficionado, XProger. El objetivo es incluir las nuevas tecnologías modernas que se encuentran en los motores de juego actuales. Es una actualización gráfica que conserva la identidad visual original y la jugabilidad básica.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>OpenLara est un projet de remasterisation des anciens Tomb Raider réalisé par un fan, XProger. Le but est d’inclure les nouvelles technologies modernes présentes dans les moteurs de jeux actuels. C’est une actualisation graphique tout en gardant l’identité visuelle originale et le gameplay de base.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>OpenLara ist ein Projekt des Fans XProger zur Neuauflage der alten Tomb Raider-Filme. Das Ziel ist es, neue, moderne Technologien einzubeziehen, die in den aktuellen Spiel-Engines vorhanden sind. Es ist eine grafische Aktualisierung unter Beibehaltung der ursprünglichen visuellen Identität und des grundlegenden Gameplays.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>OpenLara</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2016</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>XProger</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

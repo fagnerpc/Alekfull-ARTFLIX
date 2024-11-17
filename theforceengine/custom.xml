@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Modern "Jedi Engine" replacement supporting Dark Forces and the mods.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Substituição moderna do “Jedi Engine” que suporta Dark Forces e os mods.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Modern "Jedi Engine" replacement supporting Dark Forces and the mods.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Sustituto moderno del «motor Jedi» compatible con Dark Forces y los mods.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Remplacement moderne du « moteur Jedi » supportant Dark Forces et les mods.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Moderner „Jedi-Engine“-Ersatz, der Dark Forces und die Mods unterstützt.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Star Wars Dark Forces</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2022</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>The Force Engine</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

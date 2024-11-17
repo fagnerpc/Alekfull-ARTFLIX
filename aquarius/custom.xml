@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Aquarius is a home computer designed by Radofin and released by Mattel Electronics in 1983. Based on the Zilog Z80 microprocessor, the system has a rubber chiclet keyboard, 4K of RAM, and a subset of Microsoft BASIC in ROM. It connects to a television set for audiovisual output, and uses a cassette tape recorder for secondary data storage. A limited number of peripherals, such as a 40-column thermal printer, a 4-color printer/plotter, and a 300 baud modem, were released. The Aquarius was discontinued in October 1983, only a few months after it was launched.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O Aquarius é um computador doméstico concebido pela Radofin e lançado pela Mattel Electronics em 1983. Baseado no microprocessador Zilog Z80, o sistema tem um teclado chiclet de borracha, 4K de RAM e um subconjunto do Microsoft BASIC em ROM. Liga-se a um aparelho de televisão para saída audiovisual e utiliza um gravador de cassetes para armazenamento secundário de dados. Foi lançado um número limitado de periféricos, como uma impressora térmica de 40 colunas, uma impressora/plotter de 4 cores e um modem de 300 baud. O Aquarius foi descontinuado em outubro de 1983, apenas alguns meses após o seu lançamento.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Aquarius is a home computer designed by Radofin and released by Mattel Electronics in 1983. Based on the Zilog Z80 microprocessor, the system has a rubber chiclet keyboard, 4K of RAM, and a subset of Microsoft BASIC in ROM. It connects to a television set for audiovisual output, and uses a cassette tape recorder for secondary data storage. A limited number of peripherals, such as a 40-column thermal printer, a 4-color printer/plotter, and a 300 baud modem, were released. The Aquarius was discontinued in October 1983, only a few months after it was launched.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Aquarius es un ordenador doméstico diseñado por Radofin y comercializado por Mattel Electronics en 1983. Basado en el microprocesador Z80 de Zilog, el sistema tiene un teclado chiclet de goma, 4K de RAM y un subconjunto de Microsoft BASIC en ROM. Se conecta a un televisor para la salida audiovisual y utiliza una grabadora de casete para el almacenamiento secundario de datos. Se lanzó un número limitado de periféricos, como una impresora térmica de 40 columnas, una impresora/plotter de 4 colores y un módem de 300 baudios. El Aquarius se dejó de fabricar en octubre de 1983, sólo unos meses después de su lanzamiento.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Aquarius est un ordinateur domestique conçu par Radofin et commercialisé par Mattel Electronics en 1983. Basé sur le microprocesseur Zilog Z80, le système dispose d'un clavier chiclet en caoutchouc, de 4K de RAM et d'un sous-ensemble de Microsoft BASIC en ROM. Il se connecte à un téléviseur pour la sortie audiovisuelle et utilise un magnétophone à cassettes pour le stockage secondaire des données. Un nombre limité de périphériques, tels qu'une imprimante thermique 40 colonnes, une imprimante/traceur 4 couleurs et un modem 300 bauds, ont été commercialisés. L'Aquarius a été abandonné en octobre 1983, quelques mois seulement après son lancement.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Aquarius ist ein Heimcomputer, der von Radofin entwickelt und 1983 von Mattel Electronics herausgebracht wurde. Das System basiert auf dem Zilog Z80-Mikroprozessor und verfügt über eine gummierte Chiclet-Tastatur, 4K RAM und eine Teilmenge von Microsoft BASIC im ROM. Es wird für die audiovisuelle Ausgabe an ein Fernsehgerät angeschlossen und verwendet einen Kassettenrekorder für die sekundäre Datenspeicherung. Eine begrenzte Anzahl von Peripheriegeräten, wie z. B. ein 40-Spalten-Thermodrucker, ein 4-Farb-Drucker/Plotter und ein 300-Baud-Modem, wurden herausgebracht. Der Aquarius wurde im Oktober 1983, nur wenige Monate nach seiner Markteinführung, aus dem Programm genommen.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Aquarius</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Mattel</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>
