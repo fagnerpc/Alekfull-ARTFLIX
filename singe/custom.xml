@@ -1,0 +1,37 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Hypseus Singe is a fork of Matt Ownby's Daphne. A program to play laserdisc arcade games including Dragon's Lair, American Laser Games (Mad DogMcCree) and also Fan Made Games.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Hypseus Singe is a fork of Matt Ownby's Daphne. A program to play laserdisc arcade games including Dragon's Lair, American Laser Games (Mad DogMcCree and also Fan Made Games.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Hypseus Singe est un dérivé du programme Daphne de Matt Ownby. Il permet de joueur aux jeux laserdisc comme Dragon's Lair, ou encore Mad Dog McCree (les jeux American Laser Games), ou encore des jeux créés par des fans.</text>
+		</text>
+
+				<text name="info2" extra="true">
+			<text>Hypseus Singe</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2021</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>DirtBagXon</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER: DirtBagXon</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR: DirtBagXon</text>
+		</text>
+
+	</view>
+</theme>
