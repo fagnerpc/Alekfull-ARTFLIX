@@ -1,0 +1,52 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Pinball FX is the evolution of digital pinball. Play on boards inspired by the biggest names in entertainment. New boards are available frequently!							</text>
+        </text>
+        <text name="info1" extra="true" lang="PT">
+            <text>Pinball FX é a evolução do pinball digital. Joga em tabuleiros inspirados nos maiores nomes do entretenimento. Novos tabuleiros estão disponíveis com frequência!							</text>
+        </text>
+        <text name="info1" extra="true" lang="EN">
+            <text>Pinball FX is the evolution of digital pinball. Play on boards inspired by the biggest names in entertainment. New boards are available frequently!							</text>
+        </text>
+        <text name="info1" extra="true" lang="ES">
+            <text>Pinball FX es la evolución del pinball digital. Juega en tableros inspirados en los grandes nombres del entretenimiento. ¡Nuevos tableros disponibles con frecuencia!							</text>
+        </text>
+        <text name="info1" extra="true" lang="FR">
+            <text>Pinball FX, c'est l'évolution du flipper numérique. Jouez sur des plateaux inspirés par les plus grandes marques du divertissement. De nouveaux plateaux sont disponibles fréquemment ! </text>
+        </text>
+        <text name="info1" extra="true" lang="DE">
+            <text>Pinball FX ist die Evolution des digitalen Flippers. Spielen Sie auf Spielbrettern, die von den bekanntesten Marken der Unterhaltungsindustrie inspiriert wurden. Neue Spielbretter sind häufig verfügbar!							</text>
+        </text>
+
+        <text name="info2" extra="true">
+            <text>Pinball FX</text>
+        </text>
+
+        <text name="info3" extra="true">
+            <text>2023</text>
+        </text>
+
+        <text name="info4" extra="true">
+            <text>Zen Studios</text>
+        </text>
+    </view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

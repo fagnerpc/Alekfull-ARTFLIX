@@ -1,0 +1,52 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>Get ready to face the terror. The new horror-based pinball platform is for daredevil gamers. Show what you can do on some of the most gruesome, menacing and bloody boards ever created.</text>
+        </text>
+        <text name="info1" extra="true" lang="PT">
+            <text>Prepara-te para enfrentar o terror. A nova plataforma de pinball baseada no terror é para jogadores audazes. Mostra o que sabes fazer nos tabuleiros mais horripilantes, ameaçadores e sangrentos alguma vez criados.</text>
+        </text>
+        <text name="info1" extra="true" lang="EN">
+            <text>Get ready to face the terror. The new horror-based pinball platform is for daredevil gamers. Show what you can do on some of the most gruesome, menacing and bloody boards ever created.</text>
+        </text>
+        <text name="info1" extra="true" lang="ES">
+            <text>Prepárate para enfrentarte al terror. La nueva plataforma de pinball basada en el terror es para jugadores temerarios. Demuestra de lo que eres capaz en los tableros más horripilantes, amenazadores y sangrientos jamás creados.</text>
+        </text>
+        <text name="info1" extra="true" lang="FR">
+            <text>Préparez-vous à affronter la terreur. La nouvelle plateforme de flipper basée sur l'horreur est destinée aux joueurs téméraires. Montrez de quoi vous êtes capable sur les plateaux les plus horribles, menaçants et sanglants jamais créés.</text>
+        </text>
+        <text name="info1" extra="true" lang="DE">
+            <text>Machen Sie sich bereit, dem Schrecken ins Auge zu sehen. Die neue, auf Horror basierende Flipperplattform ist für waghalsige Spieler gedacht. Zeigen Sie auf den schrecklichsten, bedrohlichsten und blutigsten Plateaus, die je geschaffen wurden, was Sie können.</text>
+        </text>
+
+        <text name="info2" extra="true">
+            <text>Pinball M</text>
+        </text>
+
+        <text name="info3" extra="true">
+            <text>2023</text>
+        </text>
+
+        <text name="info4" extra="true">
+            <text>Zen Studios</text>
+        </text>
+    </view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

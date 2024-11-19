@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Dinothawr is a block pushing puzzle game on slippery surfaces. Our hero is a dinosaur whose friends are trapped in ice. Through puzzles it is your task to free the dinos from their ice prison. </text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Dinothawr é um jogo de quebra-cabeça de empurrar blocos em superfícies escorregadias.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Dinothawr is a block pushing puzzle game on slippery surfaces. Our hero is a dinosaur whose friends are trapped in ice. Through puzzles it is your task to free the dinos from their ice prison. </text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Dinothawr es un juego de rompecabezas que empuja bloques sobre superficies resbaladizas.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Dinothawr est un jeu de puzzle poussant des blocs sur des surfaces glissantes. Notre héros est un dinosaure dont les amis sont piégés dans la glace. À travers des énigmes, votre tâche est de libérer les dinos de leur prison de glace. </text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Dinothawr ist ein Block-Puzzlespiel auf rutschigen Oberflächen.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Dinothawr</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>
+	
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

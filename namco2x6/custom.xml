@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Namco System 246 is a development of the Sony PlayStation 2 technology as a basis for an arcade system board. It was released in December 2000 on its first game Bloody Roar 3. Like the Sega NAOMI, it is widely licensed for use by other manufacturers. Games such as Battle Gear 3 and Capcom Fighting Evolution are examples of System 246-based arcade games that are not Namco products. Namco System 256 is an upgraded version of System 246, but the upgrades are unknown (more VRAM and faster CPU speeds likely).</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O Namco System 246 é um desenvolvimento da tecnologia da Sony PlayStation 2 como base para uma placa de sistema de arcada. Foi lançada em dezembro de 2000 com o seu primeiro jogo Bloody Roar 3. Tal como a Sega NAOMI, é amplamente licenciada para utilização por outros fabricantes. Jogos como Battle Gear 3 e Capcom Fighting Evolution são exemplos de jogos de arcada baseados na System 246 que não são produtos Namco. O Namco System 256 é uma versão melhorada do System 246, mas as actualizações são desconhecidas (provavelmente mais VRAM e velocidades de CPU mais rápidas).</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The Namco System 246 is a development of the Sony PlayStation 2 technology as a basis for an arcade system board. It was released in December 2000 on its first game Bloody Roar 3. Like the Sega NAOMI, it is widely licensed for use by other manufacturers. Games such as Battle Gear 3 and Capcom Fighting Evolution are examples of System 246-based arcade games that are not Namco products. Namco System 256 is an upgraded version of System 246, but the upgrades are unknown (more VRAM and faster CPU speeds likely).</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>El Namco System 246 es un desarrollo de la tecnología de la Sony PlayStation 2 como base para una placa de sistema arcade. Salió a la venta en diciembre de 2000 con su primer juego Bloody Roar 3. Al igual que la Sega NAOMI, está ampliamente licenciada para su uso por otros fabricantes. Juegos como Battle Gear 3 y Capcom Fighting Evolution son ejemplos de juegos arcade basados en el System 246 que no son productos de Namco. Namco System 256 es una versión mejorada de System 246, pero se desconocen las mejoras (probablemente, más VRAM y mayor velocidad de CPU).</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Le Namco System 246 est un développement de la technologie de la PlayStation 2 de Sony comme base d'un système d'arcade. Il a été lancé en décembre 2000 avec son premier jeu Bloody Roar 3. Comme le NAOMI de Sega, il est largement utilisé sous licence par d'autres fabricants. Des jeux tels que Battle Gear 3 et Capcom Fighting Evolution sont des exemples de jeux d'arcade basés sur le System 246 qui ne sont pas des produits Namco. Le Namco System 256 est une version améliorée du System 246, mais les améliorations sont inconnues (plus de VRAM et des vitesses de CPU plus élevées probablement).</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Das Namco System 246 ist eine Entwicklung der Sony PlayStation 2-Technologie als Basis für ein Arcade-System-Board. Es wurde im Dezember 2000 mit seinem ersten Spiel Bloody Roar 3 veröffentlicht. Wie das Sega NAOMI wird es in großem Umfang für die Verwendung durch andere Hersteller lizenziert. Spiele wie Battle Gear 3 und Capcom Fighting Evolution sind Beispiele für System 246-basierte Arcade-Spiele, die keine Namco-Produkte sind. Das Namco System 256 ist eine verbesserte Version des System 246, aber die Verbesserungen sind unbekannt (wahrscheinlich mehr VRAM und höhere CPU-Geschwindigkeiten).</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Namco System 246 / 256</text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Namco</text>
+		</text>
+	</view>
+</theme>

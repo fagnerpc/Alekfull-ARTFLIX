@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) is a fan-made widescreen remaster of Sonic 3 & Knuckles</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) é uma remasterização em ecrã panorâmico feita por fãs de Sonic 3 & Knuckles</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) is a fan-made widescreen remaster of Sonic 3 & Knuckles</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) es una remasterización en pantalla panorámica de Sonic 3 & Knuckles realizada por fans.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) est un remaster en écran large de Sonic 3 & Knuckles réalisé par des fans.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) ist ein von Fans erstelltes Widescreen-Remaster von Sonic 3 & Knuckles</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Sonic 3 & Knuckles</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2022</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Sonic 3 A.I.R.</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

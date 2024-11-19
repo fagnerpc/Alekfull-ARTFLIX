@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback. It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, polygonal cutscenes, and a Prince of Persia-style gameplay system.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>REminiscence é uma recriação em motor de jogo do jogo de ação e aventura Flashback de 1992/1993. É o sucessor espiritual de Another World/Out Of This World e distingue-se pelos gráficos rotoscópicos, cenas poligonais e um sistema de jogo ao estilo de Prince of Persia.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback. It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, polygonal cutscenes, and a Prince of Persia-style gameplay system.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>REminiscence es una recreación del juego de acción y aventura Flashback de 1992/1993. Es el sucesor espiritual de Another World/Out Of This World y se distingue por sus gráficos rotoscopiados, escenas poligonales y un sistema de juego al estilo Prince of Persia.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>REminiscence est une recréation du jeu d'action et d'aventure Flashback (1992/1993) à l'aide d'un moteur de jeu. Il est le successeur spirituel de Another World/Out Of This World et se distingue par des graphismes rotoscopés, des cutscenes polygonales et un système de jeu à la Prince of Persia.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>REminiscence ist eine Spiel-Engine-Nachbildung des Action-Adventures Flashback von 1992/1993. Es ist der geistige Nachfolger von Another World/Out Of This World und zeichnet sich durch rotoskopierte Grafiken, polygonale Zwischensequenzen und ein Prince of Persia-ähnliches Spielsystem aus.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Flashback</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>20xx</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Reminiscence</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

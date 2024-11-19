@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Aamber Pegasus is a home computer first produced in New Zealand in 1981 by Technosys Research Labs. Total production numbers are unknown, but it is thought "around one hundred" were sold.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O Aamber Pegasus é um computador doméstico produzido pela primeira vez na Nova Zelândia em 1981 pela Technosys Research Labs. O número total de produção é desconhecido, mas acredita-se que “cerca de cem” foram vendidos.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The Aamber Pegasus is a home computer first produced in New Zealand in 1981 by Technosys Research Labs. Total production numbers are unknown, but it is thought "around one hundred" were sold.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>El Aamber Pegasus es un ordenador doméstico fabricado por primera vez en Nueva Zelanda en 1981 por Technosys Research Labs. Se desconoce el número total de unidades producidas, pero se cree que se vendieron «alrededor de cien».</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>L'Aamber Pegasus est un ordinateur domestique produit pour la première fois en Nouvelle-Zélande en 1981 par Technosys Research Labs. Le nombre total de pièces produites n'est pas connu, mais on pense qu'une centaine de pièces ont été vendues.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Der Aamber Pegasus ist ein Heimcomputer, der erstmals 1981 in Neuseeland von Technosys Research Labs hergestellt wurde. Die Gesamtzahl der produzierten Geräte ist nicht bekannt, aber es wird angenommen, dass „etwa hundert“ verkauft wurden.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Aamber Pegasus</text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>1981</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Technosys Research Labs</text>
+		</text>
+	</view>
+</theme>

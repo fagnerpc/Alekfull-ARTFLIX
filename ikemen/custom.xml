@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>I.K.E.M.E.N is a freeware 2D fighting game engine. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O I.K.E.M.E.N é um mecanismo de jogo de luta 2D freeware. O conteúdo é criado pela comunidade e milhares de lutadores, originais e de ficção popular, foram criados.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>I.K.E.M.E.N is a freeware 2D fighting game engine. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>I.K.E.M.E.N es un motor gratuito de juegos de lucha en 2D. El contenido es creado por la comunidad y se han creado miles de luchadores, tanto originales como de ficción popular.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>I.K.E.M.E.N est un moteur de jeu de combat 2D. Le contenu est créé par la communauté, et des milliers de combattants, à la fois originaux et de fiction populaire, ont été créés.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>I.K.E.M.E.N ist eine Freeware-Engine für 2D-Kampfspiele. Inhalte werden von der Community erstellt, und Tausende von Kämpfern, sowohl original als auch aus populärer Fiktion, wurden erstellt.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>I.K.E.M.E.N</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2016</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

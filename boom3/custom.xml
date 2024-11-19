@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Boom 3 is a Doom 3 and Doom 3: Resurrection Of Evil GPL source port, known to work on Windows and Linux. Doom 3 is a sci-fi horror fantasy first-person shooter computer game developed by id Software and published by ActiVision.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Boom 3 é uma porta de origem GPL de Doom 3 e Doom 3: Resurrection Of Evil, conhecida por funcionar em Windows e Linux. Doom 3 é um jogo de computador de tiro em primeira pessoa de ficção científica e terror, desenvolvido pela id Software e publicado pela ActiVision.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Boom 3 is a Doom 3 and Doom 3: Resurrection Of Evil GPL source port, known to work on Windows and Linux. Doom 3 is a sci-fi horror fantasy first-person shooter computer game developed by id Software and published by ActiVision.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Boom 3 es un port de Doom 3 y Doom 3: Resurrection Of Evil GPL source, conocido por funcionar en Windows y Linux. Doom 3 es un juego de disparos en primera persona de ciencia ficción y terror desarrollado por id Software y publicado por ActiVision.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Boom 3 est un portage GPL de Doom 3 et Doom 3 : Resurrection Of Evil, connu pour fonctionner sous Windows et Linux. Doom 3 est un jeu de tir à la première personne de science-fiction, d'horreur et de fantaisie développé par id Software et publié par ActiVision.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Boom 3 ist eine Portierung von Doom 3 und Doom 3: Resurrection Of Evil unter der GPL, die auf Windows und Linux funktioniert. Doom 3 ist ein Sci-Fi-Horror-Fantasy-Ego-Shooter-Computerspiel, entwickelt von id Software und veröffentlicht von ActiVision.</text>
+		</text>
+
+				<text name="info2" extra="true">
+			<text>Doom 3</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2012</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>ID Software</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

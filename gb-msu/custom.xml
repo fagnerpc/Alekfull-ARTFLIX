@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>MSU-1 is a cartridge addon chip (similar to the SuperFx chip) that allows for many enhancements to GameBoy games including, but not limited to, full-motion video and CD quality sound by adding up to 4GB of storage for extra content.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O MSU-1 é um chip addon de cartucho (semelhante ao chip SuperFx) que permite muitos aprimoramentos nos jogos GameBoy, incluindo, entre outros, vídeo em movimento total e som com qualidade de CD, adicionando até 4 GB de armazenamento para conteúdo extra.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>MSU-1 is a cartridge addon chip (similar to the SuperFx chip) that allows for many enhancements to GameBoy games including, but not limited to, full-motion video and CD quality sound by adding up to 4GB of storage for extra content.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>MSU-1 es un chip adicional para cartuchos (similar al chip SuperFx) que permite introducir muchas mejoras en los juegos de GameBoy, entre otras, vídeo de movimiento completo y sonido con calidad de CD, añadiendo hasta 4 GB de almacenamiento para contenido adicional.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Le MSU-1 est une puce d'extension de cartouche (similaire à la puce SuperFx) qui permet d'apporter de nombreuses améliorations aux jeux GameBoy, y compris, mais sans s'y limiter, la vidéo pleine image et le son de qualité CD, en ajoutant jusqu'à 4 Go de mémoire pour le contenu supplémentaire.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>MSU-1 ist ein Cartridge-Addon-Chip (ähnlich dem SuperFx-Chip), der viele Erweiterungen für GameBoy-Spiele ermöglicht, einschließlich, aber nicht beschränkt auf Full-Motion-Video und Sound in CD-Qualität, indem er bis zu 4 GB Speicherplatz für zusätzliche Inhalte bietet.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>GameBoy MSU</text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>2012</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>
+	</view>
+</theme>

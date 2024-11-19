@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A community project, OpenGOAL, started in 2020 with the goal of porting GOAL to x86-64 by decompiling existing Jak and Daxter: The Precursor Legacy, Jak II, Jak 3 and, tentatively, Jak X: Combat Racing assets and recompiling them natively. By November 2023, the OpenGOAL team had produced ports for the first two games that are 100% completable, with a Jak 3 port in development as of 2024.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Um projeto da comunidade, o OpenGOAL, começou em 2020 com o objetivo de portar o GOAL para x86-64, descompilando os activos existentes de Jak and Daxter: The Precursor Legacy, Jak II, Jak 3 e, provisoriamente, Jak X: Combat Racing e recompilando-os nativamente. Em novembro de 2023, a equipa do OpenGOAL tinha produzido portas para os dois primeiros jogos 100% completas, com uma porta para o Jak 3 em desenvolvimento a partir de 2024.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>A community project, OpenGOAL, started in 2020 with the goal of porting GOAL to x86-64 by decompiling existing Jak and Daxter: The Precursor Legacy, Jak II, Jak 3 and, tentatively, Jak X: Combat Racing assets and recompiling them natively. By November 2023, the OpenGOAL team had produced ports for the first two games that are 100% completable, with a Jak 3 port in development as of 2024.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Un proyecto comunitario, OpenGOAL, comenzó en 2020 con el objetivo de portar GOAL a x86-64 descompilando los recursos existentes de Jak and Daxter: The Precursor Legacy, Jak II, Jak 3 y, provisionalmente, Jak X: Combat Racing y recompilándolos de forma nativa. En noviembre de 2023, el equipo de OpenGOAL había creado adaptaciones para los dos primeros juegos que se podían completar al 100%, con una adaptación de Jak 3 en desarrollo en 2024.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Un projet communautaire, OpenGOAL, a été lancé en 2020 dans le but de porter GOAL sur x86-64 en décompilant les éléments existants de Jak and Daxter : The Precursor Legacy, Jak II, Jak 3 et, provisoirement, Jak X : Combat Racing et en les recompilant en mode natif. En novembre 2023, l'équipe OpenGOAL a produit des portages pour les deux premiers jeux qui sont complets à 100 %, avec un portage de Jak 3 en cours de développement en 2024.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Ein Community-Projekt, OpenGOAL, wurde 2020 mit dem Ziel gestartet, GOAL auf x86-64 zu portieren, indem bestehende Jak and Daxter: The Precursor Legacy, Jak II, Jak 3 und, vorläufig, Jak X dekompiliert werden: Combat Racing dekompiliert und nativ neu kompiliert werden. Im November 2023 hatte das OpenGOAL-Team Portierungen für die ersten beiden Spiele erstellt, die zu 100 % fertiggestellt werden konnten, und eine Portierung von Jak 3 befand sich ab 2024 in der Entwicklung.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Opengoal</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2020</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>
