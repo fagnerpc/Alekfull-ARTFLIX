@@ -25,7 +25,14 @@
 				<text name="info1" extra="true" lang="DE">
 			<text>Ist eine Heimvideospielkonsole der fünften Generation, die 1993 von Fujitsu exklusiv für den japanischen Markt herausgebracht wurde. Es wird oft behauptet, es sei das erste 32-Bit-CD-basierte Heimvideospielsystem, obwohl es einen 16-Bit-Datenbus hat, genau wie die früheren Commodore CDTV und Sega CD.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>富士通的FM Towns Marty基于FM Towns电脑系列，是第一个32位CD视频游戏系统（尽管它仅有16位数据总线），仅在日本发行。</text>
+		</text>   
 
+		<text name="info1" extra="true" lang="TW">
+			<text>富士通的FM Towns Marty基於FM Towns電腦系列，是第一個32位CD視頻遊戲系統（盡管它僅有16位數據總線），僅在日本發行。</text>
+		</text>
 		
 		<text name="info2" extra="true">
 			<text>FM Towns Marty</text>

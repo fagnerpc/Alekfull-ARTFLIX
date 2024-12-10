@@ -25,6 +25,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Ist eine japanische PC-Variante, die von Fujitsu von Februar 1989 bis Sommer 1997 gebaut wurde. Sie begann als proprietäre PC-Variante für Multimedia-Anwendungen und Spiele, wurde aber später besser mit IBM-PC-kompatiblen Geräten kompatibel.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>FM Towns是富士通制造的专有32位计算机系统。它于1989年2月在日本且仅在日本发布，作为FM-7计算机平台的后继产品。它是用于多媒体应用程序和游戏的专有PC变体。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>FM Towns是富士通製造的專有32位計算機系統。它於1989年2月在日本且僅在日本發布，作為FM-7計算機平臺的後繼產品。它是用於多媒體應用程序和遊戲的專有PC變體。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>FM Towns</text>
