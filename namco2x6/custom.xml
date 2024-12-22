@@ -25,6 +25,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Das Namco System 246 ist eine Entwicklung der Sony PlayStation 2-Technologie als Basis für ein Arcade-System-Board. Es wurde im Dezember 2000 mit seinem ersten Spiel Bloody Roar 3 veröffentlicht. Wie das Sega NAOMI wird es in großem Umfang für die Verwendung durch andere Hersteller lizenziert. Spiele wie Battle Gear 3 und Capcom Fighting Evolution sind Beispiele für System 246-basierte Arcade-Spiele, die keine Namco-Produkte sind. Das Namco System 256 ist eine verbesserte Version des System 246, aber die Verbesserungen sind unbekannt (wahrscheinlich mehr VRAM und höhere CPU-Geschwindigkeiten).</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>Namco System 246是基于索尼PlayStation2的街机基板。与Sega NAOMI一样，它被其他制造商广泛授权使用。Battle Gear3和Capcom Fighting Evolution等游戏是基于System 246的街机游戏的范例。</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>Namco System 246是基於索尼PlayStation2的街機基板。與Sega NAOMI一樣，它被其他製造商廣泛授權使用。Battle Gear3和Capcom Fighting Evolution等遊戲是基於System 246的街機遊戲的範例。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Namco System 246 / 256</text>
