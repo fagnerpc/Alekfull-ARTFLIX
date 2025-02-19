@@ -25,6 +25,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Es handelt sich um eine von Nintendo entwickelte und produzierte tragbare Videospielkonsole, die 2004 auf den Markt kam. Sie zeichnet sich visuell durch ihr offenes und geschlossenes Design und das Vorhandensein von zwei Bildschirmen aus, von denen der untere berührungsempfindlich ist.</text>
 		</text>
+		
+		<text name="info1" extra="true" lang="ZH">
+			<text>任天堂开发的第三代掌上游戏机。DS是Dual Screen（双屏幕）的缩写。主要的特征包括双屏幕显示，其中下方的屏幕为触摸屏；并配置有麦克风声音输入装置和Wi-Fi无线网络功能。</text>
+		</text>
+
+		<text name="info1" extra="true" lang="TW">
+			<text>任天堂開發的第三代掌上遊戲機。DS是Dual Screen（雙屏幕）的縮寫。主要的特征包括雙屏幕顯示，其中下方的屏幕為觸摸屏；並配置有麥克風聲音輸入裝置和Wi-Fi無線網絡功能。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Nintendo DS</text>
@@ -36,6 +44,14 @@
 
 		<text name="info4" extra="true">
 			<text>Nintendo</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text>任天堂</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="TW">
+			<text>任天堂</text>
 		</text>
 	</view>
 </theme>
