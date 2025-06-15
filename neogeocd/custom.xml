@@ -26,6 +26,14 @@
 		<text name="info1" extra="true" lang="DE">
 			<text>Die Neo Geo-CD war zwar kein Blockbuster, hatte aber für die damalige Zeit eine beneidenswerte Spielebibliothek mit nahezu perfekten Umsetzungen der Arcade-Versionen.</text>
 		</text>
+		
+				<text name="info1" extra="true" lang="ZH">
+			<text>Neo Geo CD（ネオジオCD）是由SNK Corporation生产的家用视频游戏机 ，于1994年9月9日发布。该系统与基于卡带的Neo Geo平台相同，但转换为更便宜的CD媒体格式。</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="TW">
+			<text>Neo Geo CD（ネオジオCD）是由SNK Corporation生產的家用視頻遊戲機 ，於1994年9月9日發布。該系統與基於卡帶的Neo Geo平臺相同，但轉換為更便宜的CD媒體格式。</text>
+		</text>
 
 		<text name="info2" extra="true">
 			<text>Neo Geo CD</text>
