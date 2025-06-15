@@ -22,8 +22,16 @@
 			<text>Est une carte système d'arcade développée et utilisée par Sega pour une variété de versions d'arcade haut de gamme du milieu à la fin des années 2000. Sorti pour la première fois en 2005, c'est leur première carte à utiliser une architecture PC standard, similaire au Type X de Taito.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="DE">
+		<text name="info1" extra="true" lang="DE">
 			<text>Ist eine Arcade-Systemplatine, die Mitte bis Ende der 2000er Jahre von Sega für eine Vielzahl von High-End-Arcade-Veröffentlichungen entwickelt und verwendet wurde. Es ist ihr erstes Board, das eine Standard-PC-Architektur verwendet, ähnlich wie Typ X von Taito.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ZH">
+			<text>世嘉林德伯格（リンドバーグ）是世嘉开发的街机平台，是世嘉NAOMI 2街机系统的后继者。它于2005年推出并使用至2009年。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>世嘉林德伯格（リンドバーグ）是世嘉開發的街機平台，是世嘉NAOMI 2街機系統的後繼者。它於2005年推出並使用至2009年。</text>
 		</text>
 
 		
