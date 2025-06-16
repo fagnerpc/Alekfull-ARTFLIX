@@ -10,7 +10,7 @@
 			<text>É um software de gestão de direitos digitais criado pela Valve Corporation ou Valve L.L.C., de plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários.</text>
 		</text>
 
-				<text name="info1" extra="true" lang="EN">
+		<text name="info1" extra="true" lang="EN">
 			<text>Is a digital software distribution platform, developed and published by Valve Corporation. Steam is widely known for its video game distribution; however, since May of 2008, Valve's software development kit has made it possible for any software to be uploaded to store.</text>
 		</text>
 
@@ -24,6 +24,14 @@
 
 		<text name="info1" extra="true" lang="DE">
 			<text>Ist eine digitale Softwareverteilungsplattform, die von der Valve Corporation entwickelt und veröffentlicht wurde. Steam ist weithin bekannt für seinen Vertrieb von Videospielen; Seit Mai 2008 ermöglicht das Software-Entwicklungskit von Valve jedoch das Hochladen beliebiger Software in den Store.</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="CN">
+			<text>Steam是一个在线软件分发平台，由Valve公司开发。其最初用于发布Valve开发的视频游戏，其后成为全球最大的PC游戏在线商店。</text>
+		</text>
+		
+		<text name="info1" extra="true" lang="TW">
+			<text>Steam是一個數字軟件分發平臺，由Valve公司開發。其最初用於分發本公司的視頻遊戲，其後成爲全球最大的PC遊戲在綫商店。</text>
 		</text>
 
 		<text name="info2" extra="true">
