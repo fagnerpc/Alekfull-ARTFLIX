@@ -1,0 +1,68 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Electronic Arts Inc. (EA) is an American video game company headquartered in Redwood City, California. Founded in May 1982 by former Apple employee Trip Hawkins, the company was a pioneer of the early home computer game industry and promoted the designers and programmers responsible for its games as "software artists". EA published numerous games and some productivity software for personal computers, all of which were developed by external individuals or groups until 1987's Skate or Die! The company shifted toward internal game studios, often through acquisitions, such as Distinctive Software becoming EA Canada in 1991.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Electronic Arts Inc. (EA) é uma empresa americana de videogames com sede em Redwood City, Califórnia. Fundada em maio de 1982 pelo ex-funcionário da Apple Trip Hawkins, a empresa foi pioneira na indústria de jogos para computadores domésticos e promoveu os designers e programadores responsáveis por seus jogos como “artistas de software”. A EA publicou vários jogos e alguns softwares de produtividade para computadores pessoais, todos desenvolvidos por indivíduos ou grupos externos até 1987, quando foi lançado o Skate or Die! A empresa passou a se concentrar em estúdios de jogos internos, muitas vezes por meio de aquisições, como a Distinctive Software, que se tornou a EA Canada em 1991.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Electronic Arts Inc. (EA) is an American video game company headquartered in Redwood City, California. Founded in May 1982 by former Apple employee Trip Hawkins, the company was a pioneer of the early home computer game industry and promoted the designers and programmers responsible for its games as "software artists". EA published numerous games and some productivity software for personal computers, all of which were developed by external individuals or groups until 1987's Skate or Die! The company shifted toward internal game studios, often through acquisitions, such as Distinctive Software becoming EA Canada in 1991.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Electronic Arts Inc. (EA) es una empresa estadounidense de videojuegos con sede en Redwood City, California. Fundada en mayo de 1982 por Trip Hawkins, un antiguo empleado de Apple, la empresa fue pionera en la industria de los videojuegos para ordenadores personales y promovió a los diseñadores y programadores responsables de sus juegos como «artistas del software». EA publicó numerosos juegos y algunos programas de productividad para ordenadores personales, todos ellos desarrollados por personas o grupos externos hasta 1987, cuando se lanzó Skate or Die! La empresa pasó a contar con estudios de juegos internos, a menudo mediante adquisiciones, como la de Distinctive Software, que se convirtió en EA Canada en 1991.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Electronic Arts (abrégé EA) est une société américaine fondée le 28 mai 1982 et dont le siège se situe à Redwood City, dans le comté de San Mateo, en Californie. Electronic Arts est l'un des principaux développeurs et producteurs mondiaux de jeux vidéo.
+La société occupe la première place sur ce marché jusqu'en 2008, notamment grâce à des rachats de sociétés et de franchises de jeux, mais aussi en acquérant les droits de licences sportives, comme celles de la FIFA, la NBA, la NFL, ou encore celle de la LNH. Electronic Arts est, en 2013, la troisième plus grande société commercialisant des jeux vidéo, par chiffre d'affaires, après avoir été la 4e en 2012 et 2011.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Electronic Arts Inc. (EA) ist ein US-amerikanischer Videospielhersteller mit Hauptsitz in Redwood City, Kalifornien. Das Unternehmen wurde im Mai 1982 vom ehemaligen Apple-Mitarbeiter Trip Hawkins gegründet und war ein Pionier der frühen Heimcomputerspieleindustrie. Es bezeichnete die für seine Spiele verantwortlichen Designer und Programmierer als „Software-Künstler”. EA veröffentlichte zahlreiche Spiele und einige Produktivitätssoftware für PCs, die bis 1987 alle von externen Personen oder Gruppen entwickelt wurden, bis hin zu „Skate or Die!”. Das Unternehmen verlagerte seinen Schwerpunkt auf interne Spielestudios, oft durch Übernahmen, wie beispielsweise Distinctive Software, das 1991 zu EA Canada wurde.</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>EA Games</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2018</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Electronic Arts</text>
+		</text>        
+    
+    <text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+	</view>
+</theme>

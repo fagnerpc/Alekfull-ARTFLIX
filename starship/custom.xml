@@ -1,0 +1,67 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Harbour Master 64 community recently announced the development of a native PC port of the game Star Fox 64 (Lylat Wars), called Starship. The game was released in 1997 on Nintendo 64.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>A comunidade Harbour Master 64 anunciou recentemente o desenvolvimento de uma versão nativa para PC do jogo Star Fox 64 (Lylat Wars), chamada Starship. O jogo foi lançado em 1997 para o Nintendo 64.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The Harbour Master 64 community recently announced the development of a native PC port of the game Star Fox 64 (Lylat Wars), called Starship. The game was released in 1997 on Nintendo 64.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>La comunidad Harbour Master 64 ha anunciado recientemente el desarrollo de una versión nativa para PC del juego Star Fox 64 (Lylat Wars), bautizada como Starship. El juego salió a la venta en 1997 para Nintendo 64.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>La communauté Harbour Master 64 a récemment annoncé le développement d’un portage PC natif du jeu Star Fox 64 (Lylat Wars), baptisé Starship. Le jeu était sorti en 1997 sur Nintendo 64.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Harbour Master 64 Community hat kürzlich die Entwicklung einer nativen PC-Portierung des Spiels Star Fox 64 (Lylat Wars) namens Starship angekündigt. Das Spiel erschien 1997 für Nintendo 64.</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Starship</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>SonicDcer / Lywx</text>
+		</text>        
+    
+    <text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+	</view>
+</theme>

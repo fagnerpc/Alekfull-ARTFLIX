@@ -1,0 +1,66 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. Announced as the successor to the PlayStation 3 in February 2013, it was launched on November 15, 2013, in North America, November 29, 2013, in Europe, South America, and Australia, and on February 22, 2014, in Japan. A console of the eighth generation, it competes with Microsoft's Xbox One and Nintendo's Wii U and Switch.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O PlayStation 4 (PS4) é um console de videogame doméstico desenvolvido pela Sony Interactive Entertainment. Anunciado como o sucessor do PlayStation 3 em fevereiro de 2013, foi lançado em 15 de novembro de 2013 na América do Norte, em 29 de novembro de 2013 na Europa, América do Sul e Austrália, e em 22 de fevereiro de 2014 no Japão. Um console da oitava geração, ele concorre com o Xbox One da Microsoft e o Wii U e Switch da Nintendo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. Announced as the successor to the PlayStation 3 in February 2013, it was launched on November 15, 2013, in North America, November 29, 2013, in Europe, South America, and Australia, and on February 22, 2014, in Japan. A console of the eighth generation, it competes with Microsoft's Xbox One and Nintendo's Wii U and Switch.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>La PlayStation 4 (PS4) es una consola de videojuegos doméstica desarrollada por Sony Interactive Entertainment. Anunciada como sucesora de la PlayStation 3 en febrero de 2013, se lanzó el 15 de noviembre de 2013 en Norteamérica, el 29 de noviembre de 2013 en Europa, Sudamérica y Australia, y el 22 de febrero de 2014 en Japón. Es una consola de octava generación que compite con la Xbox One de Microsoft y la Wii U y Switch de Nintendo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>La PlayStation 4 (PS4) est une console de jeux vidéo domestique développée par Sony Interactive Entertainment. Annoncée comme le successeur de la PlayStation 3 en février 2013, elle a été lancée le 15 novembre 2013 en Amérique du Nord, le 29 novembre 2013 en Europe, en Amérique du Sud et en Australie, et le 22 février 2014 au Japon. Console de huitième génération, elle est en concurrence avec la Xbox One de Microsoft et la Wii U et la Switch de Nintendo.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die PlayStation 4 (PS4) ist eine Heimvideospielkonsole, die von Sony Interactive Entertainment entwickelt wurde. Sie wurde im Februar 2013 als Nachfolger der PlayStation 3 angekündigt und am 15. November 2013 in Nordamerika, am 29. November 2013 in Europa, Südamerika und Australien sowie am 22. Februar 2014 in Japan auf den Markt gebracht. Als Konsole der achten Generation konkurriert sie mit der Xbox One von Microsoft und der Wii U und Switch von Nintendo.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>PlayStation 4</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>2013</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Sony</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text> 
+
+		<text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text> 		
+	</view>
+
+</theme>

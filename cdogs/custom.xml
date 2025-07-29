@@ -1,0 +1,66 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>C-Dogs SDL is a classic overhead run-and-gun game, supporting up to 4 players in co-op and deathmatch modes. Customize your player, choose from many weapons, and blast, slide and slash your way through over 100 user-created campaigns. Have fun!</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>C-Dogs SDL é um clássico jogo de corrida e tiro com visão aérea, que suporta até 4 jogadores nos modos cooperativo e deathmatch. Personalize seu jogador, escolha entre várias armas e atire, deslize e corte seu caminho através de mais de 100 campanhas criadas por usuários. Divirta-se!</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>C-Dogs SDL is a classic overhead run-and-gun game, supporting up to 4 players in co-op and deathmatch modes. Customize your player, choose from many weapons, and blast, slide and slash your way through over 100 user-created campaigns. Have fun!</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>C-Dogs SDL es un clásico juego de disparos y acción con vista aérea, que admite hasta 4 jugadores en los modos cooperativo y deathmatch. Personaliza tu personaje, elige entre numerosas armas y ábrete camino a tiros, deslizamientos y golpes a través de más de 100 campañas creadas por los usuarios. ¡Diviértete!</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>C-Dogs SDL est un jeu classique de type « run-and-gun » à vue aérienne, pouvant accueillir jusqu'à 4 joueurs en modes coopératif et deathmatch. Personnalisez votre personnage, choisissez parmi de nombreuses armes et frayez-vous un chemin à coups de fusil, de glissades et de coups d'épée à travers plus de 100 campagnes créées par les utilisateurs. Amusez-vous bien !</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>C-Dogs SDL ist ein klassisches Overhead-Run-and-Gun-Spiel, das bis zu 4 Spieler im Koop- und Deathmatch-Modus unterstützt. Passen Sie Ihren Spieler an, wählen Sie aus vielen Waffen und schießen, rutschen und schlagen Sie sich durch über 100 von Nutzern erstellte Kampagnen. Viel Spaß!</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>cxong</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>2013</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>cdogs-sdl</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text> 
+
+		<text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text> 		
+	</view>
+
+</theme>

@@ -1,0 +1,67 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Java Platform, Micro Edition or Java ME is a computing platform for development and deployment of portable code for embedded and mobile devices (micro-controllers, sensors, gateways, mobile phones, personal digital assistants, TV set-top boxes, printers). Java ME was formerly known as Java 2 Platform, Micro Edition or J2ME. The platform uses the object-oriented Java programming language, and is part of the Java software-platform family. It was designed by Sun Microsystems (now Oracle Corporation) and replaced a similar technology, PersonalJava. In 2013, with more than 3 billion Java ME enabled mobile phones in the market, the platform was in continued decline as smartphones have overtaken feature phones.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>A Java Platform, Micro Edition ou Java ME é uma plataforma de computação para desenvolvimento e implantação de código portátil para dispositivos móveis e incorporados (microcontroladores, sensores, gateways, telefones celulares, assistentes digitais pessoais, decodificadores de TV, impressoras). A Java ME era anteriormente conhecida como Java 2 Platform, Micro Edition ou J2ME. A plataforma usa a linguagem de programação Java orientada a objetos e faz parte da família de plataformas de software Java. Ela foi projetada pela Sun Microsystems (agora Oracle Corporation) e substituiu uma tecnologia semelhante, a PersonalJava. Em 2013, com mais de 3 bilhões de celulares habilitados para Java ME no mercado, a plataforma continuou em declínio, pois os smartphones ultrapassaram os feature phones.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Java Platform, Micro Edition or Java ME is a computing platform for development and deployment of portable code for embedded and mobile devices (micro-controllers, sensors, gateways, mobile phones, personal digital assistants, TV set-top boxes, printers). Java ME was formerly known as Java 2 Platform, Micro Edition or J2ME. The platform uses the object-oriented Java programming language, and is part of the Java software-platform family. It was designed by Sun Microsystems (now Oracle Corporation) and replaced a similar technology, PersonalJava. In 2013, with more than 3 billion Java ME enabled mobile phones in the market, the platform was in continued decline as smartphones have overtaken feature phones.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Java Platform, Micro Edition o Java ME es una plataforma informática para el desarrollo y la implementación de código portátil para dispositivos integrados y móviles (microcontroladores, sensores, puertas de enlace, teléfonos móviles, asistentes digitales personales, decodificadores de televisión, impresoras). Java ME se conocía anteriormente como Java 2 Platform, Micro Edition o J2ME. La plataforma utiliza el lenguaje de programación orientado a objetos Java y forma parte de la familia de plataformas de software Java. Fue diseñada por Sun Microsystems (ahora Oracle Corporation) y sustituyó a una tecnología similar, PersonalJava. En 2013, con más de 3000 millones de teléfonos móviles con Java ME en el mercado, la plataforma siguió en declive, ya que los teléfonos inteligentes han superado a los teléfonos con funciones.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Java Platform, Micro Edition, ou Java ME (anciennement Java 2 Platform, Micro Edition, ou J2ME), est une spécification de la plate-forme Java d'Oracle, destinée typiquement aux applications pour systèmes embarqués et mobiles (microcontrôleur, capteur, passerelle, smartphone, assistant personnel numérique, décodeur TV, imprimante).</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Java Platform, Micro Edition oder Java ME ist eine Computerplattform für die Entwicklung und Bereitstellung von portierbarem Code für eingebettete und mobile Geräte (Mikrocontroller, Sensoren, Gateways, Mobiltelefone, PDAs, TV-Set-Top-Boxen, Drucker). Java ME war früher unter dem Namen Java 2 Platform, Micro Edition oder J2ME bekannt. Die Plattform verwendet die objektorientierte Programmiersprache Java und ist Teil der Java-Softwareplattformfamilie. Sie wurde von Sun Microsystems (jetzt Oracle Corporation) entwickelt und ersetzte eine ähnliche Technologie, PersonalJava. Im Jahr 2013 gab es mehr als 3 Milliarden Java ME-fähige Mobiltelefone auf dem Markt, doch die Plattform verlor weiter an Bedeutung, da Smartphones Feature-Phones überholt hatten.</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Java 2 MicroEdition</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Sun</text>
+		</text>        
+    
+    <text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+	</view>
+</theme>
