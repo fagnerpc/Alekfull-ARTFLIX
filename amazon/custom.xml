@@ -1,0 +1,67 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Amazon Prime Gaming is an extension of Amazon Prime that offers deals and benefits to video game players or gamers. With this Amazon Prime service, Amazon Prime members will be able to enjoy benefits and rewards every month.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O Amazon Prime Gaming é uma extensão do Amazon Prime que oferece promoções e benefícios para jogadores de videogame ou gamers. Com este serviço do Amazon Prime, os membros do Amazon Prime poderão desfrutar de benefícios e recompensas todos os meses.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Amazon Prime Gaming is an extension of Amazon Prime that offers deals and benefits to video game players or gamers. With this Amazon Prime service, Amazon Prime members will be able to enjoy benefits and rewards every month.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Amazon Prime Gaming es una extensión de Amazon Prime que ofrece ofertas y ventajas a los jugadores de videojuegos o gamers. Con este servicio de Amazon Prime, los miembros de Amazon Prime podrán disfrutar de ventajas y recompensas cada mes.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Amazon Prime Gaming est une extension d’Amazon Prime qui propose des offres et des avantages aux joueurs de jeux vidéo ou gamers. Avec ce service d’Amazon Prime, les membres d’Amazon Prime auront la possibilité de profiter des avantages et des récompenses chaque mois.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Amazon Prime Gaming ist eine Erweiterung von Amazon Prime, die Videospielern oder Gamern Angebote und Vorteile bietet. Mit diesem Amazon Prime-Service können Amazon Prime-Mitglieder jeden Monat Vorteile und Prämien genießen.</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Amazon Prime Gaming</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2018</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Amazon</text>
+		</text>        
+    
+    <text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+	</view>
+</theme>

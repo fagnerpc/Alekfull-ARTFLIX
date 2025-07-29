@@ -1,0 +1,67 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A Perfect Dark port</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>A Perfect Dark port</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>A Perfect Dark port</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Una adaptación de Perfect Dark</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Un portage de Perfect Dark</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Eine Perfect Dark Portierung</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Perfect Dark</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>fgsfdsfgs</text>
+		</text>        
+    
+    <text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+	</view>
+</theme>

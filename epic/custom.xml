@@ -1,0 +1,73 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Epic Games, Inc. is an American video game and software developer and publisher based in Cary, North Carolina. The company was founded by Tim Sweeney as Potomac Computer Systems in 1991, originally located in his parents' house in Potomac, Maryland. Following its first commercial video game release, ZZT (1991), the company became Epic MegaGames, Inc. in early 1992 and brought on Mark Rein, who has been its vice president since. After moving the headquarters to Cary in 1999, the studio changed its name to Epic Games.
+Epic Games developed Unreal Engine, a commercially available game engine which also powers its internally developed video games like Fortnite and the Unreal, Gears of War, and Infinity Blade series. In 2014, Unreal Engine was named the "most successful videogame engine" by Guinness World Records.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>A Epic Games, Inc. é uma desenvolvedora e editora americana de videogames e software sediada em Cary, Carolina do Norte. A empresa foi fundada por Tim Sweeney como Potomac Computer Systems em 1991, originalmente localizada na casa de seus pais em Potomac, Maryland. Após o lançamento de seu primeiro videogame comercial, ZZT (1991), a empresa tornou-se Epic MegaGames, Inc. no início de 1992 e contratou Mark Rein, que é seu vice-presidente desde então. Depois de mudar a sede para Cary em 1999, o estúdio mudou seu nome para Epic Games.
+A Epic Games desenvolveu o Unreal Engine, um motor de jogos disponível comercialmente que também alimenta seus videogames desenvolvidos internamente, como Fortnite e as séries Unreal, Gears of War e Infinity Blade. Em 2014, o Unreal Engine foi nomeado o “motor de videogame mais bem-sucedido” pelo Guinness World Records.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Epic Games, Inc. is an American video game and software developer and publisher based in Cary, North Carolina. The company was founded by Tim Sweeney as Potomac Computer Systems in 1991, originally located in his parents' house in Potomac, Maryland. Following its first commercial video game release, ZZT (1991), the company became Epic MegaGames, Inc. in early 1992 and brought on Mark Rein, who has been its vice president since. After moving the headquarters to Cary in 1999, the studio changed its name to Epic Games.
+Epic Games developed Unreal Engine, a commercially available game engine which also powers its internally developed video games like Fortnite and the Unreal, Gears of War, and Infinity Blade series. In 2014, Unreal Engine was named the "most successful videogame engine" by Guinness World Records.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Epic Games, Inc. es una empresa estadounidense dedicada al desarrollo y la publicación de videojuegos y software con sede en Cary, Carolina del Norte. La empresa fue fundada por Tim Sweeney en 1991 con el nombre de Potomac Computer Systems, y originalmente tenía su sede en la casa de sus padres en Potomac, Maryland. Tras el lanzamiento de su primer videojuego comercial, ZZT (1991), la empresa pasó a llamarse Epic MegaGames, Inc. a principios de 1992 y contrató a Mark Rein, que ha sido su vicepresidente desde entonces. Tras trasladar la sede a Cary en 1999, el estudio cambió su nombre por el de Epic Games.
+Epic Games desarrolló Unreal Engine, un motor de videojuegos disponible en el mercado que también impulsa sus videojuegos desarrollados internamente, como Fortnite y las series Unreal, Gears of War e Infinity Blade. En 2014, Unreal Engine fue nombrado «el motor de videojuegos más exitoso» por Guinness World Records.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Epic Games, Inc. est un développeur et éditeur américain de jeux vidéo et de logiciels basé à Cary, en Caroline du Nord. La société a été fondée par Tim Sweeney sous le nom de Potomac Computer Systems en 1991, à l'origine dans la maison de ses parents à Potomac, dans le Maryland. Après la sortie de son premier jeu vidéo commercial, ZZT (1991), la société est devenue Epic MegaGames, Inc. au début de l'année 1992 et a recruté Mark Rein, qui en est depuis lors le vice-président. Après avoir déménagé son siège social à Cary en 1999, le studio a changé de nom pour devenir Epic Games.
+Epic Games a développé Unreal Engine, un moteur de jeu disponible dans le commerce qui alimente également ses jeux vidéo développés en interne, tels que Fortnite et les séries Unreal, Gears of War et Infinity Blade. En 2014, Unreal Engine a été désigné « moteur de jeu vidéo le plus performant » par le Guinness World Records.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Epic Games, Inc. ist ein US-amerikanischer Entwickler und Publisher von Videospielen und Software mit Sitz in Cary, North Carolina. Das Unternehmen wurde 1991 von Tim Sweeney als Potomac Computer Systems gegründet und hatte seinen ursprünglichen Sitz im Haus seiner Eltern in Potomac, Maryland. Nach der Veröffentlichung seines ersten kommerziellen Videospiels, ZZT (1991), wurde das Unternehmen Anfang 1992 zu Epic MegaGames, Inc. und holte Mark Rein an Bord, der seitdem als Vizepräsident fungiert. Nach dem Umzug des Hauptsitzes nach Cary im Jahr 1999 änderte das Studio seinen Namen in Epic Games.
+Epic Games entwickelte die Unreal Engine, eine kommerziell erhältliche Spiel-Engine, die auch für die intern entwickelten Videospiele wie Fortnite und die Serien Unreal, Gears of War und Infinity Blade verwendet wird. Im Jahr 2014 wurde die Unreal Engine von Guinness World Records als „erfolgreichste Videospiel-Engine” ausgezeichnet.</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Epic Games</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2018</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>EPIC</text>
+		</text>        
+    
+    <text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,66 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>CorsixTH aims to re-implement the game engine of Theme Hospital, and be able to load the original game data files. After most of the original engine has been re-implemented in open source code, the project will serve as a base from which extensions and improvements to the original game can be made.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>O CorsixTH tem como objetivo reimplementar o motor do jogo Theme Hospital e ser capaz de carregar os arquivos de dados originais do jogo. Depois que a maior parte do motor original tiver sido reimplementada em código aberto, o projeto servirá como base para extensões e melhorias no jogo original.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>CorsixTH aims to re-implement the game engine of Theme Hospital, and be able to load the original game data files. After most of the original engine has been re-implemented in open source code, the project will serve as a base from which extensions and improvements to the original game can be made.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>CorsixTH tiene como objetivo reimplementar el motor del juego Theme Hospital y poder cargar los archivos de datos originales del juego. Una vez que la mayor parte del motor original se haya reimplementado en código abierto, el proyecto servirá como base para realizar ampliaciones y mejoras del juego original.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>CorsixTH vise à réimplémenter le moteur de jeu de Theme Hospital et à pouvoir charger les fichiers de données du jeu original. Une fois que la majeure partie du moteur original aura été réimplémentée en code open source, le projet servira de base à partir de laquelle des extensions et des améliorations pourront être apportées au jeu original.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>CorsixTH hat sich zum Ziel gesetzt, die Spiel-Engine von Theme Hospital neu zu implementieren und die Original-Spieldaten laden zu können. Nachdem der Großteil der ursprünglichen Engine in Open-Source-Code neu implementiert wurde, wird das Projekt als Grundlage dienen, auf der Erweiterungen und Verbesserungen des Originalspiels vorgenommen werden können.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>corsixTH</text>
+		</text>
+
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>2021</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>corsixTH</text>
+		</text>
+		
+		<text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text> 
+
+		<text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text> 		
+	</view>
+
+</theme>

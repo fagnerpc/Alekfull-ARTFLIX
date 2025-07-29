@@ -1,0 +1,67 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>DICE is a Discrete Integrated Circuit Emulator. It emulates computer systems that lack any type of CPU, consisting only of discrete logic components.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>DICE é um Emulador de Circuito Integrado Discreto. Ele emula sistemas informáticos que não possuem qualquer tipo de CPU, consistindo apenas em componentes lógicos discretos.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>DICE is a Discrete Integrated Circuit Emulator. It emulates computer systems that lack any type of CPU, consisting only of discrete logic components.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>DICE es un emulador de circuitos integrados discretos. Emula sistemas informáticos que carecen de cualquier tipo de CPU y están compuestos únicamente por componentes lógicos discretos.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>DICE est un émulateur de circuit intégré discret. Il émule des systèmes informatiques dépourvus de tout type de processeur, composés uniquement de composants logiques discrets.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>DICE ist ein Emulator für diskrete integrierte Schaltungen. Er emuliert Computersysteme, die über keine CPU verfügen und ausschließlich aus diskreten Logikkomponenten bestehen.</text>
+		</text>
+    
+    <text name="info1" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info1" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>DICE (Discrete Integrated Circuit Emulator)</text>
+		</text>
+    
+		<text name="info2" extra="true" lang="ZH">
+			<text></text>
+		</text>
+
+    
+		<text name="info2" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2008</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>DICE</text>
+		</text>        
+    
+    <text name="info4" extra="true" lang="ZH">
+			<text></text>
+		</text>
+    
+    <text name="info4" extra="true" lang="TW">
+			<text></text>
+		</text>
+
+	</view>
+</theme>
