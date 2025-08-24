@@ -39,6 +39,14 @@ Qui sera le meilleur joueur ...
 Wer wird der beste Spieler ...
 Gott segne Retro-Spiele!</text>
 		</text>
+		
+				<text name="info1" extra="true" lang="ZH">
+			<text>截取你最精彩的游戏和高分截图，然后向你的朋友们展示。</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="TW">
+			<text>截取你最精彩的遊戲和高分截圖，然後向你的朋友展示。</text>
+		</text>
 
 				<text name="info2" extra="true">
 			<text>Image Viewer</text>
@@ -59,7 +67,13 @@ Gott segne Retro-Spiele!</text>
 		<text name="info2" extra="true" lang="DE">
 			<text>Bildbetrachter</text>
 		</text>
-
+		<text name="info2" extra="true" lang="ZH">
+			<text>查看图片</text>
+		</text>
+		<text name="info2" extra="true" lang="TW">
+			<text>查看圖片</text>
+		</text>
+		
 		<text name="info3" extra="true">
 			<text>20XX</text>
 		</text>

@@ -26,6 +26,13 @@
 			<text>Ist eine tragbare Videospielkonsole, die von Sony Interactive Entertainment entwickelt wurde. Die Konsole ist der Nachfolger der PSP und ein Teil der PlayStation-Marke von Spielgeräten; Als Teil der achten Generation von Videospielkonsolen konkurrierte es hauptsächlich mit dem Nintendo 3DS.</text>
 		</text>
 
+		<text name="info1" extra="true" lang="ZH">
+			<text>PlayStation Vita是索尼电脑娱乐（SCEI）于2011年12月17日开始贩售的掌上型游戏机</text>
+		</text>   
+
+		<text name="info1" extra="true" lang="TW">
+			<text>PlayStation Vita是索尼電腦娛樂（SCEI）於2011年12月17日開始販售的掌上型遊戲機</text>
+		</text>
 		
 		<text name="info2" extra="true">
 			<text>PS Vita</text>
