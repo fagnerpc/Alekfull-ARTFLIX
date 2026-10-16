@@ -1,0 +1,58 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+    <customView name="HCoinSpin" inherits="grid">
+        <image name="tv_effect" extra="true">
+             <pos>0.055 0.30</pos>
+             <size>0.4691 0.467</size>
+             <zIndex>7</zIndex>
+          </image>
+
+        <image name="screenbg" extra="true">
+             <color>000000</color>
+             <tile>true</tile>
+             <path>./assets/filter3.png</path>
+             <pos>0.055 0.22</pos>
+             <size>0.4691 0.467</size>
+             <zIndex>5</zIndex>
+          </image>
+          
+        <video name="md_video">
+            <pos>0.055 0.22</pos>
+            <size>0.4691 0.467</size>
+            <origin>0 0</origin>
+            <delay>0</delay>
+            <showSnapshotNoVideo>true</showSnapshotNoVideo>
+            <showSnapshotDelay>false</showSnapshotDelay>
+            <zIndex>6</zIndex>
+        </video>
+    </customView>
+
+    <customView name="CoinOps Details" inherits="grid">
+        <image name="tv_effect" extra="true">
+             <pos>0.055 0.22</pos>
+             <size>0.4691 0.467</size>
+             <zIndex>7</zIndex>
+          </image>
+
+        <image name="screenbg" extra="true">
+             <color>000000</color>
+             <tile>true</tile>
+             <path>./assets/filter3.png</path>
+             <pos>0.055 0.22</pos>
+             <size>0.4691 0.467</size>
+             <zIndex>5</zIndex>
+          </image>
+
+        <video name="md_video">
+            <pos>0.055 0.22</pos>
+            <size>0.4691 0.467</size>
+            <origin>0 0</origin>
+            <delay>0</delay>
+            <showSnapshotNoVideo>true</showSnapshotNoVideo>
+            <showSnapshotDelay>false</showSnapshotDelay>
+            <zIndex>6</zIndex>
+        </video>
+    </customView>
+</theme>
